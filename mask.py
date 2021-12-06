@@ -37,7 +37,6 @@ for i in tqdm(range(2341), desc="[Inferencing]"):
             answers = [ord(answer) - 65 for answer in answers]
     except Exception as e:
         print(e)
-        # break
         continue
 
     text = article
@@ -76,10 +75,5 @@ for i in tqdm(range(2341), desc="[Inferencing]"):
 
         corrects += best_choice == answers[i]
         total += 1
-    # predicted_indices = torch.argmax(predictions[0, np.array(masked_indices)[
-    #                                  :, np.newaxis], np.array(idss)], axis=1).numpy()
-    # corrects += (predicted_indices == np.array(answers)).sum()
-    # total += len(answers)
 
     tqdm.write(f"{corrects}/{total} = {corrects/total*100}%")
-    # break
