@@ -21,25 +21,25 @@ for i in tqdm(range(3172), desc="[Inferencing]"):
         with open(f"CLOTH/train/high/high{i}.json", "r") as f:
             data = json.load(f)
 
-            # article = '[CLS] ' + data["article"]
-            article = data["article"]
-            article = re.sub(r'([a-z ])([.?!])([A-Z])', r'\1\2 \3', article)
-            # article = re.sub(r'([a-z ])([.?!])( [A-Z])', r'\1\2 [SEP]\3', article)
-            article = article.replace("_", "[MASK]")
-            # article += '[SEP]'
+        # article = '[CLS] ' + data["article"]
+        article = data["article"]
+        article = re.sub(r'([a-z ])([.?!])([A-Z])', r'\1\2 \3', article)
+        # article = re.sub(r'([a-z ])([.?!])( [A-Z])', r'\1\2 [SEP]\3', article)
+        article = article.replace("_", "[MASK]")
+        # article += '[SEP]'
 
-            options = data["options"]
-            idss = []
-            for choices in options:
-                # tokenizer.convert_tokens_to_ids(map(str.lower, choices))
-                ids = [
-                    tokenizer.convert_tokens_to_ids(
-                    tokenizer.tokenize(choice)) for choice in choices
-                ]
-                idss.append(ids)
+        options = data["options"]
+        idss = []
+        for choices in options:
+            # tokenizer.convert_tokens_to_ids(map(str.lower, choices))
+            ids = [
+                tokenizer.convert_tokens_to_ids(
+                tokenizer.tokenize(choice)) for choice in choices
+            ]
+            idss.append(ids)
 
-            answers = data["answers"]
-            answers = [ord(answer) - 65 for answer in answers]
+        answers = data["answers"]
+        answers = [ord(answer) - 65 for answer in answers]
     except Exception as e:
         print(e)
         continue
