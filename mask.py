@@ -2,14 +2,15 @@ import re
 import json
 import numpy as np
 import torch
-from pytorch_pretrained_bert import BertTokenizer, BertModel, BertForMaskedLM
+from transformers import BertTokenizer, BertModel, BertForMaskedLM
 from tqdm import tqdm
 # import traceback
 
-tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
+tokenizer = BertTokenizer.from_pretrained('bert-large-uncased')
 
 # Load pre-trained model (weights)
-model = BertForMaskedLM.from_pretrained('bert-base-uncased')
+model = BertForMaskedLM.from_pretrained('bert-large-uncased')
+model.cuda()
 model.eval()
 
 corrects = 0
@@ -53,8 +54,8 @@ for i in tqdm(range(2341), desc="[Inferencing]"):
     segments_ids = [0] * len(tokenized_text)
 
     # Convert inputs to PyTorch tensors
-    tokens_tensor = torch.tensor([indexed_tokens])
-    segments_tensors = torch.tensor([segments_ids])
+    tokens_tensor = torch.tensor([indexed_tokens]).cuda()
+    segments_tensors = torch.tensor([segments_ids]).cuda()
 
     # Predict all tokens
     with torch.no_grad():
@@ -68,8 +69,8 @@ for i in tqdm(range(2341), desc="[Inferencing]"):
     for i, (mid, ids) in enumerate(zip(masked_indices, idss)):
         max_prob = -1e10
         for choice_id, tk_ids in enumerate(ids):
-            tk_prob = torch.max(predictions[0, mid, tk_ids])
-            if tk_prob> max_prob:
+            tk_prob = torch.max(predictions.logits[0, mid, tk_ids])
+            if tk_prob > max_prob:
                 max_prob = tk_prob
                 best_choice = choice_id
 
