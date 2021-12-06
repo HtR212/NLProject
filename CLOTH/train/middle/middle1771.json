@@ -1,0 +1,64 @@
+{
+    "article": "I'm Millie. I'm 12  _  old. I have black  _  and black hair. I  _  born in Beijing and I live  _  Hoping Road. I have a brother.  _  name is Andy. I like  watching  TV and Andy  _  listening to the radio. I have  lots  of good friends at school. Mary is my classmate. She is my  _  friend. She is a good student. She wants to be a doctor when she  _  up.", 
+    "options": [
+        [
+            "month", 
+            "months", 
+            "year", 
+            "years"
+        ], 
+        [
+            "mouth", 
+            "nose", 
+            "eyes", 
+            "eye"
+        ], 
+        [
+            "am", 
+            "is", 
+            "was", 
+            "are"
+        ], 
+        [
+            "in", 
+            "on", 
+            "for", 
+            "with"
+        ], 
+        [
+            "His", 
+            "He", 
+            "Her", 
+            "She"
+        ], 
+        [
+            "like", 
+            "love", 
+            "enjoys", 
+            "enjoy"
+        ], 
+        [
+            "good", 
+            "better", 
+            "best", 
+            "well"
+        ], 
+        [
+            "gets", 
+            "puts", 
+            "rings", 
+            "grows"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "C", 
+        "C", 
+        "B", 
+        "A", 
+        "C", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle1771"
+}

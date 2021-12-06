@@ -1,0 +1,71 @@
+{
+    "article": "My name is Tony White. Tony is my  _  name. White is my  _  name. I  _  ten. I'm  _  English boy. My telephone  _  is 688-7592.  _  ! This is my pen. It's not green. It's  blue  . Mary Smith is my friend.  _  first name is Mary and her last name is  _  . Mary is a  _  girl.", 
+    "options": [
+        [
+            "last", 
+            "first", 
+            "family", 
+            "good"
+        ], 
+        [
+            "father", 
+            "family", 
+            "one", 
+            "first"
+        ], 
+        [
+            "and", 
+            "is", 
+            "are", 
+            "am"
+        ], 
+        [
+            "a", 
+            "is", 
+            "and", 
+            "an"
+        ], 
+        [
+            "name", 
+            "list", 
+            "number", 
+            "map"
+        ], 
+        [
+            "Spell", 
+            "Thank", 
+            "Meet", 
+            "Look"
+        ], 
+        [
+            "Her", 
+            "His", 
+            "Your", 
+            "My"
+        ], 
+        [
+            "Smith", 
+            "Mary", 
+            "Jenny", 
+            "Mike"
+        ], 
+        [
+            "name", 
+            "color", 
+            "good", 
+            "orange"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "B", 
+        "D", 
+        "D", 
+        "C", 
+        "D", 
+        "A", 
+        "A", 
+        "C"
+    ], 
+    "source": "middle1052"
+}

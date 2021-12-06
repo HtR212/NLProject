@@ -1,0 +1,64 @@
+{
+    "article": "My name is Bill. I'm _ American boy. I-m twelve. I'm a student _ a middle school. I'm in Class 4, Grade l. Li Lei my friend . We're in the _ class. He is eleven. Here is a picture of _ family! Let us look at it .His father, the one behind the tree, is a policeman. His mother, the one in the red hat, is a teacher of Chinese. He has _ sisters. They are twins. Their names _ Fang Fang and Fang Ling. They have a cat. _ name is Mimi. Look! It's _ the floor under the table. The twins are middle school students, too. They are in different classes. They look after me . at school. We are good friends.", 
+    "options": [
+        [
+            "the", 
+            "a", 
+            "an", 
+            "/"
+        ], 
+        [
+            "to", 
+            "of", 
+            "behind", 
+            "under"
+        ], 
+        [
+            "same", 
+            "different", 
+            "one", 
+            "some"
+        ], 
+        [
+            "him", 
+            "her", 
+            "he", 
+            "his"
+        ], 
+        [
+            "five", 
+            "two", 
+            "three", 
+            "four"
+        ], 
+        [
+            "be", 
+            "is", 
+            "are", 
+            "am"
+        ], 
+        [
+            "It", 
+            "It's", 
+            "Its'", 
+            "Its"
+        ], 
+        [
+            "on", 
+            "in", 
+            "to", 
+            "behind"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "A", 
+        "D", 
+        "B", 
+        "C", 
+        "D", 
+        "A"
+    ], 
+    "source": "middle198"
+}

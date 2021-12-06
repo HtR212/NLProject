@@ -1,0 +1,64 @@
+{
+    "article": "A:Hello!I  _  Helen. What's  _  name ? B: I'm Bob. Nice to meet you,Helen. A:Nice to meet  _  ,Bob. What's this  in  English ? B:It's  _  eraser. A:An eraser? B:Oh,no,I am sorry . It's an  English book  . A:What  _  is it ? B:It's green. What  _  this in your hand ? A:  _  a dictionary. B:Is it  _  ? A:Yes,it is.", 
+    "options": [
+        [
+            "am", 
+            "is", 
+            "are", 
+            "an"
+        ], 
+        [
+            "you", 
+            "your", 
+            "my", 
+            "his"
+        ], 
+        [
+            "Bob", 
+            "your", 
+            "you", 
+            "yours"
+        ], 
+        [
+            "a", 
+            "an", 
+            "the", 
+            "mine"
+        ], 
+        [
+            "color", 
+            "number", 
+            "name", 
+            "card"
+        ], 
+        [
+            "on", 
+            "about", 
+            "in", 
+            "are"
+        ], 
+        [
+            "Is", 
+            "It", 
+            "It's", 
+            "Not"
+        ], 
+        [
+            "your", 
+            "my", 
+            "yours", 
+            "her"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "C", 
+        "B", 
+        "A", 
+        "D", 
+        "C", 
+        "C"
+    ], 
+    "source": "middle834"
+}

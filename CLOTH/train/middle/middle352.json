@@ -1,0 +1,57 @@
+{
+    "article": "Dear Helen\nIt's very nice of you to write to me. From your letter, I know a lot about you and your school. Now let me _ you something about _ and my school.\nI'm thirteen years old , too. I am in Class One, Grade Seven. My father _ in a big company . My mother is a doctor. _  both  work very hard. Our school is very big. It _ about 2,000 students and 200 teachers. All the teachers are very good, _ all the students study very _ .\nPlease come and have a look at our school if   you have time.\nBest wishes\nDaniel", 
+    "options": [
+        [
+            "tell", 
+            "talk", 
+            "say", 
+            "speak"
+        ], 
+        [
+            "I", 
+            "my", 
+            "me", 
+            "mine"
+        ], 
+        [
+            "work", 
+            "works", 
+            "worked", 
+            "working"
+        ], 
+        [
+            "We", 
+            "You", 
+            "They", 
+            "Them"
+        ], 
+        [
+            "has", 
+            "have", 
+            "is", 
+            "are"
+        ], 
+        [
+            "or", 
+            "so", 
+            "but", 
+            "and"
+        ], 
+        [
+            "good", 
+            "nice", 
+            "hard", 
+            "fine"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "B", 
+        "C", 
+        "A", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle352"
+}

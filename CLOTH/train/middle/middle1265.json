@@ -1,0 +1,71 @@
+{
+    "article": "Hi,boys and girls!Do you need good  _  ?Welcome to our store!Our store is very  _  We have lots of clothes in it and many of them are  on sale  .Every day,  _  people come and buy clothes in our store. We have  _  clerks :five boys and five girls. The  _  in our store are cheap. Do you  _  schoolbags?We have many cheap schoolbags. We  _  them for only 8 dollars. We also have trousers,shoes,sweaters,shirts and shorts. They are in many  _  :blue,green,black,yellow and white. Do you  _  these things?Come to our store,please.", 
+    "options": [
+        [
+            "books", 
+            "vegetables", 
+            "clothes", 
+            "hamburgers"
+        ], 
+        [
+            "big", 
+            "red", 
+            "small", 
+            "short"
+        ], 
+        [
+            "no", 
+            "only", 
+            "many", 
+            "much"
+        ], 
+        [
+            "five", 
+            "eight", 
+            "nine", 
+            "ten"
+        ], 
+        [
+            "clerks", 
+            "books", 
+            "things", 
+            "price"
+        ], 
+        [
+            "take", 
+            "need", 
+            "thank", 
+            "meet"
+        ], 
+        [
+            "sell", 
+            "lost", 
+            "buy", 
+            "found"
+        ], 
+        [
+            "prices", 
+            "names", 
+            "colors", 
+            "numbers"
+        ], 
+        [
+            "like", 
+            "know", 
+            "watch", 
+            "bring"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "C", 
+        "D", 
+        "C", 
+        "B", 
+        "A", 
+        "C", 
+        "A"
+    ], 
+    "source": "middle1265"
+}

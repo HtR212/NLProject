@@ -1,0 +1,71 @@
+{
+    "article": "Dear Lucy, Thank you for your letter and your invitation. I really hope I can  go camping  with you. But I have to say  _  to you. I'm too  _  next week! On Monday, I'd like to see the doctor. There is  _  wrong with my  _  . I can't see people or things a little far  _  me clearly . Maybe I should  _  a pair of glasses. On Tuesday, I have football training. You know, I'm in the football team of our school. We'll have an English test on Friday morning,  _  on Wednesday and Thursday I have to stay at home and study hard. On Friday afternoon, I'm going to a  _  My favorite star Michael Jackson will come. I like his music very much. Have a good time! And please call me after you come  _  from the camping. Yours, Linda", 
+    "options": [
+        [
+            "hello", 
+            "thanks", 
+            "sorry", 
+            "good-bye"
+        ], 
+        [
+            "sad", 
+            "free", 
+            "quick", 
+            "busy"
+        ], 
+        [
+            "Nothing", 
+            "everything", 
+            "anything", 
+            "something"
+        ], 
+        [
+            "hands", 
+            "eyes", 
+            "ears", 
+            "feet"
+        ], 
+        [
+            "from", 
+            "to", 
+            "of", 
+            "with"
+        ], 
+        [
+            "decide", 
+            "wear", 
+            "take", 
+            "try"
+        ], 
+        [
+            "but", 
+            "although", 
+            "because", 
+            "so"
+        ], 
+        [
+            "supermarket", 
+            "concert", 
+            "bank", 
+            "hospital"
+        ], 
+        [
+            "down", 
+            "up", 
+            "back", 
+            "in"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "D", 
+        "D", 
+        "B", 
+        "A", 
+        "B", 
+        "D", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle2018"
+}

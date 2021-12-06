@@ -1,0 +1,71 @@
+{
+    "article": "I work in a small shop. It is near  _  English school. Every day students come to  _  things in the shop.  _  the morning, I get up at six, and then I have  _  . I go to work  _  my bike. I get to the shop at about six forty. The shop  _  open from 7:00 a.m. to 7:00 p.m. We  sell  many things like food and drinks. We have school things,  _  . So there are  _  people in our  _  from morning to evening.", 
+    "options": [
+        [
+            "/", 
+            "a", 
+            "an", 
+            "the"
+        ], 
+        [
+            "buy", 
+            "play", 
+            "like", 
+            "look"
+        ], 
+        [
+            "On", 
+            "At", 
+            "In", 
+            "For"
+        ], 
+        [
+            "food", 
+            "lunch", 
+            "dinner", 
+            "breakfast"
+        ], 
+        [
+            "from", 
+            "on", 
+            "at", 
+            "by"
+        ], 
+        [
+            "do", 
+            "does", 
+            "are", 
+            "is"
+        ], 
+        [
+            "too", 
+            "two", 
+            "and", 
+            "but"
+        ], 
+        [
+            "many", 
+            "much", 
+            "great", 
+            "no"
+        ], 
+        [
+            "shop", 
+            "home", 
+            "school", 
+            "family"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "C", 
+        "D", 
+        "B", 
+        "D", 
+        "A", 
+        "A", 
+        "A"
+    ], 
+    "source": "middle2624"
+}

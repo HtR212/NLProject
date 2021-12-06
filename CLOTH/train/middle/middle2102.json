@@ -1,0 +1,29 @@
+{
+    "article": "My name is Steve. I move into this house  a few  weeks ago, and I really enjoy  living  here.There's only one bedroom, and at the moment my sister is staying with me because she is  looking for  a job. I work in a big company .It's hard  _  , and the hours are really long , but I like it. And it pays well. I don't really  _  worried about my work. The only thing I don't like about this house is one of the neighbors, Mrs.Snell, I think her name is. She's really strange.She never speaks to  anyone  , I always says hello to her, and \" Are you all right?' and what a lovely day today!\",but she never says a word.  Maybe  she doesn't like young people. My sister and I had a party a few days ago. It really wasn't very noisy . About ten of us were here  _  11.00pm and then we went out to dance. When I saw Mrs. Snell the next day, I said I hoped there wasn't  too much  niose for her, but as she didn't saying anything. Funny lady. This evening my sister and I are going to visit a friend of ours who is in hospital, and then we  are going  out for a Chinese meal.", 
+    "options": [
+        [
+            "work", 
+            "job", 
+            "something", 
+            "matter"
+        ], 
+        [
+            "want", 
+            "feel", 
+            "think", 
+            "have"
+        ], 
+        [
+            "After", 
+            "until", 
+            "when", 
+            "before"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "B"
+    ], 
+    "source": "middle2102"
+}

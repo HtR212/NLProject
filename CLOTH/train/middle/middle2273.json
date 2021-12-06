@@ -1,0 +1,64 @@
+{
+    "article": "Li Fei is my new pen pal. She is  _  Singapore. Singapore is a small but beautiful  _  in Southeast Asia .It is  _  and has green plants everywhere, so people also call it \"Garden City\" in the world. Li Lei is a  13-year-old  girl. She is a student in No.6 Middle School in Singapore. She speaks English  _  .And she can also speak  a little  Chinese. Her favorite  _  at school is history. She thinks it is very interesting. Li Lei likes  _  very much. She wants to have a dog as a pet, but she can't,  _  her parents don't like animals. She is very sad about this. Li Lei likes China very much. She hopes to  _  China very much.", 
+    "options": [
+        [
+            "of", 
+            "from", 
+            "on", 
+            "at"
+        ], 
+        [
+            "home", 
+            "world", 
+            "map", 
+            "country"
+        ], 
+        [
+            "dirty", 
+            "clean", 
+            "quiet", 
+            "interesting"
+        ], 
+        [
+            "good", 
+            "fine", 
+            "nice", 
+            "well"
+        ], 
+        [
+            "teacher", 
+            "club", 
+            "sport", 
+            "subject"
+        ], 
+        [
+            "animals", 
+            "zoos", 
+            "plants", 
+            "parks"
+        ], 
+        [
+            "and", 
+            "because", 
+            "so", 
+            "or"
+        ], 
+        [
+            "come", 
+            "learn", 
+            "visit", 
+            "live"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "B", 
+        "D", 
+        "D", 
+        "A", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle2273"
+}

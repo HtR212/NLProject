@@ -1,0 +1,64 @@
+{
+    "article": "Jim and Tom are  twin brothers  . They look  _  same. They are  new  . They are twelve . Thy are in No.14 Middle  _  .They are in the same  _  . But they  _  . in the same room. Jim is in  _  301and Tom is in Room 302.  _  classmates all look  _  them . Now they are good  _  .", 
+    "options": [
+        [
+            "a", 
+            "an", 
+            "the", 
+            "\\"
+        ], 
+        [
+            "school", 
+            "School", 
+            "schools", 
+            "Schools"
+        ], 
+        [
+            "class", 
+            "Class", 
+            "classes", 
+            "Classes"
+        ], 
+        [
+            "is", 
+            "isn't", 
+            "are", 
+            "aren't"
+        ], 
+        [
+            "room", 
+            "Room", 
+            "rooms", 
+            "Rooms"
+        ], 
+        [
+            "He", 
+            "His", 
+            "They", 
+            "Their"
+        ], 
+        [
+            "At", 
+            "like", 
+            "after", 
+            "to"
+        ], 
+        [
+            "friend", 
+            "friends", 
+            "student", 
+            "students"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "A", 
+        "D", 
+        "B", 
+        "D", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle348"
+}

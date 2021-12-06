@@ -1,0 +1,71 @@
+{
+    "article": "Look at the photo. It's my family. The old man and the old woman are my  _  . This is my father. He is next to his brother, my  _  . This woman is my mother. She is my English teacher. You can  _  three children in the photo. These two girls are my  _  The girl in a red dress is Nancy  _  the girl in a yellow dress is Susan. Do you know the boy? Yes, it's me. My grandparents are in the USA. I am in Beijing  _  my parents now. My father is  _  teacher. He works in Beijing No.28 Middle School. He often has milk  _  breakfast. And he likes to eat  bread  . My mother often  _  some eggs and a glass of milk. I have a big family.", 
+    "options": [
+        [
+            "uncle", 
+            "aunt", 
+            "grandparents", 
+            "parents"
+        ], 
+        [
+            "aunt", 
+            "uncle", 
+            "sister", 
+            "brother"
+        ], 
+        [
+            "see", 
+            "say", 
+            "do", 
+            "spell"
+        ], 
+        [
+            "sister", 
+            "girls", 
+            "sisters", 
+            "children"
+        ], 
+        [
+            "and", 
+            "but", 
+            "same", 
+            "so"
+        ], 
+        [
+            "and", 
+            "of", 
+            "for", 
+            "with"
+        ], 
+        [
+            "the", 
+            "to", 
+            "an", 
+            "a"
+        ], 
+        [
+            "for", 
+            "to", 
+            "in", 
+            "on"
+        ], 
+        [
+            "have", 
+            "eatst", 
+            "eat", 
+            "haves"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "A", 
+        "C", 
+        "A", 
+        "D", 
+        "D", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle1383"
+}

@@ -1,0 +1,57 @@
+{
+    "article": "I work as a taxi driver for nearly ten years. It's a _ job most of time. I like to meet different people. I always work during the day , because there are too _ cars during the day. I live 20 kilometers outside of London and I go to _ at 5:30 in the afternoon. I usually go home between two and three o'clock in the morning.\nThere is a very strange and interesting thing one night. I take a woman with a little dog _ home. When we get to her house, She can't find her key and purse  . So I wait in the car with the dog and she climbs in through the window.\nI wait for half an hour. At last I want to know what is wrong with her. I tie   the dog to a tree and _ in through the window, too.\nA policeman passes by and he thinks I am a thief . I argue  with the policeman. The _ .akes the dog barking loudly. The old woman wakes up and goes out of the house Because just now she goes to _ and forgets me and the dog at all!", 
+    "options": [
+        [
+            "difficult", 
+            "nice", 
+            "boring", 
+            "strange"
+        ], 
+        [
+            "much", 
+            "heavy", 
+            "many", 
+            "few"
+        ], 
+        [
+            "work", 
+            "bus", 
+            "school", 
+            "hospital"
+        ], 
+        [
+            "on", 
+            "from", 
+            "to", 
+            "/"
+        ], 
+        [
+            "climb", 
+            "go", 
+            "walk", 
+            "run"
+        ], 
+        [
+            "driver", 
+            "noise", 
+            "woman", 
+            "policeman"
+        ], 
+        [
+            "sleep", 
+            "talk", 
+            "play", 
+            "say"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "A", 
+        "D", 
+        "A", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle1429"
+}

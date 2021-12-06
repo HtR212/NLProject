@@ -1,0 +1,64 @@
+{
+    "article": "Mike didn't live too far away from school. He liked to _ to school every day. When it rained, like many _ boys, Mike liked playing in the water.\nOne afternoon, when the boy came _ , he was all wet. His mother became very _ and said, \"Don't play in the water after school.\"\nThe next day he was very _ again, and his mother became _ angrier. \"I'll tell your _ if you go to play in the water again,\" she said.\nThe third day the boy was dry when he came back from school \"You are a _ boy today,\" his mother said. \"You didn't play in the water.\"\n\"No,\" Mike answered. \"Because there were so many older boys in the water, I couldn't play in it.\"", 
+    "options": [
+        [
+            "drive", 
+            "walk", 
+            "fly", 
+            "come"
+        ], 
+        [
+            "other", 
+            "others", 
+            "much", 
+            "more"
+        ], 
+        [
+            "school", 
+            "family", 
+            "home", 
+            "room"
+        ], 
+        [
+            "angry", 
+            "happy", 
+            "good", 
+            "sad"
+        ], 
+        [
+            "dry", 
+            "late", 
+            "early", 
+            "wet"
+        ], 
+        [
+            "very", 
+            "more", 
+            "much", 
+            "many"
+        ], 
+        [
+            "teacher", 
+            "friend", 
+            "sister", 
+            "brother"
+        ], 
+        [
+            "good", 
+            "well", 
+            "bad", 
+            "worse"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "C", 
+        "A", 
+        "D", 
+        "C", 
+        "A", 
+        "A"
+    ], 
+    "source": "middle1458"
+}

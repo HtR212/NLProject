@@ -1,0 +1,64 @@
+{
+    "article": "_  you're well. I'm  _  holiday in London with my friend Jenny. We arrived  _  plane last Monday and  _  a taxi to our hotel. I went for a walk in Hyde Park but Jenny  didn't come  with me  _  she was tired. Then  _  Tuesday we saw the clock, Big Ben, and BuckinghamPalace. Queen Elizabeth lives in the palace, but we didn't see her. I  _  some presents.  Next  day we visited the BritishMuseum  _  had dinner in a Chinese restaurant.", 
+    "options": [
+        [
+            "hope", 
+            "hoped", 
+            "hopes", 
+            "hoping"
+        ], 
+        [
+            "at", 
+            "on", 
+            "in", 
+            "with"
+        ], 
+        [
+            "in", 
+            "At", 
+            "by", 
+            "on"
+        ], 
+        [
+            "take", 
+            "took", 
+            "taked", 
+            "by"
+        ], 
+        [
+            "and", 
+            "but", 
+            "because", 
+            "so"
+        ], 
+        [
+            "on", 
+            "in", 
+            "at", 
+            "by"
+        ], 
+        [
+            "buy", 
+            "buyed", 
+            "bought", 
+            "buys"
+        ], 
+        [
+            "And", 
+            "but", 
+            "so", 
+            "\\"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "C", 
+        "A", 
+        "C", 
+        "A", 
+        "C", 
+        "A"
+    ], 
+    "source": "middle1554"
+}

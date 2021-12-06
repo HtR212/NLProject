@@ -1,0 +1,57 @@
+{
+    "article": "When you speak, write a letter or make a telephone call, your words carry a message. People communicate with words. Do you think you can communicate without words? A smile on your face shows you are  happy and friendly  . Tears in your eyes tell others you are sad. When you  put up  your hands in class, the teacher knows you want to  _  something or ask questions. You  _  your head from side to side, and people know you are saying no. Other things can also carry messages. For example, a sign at the  bus stop  helps you know which bus you can take here. A sign on the wall of your school helps you  _  the library. Signs on the doors tell you  _  to go in or out. Have you ever noticed that there are lots of signs round you and that you receive messages  _  them all the time? Books, newspapers, TV, radios and  _  all help us to communicate with other people. They all help us  _  what is going on in the world and what other people are thinking about.", 
+    "options": [
+        [
+            "speak", 
+            "talk", 
+            "give", 
+            "say"
+        ], 
+        [
+            "move", 
+            "hide", 
+            "go", 
+            "put"
+        ], 
+        [
+            "read", 
+            "find", 
+            "watch", 
+            "look"
+        ], 
+        [
+            "where", 
+            "which", 
+            "why", 
+            "what"
+        ], 
+        [
+            "from", 
+            "for", 
+            "of", 
+            "about"
+        ], 
+        [
+            "men", 
+            "teachers", 
+            "fridges", 
+            "films"
+        ], 
+        [
+            "see", 
+            "know", 
+            "notice", 
+            "hear"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "A", 
+        "B", 
+        "A", 
+        "A", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle141"
+}

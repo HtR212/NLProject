@@ -1,0 +1,71 @@
+{
+    "article": "Do you want to be a TV news  _  ? People often ask me why I love my job. Well, it's very  _  . I'm first to know about important news stories. I travel around the world and I talk to people. I  find out  What's happening in different places. I talk to some important and famous people. I've talked to people like  _  sportsmen, sportswomen and film stars. I ask people to tell me about their lives. I want to know how they  _  . Many people want to work in TV news, so you have to be energetic and creative. You have to show that you can do it. You must learn how to  _  a video camera, to write reports, and to speak to the camera. What's the  _  way to learn? Your school or college TV station is a good place to start, but you have to get a  _  ! Most people start  _  an unpaid job, so they can learn. The best place to learn is at a small station. There aren't many people, and as a result, you get  _  experience. I had an unpaid job at a small station, and one night, when everyone else was ill, I read the news on air. I did well, and as a result, I got my first paid job!", 
+    "options": [
+        [
+            "actor", 
+            "reporter", 
+            "teacher", 
+            "writer"
+        ], 
+        [
+            "angry", 
+            "exciting", 
+            "tiring", 
+            "boring"
+        ], 
+        [
+            "famous", 
+            "funny", 
+            "educational", 
+            "rich"
+        ], 
+        [
+            "touch", 
+            "sound", 
+            "look", 
+            "feel"
+        ], 
+        [
+            "teach", 
+            "learn", 
+            "use", 
+            "make"
+        ], 
+        [
+            "busiest", 
+            "best", 
+            "worst", 
+            "friendliest"
+        ], 
+        [
+            "job", 
+            "work", 
+            "pay", 
+            "gift"
+        ], 
+        [
+            "without", 
+            "with", 
+            "in", 
+            "at"
+        ], 
+        [
+            "less", 
+            "happier", 
+            "better", 
+            "worse"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "B", 
+        "A", 
+        "D", 
+        "C", 
+        "B", 
+        "A", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle2676"
+}

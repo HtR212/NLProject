@@ -1,0 +1,64 @@
+{
+    "article": "I was a student of yours in Grade Six, and I hope you still remember me. I'm  _  this letter because I want to let you know that the school year with you was important and special to me. I know I  used to  be very quiet in your class, and you never said much to me. But you did something that made a big  _  in my life. You see, all through my first year in schools, I hated to read. Books were just words that had  _  to do with me, and I felt bored while reading them. I'll never  _  the first day of Grade Six when you took out a thick book and began to read the story to our class. It  seemed  that your voice changed with the people in the story, and you drew pictures in my mind as you read  _  . Since that day, I always waited for the time that you read to the class. You  _  us all kinds of wonderful stories. During the summer after my year in your class, I  _  the stories you read. So one day I picked up a book and read it all by myself. I found out that I could make the words  _  , too. Now, I love to read! Thank you for opening the world of books for me. Yours, Linda", 
+    "options": [
+        [
+            "watching", 
+            "reading", 
+            "writing", 
+            "getting"
+        ], 
+        [
+            "difference", 
+            "mistake", 
+            "decision", 
+            "progress"
+        ], 
+        [
+            "nothing", 
+            "everything", 
+            "something", 
+            "anything"
+        ], 
+        [
+            "remember", 
+            "know", 
+            "forget", 
+            "understand"
+        ], 
+        [
+            "loudly", 
+            "quiet", 
+            "aloud", 
+            "quietly"
+        ], 
+        [
+            "told", 
+            "read", 
+            "borrowed", 
+            "taught"
+        ], 
+        [
+            "finished", 
+            "practiced", 
+            "missed", 
+            "kept"
+        ], 
+        [
+            "boring", 
+            "patient", 
+            "interesting", 
+            "necessary"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "A", 
+        "C", 
+        "C", 
+        "A", 
+        "C", 
+        "C"
+    ], 
+    "source": "middle628"
+}

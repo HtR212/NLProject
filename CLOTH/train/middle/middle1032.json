@@ -1,0 +1,50 @@
+{
+    "article": "Mrs. White lives in the country and she doesn't know London very well. One day, she goes to London. She can't find her  _ . Just then, she  sees  a man near a bus stop.\n\"I can ask him the way,\" she says to  _  and asks, \"Excuse me, can you  _  me the way to King Street\" The man smiles with  _ answer. He doesn't  _  English. He speaks Japanese. He is a visitor. Then he  _   his hand into his pocket ,  takes out  a piece of paper and lets her  look at  it. On the paper are those words , \"Sorry, I  can't speak  English.\"", 
+    "options": [
+        [
+            "street", 
+            "way", 
+            "room", 
+            "house"
+        ], 
+        [
+            "herself", 
+            "himself", 
+            "myself", 
+            "themselves"
+        ], 
+        [
+            "speak", 
+            "say", 
+            "talk", 
+            "tell"
+        ], 
+        [
+            "not", 
+            "an", 
+            "no", 
+            "any"
+        ], 
+        [
+            "know", 
+            "say", 
+            "has", 
+            "teach"
+        ], 
+        [
+            "puts", 
+            "takes", 
+            "brings", 
+            "gives"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "D", 
+        "C", 
+        "A", 
+        "A"
+    ], 
+    "source": "middle1032"
+}

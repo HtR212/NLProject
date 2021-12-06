@@ -1,0 +1,57 @@
+{
+    "article": "My name is Bill. I'm an English boy. I'm a student  _  a high school . I'm in Class 4, Grade 8. Li Lei is my friend. We are in  the same  class. He is thirteen. Here is a photo of  _  family. It is new. Please  look at  it. His dad is  _  English teacher. The one  in red  is his mom. She is a doctor . He has  _  sisters. Their names  _  Fangfang and Lingling. They look the same. They are high school students,  _  . They  _  a nice cat. They like it very much.", 
+    "options": [
+        [
+            "in", 
+            "to", 
+            "and", 
+            "/"
+        ], 
+        [
+            "he", 
+            "him", 
+            "her", 
+            "his"
+        ], 
+        [
+            "the", 
+            "an", 
+            "/", 
+            "a"
+        ], 
+        [
+            "three", 
+            "four", 
+            "two", 
+            "one"
+        ], 
+        [
+            "is", 
+            "be", 
+            "am", 
+            "are"
+        ], 
+        [
+            "to", 
+            "and", 
+            "too", 
+            "but"
+        ], 
+        [
+            "have", 
+            "has", 
+            "are", 
+            "is"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "B", 
+        "C", 
+        "D", 
+        "C", 
+        "A"
+    ], 
+    "source": "middle1415"
+}

@@ -1,0 +1,50 @@
+{
+    "article": "The summer vacation is the best time for students. They can go outdoors and have fun. They can go to big cities to  go sightseeing  , or go to the countryside to enjoy the beauty of  _  . Peter is an American middle school student and he loves  _  very much. He always travels in his country. This summer vacation he wants to do something  _  . He is interested in Chinese history.  _  he is flying to Beijing and Xi'an for the summer vacation. He is leaving on July 12th and  getting back to  New York on the last day of the month. He plans  to have  a fantastic vacation. During the  _  , he is visiting places of interest and going shopping. At night, he is  taking walks  to enjoy the night views. He is sure he will have a  _  time.", 
+    "options": [
+        [
+            "buildings", 
+            "city", 
+            "farm", 
+            "nature"
+        ], 
+        [
+            "travelling", 
+            "shopping", 
+            "fishing", 
+            "hiking"
+        ], 
+        [
+            "tiring", 
+            "different", 
+            "delicious", 
+            "boring"
+        ], 
+        [
+            "Because", 
+            "So", 
+            "But", 
+            "Although"
+        ], 
+        [
+            "weekend", 
+            "week", 
+            "night", 
+            "day"
+        ], 
+        [
+            "great", 
+            "well", 
+            "terrible", 
+            "exciting"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "A", 
+        "B", 
+        "B", 
+        "D", 
+        "A"
+    ], 
+    "source": "middle2025"
+}

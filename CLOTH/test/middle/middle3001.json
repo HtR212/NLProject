@@ -1,0 +1,57 @@
+{
+    "article": "The Americans were getting ready to send their first man to the moon, an old Irishman   was  _  them on TV in a hotel room. There was an Englishman in the room too . And he said to the Irishman, \"The Americans are very  _ , aren't they? They are going to send some men to the moon. It's a very  _ way from our world.\" \"Oh, that's  _ ,\"the Irishman answered quickly.\" \"The Irishman are going to send some men to the sun in months'  time . That's much  _ away than the moon, you know. \"The Englishman was very  _ when he heard this. \"Oh, yes it is,\" he said, \"But the sun is too  _ for people to visit.\"\nThe Irishman laughed and answered, \"Well, the Irish are clever, too, you know. We  won't go to the sun during the day, of course. We'll go there during the night.\"", 
+    "options": [
+        [
+            "reading", 
+            "watching", 
+            "making", 
+            "mending"
+        ], 
+        [
+            "kind", 
+            "bad", 
+            "clever", 
+            "good"
+        ], 
+        [
+            "short", 
+            "long", 
+            "far", 
+            "near"
+        ], 
+        [
+            "nothing", 
+            "all", 
+            "wrong", 
+            "great"
+        ], 
+        [
+            "far", 
+            "never", 
+            "farther", 
+            "longer"
+        ], 
+        [
+            "angry", 
+            "surprised", 
+            "glad", 
+            "sorry"
+        ], 
+        [
+            "warm", 
+            "big", 
+            "cold", 
+            "hot"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "B", 
+        "A", 
+        "C", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle3001"
+}

@@ -1,0 +1,64 @@
+{
+    "article": "Dear Li Ming,\nThanks for your e-mail.Your life is very _ .And I hope I can visit you soon.Now I would like to tell you _ about my life in America.\nThe day starts at about 7 o'clock when Dad and Mum get up .My sister and I usually watch TV until _ at 8 o'clock.I like to eat rice and eggs.I also  _ a glass of milk.\nAfter breakfast,I put on my school uniform _ take some food for lunch to school.At school one of my favourite subjects _ science.I also enjoy PE lessons-we play _ soccer,basketball and sometimes we do some running.\nIn the evening,I usually do _ homework before watching TV.Mum helps me with my homework.\nI have many friends here.I would like to introduce them to you next time.Keep in touch!\nYours,\nJenny", 
+    "options": [
+        [
+            "colorful", 
+            "crowded", 
+            "boring", 
+            "terrible"
+        ], 
+        [
+            "anything", 
+            "nothing", 
+            "everything", 
+            "something"
+        ], 
+        [
+            "breakfast", 
+            "lunch", 
+            "dinner", 
+            "supper"
+        ], 
+        [
+            "eat", 
+            "order", 
+            "drink", 
+            "take"
+        ], 
+        [
+            "but", 
+            "or", 
+            "so", 
+            "and"
+        ], 
+        [
+            "are", 
+            "is", 
+            "am", 
+            "be"
+        ], 
+        [
+            "a", 
+            "an", 
+            "the", 
+            "/"
+        ], 
+        [
+            "I", 
+            "my", 
+            "me", 
+            "mine"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "A", 
+        "C", 
+        "D", 
+        "B", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle2355"
+}

@@ -1,0 +1,71 @@
+{
+    "article": "Dear Peter, I want to tell  _  about our school. Our school is  _  interesting. And it is also full of  _  . Our school is not  near  my home, so I go to school  _  bus. The school is very  _  . It is very big, too. Our classroom building has five  _  . My classroom is on the  _  floor. Our library is big. There are two reading rooms in it. We can read magazines there. My favourite place is the playground. We go there for  _  every afternoon. And we have nice teachers, too. They are nice to  _  and their lessons are interesting. I am happy at this school! Sandy", 
+    "options": [
+        [
+            "I", 
+            "me", 
+            "you", 
+            "we"
+        ], 
+        [
+            "really", 
+            "true", 
+            "much", 
+            "many"
+        ], 
+        [
+            "time", 
+            "fun", 
+            "lessons", 
+            "building"
+        ], 
+        [
+            "by", 
+            "with", 
+            "for", 
+            "on"
+        ], 
+        [
+            "best", 
+            "modern", 
+            "small", 
+            "bright"
+        ], 
+        [
+            "rooms", 
+            "classes", 
+            "floors", 
+            "offices"
+        ], 
+        [
+            "ground", 
+            "one", 
+            "two", 
+            "sixth"
+        ], 
+        [
+            "meetings", 
+            "sports", 
+            "lessons", 
+            "meals"
+        ], 
+        [
+            "us", 
+            "teachers", 
+            "parents", 
+            "them"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "B", 
+        "A", 
+        "B", 
+        "C", 
+        "A", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle910"
+}

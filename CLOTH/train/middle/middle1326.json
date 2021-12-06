@@ -1,0 +1,64 @@
+{
+    "article": "What's the difference  between studies and life in primary schools and middle schools? Here, two students give you _ ideas.\nWang Junli, 14, Chongqing\nIn the primary school, I walked to school every day because it is not far _ my home. But in the middle school, I should live at school because our school tells us to do so. After two _ middle school life, I learn a lot. That is, you need to learn to look after yourself  and learn to do things by yourself.\nHuang Lu, 14, Chengdu\nMy name is Huang Lu. I had  only 4 subjects _ they were very easy to learn in the primary school. When I _ to the middle school, I find that there are more subjects like history and geography. They are _ to learn so I don't know how to learn them well. Every day I _ to be interested in all subjects. Listen to the teachers and take notes carefully. They are my _ .", 
+    "options": [
+        [
+            "our", 
+            "their", 
+            "your", 
+            "my"
+        ], 
+        [
+            "near", 
+            "in", 
+            "at", 
+            "from"
+        ], 
+        [
+            "years'", 
+            "years", 
+            "weeks'", 
+            "weeks"
+        ], 
+        [
+            "because", 
+            "but", 
+            "so", 
+            "and"
+        ], 
+        [
+            "am", 
+            "come", 
+            "want", 
+            "hope"
+        ], 
+        [
+            "easy", 
+            "fun", 
+            "difficult", 
+            "bad"
+        ], 
+        [
+            "have", 
+            "try", 
+            "dislike", 
+            "ask"
+        ], 
+        [
+            "notes", 
+            "subjects", 
+            "schools", 
+            "ideas"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "A", 
+        "D", 
+        "B", 
+        "C", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle1326"
+}

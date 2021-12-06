@@ -1,0 +1,64 @@
+{
+    "article": "My name is Alan Brown. I'm  _ . I'm from London, England. I'm a  _  at Park School. My favourite  _  is maths. I like it because it's very  _ . I also like history  _  I am not good at it. I like  _  too. I often play basketball in the  sports hall  at our school. I usually  have lunch  in the school dining hall. I like school lunch.  _   healthy and delicious. Our lessons finish at three o'clock. I usually  _  home at half past three.", 
+    "options": [
+        [
+            "American", 
+            "English", 
+            "Chinese", 
+            "Japanese"
+        ], 
+        [
+            "student", 
+            "teacher", 
+            "worker", 
+            "doctor"
+        ], 
+        [
+            "lab", 
+            "office", 
+            "room", 
+            "subject"
+        ], 
+        [
+            "delicious", 
+            "healthy", 
+            "interesting", 
+            "sweet"
+        ], 
+        [
+            "or", 
+            "because", 
+            "but", 
+            "so"
+        ], 
+        [
+            "PE", 
+            "art", 
+            "science", 
+            "geography"
+        ], 
+        [
+            "He's", 
+            "It's", 
+            "She's", 
+            "They're"
+        ], 
+        [
+            "do", 
+            "have", 
+            "go", 
+            "leave"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "D", 
+        "C", 
+        "C", 
+        "A", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle1863"
+}

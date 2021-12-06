@@ -1,0 +1,36 @@
+{
+    "article": "Kate is  _  American girl. She  looks like  her mother. She lives in Dafeng  _  her father and mother, Mr and Mrs King. Mr King works in a factory. Mrs King is a teacher in our school. She teaches  _  English.  All of us  are friendly to her and she loves us, too. Kate  has  a lot of friends. She often plays with them. Kate likes  eating  Chinese food very much.  On  Sunday morning she often goes  shopping  with her mother. They often buy a lot of things. Mrs King says the things in Dafeng  _  very cheap.", 
+    "options": [
+        [
+            "a", 
+            "an", 
+            "the", 
+            "/"
+        ], 
+        [
+            "with", 
+            "and", 
+            "coming", 
+            "have"
+        ], 
+        [
+            "our", 
+            "we", 
+            "us", 
+            "ours"
+        ], 
+        [
+            "is", 
+            "are", 
+            "like", 
+            "likes"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle660"
+}

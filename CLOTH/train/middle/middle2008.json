@@ -1,0 +1,57 @@
+{
+    "article": "Last August ,our class  _  something very special on our school trip .We  _  to Mount Tai .We  started  our trip at 12:00 at night .Everyone in our class  _  a bag with some food and water .After three  _  ,someone  _  at the map and found out we were't anywhere near the top. My legs  _  so tired that I wanted  to stop  .My classmates told me  to keep  going ,so I went on.Twenty  _  later ,the sun started to come up .It was so beautiful that we forgot about the last five hours !", 
+    "options": [
+        [
+            "do", 
+            "did", 
+            "does", 
+            "has"
+        ], 
+        [
+            "go", 
+            "went", 
+            "goes", 
+            "play"
+        ], 
+        [
+            "took", 
+            "cold", 
+            "wrong", 
+            "taking"
+        ], 
+        [
+            "times", 
+            "hour's", 
+            "hours", 
+            "apples"
+        ], 
+        [
+            "find", 
+            "looks", 
+            "looking", 
+            "looked"
+        ], 
+        [
+            "be", 
+            "was", 
+            "were", 
+            "are"
+        ], 
+        [
+            "minute", 
+            "minutes", 
+            "time", 
+            "times"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "B", 
+        "A", 
+        "C", 
+        "D", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle2008"
+}

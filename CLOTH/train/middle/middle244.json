@@ -1,0 +1,57 @@
+{
+    "article": "Wang Hui and Daming are good  _  . Daming is  _  Beijing and Wang Hui  comes  from Shanghai.  _  are twelve years old. Daming is  _  Class Two. Wang Hui is in  Class Two  , too. Their English teacher is Miss Li.  _  is a good teacher. Daming  likes  football and Wang Hui likes basketball. Wang Hui can swim, but Daming  _  . Look ! Daming is  _  football. Wang Hui is playing basketball .", 
+    "options": [
+        [
+            "teachers", 
+            "friends", 
+            "sisters", 
+            "brothers"
+        ], 
+        [
+            "at", 
+            "in", 
+            "to", 
+            "from"
+        ], 
+        [
+            "they", 
+            "They", 
+            "He", 
+            "She"
+        ], 
+        [
+            "in", 
+            "on", 
+            "at", 
+            "under"
+        ], 
+        [
+            "He", 
+            "Her", 
+            "It", 
+            "She"
+        ], 
+        [
+            "can", 
+            "don't", 
+            "can't", 
+            "isn't"
+        ], 
+        [
+            "plays", 
+            "playing", 
+            "play", 
+            "Playying"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "B", 
+        "A", 
+        "D", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle244"
+}

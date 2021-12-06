@@ -1,0 +1,71 @@
+{
+    "article": "Leo is 66 years old. But he  _  young. He is a basketball fan. He has two  _  ---one is a son and the other is a daughter. He has a great  _  collection. But he never  _  sports. He only likes collecting sports  _  . He has 5 basketballs, 7 baseballs and 3 ping-pong balls. His son, Neal, likes soccer. He is in a soccer club. He often plays soccer with  _  friends. He has a computer, too. Playing games is  _  . He likes it very much. And his daughter, Nancy, likes  _  very much. But she doesn't have a volleyball and she doesn't play it. She only likes  to watch  it  _  TV.", 
+    "options": [
+        [
+            "sees", 
+            "watches", 
+            "sounds", 
+            "looks"
+        ], 
+        [
+            "child", 
+            "daughters", 
+            "sons", 
+            "children"
+        ], 
+        [
+            "art", 
+            "food", 
+            "sports", 
+            "books"
+        ], 
+        [
+            "do", 
+            "does", 
+            "play", 
+            "doesn't"
+        ], 
+        [
+            "bags", 
+            "clothes", 
+            "things", 
+            "games"
+        ], 
+        [
+            "he", 
+            "he's", 
+            "his", 
+            "him"
+        ], 
+        [
+            "boring", 
+            "bad", 
+            "interesting", 
+            "difficult"
+        ], 
+        [
+            "football", 
+            "basketball", 
+            "volleyball", 
+            "tennis"
+        ], 
+        [
+            "in", 
+            "of", 
+            "on", 
+            "about"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "D", 
+        "C", 
+        "B", 
+        "C", 
+        "C", 
+        "C", 
+        "C", 
+        "C"
+    ], 
+    "source": "middle2478"
+}

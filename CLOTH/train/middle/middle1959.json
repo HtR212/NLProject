@@ -1,0 +1,57 @@
+{
+    "article": "Mr. Strong is a London taxi driver. The following talk is given by him. \"I have been a taxi driver  _  nearly ten years. It's a nice job most of the time. You meet a lot of people. I always work at night,  _  there is too much traffic during the day. I go to work at 5:30 in the afternoon, and I usually  go home  between 2:00 and 3:00 in the morning.\" \"Some  _  things happened late at night.  The other  day I was taking a woman home from a party. She had her little dog with her. When we got to her house, she found that she had lost her  _  . So I waited in the car  while  she climbed in through the windows.\" \"I waited and waited. After half an hour of ringing the bell I decided to find out  _  was going on. I tied the dog to a tree and started to  _  in through the window. The next thing I knew was that the police came. They thought I was a thief.\" \"Luckily the woman came downstairs. She  _  have gone to sleep and forgotten me and the dog!\"", 
+    "options": [
+        [
+            "in", 
+            "for", 
+            "before", 
+            "after"
+        ], 
+        [
+            "if", 
+            "so", 
+            "though", 
+            "because"
+        ], 
+        [
+            "sad", 
+            "good", 
+            "strange", 
+            "disappointing"
+        ], 
+        [
+            "money", 
+            "bag", 
+            "box", 
+            "key"
+        ], 
+        [
+            "what", 
+            "which", 
+            "who", 
+            "that"
+        ], 
+        [
+            "drive", 
+            "walk", 
+            "climb", 
+            "run"
+        ], 
+        [
+            "will", 
+            "can", 
+            "may", 
+            "must"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "C", 
+        "D", 
+        "A", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle1959"
+}

@@ -1,0 +1,50 @@
+{
+    "article": "Happy Supermarket is a new shopping place  close to  our city. The supermarket is very  _  It has three floors. There is a discount on good today, so I asked my neighbor Millie  to go  shopping with me. Because the bus stop is far  _  our homes, we go there  _  taxi. There are  all kinds of  things in the supermarket and the prices aren't  _  . I want to buy a grey skirt and  a pair of  jeans. There are many people waiting for paying for things.  _  I have some money left I will buy an ice cream  _  Millie. She likes ice cream very much.", 
+    "options": [
+        [
+            "large", 
+            "small", 
+            "cheap", 
+            "expensive"
+        ], 
+        [
+            "to", 
+            "from", 
+            "at", 
+            "in"
+        ], 
+        [
+            "take", 
+            "in", 
+            "by", 
+            "on"
+        ], 
+        [
+            "expensive", 
+            "cheap", 
+            "high", 
+            "low"
+        ], 
+        [
+            "if", 
+            "although", 
+            "until", 
+            "so"
+        ], 
+        [
+            "to", 
+            "for", 
+            "/", 
+            "on"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "C", 
+        "C", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle1363"
+}

@@ -1,0 +1,57 @@
+{
+    "article": "Why  _  children go to school? Do you know? You may  _  that they go to school to learn Chinese, English and  other  subjects . This answer is  _ . But do you know _  they learn all these things? And are these things all that they can learn  _  school?\nThe answer is \"No\". Children must learn how to learn at school. No one can learn  _  from school. When they  leave  school they must continue  to learn. So a good teacher at school  teaches  his students to learn something and teaches them how to learn something and the ways to learn something. Then children can continue to learn  _  after they leave school.", 
+    "options": [
+        [
+            "can", 
+            "do", 
+            "may", 
+            "must"
+        ], 
+        [
+            "talk", 
+            "say", 
+            "speak", 
+            "tell"
+        ], 
+        [
+            "right", 
+            "wrong", 
+            "easy", 
+            "hard"
+        ], 
+        [
+            "which", 
+            "who", 
+            "what", 
+            "why"
+        ], 
+        [
+            "for", 
+            "to", 
+            "at", 
+            "on"
+        ], 
+        [
+            "something", 
+            "anything", 
+            "nothing", 
+            "everything"
+        ], 
+        [
+            "good", 
+            "fine", 
+            "nice", 
+            "well"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "B", 
+        "A", 
+        "D", 
+        "C", 
+        "D", 
+        "D"
+    ], 
+    "source": "middle1236"
+}

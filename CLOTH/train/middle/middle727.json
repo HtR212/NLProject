@@ -1,0 +1,71 @@
+{
+    "article": "Jack is an 7-year-old boy He lives in London. His father has a shop there and his mother works in a hospital .She is _ to others. So all the people like her.Jack _ to go to school this autumn. It's a little far from their home and his father takes _ to school by car on _ . So he is _ late for class and all his teachers like him.\nIt's Monday today. Miss Green is _ them to count from one to ten. Jack is studying hard. Soon he can count them. Miss Green is happy and asks, \" How many _ are there in your family, Jack?\"  Jack stands up and says, \" _ Miss Green.\" \" Oh ? \" Miss Green is surprised, She says, \"There are three people in your family, your father ,your mother and you \"\n\" _ now I'm not at home. I'm at school, you know!\" Jack answers", 
+    "options": [
+        [
+            "strict", 
+            "friendly", 
+            "different", 
+            "important"
+        ], 
+        [
+            "begins", 
+            "begin", 
+            "has", 
+            "have"
+        ], 
+        [
+            "he", 
+            "him", 
+            "his", 
+            "her"
+        ], 
+        [
+            "weekends", 
+            "everyday", 
+            "weekdays", 
+            "someday"
+        ], 
+        [
+            "never", 
+            "often", 
+            "always", 
+            "sometimes"
+        ], 
+        [
+            "asking", 
+            "telling", 
+            "teaching", 
+            "giving"
+        ], 
+        [
+            "people", 
+            "pets", 
+            "peoples", 
+            "children"
+        ], 
+        [
+            "Three", 
+            "Two", 
+            "Four", 
+            "One"
+        ], 
+        [
+            "But", 
+            "So", 
+            "Because", 
+            "/"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "B", 
+        "C", 
+        "A", 
+        "C", 
+        "A", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle727"
+}

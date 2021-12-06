@@ -1,0 +1,71 @@
+{
+    "article": "My name is Brad. I'm _ Sichuan. I'm a(n) _ monkey and I am only one year old. I like eating _ and bananas are my favorites. I like forests ,but now I live in a _ . I am in a big cage  _ other monkeys. People like me and often give me some fruit to eat. _ I'm not really happy. _ ? Because I can't live with my parents and I can't climb trees  here. Every day, I get up in the cage. I eat food in the cage. I sleep and relax in the cage. I really want to _ my parents and climb trees in the forests. Dear people, animals are your _ . We live in the same world. Please let us live in the forests, not in the cages.", 
+    "options": [
+        [
+            "for", 
+            "at", 
+            "with", 
+            "from"
+        ], 
+        [
+            "big", 
+            "long", 
+            "little", 
+            "old"
+        ], 
+        [
+            "meat", 
+            "fruit", 
+            "grass", 
+            "leaves"
+        ], 
+        [
+            "zoo", 
+            "forest", 
+            "tree", 
+            "school"
+        ], 
+        [
+            "with", 
+            "in", 
+            "about", 
+            "at"
+        ], 
+        [
+            "And", 
+            "Or", 
+            "So", 
+            "But"
+        ], 
+        [
+            "What", 
+            "Why", 
+            "Where", 
+            "When"
+        ], 
+        [
+            "like", 
+            "ask", 
+            "meet", 
+            "eat"
+        ], 
+        [
+            "friends", 
+            "teachers", 
+            "sisters", 
+            "cousins"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "C", 
+        "B", 
+        "A", 
+        "A", 
+        "D", 
+        "B", 
+        "C", 
+        "A"
+    ], 
+    "source": "middle3006"
+}

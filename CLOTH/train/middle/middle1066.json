@@ -1,0 +1,64 @@
+{
+    "article": "It was June. The sun was in the sky. It was very hot. Jim was tired of school. He wanted to be at the beach. He could not stay in his  _  . He could not  _  talking. While the teacher wrote on the board, Jim got up and talked to a friend. The teacher, Mr Smith, heard the  _  and said: \"Jim, sit down and be quiet. \" Jim sat down. Mr Smith  went on with  his lesson. Jim got up and talked to another friend. \"Sit down and be quiet,\" said Mr Smith. He was very  _  . \"OK,\" said Mr Smith. \"If you want to talk,  _  come to the front of the classroom and  _  the teacher. \" \"All right,\"  _  Jim. He came to the front of the classroom and said:\"Quiet,  everyone  . I am the new teacher. Class is over now. Let's have a  _  \"", 
+    "options": [
+        [
+            "office", 
+            "home", 
+            "seat", 
+            "room"
+        ], 
+        [
+            "stop", 
+            "enjoy", 
+            "forget", 
+            "finish"
+        ], 
+        [
+            "news", 
+            "story", 
+            "fact", 
+            "noise"
+        ], 
+        [
+            "angry", 
+            "sad", 
+            "worried", 
+            "afraid"
+        ], 
+        [
+            "again", 
+            "also", 
+            "then", 
+            "next"
+        ], 
+        [
+            "hear", 
+            "find", 
+            "ask", 
+            "be"
+        ], 
+        [
+            "asked", 
+            "agreed", 
+            "guessed", 
+            "laughed"
+        ], 
+        [
+            "lesson", 
+            "break", 
+            "try", 
+            "meeting"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "D", 
+        "A", 
+        "C", 
+        "D", 
+        "B", 
+        "B"
+    ], 
+    "source": "middle1066"
+}

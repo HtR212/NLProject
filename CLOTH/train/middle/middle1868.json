@@ -1,0 +1,71 @@
+{
+    "article": "Dear Bob, How are you? Today is my first day in this school, and I want to  _  you something about my new school. My school is not big  _  very beautiful. It is  _  to the People's Library. There is a post office  _  our school and the park. There are  _  buildings in our school, the  _  building, the teachers' building and a library. There  _  many teachers in my school. They are kind and strict . There are also a lot of students here. We work hard in class.  _  class, we often do some sports or go to music or art clubs. Behind the students' building, there is a big playground. It is beautiful. On each side of it there are tall trees and all kinds of flowers. On the  _  side, we can play basketball. On the left side we can play volleyball. In the middle, we can play football. Every day we have  fun  together on the playground. I love my school. Welcome to my school!", 
+    "options": [
+        [
+            "say", 
+            "talk", 
+            "speak", 
+            "tell"
+        ], 
+        [
+            "so", 
+            "and", 
+            "but", 
+            "or"
+        ], 
+        [
+            "near", 
+            "next", 
+            "front", 
+            "back"
+        ], 
+        [
+            "in", 
+            "for", 
+            "with", 
+            "between"
+        ], 
+        [
+            "one", 
+            "two", 
+            "three", 
+            "four"
+        ], 
+        [
+            "students'", 
+            "teachers'", 
+            "restaurant", 
+            "parents'"
+        ], 
+        [
+            "are", 
+            "is", 
+            "am", 
+            "be"
+        ], 
+        [
+            "In", 
+            "On", 
+            "At", 
+            "After"
+        ], 
+        [
+            "left", 
+            "right", 
+            "middle", 
+            "front"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "C", 
+        "B", 
+        "D", 
+        "C", 
+        "A", 
+        "A", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle1868"
+}

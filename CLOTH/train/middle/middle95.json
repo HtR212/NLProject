@@ -1,0 +1,57 @@
+{
+    "article": "Mrs. Brown is from London in England, but she likes  _  in China. She says her students all work very  _  and they are very friendly. She loves  _  very much. Mrs. Brown  has  a son and a daughter. Her son's name is Jack. He is ten. Her daughter's name is Sue. She is seven  years  old. They study in China. They don't have classes  _  weekends. They  _  their school very much. After school, they often  go  shopping or play sports. They help their mother  _  some housework sometimes. They have a happy  _  .", 
+    "options": [
+        [
+            "works", 
+            "studies", 
+            "working", 
+            "work"
+        ], 
+        [
+            "good", 
+            "easy", 
+            "hard", 
+            "fast"
+        ], 
+        [
+            "them", 
+            "they", 
+            "their", 
+            "his"
+        ], 
+        [
+            "to", 
+            "on", 
+            "in", 
+            "of"
+        ], 
+        [
+            "see", 
+            "like", 
+            "want", 
+            "wants"
+        ], 
+        [
+            "with", 
+            "by", 
+            "at", 
+            "to"
+        ], 
+        [
+            "home", 
+            "families", 
+            "family", 
+            "homes"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "C", 
+        "A", 
+        "B", 
+        "B", 
+        "A", 
+        "C"
+    ], 
+    "source": "middle95"
+}

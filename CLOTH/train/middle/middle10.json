@@ -1,0 +1,50 @@
+{
+    "article": "I had been in London for two years. During the time I was  _ there, my strong wish was to  go back home  instead of staying in the city I didn't know well.\nSo when the day came for my  leaving  .I had a strange feeling and my mind was full of beautiful things in London-----the tall trees around my  _  , the clean streets, the school library, the old church near the school and so on. I was for the first time not sure  _  I really wish to go. I was becoming good at spoken English and interested in the different way of living in London. Most important of all, I did not want to leave my  friends  who were near and dear to me during the two long years. I felt like running into the head teacher's office and telling him that I really didn't want to go home. But on the second thought I stopped myself  _  the plan. My parents are quite old and I might have no time to see them again if I gave up this plan.\nAt the airport, most of my teachers and friends came to see me off and quite a few gave me  _ .Many group photos were taken and before long the final moment came. Everyone shook hands with me and said goodbye to me. Their eyes  were filled with  tears and I knew they were  _  at the moment.", 
+    "options": [
+        [
+            "leaving", 
+            "working", 
+            "studying", 
+            "preparing"
+        ], 
+        [
+            "house", 
+            "bedroom", 
+            "bathroom", 
+            "kitchen"
+        ], 
+        [
+            "where", 
+            "what", 
+            "whether", 
+            "how"
+        ], 
+        [
+            "making", 
+            "telling", 
+            "building", 
+            "waiting"
+        ], 
+        [
+            "languages", 
+            "medicine", 
+            "numbers", 
+            "presents"
+        ], 
+        [
+            "thankful", 
+            "merry", 
+            "glad", 
+            "Sad"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "C", 
+        "B", 
+        "D", 
+        "D"
+    ], 
+    "source": "middle10"
+}

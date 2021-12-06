@@ -1,0 +1,64 @@
+{
+    "article": "My best friend is one of my classmates. We have the  _  hobby. We both enjoy music. I am good  _  English, but she isn't. She has great interest in university life and wants to go to university when she  leaves  school. One day, I found her studying  _  so I wanted to help her with it.  _  she closed the book. I asked, \"What are you doing?\" \"Nothing,\" she answered shyly. I didn't know  _  she closed her book. \"I just want to  _  you,\" I said. \"Please don't laugh at me. My English is not good and I'm a little  _  about learning it in front of others.\" \"  No one  laughs at you. That's why you don't make any progress in English. You should try. You should do your best to  _  English with your friends. You can also ask for help from them.\"", 
+    "options": [
+        [
+            "different", 
+            "same", 
+            "difficult", 
+            "necessary"
+        ], 
+        [
+            "in", 
+            "for", 
+            "at", 
+            "with"
+        ], 
+        [
+            "English", 
+            "chemistry", 
+            "physics", 
+            "history"
+        ], 
+        [
+            "And", 
+            "If", 
+            "But", 
+            "Though"
+        ], 
+        [
+            "when", 
+            "why", 
+            "how", 
+            "what"
+        ], 
+        [
+            "see", 
+            "worry", 
+            "mean", 
+            "help"
+        ], 
+        [
+            "wild", 
+            "shy", 
+            "calm", 
+            "angry"
+        ], 
+        [
+            "study", 
+            "show", 
+            "teach", 
+            "Hear"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "A", 
+        "C", 
+        "B", 
+        "D", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle128"
+}

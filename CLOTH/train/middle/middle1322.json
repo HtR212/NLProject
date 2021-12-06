@@ -1,0 +1,71 @@
+{
+    "article": "Dear Nick,\nA new term begins. My father _ a job in a bank. Our _ has to move to Green Street. It's a _ street with a lot of cars, buses and taxis here. I'm at Garden High School now. I'm _ here and I know only Miss White. We live in the same building and her house is next to ours. She teaches us Maths. She works hard and is friendly to my _ and me. So we like her.\nDo you hope to visit our school? It's a _ place. There are three nice gardens in it. You will see all kinds of flowers in them. If you don't _ the way, please go down Fourth Street and turn right until  you see the bank _ your left. You will see a white building. Our school is just opposite  it. Please _ me when you get here. I will meet you. I hope to see you at my school.\nYours,\nSimon", 
+    "options": [
+        [
+            "buys", 
+            "meets", 
+            "finds", 
+            "sees"
+        ], 
+        [
+            "house", 
+            "farm", 
+            "tree", 
+            "family"
+        ], 
+        [
+            "quiet", 
+            "busy", 
+            "small", 
+            "dirty"
+        ], 
+        [
+            "new", 
+            "old", 
+            "good", 
+            "cheap"
+        ], 
+        [
+            "classmates", 
+            "parents", 
+            "friends", 
+            "cousins"
+        ], 
+        [
+            "easy", 
+            "early", 
+            "hard", 
+            "beautiful"
+        ], 
+        [
+            "tell", 
+            "know", 
+            "say", 
+            "ask"
+        ], 
+        [
+            "to", 
+            "on", 
+            "in", 
+            "for"
+        ], 
+        [
+            "write", 
+            "read", 
+            "call", 
+            "answer"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "D", 
+        "B", 
+        "A", 
+        "A", 
+        "D", 
+        "B", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle1322"
+}

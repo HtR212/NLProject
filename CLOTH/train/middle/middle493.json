@@ -1,0 +1,64 @@
+{
+    "article": "One summer evening, a 10-year-old boy was trying to hit a bottle with a slingshot . The bottle was about 7 to 8 meters  _  . The boy tried many times but he couldn't hit it. His mother just  kept  passing him small stones. A girl walked by. She  watched  the boy for some time and said to his mother, \"Let me show  _  how to shoot.\" \"No, thank you,\" said the  _  . \"He is blind .\" The girl was surprised and asked, \"How can he hit the bottle  _  ?\" \"I tell him he can do it,\" said the mother, \"  _  he tries hard enough.\" The little boy tried again and again. The mother always told him that he was doing  _  than before. The boy became more confident. After a long time, it  _  dark. The girl said goodbye to the mother and the son. When she turned to leave, she heard a stone hit the  _  . The little boy finally made it! With confidence and patience, nothing is impossible.", 
+    "options": [
+        [
+            "far", 
+            "long", 
+            "away", 
+            "high"
+        ], 
+        [
+            "you", 
+            "it", 
+            "that", 
+            "him"
+        ], 
+        [
+            "mother", 
+            "boy", 
+            "girl", 
+            "teacher"
+        ], 
+        [
+            "now", 
+            "again", 
+            "just", 
+            "then"
+        ], 
+        [
+            "before", 
+            "after", 
+            "if", 
+            "until"
+        ], 
+        [
+            "good", 
+            "better", 
+            "well", 
+            "best"
+        ], 
+        [
+            "goes", 
+            "become", 
+            "got", 
+            "turn"
+        ], 
+        [
+            "bottle", 
+            "slingshot", 
+            "stone", 
+            "wall"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "D", 
+        "A", 
+        "D", 
+        "C", 
+        "B", 
+        "C", 
+        "A"
+    ], 
+    "source": "middle493"
+}

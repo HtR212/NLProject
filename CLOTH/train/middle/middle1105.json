@@ -1,0 +1,57 @@
+{
+    "article": "Mr. and Mrs. Jones don't often go out  in the evening  , but last Saturday, Mrs. Jones  _  to her husband, \"There is a good  _  tonight. Can we go and see it?\" Mr. Jones was quite  _  about it, so they went and both of them liked the film very much. They came out of  the cinema  at 11 o'clock, got into their  _  and began to drive home. It was quite dark, then Mrs. Jones said to Mr. Jones, \"Look! A woman is running along the road very  _  , and a man is running after her. Can you see them?\" Mr. Jones said, \"Yes, I can.\" He drove the car slowly near the woman and said to her, \"Can we  _  you?\" \"No, thank you,\" the woman said, but she didn't stop  running  . \"My husband and I always run home after the film, and the  _  one does the cleaning at home.\"", 
+    "options": [
+        [
+            "told", 
+            "talked", 
+            "spoke", 
+            "said"
+        ], 
+        [
+            "film", 
+            "match", 
+            "meeting", 
+            "message"
+        ], 
+        [
+            "angry", 
+            "afraid", 
+            "worried", 
+            "happy"
+        ], 
+        [
+            "seats", 
+            "chairs", 
+            "car", 
+            "train"
+        ], 
+        [
+            "fast", 
+            "slowly", 
+            "late", 
+            "long"
+        ], 
+        [
+            "leave", 
+            "notice", 
+            "help", 
+            "love"
+        ], 
+        [
+            "last", 
+            "angry", 
+            "happy", 
+            "great"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "A", 
+        "D", 
+        "C", 
+        "A", 
+        "C", 
+        "A"
+    ], 
+    "source": "middle1105"
+}

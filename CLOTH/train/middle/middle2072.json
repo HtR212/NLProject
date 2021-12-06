@@ -1,0 +1,57 @@
+{
+    "article": "Mrs. Wilson is my neighbor . She  works  at a post office and she meets lots of people  every day  . She is  _  to everyone and likes helping others. She is over fifty years old,  _  she looks very young . She is of  _  height and thin. She has long, curly, brown  _  . She likes to wear a red T-shirt and jeans. She  _  like a movie star. She really likes  _  shopping on weekends and she always buys many beautiful clothes. She always  _  , \"Old people still want  to be  beautiful! \"People all like her very much.", 
+    "options": [
+        [
+            "friend", 
+            "friendly", 
+            "bad", 
+            "badly"
+        ], 
+        [
+            "or", 
+            "also", 
+            "but", 
+            "and"
+        ], 
+        [
+            "medium", 
+            "very", 
+            "never", 
+            "/"
+        ], 
+        [
+            "beard", 
+            "look", 
+            "hair", 
+            "build"
+        ], 
+        [
+            "looking", 
+            "looks", 
+            "look", 
+            "be"
+        ], 
+        [
+            "go", 
+            "goes", 
+            "going", 
+            "to"
+        ], 
+        [
+            "says", 
+            "speaks", 
+            "tells", 
+            "say"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "A", 
+        "C", 
+        "B", 
+        "C", 
+        "A"
+    ], 
+    "source": "middle2072"
+}

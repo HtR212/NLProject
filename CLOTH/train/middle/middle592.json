@@ -1,0 +1,64 @@
+{
+    "article": "Liangliang is a lovely boy. He lives with his grandparents _ Hefei, Anhui Province. When he _ 2 years old, his parents died   in a car accident. He could play the piano when he was 3, and he could play very _ . But two years ago, there was _ wrong with his right hand. He couldn't play at all .\n _ the help of his grandmother, Liangliang could _ many words with his left hand. And now he _ write very well. He is _ . Many people love him very much.", 
+    "options": [
+        [
+            "at", 
+            "in", 
+            "on", 
+            "/"
+        ], 
+        [
+            "is", 
+            "/", 
+            "was", 
+            "be"
+        ], 
+        [
+            "great", 
+            "good", 
+            "/", 
+            "well"
+        ], 
+        [
+            "something", 
+            "anything", 
+            "everything", 
+            "nothing"
+        ], 
+        [
+            "Under", 
+            "With", 
+            "At", 
+            "Along"
+        ], 
+        [
+            "read", 
+            "speak", 
+            "listen", 
+            "write"
+        ], 
+        [
+            "can", 
+            "could", 
+            "was", 
+            "is"
+        ], 
+        [
+            "lonely", 
+            "beautiful", 
+            "smart", 
+            "boring"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "D", 
+        "A", 
+        "B", 
+        "D", 
+        "A", 
+        "C"
+    ], 
+    "source": "middle592"
+}

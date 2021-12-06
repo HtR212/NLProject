@@ -1,0 +1,71 @@
+{
+    "article": "My name is Bill. I  _  an English boy. I am eleven. This is my school. It is No.4 Middle School. I am  _  Class Two, Grade Seven. Jim is my good  _  .He is an English  _  . My father and mother  _  teachers. They  live  in Beijing now. They  _  English in our school. They love  _  work. I have a sister.Her  _  is Nancy. She is only eight. We all like  _  .", 
+    "options": [
+        [
+            "be", 
+            "am", 
+            "is", 
+            "are"
+        ], 
+        [
+            "to", 
+            "of", 
+            "in", 
+            "out"
+        ], 
+        [
+            "girl", 
+            "teacher", 
+            "brother", 
+            "friend"
+        ], 
+        [
+            "boy", 
+            "girl", 
+            "sister", 
+            "woman"
+        ], 
+        [
+            "is", 
+            "am", 
+            "are", 
+            "be"
+        ], 
+        [
+            "teaching", 
+            "teaches", 
+            "teacher", 
+            "teach"
+        ], 
+        [
+            "our", 
+            "them", 
+            "their", 
+            "they"
+        ], 
+        [
+            "names", 
+            "name's", 
+            "name", 
+            "/"
+        ], 
+        [
+            "she", 
+            "him", 
+            "he", 
+            "her"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "D", 
+        "A", 
+        "C", 
+        "D", 
+        "C", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle2407"
+}

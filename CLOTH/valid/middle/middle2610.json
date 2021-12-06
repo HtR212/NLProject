@@ -1,0 +1,71 @@
+{
+    "article": "My name is Cathy. I'm a fourteen-year-old girl from England. Now I'm _ in a middle school.I have to say that I was not good  _ my lessons before. So I was always afraid of exams.\nLast week I  _  my end-of-year exams. Today I got my report card.  _  , I did very well. My mom and dad said it was the best report. It was  _  main subjects that the report card talked about, and I felt very  _  today. My teachers ticked( ... ) \" _  to improve\",\"Good\" or \"Very good\". My English teacher said my English was much better. For math and science I also  _  \" Very good\" ticks. All my teachers said I was  hard-working And at the end of the report card my head teacher said, \"A very good _ . Well done!\" I am so pleased with it,but I hope I can get a better report next year. I'm sure I can.", 
+    "options": [
+        [
+            "playing", 
+            "working", 
+            "teaching", 
+            "studying"
+        ], 
+        [
+            "in", 
+            "at", 
+            "to", 
+            "for"
+        ], 
+        [
+            "failed", 
+            "opened", 
+            "finished", 
+            "started"
+        ], 
+        [
+            "Luckily", 
+            "Badly", 
+            "But", 
+            "Really"
+        ], 
+        [
+            "his", 
+            "my", 
+            "her", 
+            "their"
+        ], 
+        [
+            "strange", 
+            "scared", 
+            "upset", 
+            "happy"
+        ], 
+        [
+            "Want", 
+            "Need", 
+            "Stop", 
+            "Choose"
+        ], 
+        [
+            "got", 
+            "wrote", 
+            "heard", 
+            "gave"
+        ], 
+        [
+            "report", 
+            "lesson", 
+            "teacher", 
+            "school"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "B", 
+        "C", 
+        "A", 
+        "B", 
+        "D", 
+        "B", 
+        "A", 
+        "A"
+    ], 
+    "source": "middle2610"
+}

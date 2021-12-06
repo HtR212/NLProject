@@ -1,0 +1,57 @@
+{
+    "article": "Jim likes reading very much. One day, he wants to borrow a book from the  _  . He goes there  _  Jack. They can't see  _  librarians, only some robots standing there. Then Jim says to one of  the robots  , \"Hey, give me a book.\" But the robot  _  work. \"  _  is wrong with the robot?\" he asks Jack. Jack tells him, \"When you want  to borrow  something from somebody, you must say '  _  ' first.\" So Jim says, \"Please  give  me a book, Mr. Robot.\" Then the robot brings him the book. But again, Jim can't take the book out of the robot's hand. Jack says, \"You must say 'Thank you' before you take the book.\"  _  Jim says \"Oh, thank you very much, Mr. Robot.\" Then he gets the book he wants from the robot.", 
+    "options": [
+        [
+            "office", 
+            "shop", 
+            "library", 
+            "hospital"
+        ], 
+        [
+            "to", 
+            "with", 
+            "from", 
+            "at"
+        ], 
+        [
+            "a", 
+            "some", 
+            "much", 
+            "any"
+        ], 
+        [
+            "doesn't", 
+            "don't", 
+            "not", 
+            "isn't"
+        ], 
+        [
+            "Which", 
+            "What", 
+            "Who", 
+            "Why"
+        ], 
+        [
+            "Sorry", 
+            "Please", 
+            "Hello", 
+            "Goodbye"
+        ], 
+        [
+            "But", 
+            "For", 
+            "So", 
+            "Or"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "D", 
+        "A", 
+        "B", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle2530"
+}

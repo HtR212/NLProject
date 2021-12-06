@@ -1,0 +1,71 @@
+{
+    "article": "I had a really busy week. There were too many things for me to do, so I couldn't  _  to have a rest. My friend said to me, \"My dear, you look very  _  . Just sit down and  _  .\" But how could I relax myself?  _  Monday to Friday, my schedule was all  _  . Every day, I have two classes.  _  Monday and Wednesday, I practiced piano  _  the evening party. Thursday was my mother's birthday. I  _  her and gave her a wonderful birthday party. Friday was the day for meeting in our school. Anyway , the  _  week was over. Now I  am enjoying  my happy weekend.", 
+    "options": [
+        [
+            "come", 
+            "sing", 
+            "stop", 
+            "spend"
+        ], 
+        [
+            "happy", 
+            "tired", 
+            "boring", 
+            "cute"
+        ], 
+        [
+            "work", 
+            "relax", 
+            "run", 
+            "sleep"
+        ], 
+        [
+            "From", 
+            "For", 
+            "On", 
+            "In"
+        ], 
+        [
+            "cold", 
+            "busy", 
+            "full", 
+            "small"
+        ], 
+        [
+            "In", 
+            "On", 
+            "At", 
+            "To"
+        ], 
+        [
+            "for", 
+            "at", 
+            "in", 
+            "after"
+        ], 
+        [
+            "looked", 
+            "saw", 
+            "visited", 
+            "went"
+        ], 
+        [
+            "busy", 
+            "sad", 
+            "happy", 
+            "free"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "B", 
+        "A", 
+        "C", 
+        "B", 
+        "A", 
+        "C", 
+        "A"
+    ], 
+    "source": "middle2069"
+}

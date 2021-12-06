@@ -1,0 +1,57 @@
+{
+    "article": "Mr. Smith lived in a village. He had  a few  farms and about twenty people working for him. He often told them  to work  hard and be honest. One day he went to a farm and worked with the workers there. Soon it was time  _  lunch. He put some nice bread on the table and went out. A few minutes later, he came back again but he couldn't find the  _  . \"Who  _  the bread on the table?\" he shouted. Some of the workers answered, \"We  _  .\" The others said, \"We saw nothing.\" \"Well,\" said Mr. Smith, \"There are a lot of mice in the rooms, you know. So I put some poison in the bread. If they eat, they will  _  . Then I can kill them.\" As soon as he finished, four workers began to cry. \"Oh, dear!\" \"  What's wrong with you  ?\" asked Mr. Smith. \"We ate the bread when you  _  out. We are going to die.\" One of them cried. \"Don't worry,\" Mr. Smith said  _  a smile. \"I only play a trick on you.\"", 
+    "options": [
+        [
+            "in", 
+            "at", 
+            "for", 
+            "with"
+        ], 
+        [
+            "mice", 
+            "table", 
+            "workers", 
+            "bread"
+        ], 
+        [
+            "eat", 
+            "ate", 
+            "drink", 
+            "drank"
+        ], 
+        [
+            "did", 
+            "didn't", 
+            "do", 
+            "does"
+        ], 
+        [
+            "live", 
+            "living", 
+            "die", 
+            "dead"
+        ], 
+        [
+            "is", 
+            "are", 
+            "was", 
+            "were"
+        ], 
+        [
+            "with", 
+            "for", 
+            "in", 
+            "on"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "D", 
+        "B", 
+        "B", 
+        "C", 
+        "D", 
+        "A"
+    ], 
+    "source": "middle2790"
+}

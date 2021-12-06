@@ -1,0 +1,71 @@
+{
+    "article": "This is Daming. He is  _  good friend. I like playing with him. He is  _  the city,  _  now he is in the countryside  _  his parents. His house is  next to  a river. It's not a tall  _  . There are three  _  in his house. In front of the house,  _  are some flowers. There are some trees behind his house. This is his room. In it there  _  a bed and a desk. He can  _  his homework on the desk. He likes his new house.", 
+    "options": [
+        [
+            "your", 
+            "my", 
+            "his", 
+            "her"
+        ], 
+        [
+            "to", 
+            "behind", 
+            "from", 
+            "front"
+        ], 
+        [
+            "but", 
+            "and", 
+            "or", 
+            "then"
+        ], 
+        [
+            "in", 
+            "on", 
+            "at", 
+            "with"
+        ], 
+        [
+            "building", 
+            "classroom", 
+            "office", 
+            "hospital"
+        ], 
+        [
+            "schools", 
+            "rooms", 
+            "hotels", 
+            "doctors"
+        ], 
+        [
+            "here", 
+            "there", 
+            "these", 
+            "those"
+        ], 
+        [
+            "am", 
+            "are", 
+            "is", 
+            "be"
+        ], 
+        [
+            "play", 
+            "ride", 
+            "do", 
+            "speak"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "A", 
+        "D", 
+        "A", 
+        "B", 
+        "B", 
+        "C", 
+        "C"
+    ], 
+    "source": "middle2423"
+}

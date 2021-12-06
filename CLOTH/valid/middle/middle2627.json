@@ -1,0 +1,43 @@
+{
+    "article": "I'm Mike. I am from England. I study  _  China now. My parents live in China, too. My mother and I want  to go  on a trip to the Great wall. The Great wall is very nice. We can  see  many things there. It is about 400 kilometers  _  my home in China to Beijing. We can go to Beijing by bus, by train or by plane. Taking a plane is the  most expensive  way. Buses are slow. We want to go there by  _  , because a train is cheap and fast. We are leaving  _  7:00 pm tomorrow. And we will  arrive  there on Saturday morning. We will have a trip there for two  _  . We will go back on Monday .When I come back, I will  show  some pictures to my friends.", 
+    "options": [
+        [
+            "on", 
+            "in", 
+            "at", 
+            "of"
+        ], 
+        [
+            "from", 
+            "away", 
+            "on", 
+            "in"
+        ], 
+        [
+            "train.", 
+            "bus", 
+            "plane", 
+            "taxi"
+        ], 
+        [
+            "on", 
+            "in", 
+            "at", 
+            "for"
+        ], 
+        [
+            "hours", 
+            "day", 
+            "days", 
+            "hour"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "A", 
+        "C", 
+        "C"
+    ], 
+    "source": "middle2627"
+}

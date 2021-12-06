@@ -1,0 +1,50 @@
+{
+    "article": "We live in a colourful world. In different countries, colours have  _  meanings. They are used to  _  different holidays. In ancient Rome, a red flag was a  _  for battle .In India, red is the colour of soldiers. In South Africa, red is the colour of mourning .In China, red is the colour of  good luck  and it is often used at  weddings  . In ancient Greece, green represented victory. In England, people  wore  green as a mark of honour . Green is the national colour of Ireland. In India, yellow is for a businessman or a farmer. In China and Japan, people wear white when very sad things happened. When their relatives  are dead  ,they usually wear white. The ancient Greeks wore white to bed to have pleasant  _  .In ancient Rome, public servants wore blue. Today the police still wear  _  .Colours can also represent different  _  . For example, you will be a leader or an active person who enjoys life if you like yellow, orange or red.", 
+    "options": [
+        [
+            "same", 
+            "different", 
+            "some", 
+            "no"
+        ], 
+        [
+            "represent", 
+            "make", 
+            "feel", 
+            "speak"
+        ], 
+        [
+            "strength", 
+            "decision", 
+            "light", 
+            "sign"
+        ], 
+        [
+            "sleep", 
+            "asleep", 
+            "dreams", 
+            "think"
+        ], 
+        [
+            "red", 
+            "white", 
+            "green", 
+            "blue"
+        ], 
+        [
+            "things", 
+            "people", 
+            "feelings", 
+            "stress"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "D", 
+        "C", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle1688"
+}

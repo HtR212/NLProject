@@ -1,0 +1,64 @@
+{
+    "article": "Benjamin Franklin was a great scientist .He was the youngest of the  _  boys in his family . He was a clever boy,  _  cleverer than his nine brothers . He studied in school for only three years . He  liked  to learn new things .He  _  worked on new ideas even when he was a child . There are a lot of stories about him and here's one of them. One day in winter Benjamin Franklin learned from one of his  _  that something black in colour holds heat  _  than something white in colour \" Is that true ?\" he asked himself . He wanted to know the answer. It happened to be a  _  day and there was snow on the ground. He put two large pieces of cloth over the snow . One piece was black in colour and the other was white . The sun shone  _  the two pieces of cloth .Two hours later ,Franklin took off the cloth and found that the snow under the black cloth melted more  _  than the snow under the white cloth. He was happy that he had learned  something  from his friend.", 
+    "options": [
+        [
+            "eihgt", 
+            "nine", 
+            "ten", 
+            "eleven"
+        ], 
+        [
+            "less", 
+            "more", 
+            "little", 
+            "much"
+        ], 
+        [
+            "seldom", 
+            "always", 
+            "hardly", 
+            "never"
+        ], 
+        [
+            "classmates", 
+            "brothers", 
+            "friends", 
+            "teachers"
+        ], 
+        [
+            "slower", 
+            "wore", 
+            "better", 
+            "longer"
+        ], 
+        [
+            "bad", 
+            "fine", 
+            "cloudy", 
+            "rainy"
+        ], 
+        [
+            "beside", 
+            "in", 
+            "on", 
+            "above"
+        ], 
+        [
+            "easily", 
+            "quietly", 
+            "slowly", 
+            "quickly"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "D", 
+        "B", 
+        "C", 
+        "C", 
+        "B", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle1900"
+}

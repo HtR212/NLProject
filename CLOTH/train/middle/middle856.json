@@ -1,0 +1,64 @@
+{
+    "article": "Cloze test.(10,1,10)\nNobody can be happy all the time. You may become unhappy sometimes, for example when you fail an exam. Or you may become sad when you lose one of your friends or relatives. It's _ to have these feelings. If you don't know how to solve these problems, you may _ something from Jeff.\nJeff almost went mad when his _ was killed in a car accident. He refused to play soccer or go to the movies with his friends. Instead ,he just sat in his bedroom and didn't talk to _ ,even his parents. Jeff felt that the world was unfair .He was quite angry with the driver _ his car hit his brother, even though it was an _ .After a few months, Jeff began to understand it was useless to be angry. Now he still _ his brother, but he doesn't hate the driver any longer. He is beginning to talk to his parents and this makes them happy again. He doesn't _ in his room by himself any longer. Instead , he goes to the movies or plays sports with his friends and he is feeling better now.", 
+    "options": [
+        [
+            "unusual", 
+            "normal", 
+            "likely", 
+            "strange"
+        ], 
+        [
+            "stop", 
+            "learn", 
+            "protect", 
+            "hear"
+        ], 
+        [
+            "friend", 
+            "mother", 
+            "father", 
+            "brother"
+        ], 
+        [
+            "somebody", 
+            "everybody", 
+            "anybody", 
+            "nobody"
+        ], 
+        [
+            "although", 
+            "so", 
+            "because", 
+            "while"
+        ], 
+        [
+            "experience", 
+            "experiment", 
+            "accident", 
+            "instruction"
+        ], 
+        [
+            "helps", 
+            "misses", 
+            "likes", 
+            "respects"
+        ], 
+        [
+            "live", 
+            "play", 
+            "lie", 
+            "stay"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "B", 
+        "D", 
+        "C", 
+        "C", 
+        "C", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle856"
+}

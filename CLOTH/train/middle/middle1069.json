@@ -1,0 +1,64 @@
+{
+    "article": "Amy is 13. She lives  _  her parents in Suzhou. She is in Grade 7. From Monday  _  Friday, she goes to school. And she usually wears school clothes. There  _  lots of nice people in her class. Millie, her best friend, always  _  games with her at lunch time. They both enjoy  listening to  the songs of Jay Zhou. She is very busy now. Tomorrow is New Year's Day. They are going to celebrate it  _  their classroom,  _  Amy and Millie are going to the supermarket. They want to buy some  _  : sweets, chocolates, lemons and pears for their classmates. Amy often ate chocolates before, but now she  _  eat them any more because she wants  to be  healthier . Millie loves pears. She is going to buy five kilos of them.", 
+    "options": [
+        [
+            "and", 
+            "with", 
+            "without", 
+            "in"
+        ], 
+        [
+            "on", 
+            "at", 
+            "to", 
+            "and"
+        ], 
+        [
+            "have", 
+            "is", 
+            "be", 
+            "are"
+        ], 
+        [
+            "plays", 
+            "play", 
+            "playing", 
+            "played"
+        ], 
+        [
+            "in", 
+            "on", 
+            "over", 
+            "under"
+        ], 
+        [
+            "because", 
+            "so", 
+            "but", 
+            "and"
+        ], 
+        [
+            "food", 
+            "clothes", 
+            "drink", 
+            "books"
+        ], 
+        [
+            "don't", 
+            "doesn't", 
+            "isn't", 
+            "didn't"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "D", 
+        "A", 
+        "A", 
+        "B", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle1069"
+}

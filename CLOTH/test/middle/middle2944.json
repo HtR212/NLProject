@@ -1,0 +1,64 @@
+{
+    "article": "Dear Nancy, You asked about places to go and things to do in our town. The Downtown Mall is always  _  .lt's a  _  place in the oldest part of town. There are some good stores and restaurants there.  For example  , Trendy Clothing Store is in Downtown Mall. It's a fun place to shop, and it has the  _  quality clothes. The shop assistants are friendly  _  people. My favorite  _  in town is Nick's Restaurant. It's close to my house.It's cheap and the hamburgers there are great. I like Dragon City Restaurant,  _  .You can eat wonderful noodles there and the beef noodles are the most delicious! But it's more expensive than Nick's. The Big Cinema is the best cinema in town.It has the biggest screen and the most  _  seats. The Del Ray Complex is also a good place to see movies .The Del Ray Complex doesn't have  the newest  movies, but the tickets are the cheapest. Anyway, there are lots of things to do and to see here. Come for a  _  soon! Love, Kate", 
+    "options": [
+        [
+            "funny", 
+            "fun", 
+            "silly", 
+            "expensive"
+        ], 
+        [
+            "fishing", 
+            "skating", 
+            "reading", 
+            "shopping"
+        ], 
+        [
+            "better", 
+            "best", 
+            "worse", 
+            "worst"
+        ], 
+        [
+            "with", 
+            "for", 
+            "to", 
+            "at"
+        ], 
+        [
+            "school", 
+            "restaurant", 
+            "hospital", 
+            "park"
+        ], 
+        [
+            "too", 
+            "also", 
+            "either", 
+            "neither"
+        ], 
+        [
+            "dangerous", 
+            "comfortable", 
+            "important", 
+            "boring"
+        ], 
+        [
+            "visit", 
+            "see", 
+            "walk", 
+            "dinner"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "B", 
+        "C", 
+        "B", 
+        "A", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle2944"
+}

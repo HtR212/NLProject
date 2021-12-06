@@ -1,0 +1,64 @@
+{
+    "article": "Once in a small village faraway, there was a place known as the House of 1000 Mirrors.\nA happy little dog learned about this place and decided to visit. When he arrived, he bounced   happily up the stairs to the doorway of the house. He looked through the doorway h his _ lifted high and his tail wagging as fast as it could. To his great _ , he found himself staring at 1000 other happy little dogs with their tails wagging just as fast as his. He smiled a great smile, and was _ with 1000 great smiles. As he left the House, he thought to himself, \"This is a very _ place. I will come back and visit it _ .\"\nIn the same village, another little dog, who was not quite as _ as the first one, decided to visit the house. He slowly climbed the stairs and hung his head low as he _ into the door. When he saw the 1000 unfriendly-looking dogs staring back at him , he growled at them and was horrified to see 1000 little dogs growling back at him. As he left, he thought to himself, \"That is a horrible place, and It will never go back there again.\"\nAll the _ in the world are mirrors. What kinds of reflectios do you see in the faces of people you meet .", 
+    "options": [
+        [
+            "eyes", 
+            "ears", 
+            "nose", 
+            "mouth"
+        ], 
+        [
+            "joy", 
+            "disappointment", 
+            "surprise", 
+            "sadness"
+        ], 
+        [
+            "answered", 
+            "served", 
+            "sent", 
+            "returned"
+        ], 
+        [
+            "special", 
+            "lonely", 
+            "strange", 
+            "wonderful"
+        ], 
+        [
+            "often", 
+            "sometimes", 
+            "seldom", 
+            "never"
+        ], 
+        [
+            "healthy", 
+            "tall", 
+            "happy", 
+            "little"
+        ], 
+        [
+            "knocked", 
+            "looked", 
+            "went", 
+            "ran"
+        ], 
+        [
+            "people", 
+            "faces", 
+            "houses", 
+            "dogs"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "A", 
+        "D", 
+        "A", 
+        "C", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle1851"
+}

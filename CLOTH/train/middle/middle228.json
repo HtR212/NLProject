@@ -1,0 +1,57 @@
+{
+    "article": "I was on my way back home and was very tired. I _ at a restaurant to have breakfast. Right after I placed my order, I saw a man come in. He was carrying a small backpack and looked like he had seen better times. He reached in his pocket and pulled out some _ . He asked the waitress if 38 cents was _ to buy a cup of coffee. She looked at his backpack and said, \" Of course . Have a seat.\" (Coffee was 50 cents a cup at the time.) It really touched me how she had tried to protect his pride and how he hadn't asked for any charity.\nShortly before my _ came, I asked the waitress to come over. I said, \"You know, I am not feeling well. I don't think I am going to be able to eat my breakfast. Do you think there is anyone here who might eat it?\" She first asked if I was OK and then she _ . She said, \"I think so. Are you sure?\" I told her that I was sure.\nShe then walked over to the gentleman and told him that I had ordered food and it was too _ to stop the order but I didn't feel like eating. Would he be so kind as to take it so that they wouldn't have to throw it away? I had walked to the cash register  and was paying for the meal. At the cash register, I asked if they had gift cards. They did. I bought one _ $25.00 and asked them to give it to the gentleman after I left.", 
+    "options": [
+        [
+            "looked", 
+            "stood", 
+            "waited", 
+            "stopped"
+        ], 
+        [
+            "notes", 
+            "tickets", 
+            "change", 
+            "paper"
+        ], 
+        [
+            "enough", 
+            "short", 
+            "good", 
+            "able"
+        ], 
+        [
+            "menu", 
+            "food", 
+            "coffee", 
+            "bill"
+        ], 
+        [
+            "accepted", 
+            "refused", 
+            "understood", 
+            "left"
+        ], 
+        [
+            "early", 
+            "late", 
+            "slow", 
+            "quick"
+        ], 
+        [
+            "at", 
+            "for", 
+            "with", 
+            "by"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "C", 
+        "A", 
+        "B", 
+        "C", 
+        "B", 
+        "B"
+    ], 
+    "source": "middle228"
+}

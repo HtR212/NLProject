@@ -1,0 +1,64 @@
+{
+    "article": "My name is Zhou Jian. I am a(an) _ boy. I'm _ Zhengzhou, China. I'm twelve. I'm a _ . I can play tennis, and I can play basketball, too. I can speak English, _ I can't speak it very well. This is Miss Brown. _ is my English teacher. Her name is Mary _ She is _ We're _", 
+    "options": [
+        [
+            "English", 
+            "Chinese", 
+            "Japanese", 
+            "American"
+        ], 
+        [
+            "from", 
+            "at", 
+            "to", 
+            "in"
+        ], 
+        [
+            "teacher", 
+            "secretary", 
+            "student", 
+            "worker"
+        ], 
+        [
+            "and", 
+            "but", 
+            "so", 
+            "or"
+        ], 
+        [
+            "He", 
+            "She", 
+            "It", 
+            "White"
+        ], 
+        [
+            "Green", 
+            "Smith", 
+            "Brown", 
+            "They"
+        ], 
+        [
+            "China", 
+            "American", 
+            "America", 
+            "Japan"
+        ], 
+        [
+            "friends", 
+            "teachers", 
+            "girls", 
+            "students"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "C", 
+        "B", 
+        "B", 
+        "C", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle444"
+}

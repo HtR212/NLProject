@@ -1,0 +1,50 @@
+{
+    "article": "My classmates and I went to Dalian for vacation. First , we went to the beach . We had great fun  playing  in the water. Then we went shopping. We  bought  lots of interesting things. The next day, it rained , so we went to a museum. It was  _  . I  found  a little boy crying in the corner. He was lost and I helped him  _  his father. That made me  feel  very  _  . I  _  have enough money for a taxi, so I  _  back to the hotel. I was really  _  .", 
+    "options": [
+        [
+            "bore", 
+            "bored", 
+            "boring", 
+            "expensive"
+        ], 
+        [
+            "find", 
+            "found", 
+            "finding", 
+            "finds"
+        ], 
+        [
+            "sad", 
+            "sadly", 
+            "happy", 
+            "happily"
+        ], 
+        [
+            "wasn't", 
+            "doesn't", 
+            "didn't", 
+            "weren't"
+        ], 
+        [
+            "walk", 
+            "walked", 
+            "run", 
+            "running"
+        ], 
+        [
+            "tired", 
+            "busy", 
+            "relaxed", 
+            "relaxing"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "C", 
+        "C", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle2421"
+}

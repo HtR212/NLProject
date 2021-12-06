@@ -1,0 +1,71 @@
+{
+    "article": "Hello ,everyone ! Here is a photo . Do you want to know this girl?Her  _  is Betty .She is  _  England .She is  English  .She is in Beijing with  _  mother .She is  _  Class Six of No. 12 Middle School .She is  _  years old .Her mother is a teacher .She is a good  _  .Look , this girl is me .Who  _  the man next to me ? He is my  _  .He is an American .He is very kind to us .We are good  _  .", 
+    "options": [
+        [
+            "age", 
+            "family", 
+            "class", 
+            "name"
+        ], 
+        [
+            "in", 
+            "from", 
+            "to", 
+            "on"
+        ], 
+        [
+            "his", 
+            "my", 
+            "his", 
+            "her"
+        ], 
+        [
+            "in", 
+            "to", 
+            "with", 
+            "on"
+        ], 
+        [
+            "60", 
+            "3", 
+            "16", 
+            "86"
+        ], 
+        [
+            "teacher", 
+            "student", 
+            "manager", 
+            "doctor"
+        ], 
+        [
+            "am", 
+            "is", 
+            "are", 
+            "be"
+        ], 
+        [
+            "mother", 
+            "teacher", 
+            "father", 
+            "sister"
+        ], 
+        [
+            "friend", 
+            "friends", 
+            "worker", 
+            "American"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "B", 
+        "D", 
+        "A", 
+        "C", 
+        "A", 
+        "B", 
+        "B", 
+        "B"
+    ], 
+    "source": "middle667"
+}

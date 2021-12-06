@@ -1,0 +1,71 @@
+{
+    "article": "This is a  _  of my bedroom. It's a nice  _  . The door is  _  . And a ball is  _  it.  _  desk is near the window. You can see a  _  behind the desk . You can see some  books  and flowers  _  it . I  _  my English books in my school bag. The bag is behind  _  chair.", 
+    "options": [
+        [
+            "picture", 
+            "book", 
+            "map", 
+            "phone"
+        ], 
+        [
+            "classroom", 
+            "room", 
+            "home", 
+            "desk"
+        ], 
+        [
+            "here", 
+            "this", 
+            "that", 
+            "it"
+        ], 
+        [
+            "in", 
+            "on", 
+            "behind", 
+            "at"
+        ], 
+        [
+            "Me", 
+            "I", 
+            "Your", 
+            "My"
+        ], 
+        [
+            "chairs", 
+            "clocks", 
+            "window", 
+            "name"
+        ], 
+        [
+            "on", 
+            "at", 
+            "of", 
+            "an"
+        ], 
+        [
+            "call", 
+            "lost", 
+            "find", 
+            "meet"
+        ], 
+        [
+            "a", 
+            "the", 
+            "an", 
+            "/"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "A", 
+        "C", 
+        "D", 
+        "C", 
+        "A", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle13"
+}

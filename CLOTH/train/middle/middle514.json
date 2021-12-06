@@ -1,0 +1,57 @@
+{
+    "article": "We all know that it is  _  to keep healthy. But not all people know  _  to keep healthy. After five days' hard work, we need to have a good rest at weekends. But it seems that some don't know how to spend weekends in the right way. They enjoy  playing  cards at night and don't go to bed until midnight. Some gamble all night. They forget that to get  enough  sleep is good for health. Some never get up early in the  _  and take some exercise. It is true that doing exercise is very important for us to keep  _  . Some smoke  a lot  . Some drink too much wine .  _  too much is harmful to the body. Some eat too much rich food and get fatter and fatter. If you are much too fat, you may always  _  tired. Vegetables are good to the body. But some don't like eating vegetables.  _  is also very good to body. As a saying goes, \"An apple every day keeps the doctor away.\" So don't forget to eat some fruit.", 
+    "options": [
+        [
+            "important", 
+            "good", 
+            "nice", 
+            "happy"
+        ], 
+        [
+            "when", 
+            "how", 
+            "what", 
+            "why"
+        ], 
+        [
+            "morning", 
+            "afternoon", 
+            "evening", 
+            "day"
+        ], 
+        [
+            "health", 
+            "healthy", 
+            "clear", 
+            "up"
+        ], 
+        [
+            "Drink", 
+            "Drinking", 
+            "Eat", 
+            "Smoke"
+        ], 
+        [
+            "are", 
+            "keep", 
+            "say", 
+            "feel"
+        ], 
+        [
+            "Water", 
+            "Milk", 
+            "Tea", 
+            "Fruit"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "A", 
+        "B", 
+        "B", 
+        "D", 
+        "D"
+    ], 
+    "source": "middle514"
+}

@@ -1,0 +1,43 @@
+{
+    "article": "Once, a king showed two men a large basket in the garden. He told them to fill it with water from a well. After they  _  their work, he left them, saying, \"When the sun is down, I will come and see your work.\" At last one of them said, \"What's the use of doing this foolish work? We can  _  fill the basket.\"  The other  man answered, \"That is none of your business.\" The first man said. \"You may do as you like, but I am not going to work at  _  so foolishly.\" He  threw away  his bucket and went away. The other man said no word, and kept on carrying  _  . At last the well was almost  _  . As he poured the last bucket of water into the basket, he saw a bright thing in it. He  picked it up  . It was a beautiful gold ring. Just then the king came.  As soon as  he saw the ring, he knew that he had found the kind of man he wanted. He told him to keep the ring for himself. \"You  have done  so well in this little thing,\" he said, \" What now I know I can believe you with many things.\"", 
+    "options": [
+        [
+            "finished", 
+            "did", 
+            "began", 
+            "had"
+        ], 
+        [
+            "never", 
+            "also", 
+            "hard", 
+            "always"
+        ], 
+        [
+            "anything", 
+            "something", 
+            "nothing", 
+            "everything"
+        ], 
+        [
+            "water", 
+            "basket", 
+            "well", 
+            "work"
+        ], 
+        [
+            "full", 
+            "empty", 
+            "filled", 
+            "clean"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "A", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle2872"
+}

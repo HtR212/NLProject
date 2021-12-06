@@ -1,0 +1,64 @@
+{
+    "article": "Hello,everyone! Hualing's fantastic sale! You name it,and we  _  it at a very good price. Do you like sweaters?  _  you like them at low prices? We have sweaters  _  all colors for 50 yuan each ! Do you need  _  bag for sports? We have great bags  _  just 6 yuan! For young boys and girls, we  have  T-shirts in red, green, yellow, orange, blue and black for  _  15 yuan! And socks for just 1 yuan!  _  that's not all. Can't you believe it?  Come  here and see for  _", 
+    "options": [
+        [
+            "are", 
+            "buy", 
+            "have", 
+            "do"
+        ], 
+        [
+            "Do", 
+            "Are", 
+            "Does", 
+            "What"
+        ], 
+        [
+            "on", 
+            "in", 
+            "at", 
+            "of"
+        ], 
+        [
+            "a", 
+            "an", 
+            "the", 
+            "/"
+        ], 
+        [
+            "of", 
+            "at", 
+            "for", 
+            "in"
+        ], 
+        [
+            "every", 
+            "price", 
+            "only", 
+            "all"
+        ], 
+        [
+            "And", 
+            "So", 
+            "Only", 
+            "Or"
+        ], 
+        [
+            "your", 
+            "you", 
+            "yourself", 
+            "myself"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "B", 
+        "A", 
+        "C", 
+        "C", 
+        "A", 
+        "C"
+    ], 
+    "source": "middle165"
+}

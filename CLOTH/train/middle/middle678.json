@@ -1,0 +1,57 @@
+{
+    "article": "Children use their parents as models, whether the model is good or bad. My neighbors are very good  _  . Mrs. Goodhouse is a careful housekeeper.  _  she went to work yesterday, her children cleaned the rooms. The eldest daughter took all the carpets  _  and shook them. The middle daughter did all the dishes, and the youngest daughter put the toys  _  good order. The only boy in the family cleaned the furniture. When the children  _  their work, they put beautiful flowers on the table for their mother. Mrs. Frowze is a terrible housekeeper. When she went to work, her children made a big mess. One of  _  drank some coke and threw the bottle. The glass wasn't swept up, and the carpet was made  _  . The rubbish in the kitchen grew  larger  because the children ate bananas and oranges and threw the peels on the floor. One child drew pictures on the wall and rode his bike in the rooms. Both mothers  came  home, but  only one  of them was glad of that.", 
+    "options": [
+        [
+            "facts", 
+            "stories", 
+            "examples", 
+            "friends"
+        ], 
+        [
+            "Before", 
+            "Until", 
+            "Since", 
+            "When"
+        ], 
+        [
+            "outside", 
+            "inside", 
+            "upstairs", 
+            "downstairs"
+        ], 
+        [
+            "at", 
+            "in", 
+            "for", 
+            "with"
+        ], 
+        [
+            "began", 
+            "finished", 
+            "prepared", 
+            "wanted"
+        ], 
+        [
+            "us", 
+            "them", 
+            "you", 
+            "him"
+        ], 
+        [
+            "clean", 
+            "dry", 
+            "dirty", 
+            "neat"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "D", 
+        "A", 
+        "B", 
+        "B", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle678"
+}

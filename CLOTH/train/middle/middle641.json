@@ -1,0 +1,71 @@
+{
+    "article": "Look at this, please. It's  a photo of  my family.  _  man and the woman  _  the middle is my father and mother. On the left is my  _  Mike. And the girl on the right is me. You can see it's a family  _  five people. This is my bedroom. There  _  a clock on my desk, and a computer is on the desk,  _  . My  _  bedroom is over there. You can also see a desk,  _  it's not big. There are  _  flowers and books on it.", 
+    "options": [
+        [
+            "The", 
+            "A", 
+            "An", 
+            "One"
+        ], 
+        [
+            "on", 
+            "at", 
+            "of", 
+            "in"
+        ], 
+        [
+            "sister", 
+            "brother", 
+            "aunt", 
+            "friend"
+        ], 
+        [
+            "for", 
+            "of", 
+            "in", 
+            "at"
+        ], 
+        [
+            "are", 
+            "is", 
+            "be", 
+            "am"
+        ], 
+        [
+            "also", 
+            "then", 
+            "too", 
+            "but"
+        ], 
+        [
+            "brother's", 
+            "brothers'", 
+            "brother", 
+            "brothers'"
+        ], 
+        [
+            "and", 
+            "but", 
+            "or", 
+            "so"
+        ], 
+        [
+            "a", 
+            "any", 
+            "many", 
+            "some"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "B", 
+        "B", 
+        "B", 
+        "C", 
+        "A", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle641"
+}

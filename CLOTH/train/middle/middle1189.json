@@ -1,0 +1,71 @@
+{
+    "article": "One day John was driving down a street in his new car. While he was driving, he saw some kids _ on the street. John slowed down. Suddenly, a brick flew  _ hit the door of John's car.\nJohn stopped and jumped out of the _ . He was very angry and shouted, \" _ threw the brick? What are you doing?\"\nA little boy came up and said, \"I'm sorry. I threw the brick because I need _ help.\" Tears went down the boy's face. Then he pointed _ a young man on the ground. \"That's my elder brother, sir. He fell out of his wheelchair and I can't lift him up. Would you please _ me get him back into his wheelchair? He gets hurt and he's too _ for me to carry.\"\nJohn felt sorry. He helped the boy lift his brother back into the wheelchair. The little boy said thanks to John. John felt happy _ he did a good thing.", 
+    "options": [
+        [
+            "plays", 
+            "playing", 
+            "played", 
+            "play"
+        ], 
+        [
+            "and", 
+            "but", 
+            "so", 
+            "although"
+        ], 
+        [
+            "bus", 
+            "taxi", 
+            "wheelchair", 
+            "car"
+        ], 
+        [
+            "Where", 
+            "What", 
+            "Who", 
+            "Which"
+        ], 
+        [
+            "your", 
+            "his", 
+            "her", 
+            "my"
+        ], 
+        [
+            "in", 
+            "at", 
+            "on", 
+            "for"
+        ], 
+        [
+            "take", 
+            "ask", 
+            "help", 
+            "tell"
+        ], 
+        [
+            "heavy", 
+            "light", 
+            "thin", 
+            "small"
+        ], 
+        [
+            "if", 
+            "while", 
+            "before", 
+            "because"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "D", 
+        "C", 
+        "A", 
+        "B", 
+        "C", 
+        "A", 
+        "D"
+    ], 
+    "source": "middle1189"
+}

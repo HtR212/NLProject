@@ -1,0 +1,71 @@
+{
+    "article": "Escaping a fire is a serious matter. If you know what to do during a fire, you can  _  a life. It is important to know the ways you can use and  _  them to everyone in the family, such as stairs and fire escapes . You shouldn't take lifts. From the lower floors of the building, escape  _  windows is possible. Let's learn the best way of leaving by window with the least chance of serious injury . The first floor window is usually not very high from the  _  . It is about the height of a man. Of course, it is safer to jump a short way than stay in a burning building. Windows are also very useful when you are  _  for help. Be sure to keep the door  _  before opening the window. If we don't do that,  _  and fire may come into the room. Keep your head low at the window to be sure you get  enough  fresh air instead of smoke. On the second or third floor, the best windows for escape are those  _  open onto a roof. From the roof a person can drop to the ground more  _  .Dropping onto the cement might end in injury. Trees and grass can help to break a fall.", 
+    "options": [
+        [
+            "help", 
+            "make", 
+            "save", 
+            "give"
+        ], 
+        [
+            "speak", 
+            "take", 
+            "show", 
+            "say"
+        ], 
+        [
+            "out", 
+            "through", 
+            "into", 
+            "on"
+        ], 
+        [
+            "roof", 
+            "earth", 
+            "land", 
+            "ground"
+        ], 
+        [
+            "needing", 
+            "doing", 
+            "wanted", 
+            "waiting"
+        ], 
+        [
+            "open", 
+            "closing", 
+            "opening", 
+            "closed"
+        ], 
+        [
+            "firemen", 
+            "wind", 
+            "water", 
+            "smoke"
+        ], 
+        [
+            "who", 
+            "what", 
+            "which", 
+            "where"
+        ], 
+        [
+            "dangerously", 
+            "easy", 
+            "safely", 
+            "carefully"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "C", 
+        "B", 
+        "D", 
+        "D", 
+        "D", 
+        "D", 
+        "C", 
+        "C"
+    ], 
+    "source": "middle2650"
+}

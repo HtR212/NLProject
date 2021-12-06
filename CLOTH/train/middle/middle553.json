@@ -1,0 +1,71 @@
+{
+    "article": "A traveler came to a village carrying nothing but an empty pot. He wa  _  but nobody would share their food with him. The traveler then  _  the pot with water, dropped a large stone in it, and placed it  _  a fire in the village square. One of the villagers asked  _  he was doing. The traveler answered: \"I'm making 'stone soup'.\" The villager seemed  _  The traveler continued: \"The soup tastes wonderful but I need some carrots to make  _  more tasty.\" The villager then  _  him some carrots and put them in the pot. Another villager walked by, asking about the pot,  _  he traveler again told him about his stone soup. This time he really needed some meat. The villager brought him some  _  to help him out. More and more villagers walked by. Each added  another  ingredient. Finally, the traveler had a delicious pot of soup. Of course, he shared it with everyone.", 
+    "options": [
+        [
+            "thirsty", 
+            "tired", 
+            "hungry", 
+            "angry"
+        ], 
+        [
+            "compared", 
+            "filled", 
+            "offered", 
+            "provided"
+        ], 
+        [
+            "over", 
+            "above", 
+            "into", 
+            "onto"
+        ], 
+        [
+            "why", 
+            "what", 
+            "where", 
+            "whose"
+        ], 
+        [
+            "worried", 
+            "interested", 
+            "tired", 
+            "moved"
+        ], 
+        [
+            "them", 
+            "their", 
+            "it", 
+            "its"
+        ], 
+        [
+            "took", 
+            "bought", 
+            "brought", 
+            "sold"
+        ], 
+        [
+            "but", 
+            "or", 
+            "until", 
+            "and"
+        ], 
+        [
+            "meat", 
+            "stone", 
+            "carrots", 
+            "cabbage"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "A", 
+        "B", 
+        "B", 
+        "C", 
+        "C", 
+        "D", 
+        "A"
+    ], 
+    "source": "middle553"
+}

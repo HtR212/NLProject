@@ -1,0 +1,64 @@
+{
+    "article": "There are  _  people in my family.  _  are my father, my mother, my brother and I. My father is  thirty eight  .He's a teacher. My mother is 39. She is a teacher,  _  . They work hard.  _  a student. I'm in  Class One  . There  _  sixteen boys and fourteen  _  in my class. There are eighteen desks  _  thirty chairs in the classroom. All  _  classmates are very happy.", 
+    "options": [
+        [
+            "three", 
+            "four", 
+            "five", 
+            "six"
+        ], 
+        [
+            "They", 
+            "Theirs", 
+            "There", 
+            "Them"
+        ], 
+        [
+            "to", 
+            "two", 
+            "too", 
+            "Too"
+        ], 
+        [
+            "I'm", 
+            "He's", 
+            "They're", 
+            "His"
+        ], 
+        [
+            "is", 
+            "am", 
+            "are", 
+            "be"
+        ], 
+        [
+            "boys", 
+            "girles", 
+            "boyes", 
+            "girls"
+        ], 
+        [
+            "and", 
+            "to", 
+            "of", 
+            "with"
+        ], 
+        [
+            "my", 
+            "I", 
+            "me", 
+            "mine"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "C", 
+        "A", 
+        "C", 
+        "D", 
+        "A", 
+        "A"
+    ], 
+    "source": "middle275"
+}

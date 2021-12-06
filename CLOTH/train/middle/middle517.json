@@ -1,0 +1,71 @@
+{
+    "article": "Hello,everyone!  I m  John Green. I'm thirteen years old .  _  is my sister, Kate. She is nine years old. We are  _  England.  _  now we are in China. My father is an English  _  at a school. My mother is a doctor.  _  works in a hospital. They work very hard . At  _  I  _  a good friend. His name is Lin Tao. He is  _  too. He is from Shanghai. He is nice to me and I  _  him.", 
+    "options": [
+        [
+            "Her", 
+            "It", 
+            "This", 
+            "He"
+        ], 
+        [
+            "from", 
+            "for", 
+            "of", 
+            "in"
+        ], 
+        [
+            "And", 
+            "So", 
+            "But", 
+            "/"
+        ], 
+        [
+            "work", 
+            "friend", 
+            "student", 
+            "teacher"
+        ], 
+        [
+            "She", 
+            "Her", 
+            "He", 
+            "Him"
+        ], 
+        [
+            "classroom", 
+            "home", 
+            "school", 
+            "class"
+        ], 
+        [
+            "am", 
+            "is", 
+            "are", 
+            "have"
+        ], 
+        [
+            "ten", 
+            "eleven", 
+            "twelve", 
+            "thirteen"
+        ], 
+        [
+            "spell", 
+            "like", 
+            "see", 
+            "meet"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "C", 
+        "D", 
+        "A", 
+        "C", 
+        "D", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle517"
+}

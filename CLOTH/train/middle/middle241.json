@@ -1,0 +1,71 @@
+{
+    "article": "Dick lived in England. One day in January, he said to his wife: \"I'm going to fly to New York next week _ I've got some work there.\" \"Where are you going to _ there?\" his wife asked. \"I don't know yet,\" Dick answered. \"Please send me your New York _ in a telegram  ,\" his wife said. \"OK,\" Dick answered.\nHe flew to New York and _ a nice hotel in the center of the city. He put his things in his room and then he sent his wife a _ . He put the address of his hotel in it. In the evening he didn't have _ work, so he went to a movie. He came out at nine o'clock and _ to go back to the hotel.\nHe found a taxi and the driver said: \"Where do you want to go?\" But Dick couldn't _ the name and address of his hotel. \"Which hotel are my things in? And what am I going to do tonight?\" he asked. But the driver didn't know _ . So Dick got out and went into a post office. There he sent his wife another telegram, and in it he wrote: \"Please send my address to this post office.\"", 
+    "options": [
+        [
+            "if", 
+            "when", 
+            "so", 
+            "because"
+        ], 
+        [
+            "work", 
+            "visit", 
+            "stay", 
+            "eat"
+        ], 
+        [
+            "number", 
+            "address", 
+            "street", 
+            "photo"
+        ], 
+        [
+            "found", 
+            "opened", 
+            "saw", 
+            "called"
+        ], 
+        [
+            "letter", 
+            "telegram", 
+            "call", 
+            "gift"
+        ], 
+        [
+            "some", 
+            "no", 
+            "none", 
+            "any"
+        ], 
+        [
+            "asked", 
+            "refused", 
+            "decided", 
+            "waited"
+        ], 
+        [
+            "remember", 
+            "forget", 
+            "know", 
+            "see"
+        ], 
+        [
+            "too", 
+            "even", 
+            "ever", 
+            "either"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "C", 
+        "B", 
+        "A", 
+        "B", 
+        "D", 
+        "C", 
+        "A", 
+        "D"
+    ], 
+    "source": "middle241"
+}

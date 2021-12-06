@@ -1,0 +1,64 @@
+{
+    "article": "It's a fine Saturday morning. Kate  _  her father are in a big bus. There are  many  people in it. Some of them  _  from England, and some come from America and Canada. They look  _  . There is a young man. He is tall, heavy, and  _  long blonde hair. But the lady beside him is slender and has short curly hair. They seem  to be  outgoing, because they are  talking  all the time . They are going to the Imperial Palace. There are two  _  in the bus. One is  _  woman. She is  driving  the bus,  the other  is a young man. He  _  English very well. Now he is talking  _  the Imperial Palace.The other people are all  listening to  him . They like the Imperial Palace. They want to  see  it very much.", 
+    "options": [
+        [
+            "but", 
+            "with", 
+            "and", 
+            "by"
+        ], 
+        [
+            "comes", 
+            "come", 
+            "coming", 
+            "is"
+        ], 
+        [
+            "fun", 
+            "funs", 
+            "fan", 
+            "funny"
+        ], 
+        [
+            "has", 
+            "is", 
+            "have", 
+            "are"
+        ], 
+        [
+            "China", 
+            "Chinese", 
+            "Chineses", 
+            "Chinas"
+        ], 
+        [
+            "a", 
+            "an", 
+            "the", 
+            "/"
+        ], 
+        [
+            "speaks", 
+            "says", 
+            "talks", 
+            "tells"
+        ], 
+        [
+            "to", 
+            "about", 
+            "with", 
+            "in"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "D", 
+        "A", 
+        "B", 
+        "A", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle2771"
+}

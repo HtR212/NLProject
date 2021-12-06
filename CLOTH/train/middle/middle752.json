@@ -1,0 +1,64 @@
+{
+    "article": "Everyone in our school  _  sports. Every morning we get up  _  and do morning exercises. After the  _  class we do exercise again. We only have P.E. classes twice a week, but we have physical training at five o'clock every afternoon. The most popular sport is basketball. The boys enjoy  playing  it, and many of the girls like it,  _  .Another popular sport is football and in every class there are  lots of  football fans. We often play football when the weather is  _  .We have school teams in basketball, football and volleyball. Our teams often have friendship matches with teams from other schools. When there is a game, many of us go to  _  it and cheer our side on. Besides (.......) ball games, some of us like track and field even , and we often practice  _  , jumping and throwing. Every term we have tests in these events and once a year we hold a sports meet. Sports keep us healthy and  _", 
+    "options": [
+        [
+            "like", 
+            "loves", 
+            "hates", 
+            "fun"
+        ], 
+        [
+            "early", 
+            "quickly", 
+            "late", 
+            "hard"
+        ], 
+        [
+            "first", 
+            "two", 
+            "three", 
+            "fourth"
+        ], 
+        [
+            "also", 
+            "either", 
+            "well", 
+            "too"
+        ], 
+        [
+            "rainy", 
+            "foggy", 
+            "fine", 
+            "well"
+        ], 
+        [
+            "look", 
+            "watch", 
+            "see", 
+            "play"
+        ], 
+        [
+            "running", 
+            "swimming", 
+            "hiking", 
+            "skating"
+        ], 
+        [
+            "sad", 
+            "fat", 
+            "unhappy", 
+            "Happy"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "D", 
+        "D", 
+        "C", 
+        "B", 
+        "A", 
+        "D"
+    ], 
+    "source": "middle752"
+}

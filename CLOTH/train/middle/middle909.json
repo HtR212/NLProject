@@ -1,0 +1,64 @@
+{
+    "article": "My aunt  has  a clothes store in the city of Hangzhou. It is  _  , but we can find all kinds of Children's clothes in  _  store. The  _  of the clothes are not very high . So many parents like to go to the store and  _  new clothes for their  _  .  _  your daughters need skirts? My aunt has great skirts for  _  45 yuan! You can take different  _  : black, white, red and yellow. For boys, I think the shoes for sports are cool. You can come and see.  Where  is it? It's at No. 98 on Fengqi Road . Its name is Boys' and Girls' Clothes Store.", 
+    "options": [
+        [
+            "big", 
+            "small", 
+            "long", 
+            "shorts"
+        ], 
+        [
+            "my", 
+            "his", 
+            "your", 
+            "her"
+        ], 
+        [
+            "prices", 
+            "money", 
+            "keys", 
+            "cards"
+        ], 
+        [
+            "sell", 
+            "buy", 
+            "have", 
+            "like"
+        ], 
+        [
+            "students", 
+            "children", 
+            "boys", 
+            "girls"
+        ], 
+        [
+            "Do", 
+            "Does", 
+            "Are", 
+            "is"
+        ], 
+        [
+            "lot", 
+            "very", 
+            "little", 
+            "only"
+        ], 
+        [
+            "days", 
+            "colors", 
+            "books", 
+            "sports"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "A", 
+        "B", 
+        "B", 
+        "A", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle909"
+}

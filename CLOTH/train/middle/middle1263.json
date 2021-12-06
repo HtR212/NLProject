@@ -1,0 +1,43 @@
+{
+    "article": "Thomas Edison was born in 1837. He was a famous American  _ . When he was a child, he liked to find out how things worked. He was in school for only three months. He asked his teacher many strange questions. Most of them had  _  to do with his lessons. The teacher thought the boy was not  _  and was not worth  teaching . When he told this to Edison's mother, she  took  her son out of school. As she had been a teacher, she taught him at home. The boy read  a lot , soon he became very interested  _  science when he was ten, Edison had already built a chemistry lab for  _ . Ever since then, he never stopped  searching  for new and better ways  to do  things.", 
+    "options": [
+        [
+            "scientist", 
+            "artist", 
+            "musician", 
+            "chemist"
+        ], 
+        [
+            "anything", 
+            "something", 
+            "everything", 
+            "nothing"
+        ], 
+        [
+            "honest", 
+            "foolish", 
+            "clever", 
+            "brave"
+        ], 
+        [
+            "on", 
+            "in", 
+            "of", 
+            "at"
+        ], 
+        [
+            "herself", 
+            "itself", 
+            "yourself", 
+            "himself"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "C", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle1263"
+}

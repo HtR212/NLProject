@@ -1,0 +1,64 @@
+{
+    "article": "Li Dong is a farmer. He has a very big  _  On the farm, he grows oranges, grapes and bananas. Many people come to  _  his farm. He is a successful young man and becomes very famous. In 2003, he went back to his hometown  _  he finished middle school. \"What work can I do?\" he said to himself. Then he had an idea. \"I'm interested  _  farming. I can grow fruit!\" He began to watch many  _  on TV about growing fruit. He also read a lot of books about it. Then he went to  _  on Mr Wang's farm for two years. He learned a lot there. In 2005, he started his own fruit farm.  At that time  , Li Dong's farm was small. But now, his farm is much  bigger  . His fruits are very good. He sends them to many big  _  in China, such as Shanghai, Beijing and Guangzhou. He also grows vegetables and raises chickens on his farm. His family eats very  _  food. He has a very happy family.", 
+    "options": [
+        [
+            "farm", 
+            "park", 
+            "school", 
+            "shop"
+        ], 
+        [
+            "look", 
+            "take", 
+            "visit", 
+            "notice"
+        ], 
+        [
+            "since", 
+            "after", 
+            "though", 
+            "so"
+        ], 
+        [
+            "in", 
+            "on", 
+            "at", 
+            "for"
+        ], 
+        [
+            "games", 
+            "concerts", 
+            "progammes", 
+            "plays"
+        ], 
+        [
+            "see", 
+            "play", 
+            "eat", 
+            "work"
+        ], 
+        [
+            "villages", 
+            "schools", 
+            "cities", 
+            "farms"
+        ], 
+        [
+            "healthy", 
+            "bad", 
+            "terrible", 
+            "Unhealthy"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "B", 
+        "A", 
+        "C", 
+        "D", 
+        "C", 
+        "A"
+    ], 
+    "source": "middle2851"
+}

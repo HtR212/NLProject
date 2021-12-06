@@ -1,0 +1,71 @@
+{
+    "article": "How is everything going? I'd love to _ you to my birthday party on December 12th. Are you _ then? Please do come. I really miss you. The other _ like Miss Elephant, Mr. Giraffe  and Little Koala  all want to see you, too. We don't think the party will be fun _ you. You are such an interesting friend.\nThe party will start at five. We will have a big _ first. The zoo keeper will _ a lot of delicious food for us. I hear she will also make a big fruit cake. Let's enjoy it _ . Then, we can watch TV in my house. _ we can play some games. Could you please bring your camera ? I'm always dreaming of having a _ with so many friends. I hope you can help me with that.\nI'm looking forward to hearing from you.\nYours,\nMiss Panda", 
+    "options": [
+        [
+            "forget", 
+            "refuse", 
+            "accept", 
+            "invite"
+        ], 
+        [
+            "possible", 
+            "available", 
+            "healthy", 
+            "fresh"
+        ], 
+        [
+            "guests", 
+            "doctors", 
+            "travelers", 
+            "students"
+        ], 
+        [
+            "until", 
+            "for", 
+            "without", 
+            "from"
+        ], 
+        [
+            "meeting", 
+            "meal", 
+            "event", 
+            "show"
+        ], 
+        [
+            "prepare", 
+            "shake", 
+            "peel", 
+            "mix"
+        ], 
+        [
+            "together", 
+            "already", 
+            "almost", 
+            "enough"
+        ], 
+        [
+            "Though", 
+            "But", 
+            "And", 
+            "So"
+        ], 
+        [
+            "walk", 
+            "mirror", 
+            "trip", 
+            "photo"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "B", 
+        "A", 
+        "C", 
+        "B", 
+        "A", 
+        "A", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle2687"
+}

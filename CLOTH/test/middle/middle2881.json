@@ -1,0 +1,43 @@
+{
+    "article": "I have a good friend.  _  name is Mary. She  _  from America. She is  _  China with her father and mother now. She can  _  a little Chinese. She is in No. 15 Middle School in Shanghai. Her father and mother  are teachers  . They are in No. 15 Middle School, too. Mary is a good student. She  goes to  school five days a week. She  likes getting  up early. She  doesn't like  to be late. She often goes to school very early,  _  she is the first to get to the classroom every day. There aren't any students in the classroom at that time. And she is always  at home  on Saturday and Sunday with her parents.", 
+    "options": [
+        [
+            "She", 
+            "He", 
+            "Her", 
+            "His"
+        ], 
+        [
+            "come", 
+            "is", 
+            "are", 
+            "go"
+        ], 
+        [
+            "at", 
+            "in", 
+            "of", 
+            "from"
+        ], 
+        [
+            "say", 
+            "tell", 
+            "talk", 
+            "speak"
+        ], 
+        [
+            "and", 
+            "but", 
+            "so", 
+            "too"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "B", 
+        "D", 
+        "A"
+    ], 
+    "source": "middle2881"
+}

@@ -1,0 +1,57 @@
+{
+    "article": "Nancy is a good student. She  _  in a middle school now. Every day she gets up  at six. She goes to school; at seven. School begins _  eight. She has _  at twelve at school. At four _ the afternoon she _ plays with other _ .  Sometimes she goes home at 5:30. At around seven she _  her homework. She goes to bed  at ten.", 
+    "options": [
+        [
+            "is", 
+            "has", 
+            "are", 
+            "have"
+        ], 
+        [
+            "at", 
+            "in", 
+            "on", 
+            "of"
+        ], 
+        [
+            "breakfast", 
+            "lunch", 
+            "supper", 
+            "dinner"
+        ], 
+        [
+            "in", 
+            "on", 
+            "at", 
+            "with"
+        ], 
+        [
+            "never", 
+            "ever", 
+            "often", 
+            "even"
+        ], 
+        [
+            "student", 
+            "girl", 
+            "boy", 
+            "classmates"
+        ], 
+        [
+            "do", 
+            "does", 
+            "did", 
+            "doing"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "A", 
+        "B", 
+        "A", 
+        "C", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle47"
+}

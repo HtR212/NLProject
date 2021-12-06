@@ -1,0 +1,57 @@
+{
+    "article": "It's seven forty in the morning. The students are coming into the classroom. A girl is opening the windows. _ of the students are laughing and talking .Some are listening to _ .Some are _ books. Others are doing some cleaning.\nMiss Liu is standing behind the _ desk. She is writing _ the blackboard. Sue and Lily are wearing their new dresses today. Ann is cleaning her desk. Mike is helping her. They all _ happy.\n _ are Bill and Jim doing? Oh, dear! They're still playing basketball on the playground ..", 
+    "options": [
+        [
+            "One", 
+            "Some", 
+            "Any", 
+            "Many"
+        ], 
+        [
+            "they", 
+            "their", 
+            "them", 
+            "theirs"
+        ], 
+        [
+            "looking", 
+            "seeing", 
+            "reading", 
+            "watching"
+        ], 
+        [
+            "teacher's", 
+            "teacher", 
+            "teaching", 
+            "student's"
+        ], 
+        [
+            "on", 
+            "in", 
+            "under", 
+            "from"
+        ], 
+        [
+            "sound", 
+            "look", 
+            "watch", 
+            "see"
+        ], 
+        [
+            "Where", 
+            "How", 
+            "When", 
+            "What"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "C", 
+        "A", 
+        "A", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle1331"
+}

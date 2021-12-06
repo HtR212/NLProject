@@ -1,0 +1,71 @@
+{
+    "article": "It is Sunday today. Steve and his parents go to his uncle's home for _ . Steve's uncle Bruce _ a white dog. Its _ is Paul. It's only one year old.\nAfter lunch, Uncle Bruce says, \"I will  go to Sydney, _ I can't take Paul there. You know, I don't want to have a dog in a big city .\"\n\"Can I have Paul, Uncle Bruce?\" says Steve. \"We don't have a _ .\"\nUncle Bruce look at Steve's mother and father.\n\"Please, Mum. Let _ have it,\" says Steve.\n\"You can ask your _ ,\" says Steve's mother.\n\"Please, Dad?\"\n\"Yes, you can have it.\"\n\"Thanks, Dad. Thanks, Uncle Bruce. _ here, Paul. Let's play the ball.\"\n\"Look, the dog is his now.\" Uncle Bruce laughs.\nSteve is _ to be with Paul. It's Steve's favorite now.", 
+    "options": [
+        [
+            "breakfast", 
+            "lunch", 
+            "supper", 
+            "dinner"
+        ], 
+        [
+            "have", 
+            "has", 
+            "is", 
+            "are"
+        ], 
+        [
+            "name", 
+            "book", 
+            "color", 
+            "food"
+        ], 
+        [
+            "and", 
+            "or", 
+            "so", 
+            "but"
+        ], 
+        [
+            "cat", 
+            "dog", 
+            "girl", 
+            "boy"
+        ], 
+        [
+            "I", 
+            "he", 
+            "her", 
+            "me"
+        ], 
+        [
+            "uncle", 
+            "aunt", 
+            "father", 
+            "brother"
+        ], 
+        [
+            "Take", 
+            "Come", 
+            "Go", 
+            "Find"
+        ], 
+        [
+            "interesting", 
+            "boring", 
+            "relaxing", 
+            "happy"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "B", 
+        "A", 
+        "D", 
+        "B", 
+        "D", 
+        "C", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle2710"
+}

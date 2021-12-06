@@ -1,0 +1,71 @@
+{
+    "article": "Walt Disney,the great film-maker was born in Chicago in 1901. His greatest wish was to be a famous  _  . When he was young, he went to a  _  office in a city named Kansas. There he had some friends  _  . He took some pictures with himself and wanted to get a job. But he had no  _  . They looked at the pictures and said, \"Sorry, young man, we don't think there is  _  interesting in your pictures. \" But he didn't lose  _  . He went on to draw pictures. His family was  _  . One day a mouse came into his room and played on the floor. He stopped  drawing  and watched it. The mouse came to him and sat on his desk, so he gave the mouse a piece of bread. Then the mouse came nearer and was given more bread.  _  this way after some days the mouse became his good friend. Disney went to the west of the USA after a few years. He tried to get work as an artist, but he wasn't still  _  . One day he remembered the cute mouse. He picked up his pencil and began to draw. He drew some different pictures of the mouse. He called it Mickey Mouse. Now most people knew and loved him all over the world.", 
+    "options": [
+        [
+            "artist", 
+            "scientist", 
+            "inventor", 
+            "actor"
+        ], 
+        [
+            "book", 
+            "newspaper", 
+            "post", 
+            "photo"
+        ], 
+        [
+            "working", 
+            "living", 
+            "playing", 
+            "doing"
+        ], 
+        [
+            "luck", 
+            "luckily", 
+            "unluckily", 
+            "lucky"
+        ], 
+        [
+            "anything", 
+            "nothing", 
+            "something", 
+            "everything"
+        ], 
+        [
+            "head", 
+            "mind", 
+            "heart", 
+            "idea"
+        ], 
+        [
+            "rich", 
+            "happy", 
+            "poor", 
+            "sad"
+        ], 
+        [
+            "for", 
+            "with", 
+            "in", 
+            "on"
+        ], 
+        [
+            "successful", 
+            "success", 
+            "successfully", 
+            "fail"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "A", 
+        "A", 
+        "A", 
+        "C", 
+        "C", 
+        "C", 
+        "A"
+    ], 
+    "source": "middle823"
+}

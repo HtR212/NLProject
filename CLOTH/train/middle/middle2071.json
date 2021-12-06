@@ -1,0 +1,57 @@
+{
+    "article": "Welcome to Center Street. Center Street is a great place to enjoy _ ,  There are a lot of stores and shops on it. It is a very _ street. If you want to see animals , you can go to the zoo. It is across from the big supermarket. There is also a new _ near the supermarket. It is _ and quiet. You can _ your lunch in it. If you want to see _ , you can go to the movie house. It is _ the supermarket and the park. Our Center Street is very nice.", 
+    "options": [
+        [
+            "yourself", 
+            "himself", 
+            "herself", 
+            "myself"
+        ], 
+        [
+            "quiet", 
+            "dirty", 
+            "busy", 
+            "small"
+        ], 
+        [
+            "library", 
+            "restaurant", 
+            "bank", 
+            "school"
+        ], 
+        [
+            "clean", 
+            "funny", 
+            "fine", 
+            "happy"
+        ], 
+        [
+            "enjoy", 
+            "sell", 
+            "make", 
+            "take"
+        ], 
+        [
+            "books", 
+            "games", 
+            "movies", 
+            "plays"
+        ], 
+        [
+            "down", 
+            "between", 
+            "through", 
+            "next"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "B", 
+        "A", 
+        "A", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle2071"
+}

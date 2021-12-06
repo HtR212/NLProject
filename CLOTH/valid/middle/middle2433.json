@@ -1,0 +1,57 @@
+{
+    "article": "My father is 40. He is a good driver  _  a good father. My father likes  _  sports very much. Every morning, he  gets up  and runs in the People's Park. He also plays basketball. He is so strong and healthy. He always says to me, \"Sports can make us strong.\" My father loves  reading  and his favorite book is Car Fanatics. He likes cars  a lot  .He wants to have an  _  car. It is his dream. I hope I can buy one  _  him in the future. I am  _  only daughter, and my father loves me very much. He buys me anything I want. When I make mistakes( ), he never hits me. He says to me  _  a smile, \"  _  do that again,\" We love each other very much. I hope my father can keep healthy forever.", 
+    "options": [
+        [
+            "and", 
+            "or", 
+            "but", 
+            "so"
+        ], 
+        [
+            "do", 
+            "does", 
+            "doing", 
+            "did"
+        ], 
+        [
+            "Japanese", 
+            "Chinese", 
+            "American", 
+            "British"
+        ], 
+        [
+            "for", 
+            "to", 
+            "with", 
+            "on"
+        ], 
+        [
+            "her", 
+            "his", 
+            "she", 
+            "he"
+        ], 
+        [
+            "on", 
+            "with", 
+            "carrying", 
+            "after"
+        ], 
+        [
+            "Isn't", 
+            "Doesn't", 
+            "Don't", 
+            "can't"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "C", 
+        "A", 
+        "B", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle2433"
+}

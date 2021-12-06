@@ -1,0 +1,64 @@
+{
+    "article": "Johnny lived with his parents in a small town in the mountain. One day there was  _  earthquake near the town. Many houses were damaged . Everyone thought that there would be  another  earthquake soon. They were worried that the second earthquake would be  _  than the first. \"We must send Johnny to a(n)  _  place.\" Johnny's mother said to her husband, \"Many of our friends are sending their children to relatives in other towns.\" \"We'll send him to my brother, Peter,\" Johnny's father said, \"he lives a long way  _  . Johnny will be safe with him.\" He telephoned Johnny's uncle, Peter, and asked him if he would let Johnny  live  with him. \"He's a good boy,\" he said, \"he won't give you any  _  .\" \"All right,\" Johnny's uncle said, \"but I hope he is not  _  . I live a very quiet and peaceful life.\" \"You won't know Johnny's in the house,\" his father told him. So Johnny, who was five,  _  to live with his uncle. Two days later, Johnny's parents  _  a telegram from Peter. It said, \"I am returning the child. Please send an earthquake.\"", 
+    "options": [
+        [
+            "a", 
+            "the", 
+            "an", 
+            "/"
+        ], 
+        [
+            "good", 
+            "bad", 
+            "better", 
+            "worse"
+        ], 
+        [
+            "dangerous", 
+            "safe", 
+            "fine", 
+            "interesting"
+        ], 
+        [
+            "from", 
+            "in", 
+            "away", 
+            "to"
+        ], 
+        [
+            "hope", 
+            "fun", 
+            "trouble", 
+            "joy"
+        ], 
+        [
+            "polite", 
+            "quiet", 
+            "shy", 
+            "noisy"
+        ], 
+        [
+            "went", 
+            "goes", 
+            "returns", 
+            "returned"
+        ], 
+        [
+            "provided", 
+            "got", 
+            "took", 
+            "Bought"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "D", 
+        "B", 
+        "C", 
+        "C", 
+        "D", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle2103"
+}

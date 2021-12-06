@@ -1,0 +1,50 @@
+{
+    "article": "A good dictionary is an important tool. It will tell you not only what a word means but also how it is used. A dictionary needs to be printed again about every ten years. Languages develop and a good dictionary must show these new changes. A new English dictionary will only tell you  _  most people use the language today. It will not tell you what is right  _  wrong. It may tell you the right time to use a word. If only  a few  people use a word, a dictionary will  _  tell you this or not list it. Every dictionary will tell you many interesting facts. If you type a word and the word is too long, look it up in your dictionary. All dictionaries show you  _  to break a word. And they also show you how a word  is spoken  . Every dictionary, of course, tells you what a word means. But some words, like \"get\" or \"take\", may have lots of meanings. In some dictionaries, the main meanings are often listed first. In  others  , the newest meanings are listed last. So before you use your dictionary, you should always  _  the front part. This part explains how to use it. Some dictionaries also show you where a word comes from. Do you know that the word \"brand\" comes from an old word? This old word means \"to burn\". This is because hundreds of years ago people burned their names on tables or boats to show who  _  them. They also burned their own names on their farm animals  so that  they would not be stolen. Your dictionary also has a lot of other interesting facts in it. After you have learned to use a dictionary, it can become your best useful book.", 
+    "options": [
+        [
+            "how", 
+            "what", 
+            "why", 
+            "if"
+        ], 
+        [
+            "and", 
+            "or", 
+            "but", 
+            "not"
+        ], 
+        [
+            "neither", 
+            "nor", 
+            "both", 
+            "either"
+        ], 
+        [
+            "when", 
+            "where", 
+            "why", 
+            "which"
+        ], 
+        [
+            "see", 
+            "watch", 
+            "look", 
+            "read"
+        ], 
+        [
+            "builds", 
+            "makes", 
+            "built", 
+            "made"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "D", 
+        "B", 
+        "D", 
+        "D"
+    ], 
+    "source": "middle2437"
+}

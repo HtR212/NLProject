@@ -1,0 +1,57 @@
+{
+    "article": "My name  _  Bob. I live _  Toronto, Canada, and I want a pen pal in China. I think China is a very  interesting country. I am 14 _ old.And my birthday is _  November. I can _  English and a little  French. I have two brothers. They have  pen pals in the United Kingdom and Australia .I like going to the movies _  my friends and playing sports. My favorite subject in school is PE. It is fun.But I don not like math. It is too difficult!Can you write _ me soon?", 
+    "options": [
+        [
+            "is", 
+            "are", 
+            "am", 
+            "be"
+        ], 
+        [
+            "at", 
+            "on", 
+            "in", 
+            "from"
+        ], 
+        [
+            "year", 
+            "years", 
+            "year's", 
+            "years'"
+        ], 
+        [
+            "in", 
+            "on", 
+            "to", 
+            "from"
+        ], 
+        [
+            "say", 
+            "tell", 
+            "ask", 
+            "speak"
+        ], 
+        [
+            "with", 
+            "for", 
+            "to", 
+            "and"
+        ], 
+        [
+            "from", 
+            "to", 
+            "with", 
+            "For"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "B", 
+        "A", 
+        "D", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle2086"
+}

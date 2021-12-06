@@ -1,0 +1,71 @@
+{
+    "article": "It's Sunday afternoon. It's my son's eighth birthday today. I go into a _ shop to buy a big birthday cake for him.\nThere are lots of people in the shop. When I am looking for a cake, I find a little boy watching the cakes for a long time. He is _ old clothes. At last he chooses a cake. Then he gives money to the shopkeeper and says to her, \"I want the _ cake.\"\n\"Sorry, the cake is 20 yuan, but you only have 10 yuan,\" says the shopkeeper.\n\"I ...I have no more money,\" says the little boy and he begins to cry.\n\"Oh, my boy. Who would you like to _ the birthday cake for?\" I ask.\n\"My mum, madam.\"\n\" _ doesn't she come and buy one?\"\n\"My father left us three years ago,\" the boy says. \"We don't have much _ . My mother has to _ from morning to night every day. She celebrates my birthday every year, but she _ celebrates hers. It's her birthday tomorrow. I want to buy a small cake for her. But I don't have enough money...\"\n\"Oh, my boy! I'm your _ friend,\" I say. \"I will buy her a nice birthday cake.\" I give the money to the shopkeeper and leave the shop.", 
+    "options": [
+        [
+            "cake", 
+            "flower", 
+            "clothes", 
+            "present"
+        ], 
+        [
+            "on", 
+            "at", 
+            "in", 
+            "with"
+        ], 
+        [
+            "small", 
+            "big", 
+            "sweet", 
+            "delicious"
+        ], 
+        [
+            "lend", 
+            "make", 
+            "borrow", 
+            "buy"
+        ], 
+        [
+            "Why", 
+            "How", 
+            "When", 
+            "Where"
+        ], 
+        [
+            "time", 
+            "money", 
+            "food", 
+            "fun"
+        ], 
+        [
+            "study", 
+            "work", 
+            "play", 
+            "think"
+        ], 
+        [
+            "often", 
+            "sometimes", 
+            "always", 
+            "never"
+        ], 
+        [
+            "father's", 
+            "mother's", 
+            "brother's", 
+            "sister's"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "A", 
+        "D", 
+        "A", 
+        "B", 
+        "B", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle1485"
+}

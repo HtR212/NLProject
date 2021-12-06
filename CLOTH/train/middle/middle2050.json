@@ -1,0 +1,71 @@
+{
+    "article": "My cousin Sandy is _ English girl. Her _ name is White. She is 12. The girl is _ . In her room, her books and tape player _ in the bookcase. Her pencil box is on the _ . Her ruler is on the desk, too. And a set _ keys are in her pencil box. A baseball is under the desk, _ it's not Sandy's. It's her brother _ . Sandy has a computer. It's on the table. There is a photo on the wall. Two girls are in the photo. Do you know _ the two girls are? Well, they are Sandy's good friends, Mary and Anna.", 
+    "options": [
+        [
+            "a", 
+            "an", 
+            "the", 
+            "/"
+        ], 
+        [
+            "first", 
+            "given", 
+            "family", 
+            "full"
+        ], 
+        [
+            "tidy", 
+            "fine", 
+            "green", 
+            "nice"
+        ], 
+        [
+            "am", 
+            "is", 
+            "are", 
+            "/"
+        ], 
+        [
+            "table", 
+            "sofa", 
+            "bed", 
+            "desk"
+        ], 
+        [
+            "of", 
+            "in", 
+            "on", 
+            "for"
+        ], 
+        [
+            "and", 
+            "but", 
+            "so", 
+            "no"
+        ], 
+        [
+            "Tom", 
+            "Tom's", 
+            "Alice", 
+            "Alice's"
+        ], 
+        [
+            "/", 
+            "where", 
+            "what", 
+            "Who"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "A", 
+        "C", 
+        "D", 
+        "A", 
+        "B", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle2050"
+}

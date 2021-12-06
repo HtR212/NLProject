@@ -1,0 +1,50 @@
+{
+    "article": "Today is September 1st. It is  the first  day of school. Little Tommy is very  _  because he can see his friends again. He  _  wants to meet his new teachers. He gets up very early. After having his  _  , he goes to  _  . At about 7:20, he gets to school. He  _  his friends on the playground. They talk with each other happily. Then it is time for class. Everyone  goes  to the classroom. Their new English teacher comes into the classroom. Her  name  is Linda Green. She is only twenty  _  old, but she teaches very well. They think she is a good teacher. They all  like  her.", 
+    "options": [
+        [
+            "happy", 
+            "relaxing", 
+            "tired", 
+            "bored"
+        ], 
+        [
+            "too", 
+            "also", 
+            "to", 
+            "don't"
+        ], 
+        [
+            "breakfast", 
+            "lunch", 
+            "supper", 
+            "dinner"
+        ], 
+        [
+            "home", 
+            "store", 
+            "library", 
+            "school"
+        ], 
+        [
+            "goes", 
+            "sees", 
+            "looks", 
+            "watches"
+        ], 
+        [
+            "year", 
+            "years", 
+            "month", 
+            "months"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "A", 
+        "D", 
+        "B", 
+        "B"
+    ], 
+    "source": "middle1015"
+}

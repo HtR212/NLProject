@@ -1,0 +1,71 @@
+{
+    "article": "I'm Sherry, I'm a (n _ and I'm from New York .I'm 13 years old . I'm _ Class 7,Grade 7 .The girl is Mary.  _  is Chinese .She is from Hangzhou, a beautiful  _  .She is  _ years old, too. She  _  in Class 8 . _  are friends. I like China  _ I like Chinese food. My favorite  _  is green ,but Mary likes yellow .", 
+    "options": [
+        [
+            "Chinese", 
+            "China", 
+            "America", 
+            "American"
+        ], 
+        [
+            "on", 
+            "at", 
+            "in", 
+            "under"
+        ], 
+        [
+            "He", 
+            "It", 
+            "She", 
+            "I"
+        ], 
+        [
+            "city", 
+            "country", 
+            "school", 
+            "room"
+        ], 
+        [
+            "13", 
+            "14", 
+            "8", 
+            "9"
+        ], 
+        [
+            "is", 
+            "are", 
+            "aren't", 
+            "isn't"
+        ], 
+        [
+            "They", 
+            "These", 
+            "You", 
+            "We"
+        ], 
+        [
+            "but", 
+            "and", 
+            "or", 
+            "so"
+        ], 
+        [
+            "sport", 
+            "food", 
+            "color", 
+            "lesson"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "C", 
+        "C", 
+        "A", 
+        "A", 
+        "A", 
+        "D", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle2351"
+}

@@ -1,0 +1,50 @@
+{
+    "article": "My home is nice. I have a pet  in my home  and  _  name is Polly. It is a parrot . I like Polly a lot. My classmate, Hu Tao,  _  a pet, too. The name of it is Bobby. It is a dog. Hu Tao  likes  Bobby very much. Do you have  a pet  in your home? I often go to English Corner . I like  _  a lot. I speak English  _  some friends at the English Corner.  _  Hu Tao doesn't like the English Corner. He doesn't like English  at all  . His English is  _  .So I often help him study English.", 
+    "options": [
+        [
+            "it's", 
+            "it", 
+            "its", 
+            "your"
+        ], 
+        [
+            "is", 
+            "like", 
+            "has", 
+            "have"
+        ], 
+        [
+            "it", 
+            "its", 
+            "his", 
+            "it's"
+        ], 
+        [
+            "after", 
+            "with", 
+            "in", 
+            "of"
+        ], 
+        [
+            "And", 
+            "So", 
+            "Or", 
+            "But"
+        ], 
+        [
+            "good", 
+            "OK", 
+            "poor", 
+            "nice"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "C", 
+        "A", 
+        "B", 
+        "D", 
+        "C"
+    ], 
+    "source": "middle1092"
+}

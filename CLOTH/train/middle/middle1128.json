@@ -1,0 +1,71 @@
+{
+    "article": "I'm Li Fen. I have a pen pal. _ name is Mary. She is from Canada. She lives in Toronto. She speaks English. She has _ brother ,but she has no sisters. Her favorite _ is art. Two of my good friends _ pen pals,too. Lu Yang's pen pal is from France .His name is Tony. Tony lives in Paris. He speaks _ .He has one brother and one _ .His favorite subject is PE. And he can play soccer very _ .Ding Lan's pen pal is from _ .Her name is Wendy. Wendy can speak Chinese and English. She _ no brother or sister. Her favorite subject is history.", 
+    "options": [
+        [
+            "His", 
+            "My", 
+            "Her", 
+            "My"
+        ], 
+        [
+            "no", 
+            "one", 
+            "two", 
+            "three"
+        ], 
+        [
+            "book", 
+            "subject", 
+            "actor", 
+            "movie"
+        ], 
+        [
+            "have", 
+            "has", 
+            "is", 
+            "are"
+        ], 
+        [
+            "Chinese", 
+            "Japanese", 
+            "French", 
+            "English"
+        ], 
+        [
+            "car", 
+            "pencil", 
+            "uncle", 
+            "sister"
+        ], 
+        [
+            "good", 
+            "well", 
+            "nice", 
+            "interesting"
+        ], 
+        [
+            "Japanese", 
+            "French", 
+            "English", 
+            "Singapore"
+        ], 
+        [
+            "is", 
+            "are", 
+            "has", 
+            "have"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "B", 
+        "A", 
+        "C", 
+        "D", 
+        "B", 
+        "D", 
+        "C"
+    ], 
+    "source": "middle1128"
+}

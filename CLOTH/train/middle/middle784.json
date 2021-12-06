@@ -1,0 +1,57 @@
+{
+    "article": "It's half past four in the afternoon. _  is ready.There are many things  _  the table--plates,bowls and glasses.We can  see  some meat,eggs and fish  _  the plates.There are some dumplings,noodles and rice.Oh,there is a big round cake in the middle of the  _ .There is  _  to drink and five glasses there. _  of the glasses is full of milk;two of them are full of coffee and the others  _  full of Coke.There are two bottles of apple juice.That's great.They  are all  our favorite food and drink.I'd like  to have  them very much.Why are there so many nice things?It's Timmy's grandmother's birthday.", 
+    "options": [
+        [
+            "Breakfast", 
+            "Lunch", 
+            "Dinner", 
+            "Meals"
+        ], 
+        [
+            "in", 
+            "on", 
+            "under", 
+            "at"
+        ], 
+        [
+            "on", 
+            "in", 
+            "at", 
+            "to"
+        ], 
+        [
+            "plates", 
+            "table", 
+            "bowl", 
+            "bottle"
+        ], 
+        [
+            "anything", 
+            "things", 
+            "something", 
+            "nothing"
+        ], 
+        [
+            "Some", 
+            "One", 
+            "Two", 
+            "Three"
+        ], 
+        [
+            "are", 
+            "is", 
+            "have", 
+            "has"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "A", 
+        "B", 
+        "C", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle784"
+}

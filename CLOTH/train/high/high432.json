@@ -1,0 +1,71 @@
+{
+    "article": "Hi Zhou Ling,\n   How are you? I haven't heard from you for weeks. Is everything ok with you?\n   Do you  _  go to the gym\nevery day? I used to go to the  _  three time a week, but I\ndon't\n  work out  any more. I know another way to  _  slim. Looking good is important to women, isn't it\n?\n  _  young women want a slim figure these days,  _  here in Canada. I'm trying to lose\nweight because I'm so ashamed of my body.  _  I'm\npreparing to act in a new TV show, I'm\ntaking weight-loss pills called Fat-Less, which are quite  _  with young women here. I hope to\nlose at least 10 kilograms.\n   I take two pills a day and don't need to exercise.\n   The pills really  _  ! I'm becoming\nslimmer and slimmer. I've lost 7 kilograms in the last\ntwo months. However, sometimes I don't feel so energetic. My mother, who you met last year, \nkeeps telling me not to take  _  because they are\ndangerous. She says health is the most\nimportant thing, and I agree, but then I look so slim at the moment.", 
+    "options": [
+        [
+            "still", 
+            "already", 
+            "yet", 
+            "just"
+        ], 
+        [
+            "gym", 
+            "station", 
+            "factory", 
+            "lab"
+        ], 
+        [
+            "get", 
+            "stay", 
+            "find", 
+            "receive"
+        ], 
+        [
+            "Mostly", 
+            "Almost", 
+            "Nearly", 
+            "Most"
+        ], 
+        [
+            "specially", 
+            "special", 
+            "especially", 
+            "especial"
+        ], 
+        [
+            "Since", 
+            "After", 
+            "Though", 
+            "If"
+        ], 
+        [
+            "important", 
+            "necessary", 
+            "popular", 
+            "attractive"
+        ], 
+        [
+            "effect", 
+            "do", 
+            "work", 
+            "count"
+        ], 
+        [
+            "it", 
+            "some", 
+            "nothing", 
+            "them"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "A", 
+        "B", 
+        "D", 
+        "C", 
+        "A", 
+        "C", 
+        "C", 
+        "D"
+    ], 
+    "source": "high432"
+}

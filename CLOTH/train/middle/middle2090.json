@@ -1,0 +1,71 @@
+{
+    "article": "Hi, boys and girls!  _ to meet you! I am a pencil box.  _  ! I am white and yellow. I  _  the house of some school things--two  _  and three pens. Two rulers and  _ eraser are here, too.  _  are good friends.\nI have good friends, too. A pencil sharpener and some books. We are  _  a black schoolbag. It is our house. Our owner  is a nice  _ . Her name is Linda. Oh!  What's  this? It's an English dictionary. It's Jane's. Jane is Linda's  _ .They are twins and they love each other very much.", 
+    "options": [
+        [
+            "OK", 
+            "Fine", 
+            "Nice", 
+            "Good"
+        ], 
+        [
+            "Look", 
+            "Spell", 
+            "See", 
+            "Say"
+        ], 
+        [
+            "be", 
+            "is", 
+            "am", 
+            "are"
+        ], 
+        [
+            "books", 
+            "bags", 
+            "chairs", 
+            "pencils"
+        ], 
+        [
+            "/", 
+            "a", 
+            "an", 
+            "the"
+        ], 
+        [
+            "He", 
+            "She", 
+            "They", 
+            "You"
+        ], 
+        [
+            "at", 
+            "in", 
+            "of", 
+            "for"
+        ], 
+        [
+            "aunt", 
+            "uncle", 
+            "boy", 
+            "girl"
+        ], 
+        [
+            "brother", 
+            "sister", 
+            "cousin", 
+            "mother"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "C", 
+        "D", 
+        "C", 
+        "C", 
+        "B", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle2090"
+}

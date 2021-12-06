@@ -1,0 +1,71 @@
+{
+    "article": "If you go to a supermarket and find that there is no cashiers , would you still pay for your things? People in our  _  are having a test of honesty now. The supermarket here has a special area. This area sells  _  things like pens and knives. People need to scan their things, and put the  _  into the cash desk all by themselves.  _  watches them. By now, the supermarket runs very  _  . People say they enjoy the feeling of being honest. Once I go to the supermarket to buy a note book. When I am ready to pay, I find I have no  _  on me. I am just going to put the note book  _  when a neighbour of mine sees me. He knows what my  problem  is. And he says he will be glad to  _  me five yuan. I thank him and pay the note book  _  the money. Do you think the supermarket is doing a great job? And will you be glad to pay when you are in such a supermarket?", 
+    "options": [
+        [
+            "school", 
+            "class", 
+            "neighborhood", 
+            "grade"
+        ], 
+        [
+            "important", 
+            "expensive", 
+            "small", 
+            "pecial"
+        ], 
+        [
+            "things", 
+            "money", 
+            "price", 
+            "name"
+        ], 
+        [
+            "Somebody", 
+            "Nobody", 
+            "Everybody", 
+            "Anybody"
+        ], 
+        [
+            "well", 
+            "bad", 
+            "right", 
+            "poor"
+        ], 
+        [
+            "change", 
+            "book", 
+            "box", 
+            "pockets"
+        ], 
+        [
+            "away", 
+            "back", 
+            "home", 
+            "in"
+        ], 
+        [
+            "lend", 
+            "take", 
+            "borrow", 
+            "spend"
+        ], 
+        [
+            "for", 
+            "of", 
+            "about", 
+            "with"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "C", 
+        "B", 
+        "B", 
+        "A", 
+        "A", 
+        "B", 
+        "A", 
+        "D"
+    ], 
+    "source": "middle1668"
+}

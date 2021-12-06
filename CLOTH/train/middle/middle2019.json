@@ -1,0 +1,50 @@
+{
+    "article": "Whom do you admire ? Someone famous or someone not famous?\nIf you're a sports fan, perhaps you admire most is a great  _ . David Beckham and Tiger Woods are probably the  _  you admire. If you study music or  _  an instrument , perhaps the person you admire most is a  _  composer  like Beethoven. Maybe you admire some actors and actresses like action stars from older movies, for example, Bruce Le. Often the people we admire are famous. Sometimes we admire not  _  famous people either. They  might be  everyday people, who work behind the sense to make our lives more comfortable, like nurses, taxi drivers, firemen, and cleaners. Of all these people spend their working day  performing  service to the public. They show great dedication . They may not be famous and their work may not even be noticed  _  many people, but all of our lives would be  less comfortable  if they did not do their jobs. So next time  when  you appreciate  famous people, don't forget the importance of those who are not so famous.", 
+    "options": [
+        [
+            "singer", 
+            "star", 
+            "athletic", 
+            "writer"
+        ], 
+        [
+            "one", 
+            "ones", 
+            "these", 
+            "that"
+        ], 
+        [
+            "play", 
+            "do", 
+            "make", 
+            "have"
+        ], 
+        [
+            "frustrated", 
+            "excited", 
+            "surprised", 
+            "talented"
+        ], 
+        [
+            "too", 
+            "quite", 
+            "so", 
+            "very"
+        ], 
+        [
+            "by", 
+            "with", 
+            "at", 
+            "on"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "A", 
+        "D", 
+        "C", 
+        "A"
+    ], 
+    "source": "middle2019"
+}

@@ -1,0 +1,57 @@
+{
+    "article": "This boy is Jim Green. His  _  name is Jim. His  _  name is Green. This is  _  school. His school  telephone  number is 34068567. His teacher is Miss White. Miss White  _  a good teacher. Li Ming is a Chinese boy. Li Ming is his good  _  at school. Look!  _  a schoolbag. Is the schoolbag  Li Ming's  ? I  don't  know. Let's  _  Li Ming at 495-6548.", 
+    "options": [
+        [
+            "first", 
+            "family", 
+            "last", 
+            "full"
+        ], 
+        [
+            "first", 
+            "good", 
+            "well", 
+            "last"
+        ], 
+        [
+            "you", 
+            "that", 
+            "his", 
+            "her"
+        ], 
+        [
+            "am", 
+            "is", 
+            "are", 
+            "be"
+        ], 
+        [
+            "father", 
+            "friend", 
+            "boy", 
+            "brother"
+        ], 
+        [
+            "What's", 
+            "Its", 
+            "That's", 
+            "Where's"
+        ], 
+        [
+            "ask", 
+            "spell", 
+            "find", 
+            "call"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "C", 
+        "B", 
+        "B", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle341"
+}

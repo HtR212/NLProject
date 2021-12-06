@@ -1,0 +1,64 @@
+{
+    "article": "Dear Linda, How are you? I'm very  _  to have your letter. Let me tell you  _  about my life in China. I think you want to know it . I live in Jeff's home  _  the middle of the city. Jeff is my classmate. We are in the  _  class. We often help each other. I teach him English and he  teaches  me Chinese. Now, I can talk with them  _  Chinese. Sometimes I learn  _  to make Chinese food. Hmm! How much I like Chinese food! My school is not  _  . I go there on foot. I have six classes  every day  . After school, I play games with my classmates. I have a very good time here . I think you can come here when you are free. Please write soon! Love  _  Jim", 
+    "options": [
+        [
+            "happy", 
+            "sorry", 
+            "welcome", 
+            "late"
+        ], 
+        [
+            "something", 
+            "anything", 
+            "nothing", 
+            "any"
+        ], 
+        [
+            "on", 
+            "in", 
+            "at", 
+            "of"
+        ], 
+        [
+            "big", 
+            "small", 
+            "same", 
+            "some"
+        ], 
+        [
+            "with", 
+            "of", 
+            "on", 
+            "in"
+        ], 
+        [
+            "what", 
+            "how", 
+            "when", 
+            "which"
+        ], 
+        [
+            "far", 
+            "near", 
+            "big", 
+            "beautiful"
+        ], 
+        [
+            "of", 
+            "with", 
+            "for", 
+            "from"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "B", 
+        "A", 
+        "D"
+    ], 
+    "source": "middle1481"
+}

@@ -1,0 +1,64 @@
+{
+    "article": "Allan comes from America. His father works in Beijing and his family come to  _  , too. The boy is studying in our school. He is only fourteen, but he is  _  than the other boys. So he sits in Row Six. Allan's father has a  _  , but Allan comes to school by bus or by bike. Sometimes he  _  here. He likes playing football. So he's  the strongest  in our class. He can put the pictures and maps on the wall. Allan can  _  English and French. And he knows a little Chinese, too. He often helps Miss Gao to  _  us English. After class we often talk in English or in Chinese. He tells us something about his country. It's Mid-Autumn Day today. After  _  I ask the American boy to my home to have dinner. My parents give him  much  moon cakes. He likes them very much and eats a lot. He says they are  _  , so we give him some and ask him to take them to his parents before he leaves.", 
+    "options": [
+        [
+            "Canada", 
+            "America", 
+            "England", 
+            "China"
+        ], 
+        [
+            "longer", 
+            "taller", 
+            "younger", 
+            "older"
+        ], 
+        [
+            "car", 
+            "plane", 
+            "ship", 
+            "train"
+        ], 
+        [
+            "jumps", 
+            "sits", 
+            "runs", 
+            "stands"
+        ], 
+        [
+            "say", 
+            "speak", 
+            "read", 
+            "write"
+        ], 
+        [
+            "ask", 
+            "make", 
+            "teach", 
+            "count"
+        ], 
+        [
+            "breakfast", 
+            "work", 
+            "lunch", 
+            "school"
+        ], 
+        [
+            "bad", 
+            "delicious", 
+            "big", 
+            "round"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "B", 
+        "A", 
+        "C", 
+        "B", 
+        "C", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle2667"
+}

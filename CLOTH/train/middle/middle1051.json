@@ -1,0 +1,71 @@
+{
+    "article": "Mrs. Black was a famous musician a few years ago. She _ music at a school and her students did well in their lessons. They liked her very much. Now the old woman stays at home with her husband. The old man looks after his wife well and she _ worries about anything. And she is very _ .\nJust like some old people, Mrs. Black finds that her memory  is falling. Sometimes she _  what she did or will do. It often gets her in trouble. Her _ noticed  it and asked her to see a famous doctor. He bought two tickets _ London and told her he put _ into her handbag while she was playing the piano. The next morning, they got to the\n airport just on time to catch the plane. Mrs. Black said,\"I wish we had the _ with us.\"\n\"Don't be a fool, dear!\"said Mr. Black,\"We are not going to a concert, but to see a\n _ .\"\n\"I know,\"she said,\"but I left the tickets on it!\"", 
+    "options": [
+        [
+            "loved", 
+            "taught", 
+            "enjoyed", 
+            "studied"
+        ], 
+        [
+            "always", 
+            "often", 
+            "never", 
+            "sometimes"
+        ], 
+        [
+            "sorry", 
+            "worried", 
+            "sad", 
+            "happy"
+        ], 
+        [
+            "forget", 
+            "remember", 
+            "forgets", 
+            "remembers"
+        ], 
+        [
+            "husband", 
+            "daughter", 
+            "son", 
+            "student"
+        ], 
+        [
+            "to", 
+            "in", 
+            "from", 
+            "of"
+        ], 
+        [
+            "it", 
+            "them", 
+            "this", 
+            "that"
+        ], 
+        [
+            "money", 
+            "music", 
+            "tickets", 
+            "piano"
+        ], 
+        [
+            "doctor", 
+            "film", 
+            "play", 
+            "house"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "D", 
+        "C", 
+        "A", 
+        "A", 
+        "B", 
+        "D", 
+        "A"
+    ], 
+    "source": "middle1051"
+}

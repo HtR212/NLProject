@@ -1,0 +1,71 @@
+{
+    "article": "Mrs. Green has _ children ,one is Tom, the other is Ann.Tom is seven years old, and Ann is two years younger. Tom goes to school,but Ann _ .When Tom is at home, he often _ with Ann.Usually he's very  _ to his little sister.\nOne day the two children are playing  _ the garden,Ann begins to cry. Their mother  _ over and asks ,\" _ are you crying ,Ann?\"\n\"Tom breaks my toy dog,\"says Ann.\n\" _ does he break it?\"\n\"I hit  him on the head  _ it,\"says Ann.", 
+    "options": [
+        [
+            "one", 
+            "two", 
+            "three", 
+            "four"
+        ], 
+        [
+            "doesn't", 
+            "does", 
+            "don't", 
+            "asks"
+        ], 
+        [
+            "does", 
+            "asks", 
+            "makes", 
+            "plays"
+        ], 
+        [
+            "long", 
+            "friendly", 
+            "boring", 
+            "interesting"
+        ], 
+        [
+            "on", 
+            "in", 
+            "at", 
+            "through"
+        ], 
+        [
+            "runs", 
+            "flies", 
+            "swims", 
+            "boats"
+        ], 
+        [
+            "What", 
+            "Why", 
+            "How", 
+            "Who"
+        ], 
+        [
+            "What", 
+            "Why", 
+            "How", 
+            "Who"
+        ], 
+        [
+            "in", 
+            "on", 
+            "at", 
+            "with"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "D", 
+        "B", 
+        "B", 
+        "A", 
+        "B", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle1250"
+}

@@ -1,0 +1,64 @@
+{
+    "article": "This is my friend, Chen Hong. She _ a student. She is from Xi'an. What colour are _ eyes? _ are black. And they _ big. She likes pants. Her favourite colour is _ . _ , she's wearing a red sweater and a pair of white shoes. Her legs are very _ . So  her pants are very long. Where _ she now? She is in the classroom.", 
+    "options": [
+        [
+            "be", 
+            "am", 
+            "is", 
+            "are"
+        ], 
+        [
+            "her", 
+            "she", 
+            "he", 
+            "his"
+        ], 
+        [
+            "It", 
+            "He", 
+            "She", 
+            "They"
+        ], 
+        [
+            "be", 
+            "am", 
+            "is", 
+            "are"
+        ], 
+        [
+            "red", 
+            "green", 
+            "brown", 
+            "gray"
+        ], 
+        [
+            "Watch", 
+            "Know", 
+            "Look", 
+            "Call"
+        ], 
+        [
+            "short", 
+            "long", 
+            "big", 
+            "heavy"
+        ], 
+        [
+            "be", 
+            "is", 
+            "does", 
+            "are"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "D", 
+        "D", 
+        "A", 
+        "C", 
+        "B", 
+        "B"
+    ], 
+    "source": "middle2417"
+}

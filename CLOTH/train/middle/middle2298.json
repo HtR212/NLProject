@@ -1,0 +1,57 @@
+{
+    "article": "Do you know anything interesting about colors? Do you know that colors can affect our _ ? Colors can change our moods and make us feel happy or sad, energetic or sleepy. This report explains what colors can do and the characteristics they represent.\nCalm colors. Have you ever walked into a room and felt _ ? It could be because the walls were painted blue, a calm and peaceful color.\nSome colors make us feel calm and peaceful. Blue is one of these colors. Wearing blue clothes or sleeping in a blue room is good for the mind and body because this color creates the feeling of harmony. Blue can also represent _ . Someone who is feeling sad may say \" I'm feeling blue.\"\nWarm colors. Some colors can make you feel warm. These colors give you a happy and contented  feeling. People who live in _ climates prefer to use warm colors to give their homes a warm and comfortable feel. They would rather use colors like orange and yellow.\nOrange is one of the warm colors. It represents joy. Orange can bring you success and cheer you up when you are feeling sad. Another warm color is yellow. Yellow is the color of the sun, so it can _ you of a warm, sunny day. Yellow is also the color of wisdom. Some people like to use this color when they study for exams. For example, they may use yellow stationery  . \nEnergetic colors. Anybody who _ tired or weak should wear colors that make you feel energetic. Green can give you energy, as it represents new life and growth. It is the color of nature, but it is also the color of money and envy.\nStrong colors. If you are somebody who needs physical strength, you should wear red clothes. Red represents _ and it is also the color of heat and strong feelings. Wearing red makes it easier for you to take action. This can help when you are having difficulty making a decision.", 
+    "options": [
+        [
+            "body", 
+            "feel", 
+            "moods", 
+            "clothes"
+        ], 
+        [
+            "happy", 
+            "sad", 
+            "excited", 
+            "relaxed"
+        ], 
+        [
+            "fairness", 
+            "sadness", 
+            "kindness", 
+            "happiness"
+        ], 
+        [
+            "warm", 
+            "hot", 
+            "cool", 
+            "cold"
+        ], 
+        [
+            "call", 
+            "remember", 
+            "remind", 
+            "give"
+        ], 
+        [
+            "get", 
+            "got", 
+            "feel", 
+            "feels"
+        ], 
+        [
+            "money", 
+            "jobs", 
+            "family", 
+            "power"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "D", 
+        "B", 
+        "D", 
+        "C", 
+        "D", 
+        "D"
+    ], 
+    "source": "middle2298"
+}

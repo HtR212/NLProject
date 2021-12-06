@@ -1,0 +1,71 @@
+{
+    "article": "Once upon a time, there was an owl  in the middle of a dark forest. All the animals knew that he was the wisest among _ of them. So they often went to him and told him their problems. Then the owl always told them _ to solve their problems.\nOne day, a little bird came to the owl. She was _ .\n\"What's wrong with you?\" asked the owl.\n\"I'm not happy at all, Mr. Owl . I don't want to be a bird any more. \"the bird _ \n\" Why don't you want to be a(n) _ ?\" asked the owl.\n\"Because I am so small and weak, \"she cried. \"I want to be as big and strong as the lion. He is important, but I am not. \"\nThen the owl said _ in her ear. Then the bird dried her tears and _ away. One week later, the bird came back. \"Thank you very much, Mr. Owl. You are so _ ,\"she said to the owl. \"I'm very happy now. Every day, I watch out for  lions and tigers. _ they come near, I shout as loudly as I can. Then they all run and hide. They often thank me for that. I am useful and important now. \"\nThe wise owl smiled and said: \"Dear, no one in the world is useless.\"", 
+    "options": [
+        [
+            "both", 
+            "all", 
+            "either", 
+            "none"
+        ], 
+        [
+            "how", 
+            "why", 
+            "what", 
+            "when"
+        ], 
+        [
+            "crying", 
+            "smiling", 
+            "singing", 
+            "sleeping"
+        ], 
+        [
+            "agreed", 
+            "advised", 
+            "replied", 
+            "asked"
+        ], 
+        [
+            "lion", 
+            "bird", 
+            "tiger", 
+            "owl"
+        ], 
+        [
+            "nothing", 
+            "everything", 
+            "anything", 
+            "something"
+        ], 
+        [
+            "ran", 
+            "flew", 
+            "drove", 
+            "swam"
+        ], 
+        [
+            "bright", 
+            "silly", 
+            "polite", 
+            "impolite"
+        ], 
+        [
+            "After", 
+            "When", 
+            "So", 
+            "But"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "A", 
+        "C", 
+        "B", 
+        "D", 
+        "B", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle474"
+}

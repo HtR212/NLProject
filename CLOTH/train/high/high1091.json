@@ -1,0 +1,64 @@
+{
+    "article": "Without a shadow of a doubt, my grandfather is the single most influential person in my life. He was more than just my grandfather and I'm proud to say, my  _  . As a child there was no safer place than the security of his lap. I would watch horror movies on TV from behind his recliner. The monsters wouldn't dream of  coming for  me there! He taught me how to appreciate beautiful foods. I remember, at age 5.  _  on a chair by the stove as he taught me how to make scrambled eggs. He was warm, loving, firm and straightforward. He had a  _  of accepting whatever came his way with no  _  than a shrug. His deep faith carried him through what life had to offer. He loved baseball ( especially the Pittsburgh Pirates- except when they  lost  a game! ). He would often have one game on television while listening to another on his radio and he could tell you what was going on in both games. When he  _  90, his other grandson, Bill, gave him an autographed photo of Willie Stargell, his favorite Pirate player. He was so  _  of that birthday present. He was seldom sick. He just wouldn't  slow down  . Various family members often joked that he would be pushing all of us around the block in wheelchairs as he jogged. Some people have a small garden in their backyard. My grandfather had a huge  _  . He would grow some flowers and vegetables. He always had something to do and it was  _  done well. Whenever anything was broken, it was taken to my grandfather. At the age of 92 , he  passed away  . Father of three, grandfather of three, great-grandfather of ten, friend of countless individuals, this remarkable man touched all of our lives and we are better for the experience. I love you, grandpa.", 
+    "options": [
+        [
+            "grandpa", 
+            "friend", 
+            "colleague", 
+            "opponent"
+        ], 
+        [
+            "jumping", 
+            "lying", 
+            "climbing", 
+            "standing"
+        ], 
+        [
+            "day", 
+            "place", 
+            "way", 
+            "time"
+        ], 
+        [
+            "longer", 
+            "more", 
+            "less", 
+            "better"
+        ], 
+        [
+            "neared", 
+            "passed", 
+            "grew", 
+            "turned"
+        ], 
+        [
+            "proud", 
+            "tired", 
+            "excited", 
+            "crazy"
+        ], 
+        [
+            "kitchen", 
+            "library", 
+            "tower", 
+            "garden"
+        ], 
+        [
+            "rarely", 
+            "scarcely", 
+            "always", 
+            "merely"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "C", 
+        "B", 
+        "D", 
+        "A", 
+        "D", 
+        "C"
+    ], 
+    "source": "high1091"
+}

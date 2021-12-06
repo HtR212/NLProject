@@ -1,0 +1,50 @@
+{
+    "article": "Tonny and Frank were talking about the year 2070. \"What will  the world  be like in the year 2070?\" asked Tonny. \"I don't know, \" said Frank, \"What do you think?\" \"Well, no one knows. But it is  interesting  to guess, \"said Tonny, \"In the year 2070, everybody will  _  a pocket computer. The computer will give people the  _  to all their problems. We shall all have telephones in our pockets,  _  . And we'll be able to talk to our friends all over the world. Perhaps we'll be able to  _  them at the same time. Machines will do  _  of the work, and people will have more  _  . Maybe they will work only two or three days a week. They will  be able to  fly to the moon by spaceship and spend their holidays there, \" \"I'm very glad to hear that. I hope to fly to the moon. And I hope I'll be able to live  in the sea  ,\" said Frank, \"Won't that be interesting? Just like a fish. \"", 
+    "options": [
+        [
+            "carry", 
+            "bring", 
+            "give", 
+            "send"
+        ], 
+        [
+            "news", 
+            "ways", 
+            "information", 
+            "answers"
+        ], 
+        [
+            "either", 
+            "again", 
+            "too", 
+            "also"
+        ], 
+        [
+            "call", 
+            "see", 
+            "look", 
+            "listen"
+        ], 
+        [
+            "most", 
+            "many", 
+            "lot", 
+            "every"
+        ], 
+        [
+            "work", 
+            "duty", 
+            "holidays", 
+            "times"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "C", 
+        "B", 
+        "A", 
+        "C"
+    ], 
+    "source": "middle2600"
+}

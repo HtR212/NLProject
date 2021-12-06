@@ -1,0 +1,57 @@
+{
+    "article": "Tom is a middle school student. He is studying in Grade 7. He usually  gets up  at 7:00 o'clock in the morning.  _  today he gets up at 6:30 and goes to buy a big cake. After that he helps his grandparents clean their room, because it is his  _  birthday. His grandpa is going to be 78 years old. Tom  buys  two CDs about Beijing Opera  _  his grandpa. He is sure his grandpa would like  _  very much, because his grandpa likes listening to Beijing Opera. When Tom  gets  home at noon, his mother is making noodles with his grandma. They are laughing and talking about something happily. His grandpa is drinking tea  _  listening to Beijing Opera. Tom says, \"Happy birthday to you, Grandpa!\" Then he cuts the big cake and gives grandpa a  _  piece. Grandpa is very happy and eats it. In the evening, Tom watches TV with his grandparents together. He is a little  _  but very happy, because he can make his grandparents happy.", 
+    "options": [
+        [
+            "But", 
+            "Because", 
+            "So", 
+            "Or"
+        ], 
+        [
+            "mother's", 
+            "father's", 
+            "grandpa's", 
+            "grandma's"
+        ], 
+        [
+            "to", 
+            "for", 
+            "with", 
+            "at"
+        ], 
+        [
+            "it", 
+            "her", 
+            "them", 
+            "him"
+        ], 
+        [
+            "or", 
+            "but", 
+            "and", 
+            "so"
+        ], 
+        [
+            "light", 
+            "bad", 
+            "small", 
+            "big"
+        ], 
+        [
+            "sad", 
+            "tired", 
+            "worried", 
+            "excited"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "B", 
+        "C", 
+        "C", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle1045"
+}

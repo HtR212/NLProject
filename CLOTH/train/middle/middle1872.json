@@ -1,0 +1,71 @@
+{
+    "article": "The weather is something no one can control. Maybe that is  _  there are so many expressions about the weather, especially about  _  . Sometimes, when you need rain, you do not get any. Other times, you get rain when you don't need it.  _  a baseball game for example, a sudden rainstorm can stop an exciting game. If the game cannot continue, people who bought the tickets are given \"rain checks\". These are  _  tickets that will let them see a  _  game for free. \"Rain Check\" now means a second chance at something. Shops may offer \"rain checks\" when they sell out all of a product -- a television set, for example, at a special low price.  _  all the TV sets have been sold out, the shop gives rain checks to those who wanted to buy  _  . The rain check allows a person to buy the TV set later at the same low price after the shop receives some  _  TV sets from the factory. \"Rain Check\" is also used in social situations. It's a way of  _  an invitation, but for a later time. You may ask for a \"Rain Check\" if you are invited to a friend's house for dinner, but can't be there right now. You say, \"I would love to go, but I'm busy. Could I have a rain check?\"  In fact  you are asking if you could have dinner with your friend at another time. It seems that your friend will probably ask you to dinner very soon next time.", 
+    "options": [
+        [
+            "what", 
+            "where", 
+            "why", 
+            "when"
+        ], 
+        [
+            "weather", 
+            "cloud", 
+            "sky", 
+            "rain"
+        ], 
+        [
+            "Bring", 
+            "Take", 
+            "Give", 
+            "Carry"
+        ], 
+        [
+            "beautiful", 
+            "special", 
+            "expensive", 
+            "cheap"
+        ], 
+        [
+            "better", 
+            "larger", 
+            "later", 
+            "earlier"
+        ], 
+        [
+            "But", 
+            "Before", 
+            "Where", 
+            "After"
+        ], 
+        [
+            "it", 
+            "one", 
+            "this", 
+            "that"
+        ], 
+        [
+            "much", 
+            "better", 
+            "more", 
+            "less"
+        ], 
+        [
+            "refusing", 
+            "printing", 
+            "sending", 
+            "accepting"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "D", 
+        "B", 
+        "B", 
+        "C", 
+        "D", 
+        "B", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle1872"
+}

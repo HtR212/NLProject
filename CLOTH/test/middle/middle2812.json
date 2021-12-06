@@ -1,0 +1,71 @@
+{
+    "article": "My name's Simon white. I'm a student .We have some _ at school and at home. We can't _ at school late. We have to finish our homework on time. We can't stay out late _ school nights. Some students think these rules are _ and they don't like them. _ I don't agree with them. I think these rules can help _ a lot. If( ) we don't have them, _ can we do well in our studies? For example, our teachers _  us to clean our classroom every day. If we don't, the classroom will be very dirty. It's bad for our health, too. If your parents let you go to bed early and you don't listen to them, you _ get up on time next morning. Everyone needs some rules. Do you think so?", 
+    "options": [
+        [
+            "books", 
+            "clothes", 
+            "rules", 
+            "classes"
+        ], 
+        [
+            "get", 
+            "arrive", 
+            "reach", 
+            "come"
+        ], 
+        [
+            "at", 
+            "in", 
+            "by", 
+            "on"
+        ], 
+        [
+            "good", 
+            "bad", 
+            "funny", 
+            "easy"
+        ], 
+        [
+            "And", 
+            "Or", 
+            "But", 
+            "So"
+        ], 
+        [
+            "we", 
+            "you", 
+            "us", 
+            "them"
+        ], 
+        [
+            "what", 
+            "how", 
+            "when", 
+            "where"
+        ], 
+        [
+            "let", 
+            "make", 
+            "ask", 
+            "have"
+        ], 
+        [
+            "don't", 
+            "can't", 
+            "doesn't", 
+            "mustn't"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "D", 
+        "B", 
+        "C", 
+        "C", 
+        "B", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle2812"
+}

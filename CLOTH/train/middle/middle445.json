@@ -1,0 +1,71 @@
+{
+    "article": "Hi, I'm Mary. I like playing the piano. When I grow up, I'm going to be a professional   _ . My biggest dream is to  _ the International Chopin Piano Competition. It is one of  the most famous  competition for pianists in the world.  _  I play the piano in concerts, I can make people  _ and also give the money I  _ to charities. So  _  am I going to do it? First, I am going to find a part-time job and save some  _ . And I'm going to  _  playing the piano every day and take piano lessons on weekends. Then I'm going to be a  _ at a music school in China. I think I can realize my dream one day.", 
+    "options": [
+        [
+            "violinist", 
+            "pianist", 
+            "pilot", 
+            "artist"
+        ], 
+        [
+            "hold", 
+            "beat", 
+            "win", 
+            "get"
+        ], 
+        [
+            "Where", 
+            "When", 
+            "Why", 
+            "How"
+        ], 
+        [
+            "sad", 
+            "unhappy", 
+            "happy", 
+            "angry"
+        ], 
+        [
+            "take", 
+            "make", 
+            "rent", 
+            "send"
+        ], 
+        [
+            "where", 
+            "when", 
+            "how", 
+            "why"
+        ], 
+        [
+            "time", 
+            "money", 
+            "room", 
+            "food"
+        ], 
+        [
+            "stop", 
+            "finish", 
+            "practice", 
+            "enjoy"
+        ], 
+        [
+            "doctor", 
+            "worker", 
+            "reader", 
+            "student"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "B", 
+        "C", 
+        "B", 
+        "C", 
+        "B", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle445"
+}

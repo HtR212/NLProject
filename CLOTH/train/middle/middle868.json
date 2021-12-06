@@ -1,0 +1,71 @@
+{
+    "article": "It's a  _  day today. Jim's family  _  having a picnic  . They put a big cloth  on the ground.  _  it are some yellow bananas, red apples, orange oranges and some white eggs. The  _  in the white trousers is Mrs. Green. She is thirty-five. She is  _  English teacher in No. 12 Middle School. She is sitting on the cloth. The man is  _  father. He is forty. His shirt is black and his trousers  _  yellow. He is a teacher, too. But he teaches in a No. 18 Middle School. He is  eating  an apple. They have a black car. It is under a tree.  _  that boy? That's Jim. He is drinking. His shirt is green. The girl near  _  is his sister, Kate. She is in a red dress today. What is she doing? She is reading a magazine  . They are having a great time.", 
+    "options": [
+        [
+            "rainy", 
+            "snowy", 
+            "fine", 
+            "cold"
+        ], 
+        [
+            "is", 
+            "are", 
+            "isn't", 
+            "aren't"
+        ], 
+        [
+            "In", 
+            "Near", 
+            "On", 
+            "Under"
+        ], 
+        [
+            "woman", 
+            "women", 
+            "man", 
+            "men"
+        ], 
+        [
+            "a", 
+            "the", 
+            "an", 
+            "/"
+        ], 
+        [
+            "her", 
+            "his", 
+            "its", 
+            "their"
+        ], 
+        [
+            "are", 
+            "be", 
+            "is", 
+            "/"
+        ], 
+        [
+            "What's", 
+            "Who's", 
+            "Where's", 
+            "How's"
+        ], 
+        [
+            "she", 
+            "him", 
+            "her", 
+            "he"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "C", 
+        "A", 
+        "C", 
+        "B", 
+        "A", 
+        "B", 
+        "B"
+    ], 
+    "source": "middle868"
+}

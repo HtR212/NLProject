@@ -1,0 +1,43 @@
+{
+    "article": "For years I wanted a flower garden. I would spend hours  thinking  of different things I could plant that would look nice together. But then we had children, five children! I was too busy  taking  care of them to grow a garden. Money was always  _  . When my children were  little  , one of them would want something that cost too much, and I'd get annoyed and say, \" Do you see a money tree outside? Money doesn't grow on  _  , you know.\" Finally, all five got through college and were off on their own. I started thinking again about having a  _  . I wasn't sure, though. I mean, gardens do cost money. Then, one spring morning,  _  Mother's Day, I was working in my kitchen.  _  , I heard a car come. I looked out of the window and there was a new tree, planted right  in  the yard. There was a money tree in my yard! There were dollar bills, one hundred of them, all over that tree. That was three years ago. My garden is now very pretty, just the way I wanted. I  think about  what my children did for me, and then I get tears in my eyes every time.", 
+    "options": [
+        [
+            "short", 
+            "long", 
+            "enough", 
+            "large"
+        ], 
+        [
+            "houses", 
+            "trees", 
+            "lands", 
+            "fields"
+        ], 
+        [
+            "tree", 
+            "garden", 
+            "window", 
+            "kitchen"
+        ], 
+        [
+            "in", 
+            "for", 
+            "on", 
+            "at"
+        ], 
+        [
+            "Luckily", 
+            "Unluckily", 
+            "Certainly", 
+            "Suddenly"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "B", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle1508"
+}

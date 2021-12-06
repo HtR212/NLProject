@@ -1,0 +1,64 @@
+{
+    "article": "John likes chocolates very much, but his mother never gives him 26. any , because they are 27. _ for his teeth. But John 28. _  a very nice grandpa. The old man loves John very much, and 29. _  he brings John chocolates when he comes to see him. Then his mother let him eat them, because she wants 30. to make  the old man happy.\nOne evening, a few days 31. _  John's 8th birthday, he was saying his prayers in his bedroom before he went to bed,\" Please, God. Make them give me a big 32. _  of chocolates for my birthday next week.\" he shouted. His mother heard the boy's shouting and went into his bedroom quickly.\"33. _  are you shouting, John?\" she asked.\" God can hear you when you talk quietly .\" \"I know,34. _  grandpa is in the next door, and he can't.\" The 35. _  answered with a smile .", 
+    "options": [
+        [
+            "good", 
+            "bad", 
+            "nice", 
+            "healthy"
+        ], 
+        [
+            "has", 
+            "have", 
+            "had", 
+            "having"
+        ], 
+        [
+            "never", 
+            "seldom", 
+            "sometimes", 
+            "not"
+        ], 
+        [
+            "before", 
+            "after", 
+            "when", 
+            "and"
+        ], 
+        [
+            "box", 
+            "pair", 
+            "bottle", 
+            "cup"
+        ], 
+        [
+            "What", 
+            "Why", 
+            "Where", 
+            "When"
+        ], 
+        [
+            "but", 
+            "and", 
+            "because", 
+            "so"
+        ], 
+        [
+            "mother", 
+            "grandpa", 
+            "girl", 
+            "boy"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "C", 
+        "A", 
+        "A", 
+        "B", 
+        "A", 
+        "D"
+    ], 
+    "source": "middle2068"
+}

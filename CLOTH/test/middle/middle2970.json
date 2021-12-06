@@ -1,0 +1,71 @@
+{
+    "article": "Li Lei is a Chinese boy. He is Sam's cousin. He comes _ Hefei, China. He is only twelve years old. He goes to New York with his _ . Now he is _ in a middle school in New York. His parents work in a shopping center. They don't have much _ . So Li Lei _ a part-time job   at a Chinese restaurant . He goes to work from 6:00 p.m. to 9:00 p.m. every evening. His boss is Mrs. Wang . She is _ a Chinese woman. She is from Beijing. She is _ to Li Lei. Li Lei gets 60 dollars from Mrs. Wang every evening. Mrs. Wang has an 8-year-old daughter. Her English is very good. _ her Chinese is not good. Mrs. Wang asks Li Lei to _ her daughter with her Chinese on weekends. She gives Li Lei 50 dollars each time.", 
+    "options": [
+        [
+            "at", 
+            "from", 
+            "for", 
+            "of"
+        ], 
+        [
+            "aunt", 
+            "uncle", 
+            "brother", 
+            "parents"
+        ], 
+        [
+            "studying", 
+            "living", 
+            "working", 
+            "playing"
+        ], 
+        [
+            "time", 
+            "food", 
+            "music", 
+            "money"
+        ], 
+        [
+            "joins", 
+            "finds", 
+            "arrives", 
+            "leaves"
+        ], 
+        [
+            "also", 
+            "too", 
+            "either", 
+            "well"
+        ], 
+        [
+            "lovely", 
+            "curly", 
+            "sorry", 
+            "friendly"
+        ], 
+        [
+            "And", 
+            "Or", 
+            "But", 
+            "So"
+        ], 
+        [
+            "help", 
+            "talk", 
+            "meet", 
+            "want"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "A", 
+        "D", 
+        "B", 
+        "A", 
+        "D", 
+        "C", 
+        "A"
+    ], 
+    "source": "middle2970"
+}

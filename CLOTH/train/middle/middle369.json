@@ -1,0 +1,57 @@
+{
+    "article": "(10,l ,10) ,,A, B, C, D,, . There is nobody in the world the same as you. You are unique ! Everybody is  _  from everyone else. That is  _  ! So it makes the world an interesting  _  . There are people taller  than  you, and shorter than you. Maybe your hair is as same as your friend's, but maybe it is longer than  hers  . Another difference is your hair may be straight , hers may be curly I am sure you have some friends who are smarter than you. And you  _  have some friends, they are as good  _  sports as you.  _  there are also people around you who are not good at some things.  What  does your best friend look like? Do you both want to finish your homework at school? Do you  _  want to wear the same clothes every day? I think in some ways you are the same, but in many other ways you are different. So say loudly to the world, \"I am who I am -I'm unique!\"", 
+    "options": [
+        [
+            "better", 
+            "different", 
+            "smart", 
+            "good"
+        ], 
+        [
+            "good", 
+            "bad", 
+            "terrible", 
+            "same"
+        ], 
+        [
+            "house", 
+            "school", 
+            "place", 
+            "park"
+        ], 
+        [
+            "also", 
+            "too", 
+            "can", 
+            "are"
+        ], 
+        [
+            "at", 
+            "for", 
+            "in", 
+            "with"
+        ], 
+        [
+            "And", 
+            "Or", 
+            "So", 
+            "But"
+        ], 
+        [
+            "all", 
+            "both", 
+            "everyone", 
+            "anyone"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "C", 
+        "A", 
+        "A", 
+        "D", 
+        "A"
+    ], 
+    "source": "middle369"
+}

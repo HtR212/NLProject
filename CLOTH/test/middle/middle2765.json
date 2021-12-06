@@ -1,0 +1,43 @@
+{
+    "article": "Mr. Smith is a good teacher. He is _ . There _ fifty students in _ class. Mr. Green and his students are good friends, too.\nNow some of the students are playing on the playground. Bill and Mike are running . Tom and John are jumping. Mary and Lucy are _ a kite. The other girls are playing games . Mr. Smith is playing _ hem.", 
+    "options": [
+        [
+            "beautiful", 
+            "happy", 
+            "kind", 
+            "any"
+        ], 
+        [
+            "is", 
+            "are", 
+            "some", 
+            "any"
+        ], 
+        [
+            "their", 
+            "her", 
+            "its", 
+            "his"
+        ], 
+        [
+            "flying", 
+            "doing", 
+            "playing", 
+            "sitting"
+        ], 
+        [
+            "and", 
+            "with", 
+            "for", 
+            "to"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "D", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle2765"
+}

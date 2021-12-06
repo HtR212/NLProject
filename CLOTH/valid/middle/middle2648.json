@@ -1,0 +1,57 @@
+{
+    "article": "I am going to have a party tomorrow night. I told my mother that she needn't do  _  for me. My friend Jane is coming, too. She would like to help me,  _  she can't. Because she has a piano lesson in the morning and in the afternoon she has to babysit her sister. So I will do everything by myself. I try to make  _  party nice. I sent invitation to my friends  yesterday  . Now I am thinking about what I need to do tomorrow. Yes! I have to clean the room and do some shopping. I am going  to buy  some food, drinks and some fruit in the supermarket. I am going to make a shopping list  _  I go. I also have to decorate the room. I need to do so many things, so I  _  see the movie \"Da Vinci Code\" after lunch. A terrible thing! The party begins  _  8 pm, so I must have my dinner  _  . I am tired after I finish  doing  so many things and after dinner I can have a short rest.", 
+    "options": [
+        [
+            "something", 
+            "anything", 
+            "nothing", 
+            "everything"
+        ], 
+        [
+            "so", 
+            "although", 
+            "but", 
+            "because"
+        ], 
+        [
+            "a", 
+            "an", 
+            "my", 
+            "/"
+        ], 
+        [
+            "after", 
+            "when", 
+            "how", 
+            "before"
+        ], 
+        [
+            "can", 
+            "not", 
+            "can't", 
+            "no"
+        ], 
+        [
+            "at", 
+            "in", 
+            "on", 
+            "with"
+        ], 
+        [
+            "late", 
+            "early", 
+            "short", 
+            "slow"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "B", 
+        "C", 
+        "D", 
+        "C", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle2648"
+}

@@ -1,0 +1,57 @@
+{
+    "article": "Mexican people have a tradition of greeting each other with handshakes and kisses on the cheek(. But recently, government officials asked people to  stop doing  this. They have also closed schools and museums, and advised people to stay at home. This is to stop people from  _  an infectious disease , swine flu . The disease has spread over the country. It has killed 159 people and caused 4,000 to become sick  in the past month  . What is swine flu? Swine flu is a disease that causes respiratory illness in pigs. It spreads to people in two ways. People catch the virus after being with infected pigs, or they get it from an infected  _  . The disease spreads in the same way  _  human flu, through coughs and sneezes and then touching the nose or mouth. However, it  _  be spread by eating pork. People who have caught swine flu will have a fever, a cough, a sore throat and body aches. In most cases, the infection makes people unwell but their lives will not be  in danger  . A few governments around the world have advised their citizens not to visit  _  . Some countries have begun checking air travelers for the disease and have set up quarantines for people who might be infected. Russia, China and other countries have banned buying pork from Mexico,  _  the flu cannot be caught by eating the meat. Health experts advise people to wash their hands frequently , to cover coughs and sneezes and to stay at home if they feel  _  .", 
+    "options": [
+        [
+            "catching", 
+            "taking", 
+            "owning", 
+            "curing"
+        ], 
+        [
+            "pig", 
+            "person", 
+            "dog", 
+            "country"
+        ], 
+        [
+            "like", 
+            "as", 
+            "for", 
+            "in"
+        ], 
+        [
+            "can't", 
+            "can", 
+            "must", 
+            "will"
+        ], 
+        [
+            "Mexico", 
+            "America", 
+            "China", 
+            "Russia"
+        ], 
+        [
+            "but", 
+            "though", 
+            "while", 
+            "because"
+        ], 
+        [
+            "tired", 
+            "happy", 
+            "hungry", 
+            "ill"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "B", 
+        "A", 
+        "A", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle1815"
+}

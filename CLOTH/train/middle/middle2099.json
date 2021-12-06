@@ -1,0 +1,71 @@
+{
+    "article": "Li Feng is my friend.  _  English name is David. His parents are  _  in No. 4 High School in Chongqing. He lives there and he  _  to be a teacher, too. The teachers in his school are very  _  to him. He  _  a little Chinese and English. He  _  breakfast at home and has  _  at school. His favorite food  _  chicken and fish.  _  dinner, he has fish, vegetables and rice. He would like  to visit  the Great Wall . He likes living in China.", 
+    "options": [
+        [
+            "Her", 
+            "Theirs", 
+            "His", 
+            "Hers"
+        ], 
+        [
+            "teachers", 
+            "workers", 
+            "doctors", 
+            "drivers"
+        ], 
+        [
+            "want", 
+            "wants", 
+            "would", 
+            "sure"
+        ], 
+        [
+            "glad", 
+            "happy", 
+            "kind", 
+            "nice"
+        ], 
+        [
+            "says", 
+            "tells", 
+            "speaks", 
+            "speak"
+        ], 
+        [
+            "has", 
+            "have", 
+            "drink", 
+            "drinks"
+        ], 
+        [
+            "dinner", 
+            "food", 
+            "breakfast", 
+            "lunch"
+        ], 
+        [
+            "are", 
+            "is", 
+            "be", 
+            "likes"
+        ], 
+        [
+            "In", 
+            "About", 
+            "With", 
+            "For"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "B", 
+        "C", 
+        "C", 
+        "A", 
+        "D", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle2099"
+}

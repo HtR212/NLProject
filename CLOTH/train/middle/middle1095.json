@@ -1,0 +1,50 @@
+{
+    "article": "One day a rich man met Tom. The rich man asked, \"I hear you are very clever and _ is difficult for you. Can you tell me why you are so clever?\"\nTom answered with a smile , \"Oh, I am not clever. Instead, you are too foolish  .\" The rich man became _ .\nTom said, \"Sir, please don't be unhappy. If you don't agree _ what I said, now let me _ you a very easy question: If you have a group of sheep, I send you another group. Then, you say, how many groups of sheep do you have?\"\n\"Why! That's the easiest question in the world. One and one is two. _ knows that. I have two groups of sheep, of course.\"\nTom laughed and laughed and said, \"You are quite _ , sir. Two groups of sheep put together is still one group. That's the easiest question in the world, isn't it?", 
+    "options": [
+        [
+            "something", 
+            "nothing", 
+            "everything", 
+            "anything"
+        ], 
+        [
+            "happy", 
+            "sad", 
+            "unhappy", 
+            "sorry"
+        ], 
+        [
+            "with", 
+            "to", 
+            "for", 
+            "about"
+        ], 
+        [
+            "say", 
+            "speak", 
+            "ask", 
+            "tell"
+        ], 
+        [
+            "People", 
+            "Anybody", 
+            "Somebody", 
+            "Nobody"
+        ], 
+        [
+            "right", 
+            "clever", 
+            "wrong", 
+            "difficult"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "A", 
+        "C", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle1095"
+}

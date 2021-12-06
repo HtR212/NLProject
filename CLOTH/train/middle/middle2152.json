@@ -1,0 +1,71 @@
+{
+    "article": "Mr. and Mrs. Brown were teachers. They lived in a big  _  .Last year they went to the countryside for their summer vacation. They _  it very much because it was a quite clean place.\nOne day they went for a  _  3  in the morning and saw an old man. He sat in the  _  sun in front of his house. Mr.Brown went to him and asked, \"Do you like  _  in this quiet place?\"\nThe old man answered, \"Yes, I  _  .\"\nMr. Brown asked, \"What are the  _  things about it?\"\nThe old man answered \"Well,  everyone  here knows each other  well. They often come to see me, and I often go to visit  _ , too. Also, there are lots of children here.\"\nMr. Brown said, \"That's interesting. Well, _   are the bad things?\"\nThe old man thought for a short time and said, \"Well, the same things.\"", 
+    "options": [
+        [
+            "city", 
+            "house", 
+            "country", 
+            "village"
+        ], 
+        [
+            "learned", 
+            "enjoyed", 
+            "played", 
+            "swam"
+        ], 
+        [
+            "talk", 
+            "walk", 
+            "look", 
+            "say"
+        ], 
+        [
+            "cold", 
+            "cloudy", 
+            "warm", 
+            "wet"
+        ], 
+        [
+            "reading", 
+            "living", 
+            "sitting", 
+            "studying"
+        ], 
+        [
+            "can", 
+            "am", 
+            "do", 
+            "did"
+        ], 
+        [
+            "good", 
+            "cheap", 
+            "delicious", 
+            "well"
+        ], 
+        [
+            "him", 
+            "you", 
+            "them", 
+            "themselves"
+        ], 
+        [
+            "what", 
+            "how", 
+            "who", 
+            "Which"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "B", 
+        "C", 
+        "B", 
+        "C", 
+        "A", 
+        "C", 
+        "A"
+    ], 
+    "source": "middle2152"
+}

@@ -1,0 +1,71 @@
+{
+    "article": "John is a famous writer now. But he says he was not a  _ student when he was young. He is often late for  _  and doesn't like doing his homework. Sometimes, he sleeps in class while the teacher is teaching. He doesn't understand much,  _ he always thinks he understands  everything. One day the teacher  _  the students a question, \"When Jack is ten years old,  _  brother Bob is twenty, Jack is fifteen now and how old  is his brother Bob?\" John says, \"That's easy. Bob is twice as old as Jack, so he is now thirty.\"\nAnother time, the  _  in a science class asks, \"When it thunders ,  _  do we always see the light before we  _  the sound?\"\n\"But, Miss,\"says John quickly, \"don't you  _  our eyes are in front of our ears?\"", 
+    "options": [
+        [
+            "good", 
+            "tall", 
+            "rich", 
+            "fat"
+        ], 
+        [
+            "sleep", 
+            "lunch", 
+            "class", 
+            "play"
+        ], 
+        [
+            "so", 
+            "and", 
+            "or", 
+            "but"
+        ], 
+        [
+            "sends", 
+            "asks", 
+            "tells", 
+            "finds"
+        ], 
+        [
+            "your", 
+            "my", 
+            "his", 
+            "her"
+        ], 
+        [
+            "teacher", 
+            "farmer", 
+            "nurse", 
+            "policeman"
+        ], 
+        [
+            "what", 
+            "when", 
+            "where", 
+            "why"
+        ], 
+        [
+            "break", 
+            "make", 
+            "hear", 
+            "smell"
+        ], 
+        [
+            "read", 
+            "hope", 
+            "study", 
+            "know"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "D", 
+        "B", 
+        "C", 
+        "A", 
+        "D", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle2267"
+}

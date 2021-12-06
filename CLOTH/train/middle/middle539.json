@@ -1,0 +1,64 @@
+{
+    "article": "Sam:Tom, what's the  _  like in your city? Tom:You mean \"What's the weather like  _  winter?\" Sam:Yes. Tom:Oh, it's  _  ,-30degC. Sam:What's your favourite  _  in winter? Tom:I like  _  and  _  with snow outside. Sam:Can you  _  Japanese? Tom:No, I  can't  . But I  can  speak English. Sam:That's  _  .", 
+    "options": [
+        [
+            "whether", 
+            "weather", 
+            "cold", 
+            "hot"
+        ], 
+        [
+            "at", 
+            "in", 
+            "on", 
+            "of"
+        ], 
+        [
+            "hot", 
+            "cold", 
+            "warm", 
+            "cool"
+        ], 
+        [
+            "color", 
+            "songs", 
+            "ball", 
+            "sport"
+        ], 
+        [
+            "dance", 
+            "dances", 
+            "skating", 
+            "skate"
+        ], 
+        [
+            "eating", 
+            "plays", 
+            "playing", 
+            "eats"
+        ], 
+        [
+            "say", 
+            "see", 
+            "speak", 
+            "talk"
+        ], 
+        [
+            "well", 
+            "good", 
+            "bad", 
+            "wrong"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "B", 
+        "B", 
+        "D", 
+        "C", 
+        "C", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle539"
+}

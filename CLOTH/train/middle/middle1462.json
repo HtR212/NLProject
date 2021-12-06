@@ -1,0 +1,71 @@
+{
+    "article": "I'm a 14-year old middle school student from Shandong. I enjoy traveling and I have been to many places. But Kunyu Mountain was the most unforgettable place I've _ been to.\nKunyu Mountain is a place of _ near my hometown. My dad and I went to _ it in the early summer five years ago. At first I thought the top was so _ that I could never reach it. When I looked up , I always saw that top surrounded by many white clouds. The view was beautiful, _ I was not interested in looking at it. I felt very tired because of the 3-hour walk and I had a _ in my legs. However, I said to myself that I couldn't give up because it was my dream to climb to the top.\nIt was cold and the wind was brushing my face strongly. I succeeded in _ the top without the help of my dad. Seeing the mountains with large rocks around me, I smiled. I enjoyed my _ although I fall over the stones several times. And I have fallen in love with the beautiful view of nature since then.\nIn our lives, the top is our dream. The climbing is difficult but worth your hard work. Just prepare more so that you can _ get to the top. Whatever the result is, at least I have tried my best. I believe I can make my dream come true.", 
+    "options": [
+        [
+            "ever", 
+            "never", 
+            "always", 
+            "already"
+        ], 
+        [
+            "scene", 
+            "travel", 
+            "interest", 
+            "trip"
+        ], 
+        [
+            "climb", 
+            "run", 
+            "ride", 
+            "rush"
+        ], 
+        [
+            "smooth", 
+            "huge", 
+            "magic", 
+            "high"
+        ], 
+        [
+            "and", 
+            "but", 
+            "so", 
+            "because"
+        ], 
+        [
+            "pain", 
+            "hurt", 
+            "rest", 
+            "shake"
+        ], 
+        [
+            "arriving", 
+            "getting", 
+            "reaching", 
+            "going"
+        ], 
+        [
+            "result", 
+            "success", 
+            "gift", 
+            "luck"
+        ], 
+        [
+            "completely", 
+            "quickly", 
+            "finally", 
+            "carefully"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "A", 
+        "D", 
+        "B", 
+        "A", 
+        "C", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle1462"
+}

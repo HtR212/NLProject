@@ -1,0 +1,71 @@
+{
+    "article": "Hello, boys and girls! I am Nick. I have a new classmate.  _  name is Ann. She  _  a Chinese name. We call her An Ni. She is from England. She is an  _  girl. She is twelve  years old  and has long hair. Ann  _  at Sunshine Middle School now. We are in  _  Five, Grade Seven. Ann's father is an English  _  in our school,  _  he doesn't teach us English. Ann often helps  _  with my English homework. We are good  _  . We are happy every day.", 
+    "options": [
+        [
+            "She", 
+            "He", 
+            "Her", 
+            "His"
+        ], 
+        [
+            "have", 
+            "has", 
+            "is", 
+            "are"
+        ], 
+        [
+            "China", 
+            "American", 
+            "Chinese", 
+            "English"
+        ], 
+        [
+            "likes", 
+            "finds", 
+            "sits", 
+            "studies"
+        ], 
+        [
+            "class", 
+            "classes", 
+            "Class", 
+            "Classes"
+        ], 
+        [
+            "teacher", 
+            "worker", 
+            "nurse", 
+            "doctor"
+        ], 
+        [
+            "or", 
+            "and", 
+            "but", 
+            "also"
+        ], 
+        [
+            "she", 
+            "he", 
+            "I", 
+            "me"
+        ], 
+        [
+            "teachers", 
+            "friends", 
+            "sisters", 
+            "cousins"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "D", 
+        "D", 
+        "C", 
+        "A", 
+        "C", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle1358"
+}

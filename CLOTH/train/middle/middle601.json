@@ -1,0 +1,43 @@
+{
+    "article": "I heard a story about a famous scientist who had made several very important achievements. What made him  _  from others? He said it all came from  an experience  that happened when he was two years old. He tried to  _  a bottle of milk away from the fridge, but the slippery bottle fell, spilling its milk all over the  kitchen  floor. When his mother came in,  instead of  shouting at him, she said, \"Robert, what a great mess you have made! I have never seen such a big puddle of milk. Would you like to get down and play in the milk for a few minutes  before  we clean it up?\" Indeed, he did. After a few minutes, his mother said, \"Robert, when you make a mess like this, you have to clean it up at last. So,  _  would you like to do that? We would use a towel or a mop. Which do you prefer?\" He chose the towel and together they cleaned up the milk. His mother then said, \"We had a failed  _  's go out and fill the bottle with water and see if you can  _  \" The little boy learned that if he held the bottle at the top near the lip with both hands, he could carry it without dropping it. This scientist then said that it was at that moment that he knew he didn't need to be afraid to  make mistakes  .So, what have you learnt from the story?", 
+    "options": [
+        [
+            "serious", 
+            "similar", 
+            "different", 
+            "important"
+        ], 
+        [
+            "pass", 
+            "bring", 
+            "drink", 
+            "take"
+        ], 
+        [
+            "when", 
+            "what", 
+            "how", 
+            "why"
+        ], 
+        [
+            "experiment", 
+            "condition", 
+            "survey", 
+            "research"
+        ], 
+        [
+            "look", 
+            "discover", 
+            "recognize", 
+            "develop"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "D", 
+        "C", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle601"
+}

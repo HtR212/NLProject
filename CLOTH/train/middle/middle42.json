@@ -1,0 +1,71 @@
+{
+    "article": "It is evening.An old cock is sitting in a tall tree.A fox comes to the tree and  _  at the cock.\"Hello.Mr.Cock.I have some  _  news for you.\"says the fox.\"Oh?\"says the cock.\"What is it?\"\"All the animals are good friends now.Let's  _  friends.too.Please come  _  and play with me.\"\"Fine!\"says the cock.\"I'm very glad to hear that\".Then he looks up.\"Look! There is something over there.\"\"  _  are you looking at?\"asks the fox.\"Oh,I see some animals over there.They're  _  this way.\"\"Animals?\"\"Yes.Oh,they're dogs.\"\"What? Dogs!\"asks the fox.\"Well...well,I  _  go now.Goodbye.\"\"Wait,Mr.Fox,\"says the cock.\"  _  go.They are only dogs.And dogs are our friends now.\"\"Yes,I know,but  the dogs  don't know that.\"\"I see,I see,\"says the cock.He  _  and goes to sleep in the tree.Do you know why? Foxes are afraid of dogs.", 
+    "options": [
+        [
+            "1istens", 
+            "sees", 
+            "gets", 
+            "looks"
+        ], 
+        [
+            "bad", 
+            "good", 
+            "sad", 
+            "funny"
+        ], 
+        [
+            "is", 
+            "am", 
+            "are", 
+            "be"
+        ], 
+        [
+            "down", 
+            "up", 
+            "at", 
+            "to"
+        ], 
+        [
+            "How", 
+            "What", 
+            "Where", 
+            "Why"
+        ], 
+        [
+            "looking", 
+            "going", 
+            "coming", 
+            "taking"
+        ], 
+        [
+            "must", 
+            "may", 
+            "can", 
+            "need"
+        ], 
+        [
+            "Can't", 
+            "Let's", 
+            "Don't", 
+            "Please"
+        ], 
+        [
+            "cries", 
+            "shouts", 
+            "calls", 
+            "smiles"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "B", 
+        "D", 
+        "A", 
+        "B", 
+        "C", 
+        "A", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle42"
+}

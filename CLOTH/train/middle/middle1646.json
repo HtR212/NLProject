@@ -1,0 +1,71 @@
+{
+    "article": "My name is Alice. I'm  A  ten-year-old girl. My parents are  _  . There are too many rules at my home. I have to  _  for 15 minutes every morning, because my parents think running is god for health,  _  I don't like running. My things  _  be everywhere. I must  _  my room tidy. After school, I can't play with my friends,  _  . I have to go home to do my  _  . I often ask my mother, \"Mom, can I watch TV?\" She always  _  , \"Do you finish your homework? If you do, it's time for  _  to play the violin.\" I have to practice the violin for an hour every evening. I don't like the rules at my home. Are there any rules at your home?", 
+    "options": [
+        [
+            "nice", 
+            "busy", 
+            "strict", 
+            "interesting"
+        ], 
+        [
+            "walk", 
+            "run", 
+            "play", 
+            "swim"
+        ], 
+        [
+            "so", 
+            "or", 
+            "but", 
+            "and"
+        ], 
+        [
+            "can", 
+            "can't", 
+            "do", 
+            "don't"
+        ], 
+        [
+            "clean", 
+            "leave", 
+            "keep", 
+            "feel"
+        ], 
+        [
+            "either", 
+            "always", 
+            "too", 
+            "usually"
+        ], 
+        [
+            "shower", 
+            "dishes", 
+            "dinner", 
+            "homework"
+        ], 
+        [
+            "says", 
+            "tells", 
+            "speaks", 
+            "talks"
+        ], 
+        [
+            "you", 
+            "me", 
+            "her", 
+            "him"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "C", 
+        "B", 
+        "C", 
+        "A", 
+        "D", 
+        "A", 
+        "A"
+    ], 
+    "source": "middle1646"
+}

@@ -1,0 +1,71 @@
+{
+    "article": "Chris is 12 years old. He  _  in a village in England. The school in his village is not far  _  his home, so Chris often goes to school on foot . Chris usually gets up at about 7:00 in the morning. It is not  _  . So he has a quick breakfast. He  _  for school at about 7:50. It takes him about 10 minutes to  _  to school. He gets to school at about  _  o'clock. Sometimes Chris rides his bike to school. School starts at 8:10. His favorite subject is math. He thinks numbers are  _  . Chris has a  _  . He hopes to go to a big city like London some day . So he can take the subway. \"I  _  take the subway. It must be a lot fun,\" he says. Can his dream  come true  ? \"Sure, it can,\" says Chris.", 
+    "options": [
+        [
+            "lives", 
+            "works", 
+            "teaches", 
+            "plays"
+        ], 
+        [
+            "on", 
+            "in", 
+            "from", 
+            "at"
+        ], 
+        [
+            "late", 
+            "early", 
+            "bad", 
+            "good"
+        ], 
+        [
+            "goes", 
+            "comes", 
+            "leaves", 
+            "gets"
+        ], 
+        [
+            "take", 
+            "ride", 
+            "meet", 
+            "walk"
+        ], 
+        [
+            "six", 
+            "eight", 
+            "nine", 
+            "ten"
+        ], 
+        [
+            "quick", 
+            "right", 
+            "interesting", 
+            "free"
+        ], 
+        [
+            "habit", 
+            "bridge", 
+            "dream", 
+            "friend"
+        ], 
+        [
+            "never", 
+            "often", 
+            "usually", 
+            "always"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "B", 
+        "C", 
+        "D", 
+        "B", 
+        "C", 
+        "C", 
+        "A"
+    ], 
+    "source": "middle105"
+}

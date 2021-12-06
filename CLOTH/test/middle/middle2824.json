@@ -1,0 +1,64 @@
+{
+    "article": "One day, a teacher was giving a speech to his students. He held up a glass of water and asked the class, \"How  _   do you think this glass of water is?\"\nThe students' answers were quite  _  - from 20g to 500g. \"It doesn't matter on the weight itself. It is decided by how long you  _    it. If I hold it for a minute, it is  _ . If I hold it for an hour, you will have to call an ambulance  . It is exactly the same weight, but the   _   I hold it, the heavier it becomes.\"\n\"If we carry our burdens   all the time, sooner or later, we will not be able to carry on  _   the burden is becoming much heavier.\"\n\"What you have to do is to put the glass  _   , rest for a while before holding it up again.\"\nWe have to put down the burden sometimes  so that    we canrelax and are able to carry on. So after you    return   home fromwork tonight, put the burden of the work down. Don't carry it back home. You can   _    it up tomorrow.\nWhatever burden you are having now on your shoulders , let it down for a moment if you can.", 
+    "options": [
+        [
+            "hot", 
+            "cold", 
+            "heavy", 
+            "light"
+        ], 
+        [
+            "different", 
+            "same", 
+            "good", 
+            "bad"
+        ], 
+        [
+            "drink", 
+            "hold", 
+            "throw", 
+            "take"
+        ], 
+        [
+            "terrible", 
+            "heavy", 
+            "interesting", 
+            "light"
+        ], 
+        [
+            "short", 
+            "shorter", 
+            "long", 
+            "longer"
+        ], 
+        [
+            "because", 
+            "but", 
+            "though", 
+            "so"
+        ], 
+        [
+            "up", 
+            "down", 
+            "off", 
+            "out"
+        ], 
+        [
+            "give", 
+            "clean", 
+            "pick", 
+            "turn"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "B", 
+        "D", 
+        "D", 
+        "A", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle2824"
+}

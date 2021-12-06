@@ -1,0 +1,71 @@
+{
+    "article": "Mary did not  _  such sentences as \"She is blue today.\",\"You are yellow.\",\"He has a  _  thumb .\",\"He has told a little white lie.\", and so on. And she went to her teacher  _  help.\"Mrs. Smith, there is a  _  in each of these sentences. What does that mean?\" she asked.\"In  _  English, Mary, blue  sometimes  means sad. Yellow--afraid. A person  _  a green thumb grows plants well and a white lie is not a bad one, \" the teacher said. \"Would you give me an  _  for a white lie, Sir?\"\"Certainly. Now I give you a cake. In fact you don't like it, but you won't say it.  _ you say, 'No, thanks, I'm not _ .'That's a white lie.\"", 
+    "options": [
+        [
+            "know", 
+            "understand", 
+            "read", 
+            "see"
+        ], 
+        [
+            "blue", 
+            "yellow", 
+            "white", 
+            "green"
+        ], 
+        [
+            "for", 
+            "to", 
+            "with", 
+            "by"
+        ], 
+        [
+            "word", 
+            "colour", 
+            "mistake", 
+            "question"
+        ], 
+        [
+            "today", 
+            "common", 
+            "everyday", 
+            "usual"
+        ], 
+        [
+            "to", 
+            "with", 
+            "of", 
+            "at"
+        ], 
+        [
+            "answer", 
+            "book", 
+            "question", 
+            "example"
+        ], 
+        [
+            "Anyway", 
+            "So", 
+            "But", 
+            "Also"
+        ], 
+        [
+            "ill", 
+            "happy", 
+            "full", 
+            "hungry"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "A", 
+        "B", 
+        "C", 
+        "B", 
+        "D", 
+        "A", 
+        "D"
+    ], 
+    "source": "middle1038"
+}

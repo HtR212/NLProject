@@ -1,0 +1,71 @@
+{
+    "article": "In many parts of China,spring is usually very  _ .It usually comes  _  February  _  March.Summer is very  _ .It lasts  from May to July.The hottest  month is July.Autumn  _  in August,and goes on to October.The weather can be quite  _  in autumn.Winter lasts from November to January,and is very  _ .You  _  to wear  lots of  warm clothes.The best time to  _  to China is in spring or autumn.", 
+    "options": [
+        [
+            "long", 
+            "hot", 
+            "short", 
+            "cold"
+        ], 
+        [
+            "on", 
+            "in", 
+            "at", 
+            "from"
+        ], 
+        [
+            "to", 
+            "and", 
+            "but", 
+            "or"
+        ], 
+        [
+            "short", 
+            "hot", 
+            "bad", 
+            "nice"
+        ], 
+        [
+            "comes", 
+            "is", 
+            "goes", 
+            "lasts"
+        ], 
+        [
+            "warm", 
+            "hot", 
+            "cold", 
+            "cool"
+        ], 
+        [
+            "cold", 
+            "short", 
+            "long", 
+            "good"
+        ], 
+        [
+            "can", 
+            "need", 
+            "like", 
+            "tell"
+        ], 
+        [
+            "like", 
+            "come", 
+            "arrive", 
+            "have"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "D", 
+        "B", 
+        "A", 
+        "D", 
+        "A", 
+        "B", 
+        "B"
+    ], 
+    "source": "middle1973"
+}

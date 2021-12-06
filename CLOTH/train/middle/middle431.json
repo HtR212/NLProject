@@ -1,0 +1,43 @@
+{
+    "article": "It's Sunday afternoon. Mary and her mother go to the store. Her mother wants to buy some food. Mary wants to buy a skirt and some school things. They come to a store.\n\"What do you sell?\" Mary asks.\n\"Many things.\" the girl says. \"You can buy food, drinks, clothes and school things.\nMary wants a skirt.\n\" What color do you want?\" asks the girl.\n\"White. \"\n\"Have a look _ this one. It's nice.\"\n\"How much is the skirt?\"\n\" _ eighty yuan.\"\n\"Can I find a cheap one?\"\n\"What about the green one? It _ nice. And it is _ thirty yuan.\"\n\"OK. Thanks .\"\n\"You are welcome.\"\nAfter that, Mary buys some school things, too. _ mother buys some food, like bread, meat and chicken. They get home very late.", 
+    "options": [
+        [
+            "on", 
+            "for", 
+            "at", 
+            "in"
+        ], 
+        [
+            "They're", 
+            "It's", 
+            "Is", 
+            "Its"
+        ], 
+        [
+            "sound", 
+            "sounds", 
+            "look", 
+            "looks"
+        ], 
+        [
+            "too", 
+            "only", 
+            "also", 
+            "yet"
+        ], 
+        [
+            "Her", 
+            "His", 
+            "She", 
+            "He"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "D", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle431"
+}

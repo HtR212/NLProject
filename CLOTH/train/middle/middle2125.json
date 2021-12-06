@@ -1,0 +1,57 @@
+{
+    "article": "In a small town, a shopkeeper works hard every day. But one day he closed his shop in the _ and went home. He was very tired, he didn't have supper and went to bed at once. At that time the telephone _ . A man said, \"What time do you open your _ ,sir?\" The shopkeeper was unhappy. He thought the man played a trick on him. He did not answer it and went _ to bed. A few minutes _ the telephone rang again. He got up and went to pick up the phone and found that voice   was the _ man and he asked the same question. The shopkeeper _ answered. \"You needn't ask me that because I can't let you come into my shop. It's late now.\"\n\"No. I want to go out.\" the man said, \"My wife is waiting for me at home for dinner now.\"", 
+    "options": [
+        [
+            "evening", 
+            "morning", 
+            "afternoon", 
+            "noon"
+        ], 
+        [
+            "rings", 
+            "rang", 
+            "ringing", 
+            "called"
+        ], 
+        [
+            "window", 
+            "shop", 
+            "door", 
+            "eyes"
+        ], 
+        [
+            "up", 
+            "again", 
+            "/", 
+            "back"
+        ], 
+        [
+            "later", 
+            "after", 
+            "ago", 
+            "before"
+        ], 
+        [
+            "weak", 
+            "same", 
+            "different", 
+            "sweet"
+        ], 
+        [
+            "carefully", 
+            "happily", 
+            "usually", 
+            "angrily"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "A", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle2125"
+}

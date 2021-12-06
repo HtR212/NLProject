@@ -1,0 +1,50 @@
+{
+    "article": "Dear Amy, I am so happy to get your letter. I am  _  you like your school. Now let me tell you something about my school. I go to school  _  days a week. We have four lessons in the morning and two lessons in the afternoon. We have many interesting things  to do  after class. On Monday and Wednesday, we have  sports  on the playground. On Tuesday afternoon, some of  _  have an art class. On Thursday afternoon, some have a  _  class in the music room. We can enjoy beautiful music. On Friday afternoon, we practice  speaking  English with the teacher. My Chinese friends would like  to talk  with me in English. They think I am like an English teacher. Isn't it great? On Saturdays and Sundays, I  _  go to school. Very often I go to the parks and have a good time with my family there. I love my school  _  enjoy my school life. What about you? All the best, Helen", 
+    "options": [
+        [
+            "sad", 
+            "hungry", 
+            "happy", 
+            "kind"
+        ], 
+        [
+            "four", 
+            "five", 
+            "six", 
+            "seven"
+        ], 
+        [
+            "we", 
+            "us", 
+            "them", 
+            "they"
+        ], 
+        [
+            "singing", 
+            "speaking", 
+            "drawing", 
+            "writing"
+        ], 
+        [
+            "don't", 
+            "doesn't", 
+            "not", 
+            "can't"
+        ], 
+        [
+            "and", 
+            "but", 
+            "so", 
+            "or"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "B", 
+        "A", 
+        "A", 
+        "A"
+    ], 
+    "source": "middle1472"
+}

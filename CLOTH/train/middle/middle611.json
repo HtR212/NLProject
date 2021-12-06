@@ -1,0 +1,29 @@
+{
+    "article": "This  is  my good friend.  _  name is Tiger Mi. It is a cat. It's only two. It  likes  fish and chicken  a lot  ,but it  _  like rice  at all  .I like to  play  with it. Every day, we get up together, eat together, and do my homework together. Sometimes, Xie Kai and Wang Bin, my  friends  at school ,come to my house. They like Tiger Mi, too. They  teach  Tiger Mi English. But Tiger Mi can't  _  English well. Do you have a cat? Tell me something about it, please.", 
+    "options": [
+        [
+            "It's", 
+            "Its", 
+            "its", 
+            "He"
+        ], 
+        [
+            "don't", 
+            "isn't", 
+            "can't", 
+            "doesn't"
+        ], 
+        [
+            "say", 
+            "talk", 
+            "speak", 
+            "tell"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "C"
+    ], 
+    "source": "middle611"
+}

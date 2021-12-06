@@ -1,0 +1,57 @@
+{
+    "article": "My name is Li Hua. I'm thirteen. I'm a middle school student. I'm  _  Class 5, Grade 7 . My English teacher  _  Mr. Lin. He is  _  old teacher. I have a good  _  , She is a girl.  _  name is Lin Ping.  _  is thirteen, too. She is not  at school  today. I think she is at home. Look! What are those? Oh, they are two 53  _  and a  pen  . But they're not my things. I think they are  Lin Ping's  things.", 
+    "options": [
+        [
+            "in", 
+            "at", 
+            "on", 
+            "/"
+        ], 
+        [
+            "are", 
+            "am", 
+            "is", 
+            "has"
+        ], 
+        [
+            "a", 
+            "an", 
+            "/", 
+            "the"
+        ], 
+        [
+            "sister", 
+            "brother", 
+            "friend", 
+            "class"
+        ], 
+        [
+            "She", 
+            "Her", 
+            "His", 
+            "She's"
+        ], 
+        [
+            "Her", 
+            "It", 
+            "He", 
+            "She"
+        ], 
+        [
+            "eraser", 
+            "eraseres", 
+            "erasers", 
+            "watchs"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "B", 
+        "C", 
+        "B", 
+        "D", 
+        "C"
+    ], 
+    "source": "middle2668"
+}

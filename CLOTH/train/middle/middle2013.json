@@ -1,0 +1,57 @@
+{
+    "article": "All over the world men and women, boys and girls enjoy sports. Sports help people _  healthily and happily.\nWhat sports do you like  _ ? Is it hot in your city? Then swimming is one of your sports. There are beautiful rivers and lakes across the country. The weather is also good _ swimming. Or do you live in a cold city? Then you would like  to ski . There are many skiers in Austria. There are big mountains and cold winters.  _  it often rain in your country? Then kite flying would not be one of your sports.\nPeople in Switzerland love to  _  the wonderful mountains of their country. Mountain climbing is  a kind of  favourite sports there.\nThe cowboys of the USA use their horses for their work. They also use them for their sports. They ride, jump, use ropes and catch  other  animals---all on horseback.\n _  is work for many people who must get their food this way. But for other people it is a sport. How nice it is to go fishing  _ there is no school!", 
+    "options": [
+        [
+            "live", 
+            "living", 
+            "lives", 
+            "life"
+        ], 
+        [
+            "good", 
+            "well", 
+            "better", 
+            "best"
+        ], 
+        [
+            "to", 
+            "for", 
+            "with", 
+            "at"
+        ], 
+        [
+            "Does", 
+            "Do", 
+            "Is", 
+            "Has"
+        ], 
+        [
+            "climb", 
+            "climbs", 
+            "climbing", 
+            "climbed"
+        ], 
+        [
+            "Fish", 
+            "Fishes", 
+            "Fishing", 
+            "Fished"
+        ], 
+        [
+            "and", 
+            "so", 
+            "when", 
+            "but"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "B", 
+        "A", 
+        "A", 
+        "C", 
+        "C"
+    ], 
+    "source": "middle2013"
+}

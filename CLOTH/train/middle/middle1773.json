@@ -1,0 +1,64 @@
+{
+    "article": "Peter is a middle school boy. His father has a black car, so his father usually  _  him to school in the car. Peter's best friend Ben goes to school by  _  , because he thinks it is good for his health. So Ben often  _  Peter to ride a bike with him together. Peter thinks Ben is  _  . After he goes home, Peter says to his mother, \"Mom, I would like to  _  a bike. Would you please buy one  _  me?\" His mother smiles and asks, \"  _  do you want to ride a bike to school?\" \"First, it's good for my health. Second, there are a lot of  traffic jams  on the road, so it is faster to ride a bike to school.\" \"  No problem  . Let's go to the supermarket and choose one. But you must be  _  to ride a bike on the way to school.\"", 
+    "options": [
+        [
+            "has", 
+            "gets", 
+            "tells", 
+            "drives"
+        ], 
+        [
+            "train", 
+            "bike", 
+            "taxi", 
+            "subway"
+        ], 
+        [
+            "likes", 
+            "helps", 
+            "asks", 
+            "stops"
+        ], 
+        [
+            "sad", 
+            "right", 
+            "shy", 
+            "nice"
+        ], 
+        [
+            "draw", 
+            "mend", 
+            "play", 
+            "have"
+        ], 
+        [
+            "on", 
+            "to", 
+            "for", 
+            "from"
+        ], 
+        [
+            "What", 
+            "How", 
+            "Why", 
+            "When"
+        ], 
+        [
+            "careful", 
+            "excited", 
+            "comfortable", 
+            "dangerous"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "B", 
+        "C", 
+        "B", 
+        "D", 
+        "C", 
+        "C", 
+        "A"
+    ], 
+    "source": "middle1773"
+}

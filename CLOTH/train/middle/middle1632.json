@@ -1,0 +1,71 @@
+{
+    "article": "My name is Sandra. I have a brother.  _  name is Tom. We like different sports. I like playing  _  . It's fun.  _  I don't like basketball. It's  _  . My brother  likes  basketball. He thinks it's interesting. He  _  basketball every day. We also like different  _  . I like eggs and hamburgers  _  breakfast. For dessert , I like  _  . Tom likes oranges, chicken and carrots. We are  _  .Because we often play sports and eat good food.", 
+    "options": [
+        [
+            "He", 
+            "She", 
+            "Her", 
+            "His"
+        ], 
+        [
+            "volleyball", 
+            "TV", 
+            "watch", 
+            "oranges"
+        ], 
+        [
+            "And", 
+            "With", 
+            "But", 
+            "Of"
+        ], 
+        [
+            "fun", 
+            "boring", 
+            "interesting", 
+            "fine"
+        ], 
+        [
+            "looks", 
+            "watches", 
+            "plays", 
+            "has"
+        ], 
+        [
+            "food", 
+            "books", 
+            "colors", 
+            "classes"
+        ], 
+        [
+            "in", 
+            "on", 
+            "for", 
+            "at"
+        ], 
+        [
+            "hamburgers", 
+            "chicken", 
+            "carrot", 
+            "ice-cream"
+        ], 
+        [
+            "boring", 
+            "healthy", 
+            "great", 
+            "relaxing"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "A", 
+        "C", 
+        "B", 
+        "C", 
+        "A", 
+        "C", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle1632"
+}

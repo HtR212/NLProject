@@ -1,0 +1,57 @@
+{
+    "article": "Getting to places can sometimes be difficult,especially when you are going to a place for the _ time.\nIn big cities,many people take buses,trains _ subways to get from one place to another.Buses are a popular means of transportation.If you are using a bus,you need to know _ bus to take and where you can get on.You also need to be able to  read the timetable right,so you can take the right bus and get to your place on time.At last,you need to know _ to get off and _ the driver the name of the station.\nIn the countryside,transportation can be much simpler.In some places,people get to school or work _ boat.Some children ride in long boats on the river to get to school.In _ places,students walk to school.", 
+    "options": [
+        [
+            "first", 
+            "second", 
+            "third", 
+            "fourth"
+        ], 
+        [
+            "or", 
+            "so", 
+            "and", 
+            "too"
+        ], 
+        [
+            "what", 
+            "where", 
+            "which", 
+            "why"
+        ], 
+        [
+            "why", 
+            "where", 
+            "when", 
+            "how"
+        ], 
+        [
+            "say", 
+            "talk", 
+            "speak", 
+            "tell"
+        ], 
+        [
+            "on", 
+            "in", 
+            "by", 
+            "at"
+        ], 
+        [
+            "other", 
+            "others", 
+            "another", 
+            "else"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "A", 
+        "C", 
+        "B", 
+        "D", 
+        "C", 
+        "A"
+    ], 
+    "source": "middle372"
+}

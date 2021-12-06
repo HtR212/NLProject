@@ -1,0 +1,50 @@
+{
+    "article": "_  is a result of the student activity survey at our school. Most students exercise three or four times  _  week. Some students exercise once  _  twice a week. Some students exercise every day.  As for  homework, most students  _  homework every day. Some students do homework more than three times.  No  students do homework once or twice a week. The result for \"watch TV\" is  _  . Some students watch TV once or twice a week. Some watch TV three or four  times  a week. But most students watch TV every day.  _  think it's helpful for them  to watch  TV. They can be relaxed and learn much knowledge by watching TV.", 
+    "options": [
+        [
+            "Here", 
+            "There", 
+            "Here's", 
+            "There's"
+        ], 
+        [
+            "a", 
+            "an", 
+            "the", 
+            "/"
+        ], 
+        [
+            "and", 
+            "but", 
+            "or", 
+            "so"
+        ], 
+        [
+            "did", 
+            "do", 
+            "does", 
+            "doing"
+        ], 
+        [
+            "interesting", 
+            "interests", 
+            "interested", 
+            "interest"
+        ], 
+        [
+            "They", 
+            "Their", 
+            "Them", 
+            "Theirs"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "A", 
+        "C", 
+        "B", 
+        "A", 
+        "A"
+    ], 
+    "source": "middle2201"
+}

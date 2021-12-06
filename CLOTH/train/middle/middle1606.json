@@ -1,0 +1,64 @@
+{
+    "article": "Dear Annie,\nThank you for your letter.Here is something about my school.\nI go to school  _  Monday to Friday.We have four  _ in the morning and two in the afternoon. _  we have many things  to do  after class? Of course! _ Monday and Thursday afternoon we do sports. On Tuesday afternoon, all of us have a  drawing  class.I like drawing  _  I can't draw well. And on Thursday afternoon, we have a singing class.On Friday afternoon we practice speaking  _ .My Chinese friends would like to speak with me in English.They think I am like an English  _ .Isn't it great?\nOn Saturdays and Sundays I don't go to school.Very often my family and I go to the  _  and have a good time there.\nYours,\nLucy", 
+    "options": [
+        [
+            "on", 
+            "at", 
+            "from", 
+            "in"
+        ], 
+        [
+            "classes", 
+            "lesson", 
+            "class", 
+            "subjects"
+        ], 
+        [
+            "Is", 
+            "Are", 
+            "Do", 
+            "Does"
+        ], 
+        [
+            "To", 
+            "In", 
+            "On", 
+            "From"
+        ], 
+        [
+            "but", 
+            "and", 
+            "so", 
+            "because"
+        ], 
+        [
+            "China", 
+            "Japanese", 
+            "English", 
+            "Chinese"
+        ], 
+        [
+            "actor", 
+            "teacher", 
+            "parent", 
+            "student"
+        ], 
+        [
+            "school", 
+            "park", 
+            "classroom", 
+            "class"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "C", 
+        "C", 
+        "A", 
+        "C", 
+        "B", 
+        "B"
+    ], 
+    "source": "middle1606"
+}

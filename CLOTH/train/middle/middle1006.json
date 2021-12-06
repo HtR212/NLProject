@@ -1,0 +1,71 @@
+{
+    "article": "A post-90s girl named Fan Yi published her first novel Swordbird at the age of 13. The _ novel appeared  on the bestseller list for children's novels in the USA.\nFan Yi finished her first grade of _ school in Beijing and then moved to the USA with her parents at the age of 7. Two year _ , she started to write her English story. She has been greatly interested in _ since she was a little girl.\nWhen Fan Yi was studying _ at school, she read many articles _ the September 11 Attacks . She wanted all people to live in peace  with each other. Around that time, she had a _ one night. In the dream, some birds fought with each other. Fan got an idea from the dream and turned it into a _ . In the story, she showed her idea of peace in the world.\nIn order to have her book published in _ , Fan translated the whole English version into Chinese. Because she didn't know many Chinese idioms , she had to get help from her parents from time to time. In the future, Fan will write more books for the Swordbird series. We will have to wait and see.", 
+    "options": [
+        [
+            "Chinese", 
+            "English", 
+            "French", 
+            "Japanese"
+        ], 
+        [
+            "primary", 
+            "middle", 
+            "high", 
+            "central"
+        ], 
+        [
+            "after", 
+            "befo", 
+            "late", 
+            "later"
+        ], 
+        [
+            "birds", 
+            "dogs", 
+            "cats", 
+            "parrots"
+        ], 
+        [
+            "English", 
+            "dogs", 
+            "biology", 
+            "history"
+        ], 
+        [
+            "about", 
+            "maths", 
+            "with", 
+            "for"
+        ], 
+        [
+            "theme", 
+            "of", 
+            "dream", 
+            "peace"
+        ], 
+        [
+            "work", 
+            "bird", 
+            "fight", 
+            "story"
+        ], 
+        [
+            "China", 
+            "book", 
+            "Japan", 
+            "After"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "D", 
+        "A", 
+        "D", 
+        "A", 
+        "C", 
+        "D", 
+        "A"
+    ], 
+    "source": "middle1006"
+}

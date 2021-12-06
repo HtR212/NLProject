@@ -1,0 +1,71 @@
+{
+    "article": "Dear Bob, Today is my first day in this school. I want to  _  you something about my new school. My school is not  _  but very beautiful. There are three tall buildings in it. In the middle of  _  school. There is a new teaching building. Its colour is white. Do you know  _  my classroom is? It's  _  the ground floor. The library building  _  the lab building are next to the teaching building. And there is a  playground  in my school. We can  _  football and basketball there. I  _  my school very much. I think it's really great. What  _  you think of it? Welcome to our school! Dick", 
+    "options": [
+        [
+            "say", 
+            "talk", 
+            "speak", 
+            "tell"
+        ], 
+        [
+            "tall", 
+            "nice", 
+            "big", 
+            "small"
+        ], 
+        [
+            "his", 
+            "her", 
+            "my", 
+            "your"
+        ], 
+        [
+            "what", 
+            "where", 
+            "how", 
+            "when"
+        ], 
+        [
+            "at", 
+            "in", 
+            "on", 
+            "of"
+        ], 
+        [
+            "and", 
+            "but", 
+            "so", 
+            "or"
+        ], 
+        [
+            "send", 
+            "use", 
+            "spend", 
+            "play"
+        ], 
+        [
+            "study", 
+            "think", 
+            "like", 
+            "meet"
+        ], 
+        [
+            "are", 
+            "is", 
+            "does", 
+            "do"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "C", 
+        "C", 
+        "B", 
+        "C", 
+        "A", 
+        "D", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle1927"
+}

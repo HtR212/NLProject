@@ -1,0 +1,50 @@
+{
+    "article": "Bob and Mike are in the same school, _  they are in different classes.Their favorite  _  is Chinese.They  _  Chinese is very interesting.They go to school on weekdays.They go to school  _  7:00 in the morning.Today is Tuesday.Bob and Mike are in their own  classrooms.\nBob  is having  an English class.Look!He is talking  _  his English teacher in English.Mike is having a Chinese class.His teacher is talking  _  Beijing Opera with them.The students are looking at their teachers.They  are listening  carefully .But one of Bob's classmates  is reading  a storybook,because he isn't good at English and he  doesn't like  English.", 
+    "options": [
+        [
+            "but", 
+            "and", 
+            "or", 
+            "because"
+        ], 
+        [
+            "sport", 
+            "language", 
+            "country", 
+            "subject"
+        ], 
+        [
+            "say", 
+            "speak", 
+            "tell", 
+            "talk"
+        ], 
+        [
+            "in", 
+            "on", 
+            "at", 
+            "about"
+        ], 
+        [
+            "at", 
+            "to", 
+            "for", 
+            "of"
+        ], 
+        [
+            "to", 
+            "in", 
+            "about", 
+            "at"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "A", 
+        "C", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle1231"
+}

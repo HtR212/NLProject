@@ -1,0 +1,50 @@
+{
+    "article": "Many people like traveling for their holiday. They go to hills , seaside or forests. Some people like _ , so they like to visit some old interesting places. In many countries, the travel agency  can help you to plan your holiday. You can tell the travel agency what kind of _ you like, how much _ you want to spend, and the travel agency will give you a lot of information about where to go, how to get there, where to stay, and what kind of activities you can do there. One of the holidays is _ \"Package\" holiday.That is, you just _ the money, and the travel agency will plan _ for you, the ticket for the train or plane, the hotel, the activities, and so on.", 
+    "options": [
+        [
+            "history", 
+            "music", 
+            "country", 
+            "time"
+        ], 
+        [
+            "weather", 
+            "holiday", 
+            "train", 
+            "city"
+        ], 
+        [
+            "water", 
+            "day", 
+            "time", 
+            "money"
+        ], 
+        [
+            "call", 
+            "calling", 
+            "calls", 
+            "called"
+        ], 
+        [
+            "take", 
+            "pay", 
+            "cost", 
+            "have"
+        ], 
+        [
+            "everything", 
+            "nothing", 
+            "anything", 
+            "something"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "D", 
+        "D", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle2803"
+}

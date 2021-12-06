@@ -1,0 +1,64 @@
+{
+    "article": "Michael Jackson's full name is Michael Joseph Jackson. He is one of pop music's biggest stars. He was born  _  August 29 , 1958 in Indiana, the USA. He is famous  _  the King of Pop. Michael Jackson is about 50 years old. And he has been a singer for more than 40 years. He started to perform on the stage  _  he was very young. Michael Jackson  joined  his brother's pop group in 1964. He quickly became famous. Jackson made his first national TV appearance at the age of 11. Later on, his classical disco Off The Wall  _  10 million copies. He gave some concerts  _  the tickets always sold out. But there's  something unhappy  happening to him. He once said, \"There is a lot of  _  in my past life.\" Despite his private life, people all over the world still enjoy his music.  _  his songs are played, people will think of his dynamic performances. Though Jackson died in June, 2009, his fans said that he would be a great  _  forever.", 
+    "options": [
+        [
+            "on", 
+            "in", 
+            "at", 
+            "to"
+        ], 
+        [
+            "with", 
+            "for", 
+            "to", 
+            "as"
+        ], 
+        [
+            "because", 
+            "when", 
+            "if", 
+            "since"
+        ], 
+        [
+            "went", 
+            "sold", 
+            "came", 
+            "bought"
+        ], 
+        [
+            "because", 
+            "so", 
+            "but", 
+            "and"
+        ], 
+        [
+            "happy", 
+            "happiness", 
+            "sad", 
+            "sadness"
+        ], 
+        [
+            "Whenever", 
+            "However[", 
+            "Whatever", 
+            "Wherever"
+        ], 
+        [
+            "singer", 
+            "song", 
+            "music", 
+            "dance"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "B", 
+        "B", 
+        "D", 
+        "D", 
+        "A", 
+        "A"
+    ], 
+    "source": "middle1027"
+}

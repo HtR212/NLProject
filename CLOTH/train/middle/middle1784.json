@@ -1,0 +1,43 @@
+{
+    "article": "Last week our school held a sports meeting. Everyone in our class felt very  _  because we  _  many matches. In the boys' relay race, Michael  ran  very fast and our class won the first place. Alice did well  _  the long jump and she also won. We're sorry that we did  _  in the high jump than other classes, but we're sure we could do better next time. I took part in the boys'  400-meter  race. I did my best and was the first  to pass  the finish line. This encouraged  _  a lot. Now I love sports better and I think nothing makes me more comfortable  than taking exercise everyday and I believe some day I  will be  able to be the best soccer player and take part in the Olympic Games.", 
+    "options": [
+        [
+            "happily", 
+            "worried", 
+            "relaxing", 
+            "excited"
+        ], 
+        [
+            "beated", 
+            "beat", 
+            "won", 
+            "lost"
+        ], 
+        [
+            "for", 
+            "in", 
+            "at", 
+            "to"
+        ], 
+        [
+            "better", 
+            "worst", 
+            "badder", 
+            "worse"
+        ], 
+        [
+            "me", 
+            "him", 
+            "her", 
+            "us"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "C", 
+        "B", 
+        "D", 
+        "A"
+    ], 
+    "source": "middle1784"
+}

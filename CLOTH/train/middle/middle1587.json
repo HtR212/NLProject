@@ -1,0 +1,57 @@
+{
+    "article": "Peter and Charley will go to the movie house.But Peter doesn't know the _ .\nCharley writes the way _ a piece of paper.Walk straight Sun Avenue _ you see a restaurant. _ left and you are _ Center Street.You will go past a library.Then turn right.Go straight and you will see a park in front of you.Go _ the park and turn left.After you pass the first shop,you will see a supermarket.The movie house is next to the supermarket.You can't _  it.", 
+    "options": [
+        [
+            "way", 
+            "road", 
+            "time", 
+            "street"
+        ], 
+        [
+            "at", 
+            "on", 
+            "with", 
+            "by"
+        ], 
+        [
+            "after", 
+            "while", 
+            "until", 
+            "to"
+        ], 
+        [
+            "Walk", 
+            "Take", 
+            "Turn", 
+            "Round"
+        ], 
+        [
+            "on", 
+            "at", 
+            "in", 
+            "for"
+        ], 
+        [
+            "over", 
+            "through", 
+            "on", 
+            "across"
+        ], 
+        [
+            "see", 
+            "look", 
+            "lost", 
+            "miss"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "C", 
+        "C", 
+        "A", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle1587"
+}

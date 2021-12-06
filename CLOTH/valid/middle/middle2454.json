@@ -1,0 +1,64 @@
+{
+    "article": "There is a big park near my home. It is big and beautiful. In the park, there are many  _  and trees. In spring, when flowers come out , the park looks very beautiful. People all like to  _  there. In the morning, many people take exercise there. Students like to  _  books there. After  supper  , people like to take a walk there with their friends or families. There are many benches for people to sit on when they  _  tired . Today is Sunday. There are many  _  in the park. Jim and his friends chat  _  the big tree. Lucy and Lily walk and talk about  _  interesting film. There is a lake  in the middle of  the park. Some children swim in the lake, and others fish there. They all have a 10  _  time.", 
+    "options": [
+        [
+            "books", 
+            "flowers", 
+            "food", 
+            "water"
+        ], 
+        [
+            "eat", 
+            "work", 
+            "play", 
+            "sleep"
+        ], 
+        [
+            "read", 
+            "say", 
+            "tell", 
+            "talk"
+        ], 
+        [
+            "am", 
+            "are", 
+            "is", 
+            "be"
+        ], 
+        [
+            "child", 
+            "childs", 
+            "childrens", 
+            "children"
+        ], 
+        [
+            "to", 
+            "on", 
+            "under", 
+            "from"
+        ], 
+        [
+            "a", 
+            "an", 
+            "the", 
+            "any"
+        ], 
+        [
+            "well", 
+            "bad", 
+            "good", 
+            "sad"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "A", 
+        "B", 
+        "D", 
+        "C", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle2454"
+}

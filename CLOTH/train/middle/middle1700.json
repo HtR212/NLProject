@@ -1,0 +1,71 @@
+{
+    "article": "That was a normal, busy morning .John, an elderly gentleman, arrived at the hospital I work at to see his doctor. John told me that he was in a hurry  _  he had to be somewhere else at 9:15 am. I invited him to take a  _  in the waiting area. There were many patients that morning. It would be over an hour  _  he could see the doctor. I saw him  looking at  his watch worriedly, so I decided to deal with his wound myself since I wasn't busy at that time. While taking care of his wound I asked John if he had  _  appointment this morning. John told me no, but he needed to go to eat breakfast with his  _  at Christopher's Nursing Home. As we talked, I asked if his wife would be  _  if he was a little late. John replied that she could no longer know  _  he was, and had been like that for five years. I was surprised and asked him, \"Do you  _  go there every morning, even though she doesn't know who you are?\" He smiled and said, \"She doesn't know  _  , but I still know who she is.\" I had to hold back tears as John left, and thought, \"That's the kind of love I want in my life.\"", 
+    "options": [
+        [
+            "because", 
+            "but", 
+            "and", 
+            "or"
+        ], 
+        [
+            "walk", 
+            "seat", 
+            "suggestion", 
+            "look"
+        ], 
+        [
+            "after", 
+            "when", 
+            "before", 
+            "since"
+        ], 
+        [
+            "another", 
+            "others'", 
+            "else's", 
+            "others"
+        ], 
+        [
+            "son", 
+            "wife", 
+            "parents", 
+            "friend"
+        ], 
+        [
+            "glad", 
+            "sorry", 
+            "sad", 
+            "angry"
+        ], 
+        [
+            "when", 
+            "where", 
+            "who", 
+            "how"
+        ], 
+        [
+            "never", 
+            "only", 
+            "still", 
+            "hardly"
+        ], 
+        [
+            "me", 
+            "you", 
+            "her", 
+            "him"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "C", 
+        "A", 
+        "B", 
+        "D", 
+        "C", 
+        "C", 
+        "A"
+    ], 
+    "source": "middle1700"
+}

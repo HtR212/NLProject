@@ -1,0 +1,64 @@
+{
+    "article": "Mr Smith is 35 years old.He _ in a food store .Every day he gets up at 6:30 in the morning and brushes _ teeth.He eats breakfast at 7:00.After breakfast,he _ his son,Jack to school.And then he takes the number 11 bus _ work.After he gets off the bus,he needs to _ to the store.He thinks it can help him to be _ .His work starts at 8:30 and he gets _ at 6:00 p.m.At 6:15,he has _ .Then he watches TV and helps Jack do his homework.He goes to bed at 11:00.", 
+    "options": [
+        [
+            "joins", 
+            "works", 
+            "plays", 
+            "learns"
+        ], 
+        [
+            "his", 
+            "her", 
+            "our", 
+            "their"
+        ], 
+        [
+            "takes", 
+            "knows", 
+            "meets", 
+            "calls"
+        ], 
+        [
+            "in", 
+            "at", 
+            "to", 
+            "on"
+        ], 
+        [
+            "walk", 
+            "go", 
+            "swim", 
+            "come"
+        ], 
+        [
+            "sorry", 
+            "healthy", 
+            "sad", 
+            "funny"
+        ], 
+        [
+            "store", 
+            "home", 
+            "school", 
+            "hotel"
+        ], 
+        [
+            "breakfast", 
+            "lunch", 
+            "dinner", 
+            "dessert"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "A", 
+        "C", 
+        "A", 
+        "B", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle761"
+}

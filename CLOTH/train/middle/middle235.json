@@ -1,0 +1,71 @@
+{
+    "article": "This is a  _  of David's family.This man  _  Mr Brown.  _  is David's father.He is a worker.  _  woman is Mrs. Brown.  _  is David's mother.She is a teacher.Who  _  this boy and  _  girl? The  _  is David, Mr. Brown's son.The girl is Tina, Mr. Brown's  _  .Tina is  David's  sister.David and Tina are brother and sister.", 
+    "options": [
+        [
+            "map", 
+            "book", 
+            "photo", 
+            "room"
+        ], 
+        [
+            "am", 
+            "is", 
+            "are", 
+            "be"
+        ], 
+        [
+            "Her", 
+            "She", 
+            "His", 
+            "He"
+        ], 
+        [
+            "This", 
+            "These", 
+            "A", 
+            "An"
+        ], 
+        [
+            "Her", 
+            "She", 
+            "His", 
+            "He"
+        ], 
+        [
+            "am", 
+            "is", 
+            "are", 
+            "be"
+        ], 
+        [
+            "a", 
+            "an", 
+            "this", 
+            "these"
+        ], 
+        [
+            "boy", 
+            "boys", 
+            "girl", 
+            "girls"
+        ], 
+        [
+            "sister", 
+            "cousin", 
+            "daughter", 
+            "brother"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "D", 
+        "A", 
+        "B", 
+        "C", 
+        "C", 
+        "A", 
+        "C"
+    ], 
+    "source": "middle235"
+}

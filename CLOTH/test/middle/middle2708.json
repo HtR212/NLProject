@@ -1,0 +1,71 @@
+{
+    "article": "I did very poorly in school. My headmaster thought I was useless. When I was 14 he said \"You are never going to be _ but a failure .\"\nAfter 5 years of working bad jobs, I fell in love _ a very nice girl. But her mother said to me \"You have _ at everything you've ever done. You can't bring any happiness to my _ !\" it was the most frustrating   thing that could have happened to me. I decided to do something about my life because I want to show her that what people said about me was _ .\nSo I worked hard on my writing and I _ during the day and went to evening classes at college. My first book came out at that time. Then I started to write full time. At the same time, I was offered a part-time job at Leeds University. I began to feel proud of _ -here was once a _ boy who left school early, now teaching at the university. My writing career  took off when I discovered  my own style.\nNow I'm rich and _ , have been on TV, and met lots of film stars. But what does that mean? I just wish all the people who put me down had said: \"I believe in you. You'll succeed.\"", 
+    "options": [
+        [
+            "anything", 
+            "something", 
+            "everything", 
+            "nothing"
+        ], 
+        [
+            "at", 
+            "with", 
+            "of", 
+            "by"
+        ], 
+        [
+            "failed", 
+            "won", 
+            "spent", 
+            "paid"
+        ], 
+        [
+            "son", 
+            "friend", 
+            "parent", 
+            "daughter"
+        ], 
+        [
+            "terrible", 
+            "excellent", 
+            "wrong", 
+            "right"
+        ], 
+        [
+            "stayed", 
+            "laughed", 
+            "lived", 
+            "studied"
+        ], 
+        [
+            "Themselves", 
+            "myself", 
+            "himself", 
+            "herself"
+        ], 
+        [
+            "proud", 
+            "rich", 
+            "poor", 
+            "happy"
+        ], 
+        [
+            "cool", 
+            "famous", 
+            "clever", 
+            "helpful"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "A", 
+        "D", 
+        "C", 
+        "D", 
+        "B", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle2708"
+}

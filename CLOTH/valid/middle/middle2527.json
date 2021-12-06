@@ -1,0 +1,71 @@
+{
+    "article": "Concorde's Birthday CONCORDE, the world's fastest passenger plane, will soon be over 33 years old. It first  flew  on 2 March 1969 in France. Concorde was developed by both France and Britain. From 1956 these two countries had a  _  of a supersonic passenger plane. In 1962 they started to  _  together on the project. The plane  _  over 1.5 billion pounds to develop. It is the most tested plane in the history. It was given over 5000 hours of testing. Concorde flies at twice the speed of  _  . This means that it  _  only 3 hours 25 minutes to fly between London and New York, compare with 7--8 hours in other passenger jets. Because of the five-hour time difference between the USA and Britain, it is  _  to travel west on Concorde and arrive in New York before you leave London! You can catch the 10:30a.m.  _  from London, Heathrow and start work in New York an hour  _  ! Concorde is much used by business people and film stars. Each Concorde is built at a cost of 55 million pounds. Twenty have been built so far. Air France and British Airway  _  the most. They each have seven planes.", 
+    "options": [
+        [
+            "talk", 
+            "dream", 
+            "meeting", 
+            "fight"
+        ], 
+        [
+            "work", 
+            "do", 
+            "carry", 
+            "finish"
+        ], 
+        [
+            "paid", 
+            "wanted", 
+            "needed", 
+            "cost"
+        ], 
+        [
+            "voice", 
+            "sound", 
+            "noise", 
+            "shout"
+        ], 
+        [
+            "spends", 
+            "takes", 
+            "covers", 
+            "travels"
+        ], 
+        [
+            "possible", 
+            "impossible", 
+            "real", 
+            "unreal"
+        ], 
+        [
+            "plane", 
+            "passenger", 
+            "flight", 
+            "airline"
+        ], 
+        [
+            "later", 
+            "late", 
+            "earlier", 
+            "early"
+        ], 
+        [
+            "build", 
+            "make", 
+            "sell", 
+            "own"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "D", 
+        "B", 
+        "A", 
+        "C", 
+        "C", 
+        "A", 
+        "D"
+    ], 
+    "source": "middle2527"
+}

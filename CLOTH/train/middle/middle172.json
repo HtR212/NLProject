@@ -1,0 +1,71 @@
+{
+    "article": "The weekend comes again. Grace is _ with her mother. She wants her mother to _ a new coat for her.\nIn a clothes shop, she finds an orange coat. That's her favourite colour. She tries it on, but it is too _ . She wants a larger   one. But the larger one is not _ . Grace doesn't like other colours. Her mother says, \" _ go to another shop to have a look.\" Then they go out of the shop and come into the next one.\nThis shop is very big and there _ many kinds of coats. Grace likes an orange one and asks, \" How much is it?\"\n\"538 yuan,\" answers the shop assistant  .\nGrace's mother _ it is too expensive and she doesn't have so _ money with her.\n\"Would you like this orange one? It's only 210 yuan,\" says the shop assistant.\n\"Oh, it looks good. Do you think so, Grace?\"\n\"OK. Let's _ it.\" Grace's mother pays for it.", 
+    "options": [
+        [
+            "dancing", 
+            "cooking", 
+            "playing", 
+            "shopping"
+        ], 
+        [
+            "make", 
+            "buy", 
+            "leave", 
+            "carry"
+        ], 
+        [
+            "large", 
+            "small", 
+            "cheap", 
+            "expensive"
+        ], 
+        [
+            "orange", 
+            "white", 
+            "yellow", 
+            "black"
+        ], 
+        [
+            "We're", 
+            "They're", 
+            "Let's", 
+            "It's"
+        ], 
+        [
+            "is", 
+            "are", 
+            "has", 
+            "have"
+        ], 
+        [
+            "talks", 
+            "speaks", 
+            "says", 
+            "tells"
+        ], 
+        [
+            "many", 
+            "much", 
+            "few", 
+            "little"
+        ], 
+        [
+            "take", 
+            "tidy", 
+            "compare", 
+            "enjoy"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "B", 
+        "B", 
+        "A", 
+        "C", 
+        "B", 
+        "C", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle172"
+}

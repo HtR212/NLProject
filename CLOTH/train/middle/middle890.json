@@ -1,0 +1,43 @@
+{
+    "article": "People in different  _  like to eat different food.  _  kind of food do people would like  to eat  ? For example  in the UK  , fried potatoes chips are very  _  . Sometimes people  cook  them at home, but they usually go to a fast food restaurant  to buy  them. They can  have  them in the restaurant  _  bring them away at home. Sometimes, they  _  like to eat them in the park.", 
+    "options": [
+        [
+            "cities", 
+            "countries", 
+            "towns", 
+            "homes"
+        ], 
+        [
+            "where", 
+            "when", 
+            "what", 
+            "who"
+        ], 
+        [
+            "popular", 
+            "large", 
+            "small", 
+            "cheap"
+        ], 
+        [
+            "and", 
+            "but", 
+            "or", 
+            "so"
+        ], 
+        [
+            "too", 
+            "also", 
+            "either", 
+            "and"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "A", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle890"
+}

@@ -1,0 +1,57 @@
+{
+    "article": "Mrs Black was waiting  _  an important  telephone call , but she had  _  bread in the house, so she left the baby at home and said to her five-year-old son. \"I'm going to the shop, Jimmy, and I'll  be back  in a few minutes.\"\nWhen she was  _ , the telephone rang, and Jimmy answered. \"Hello,\" said a man, \"Is your mother there?\" \"No,\" Jimmy answered. \"Well, when she comes back, tell her that Mr Baker telephoned.\" \"What?\" \"Mr Baker. Write it  _ .\" \"I can't write.\" \"Little boy, is there anybody else  _  you? Any brothers or sisters?\" \"My brother Billy is here.\" \"Good! I want to talk to him, please.\" \"All right,\" Jimmy took the  _  to the baby's bed and gave it to Billy.\nWhen their mother came back, she asked, \"Did  anyone  telephone?\" \"Yes,\" said Jimmy, \"A man only wants to talk to  _ .\"", 
+    "options": [
+        [
+            "at", 
+            "for", 
+            "in", 
+            "To"
+        ], 
+        [
+            "some", 
+            "no", 
+            "and", 
+            "not"
+        ], 
+        [
+            "home", 
+            "in", 
+            "out", 
+            "back"
+        ], 
+        [
+            "up", 
+            "down", 
+            "away", 
+            "out"
+        ], 
+        [
+            "with", 
+            "and", 
+            "/", 
+            "or"
+        ], 
+        [
+            "read", 
+            "pen", 
+            "paper", 
+            "telephone"
+        ], 
+        [
+            "me", 
+            "Billy", 
+            "Jimmy", 
+            "you"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "B", 
+        "C", 
+        "B", 
+        "A", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle157"
+}

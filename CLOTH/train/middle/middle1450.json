@@ -1,0 +1,50 @@
+{
+    "article": "Do you know \"homestay\"? What is a homestay? When you go to another  _  , you can live in a local  _  as a member of the family. This is called a homestay. It's a great experience  _  you can learn more about the country and its people. I'm Lily from  _  . I came to study in Canada with some English teachers. We are living  _  an old Canadian couple , Mr. and Mrs. Green. They have a wonderful five-bedroom house. And I have a bedroom of  my own  there. They also have two bathrooms and a  garden  with many beautiful flowers and big trees. Mrs. Green  _  does the housework. She does the laundry and cooks meals for us. At the weekend, my friends and I cook some Chinese food for the couple sometimes. They are very happy and they think  Chinese food  tastes good. We also celebrated the Canadian festivals with them and get to know  a lot  about their culture and custom .", 
+    "options": [
+        [
+            "country", 
+            "town", 
+            "village", 
+            "street"
+        ], 
+        [
+            "school", 
+            "restaurant", 
+            "hotel", 
+            "home"
+        ], 
+        [
+            "when", 
+            "after", 
+            "because", 
+            "if"
+        ], 
+        [
+            "Canada", 
+            "China", 
+            "America", 
+            "England"
+        ], 
+        [
+            "in", 
+            "for", 
+            "with", 
+            "at"
+        ], 
+        [
+            "sometimes", 
+            "never", 
+            "seldom", 
+            "usually"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "C", 
+        "B", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle1450"
+}

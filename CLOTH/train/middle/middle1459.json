@@ -1,0 +1,43 @@
+{
+    "article": "I have a friend, Linda. Linda is  an English  girl. She is  _  years old. She lives with  _  parents .She studies in a middle school near her home. Her classes begin at eight o'clock in the morning. She usually  gets up  at six thirty in the morning. And she washes  _  seven fifteen. Then she has breakfast. She  goes to  school at seven thirty. In the afternoon, the classes begin at two o'clock. There are only two  _  in the afternoon. She can  goes home  at five o'clock. In the evening, she usually  does  her homework and watches TV. She goes to  _  bed at 10:30.", 
+    "options": [
+        [
+            "third", 
+            "three", 
+            "thirteen", 
+            "thirty"
+        ], 
+        [
+            "she", 
+            "her", 
+            "his", 
+            "hers"
+        ], 
+        [
+            "in", 
+            "on", 
+            "at", 
+            "for"
+        ], 
+        [
+            "class", 
+            "friends", 
+            "classes", 
+            "game"
+        ], 
+        [
+            "/", 
+            "the", 
+            "a", 
+            "An"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "C", 
+        "C", 
+        "A"
+    ], 
+    "source": "middle1459"
+}

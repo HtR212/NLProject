@@ -1,0 +1,64 @@
+{
+    "article": "It's seven in the morning. After  _  Mr White and Mrs White  _  their children to the school  _  the car. Then they go to work in a  _  . The children have lunch at school. Father and mother have lunch at the factory. There  _  four classes in the morning and two in the afternoon. After  _  the children play games for some time. Sometimes the children  _  the classroom with their classmates. Then they go home by school bus. Mother cooks supper for the  _  . The children help their mother do the housework. After supper the children do  their homework  . Father and mother watch TV or  do some reading  .", 
+    "options": [
+        [
+            "lunch", 
+            "supper", 
+            "dinner", 
+            "breakfast"
+        ], 
+        [
+            "take", 
+            "bring", 
+            "help", 
+            "get"
+        ], 
+        [
+            "by", 
+            "on", 
+            "at", 
+            "in"
+        ], 
+        [
+            "hospital", 
+            "factory", 
+            "school", 
+            "restaurant"
+        ], 
+        [
+            "has", 
+            "are", 
+            "is", 
+            "have"
+        ], 
+        [
+            "classes", 
+            "school", 
+            "class", 
+            "afternoon"
+        ], 
+        [
+            "clean", 
+            "stay", 
+            "wash", 
+            "play"
+        ], 
+        [
+            "home", 
+            "child", 
+            "her", 
+            "family"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "A", 
+        "D", 
+        "B", 
+        "B", 
+        "B", 
+        "A", 
+        "D"
+    ], 
+    "source": "middle1895"
+}

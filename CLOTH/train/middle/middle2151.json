@@ -1,0 +1,71 @@
+{
+    "article": "Mr. Jackson was on duty that evening. It was  _  and there was thick snow outside. So few people came to the hospital and he could  lie down  on the bed in his office and soon he went to sleep . Suddenly someone knocked at the door and it woke him up. He got up and opened the door. In went an old man. His wife was ill and he asked the doctor to go to look her over. It was still  _  when Mr. Jackson came out. The old farmer walked fast and he hardly catch up with him. It was  _  for him to walk on the snowy roads. When he got to the man's house, he was very  _  . He looked over the old woman and found she had a bad cold. He gave her some  _  and began to return to the hospital. The wind was blowing strongly and he couldn't walk too  _  And when he was near the hospital, he had a pain in his foot. He walked slowly and at last he went into his office, He took  _  his shoe and looked at his foot. There was much blood on it. He  _  he stepped on a broken glass. He looked at his shoe carefully and said to  _  \"Luckily, it didn't prick my shoe!\"", 
+    "options": [
+        [
+            "hot", 
+            "warm", 
+            "cool", 
+            "cold"
+        ], 
+        [
+            "snowing", 
+            "shining", 
+            "raining", 
+            "singing"
+        ], 
+        [
+            "happy", 
+            "difficult", 
+            "easy", 
+            "sad"
+        ], 
+        [
+            "sorry", 
+            "afraid", 
+            "strange", 
+            "tired"
+        ], 
+        [
+            "medicine", 
+            "food", 
+            "water", 
+            "sugar"
+        ], 
+        [
+            "quickly", 
+            "carefully", 
+            "noisily", 
+            "heavily"
+        ], 
+        [
+            "off", 
+            "up", 
+            "on", 
+            "away"
+        ], 
+        [
+            "forgot", 
+            "remembered", 
+            "understood", 
+            "told"
+        ], 
+        [
+            "him", 
+            "her", 
+            "them", 
+            "himself"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "A", 
+        "B", 
+        "D", 
+        "A", 
+        "A", 
+        "A", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle2151"
+}

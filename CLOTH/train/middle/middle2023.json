@@ -1,0 +1,50 @@
+{
+    "article": "Mr. and Mrs. White are teachers. They teach English in a big school. They go to  _  by car. They  _  home at eight o'clock in the morning and come back at four in the afternoon. They have two children. One is Tom.  the other  is Ann. They are students. They are in  different  classes in the same school. They go to school on their bikes. It takes 10 minutes to get there. Some of their friends  _  to school too. After they get home, Tom and Ann do  _  homework. Mrs. White does the cooking for her family. Mr. White reads the newspaper. But  sometimes  Mr. White helps his wife  _  their supper. After supper.  all of them  watch TV. The two children usually go to bed  _  from Sunday night to Thursday night, because the next day they must go to school.", 
+    "options": [
+        [
+            "work", 
+            "school", 
+            "sleep", 
+            "home"
+        ], 
+        [
+            "start", 
+            "close", 
+            "leave", 
+            "begin"
+        ], 
+        [
+            "go", 
+            "walk", 
+            "ride", 
+            "drive"
+        ], 
+        [
+            "/", 
+            "theirs", 
+            "his", 
+            "their"
+        ], 
+        [
+            "with", 
+            "about", 
+            "of", 
+            "on"
+        ], 
+        [
+            "early", 
+            "late", 
+            "quickly", 
+            "Hard"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "C", 
+        "D", 
+        "A", 
+        "A"
+    ], 
+    "source": "middle2023"
+}

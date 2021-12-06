@@ -1,0 +1,71 @@
+{
+    "article": "Hello, my name is Jack. I  _  a student in No.1 Middle school. In my spare time , I like doing sports .I like  _  tennis and basketball. Look  _  my bedroom. I have a tennis racket.  _  is on the table. I have two  _  . They are  _  the bed. Playing sports is very  _  , so I like it very much. I also like eating. Among(......)fruits, I like  bananas  best. But I  _  like vegetables. I like French fries very much. So I am very fat. The doctor asks me to eat more  _  food.", 
+    "options": [
+        [
+            "is", 
+            "are", 
+            "am", 
+            "do"
+        ], 
+        [
+            "the", 
+            "a", 
+            "/", 
+            "an"
+        ], 
+        [
+            "at", 
+            "in", 
+            "for", 
+            "to"
+        ], 
+        [
+            "It", 
+            "Its", 
+            "They", 
+            "Them"
+        ], 
+        [
+            "basketballs", 
+            "basketball", 
+            "volleyball", 
+            "soccer"
+        ], 
+        [
+            "in", 
+            "at", 
+            "to", 
+            "under"
+        ], 
+        [
+            "boring", 
+            "fun", 
+            "well", 
+            "bad"
+        ], 
+        [
+            "do", 
+            "don't", 
+            "does", 
+            "doesn't"
+        ], 
+        [
+            "relaxing", 
+            "healthy", 
+            "bad", 
+            "health"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "C", 
+        "A", 
+        "A", 
+        "A", 
+        "D", 
+        "B", 
+        "B", 
+        "B"
+    ], 
+    "source": "middle1404"
+}

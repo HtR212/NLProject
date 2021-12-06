@@ -1,0 +1,64 @@
+{
+    "article": "Man has invented four kinds of satellites. The first kind of satellites studies the geography of the Earth. They are used to make maps. They also help countries to see _ they can find oil or gold. The second kind of satellites is used to guide _ and planes. A ship or plane can _ a message to the satellite, and the satellite can find out where it is. The third kind of satellites studies the _ . These satellites watch clouds and strong winds moving across the earth. They warn countries to make preparations when very bad weather is coming. They take photos of the Earth from miles above it and send the photos to weather _ on the ground.\nThe last kind is used for _ . Telephone calls _ countries can be sent by these satellites. Some can carry hundreds of message at a time . The call is sent to the satellite and then the satellite send it to the station and then the satellite to the station in the country which  is being phoned. These satellites also carry _ , they can send about eight programs at a time.", 
+    "options": [
+        [
+            "what", 
+            "where", 
+            "which", 
+            "who"
+        ], 
+        [
+            "ships", 
+            "planes", 
+            "buses", 
+            "trains"
+        ], 
+        [
+            "bring", 
+            "take", 
+            "write", 
+            "send"
+        ], 
+        [
+            "history", 
+            "medicine", 
+            "weather", 
+            "whether"
+        ], 
+        [
+            "stations", 
+            "shop", 
+            "report", 
+            "studio"
+        ], 
+        [
+            "sports", 
+            "communication", 
+            "shopping", 
+            "hearing"
+        ], 
+        [
+            "of", 
+            "from", 
+            "between", 
+            "in"
+        ], 
+        [
+            "languages", 
+            "films", 
+            "pictures", 
+            "plays"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "D", 
+        "C", 
+        "A", 
+        "B", 
+        "C", 
+        "C"
+    ], 
+    "source": "middle3016"
+}

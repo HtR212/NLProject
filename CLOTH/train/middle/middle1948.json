@@ -1,0 +1,71 @@
+{
+    "article": "Hello! My name is Dave Brown. My  _  name is Dave. I play sports every day and I am very  _  . I eat a lot of fruit and  _  . For fruit, I like apples, oranges, pears and  _  . For vegetables, I like tomatoes and  _  . I don't like ice-cream. I like chicken  _  dinner every day. I like playing sports, too. I  _  in the morning. I likeLin Shuhao. Do you  _  him? Yeah, he is a basketball player. I like  playing  basketball, too. I play it every afternoon. It is not  _  for me. Healthy food and lots of sports make me healthy.", 
+    "options": [
+        [
+            "first", 
+            "last", 
+            "family", 
+            "English"
+        ], 
+        [
+            "good", 
+            "healthy", 
+            "dear", 
+            "boring"
+        ], 
+        [
+            "salad", 
+            "eggs", 
+            "vegetables", 
+            "rice"
+        ], 
+        [
+            "ice", 
+            "bananas", 
+            "cream", 
+            "hamburgers"
+        ], 
+        [
+            "oranges", 
+            "apples", 
+            "carrots", 
+            "chicken"
+        ], 
+        [
+            "of", 
+            "for", 
+            "in", 
+            "on"
+        ], 
+        [
+            "run", 
+            "spell", 
+            "lose", 
+            "find"
+        ], 
+        [
+            "need", 
+            "call", 
+            "meet", 
+            "know"
+        ], 
+        [
+            "difficult", 
+            "interesting", 
+            "great", 
+            "relaxing"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "C", 
+        "B", 
+        "C", 
+        "B", 
+        "A", 
+        "D", 
+        "A"
+    ], 
+    "source": "middle1948"
+}

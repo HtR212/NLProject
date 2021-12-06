@@ -1,0 +1,64 @@
+{
+    "article": "I study in the No.1 Middle School. There are three _ and thirty-two classes in the school. It's not big _ very beautiful.\nIn the middle of the school, there _ a new teaching building. The science building and the library are around _ teaching building. There are all kinds of books in the library If you like reading, you can have a good _ there.\nOur playground is very big. In the playground, you _ do sports happily. Playing _ is a good idea, because there are four basketball courts   here.\nThere are many trees in our school. You can see them everywhere.\nOur school life is happy and _ I love our school!", 
+    "options": [
+        [
+            "grades", 
+            "classrooms", 
+            "museums", 
+            "libraries"
+        ], 
+        [
+            "or", 
+            "so", 
+            "and", 
+            "but"
+        ], 
+        [
+            "is", 
+            "are", 
+            "has", 
+            "have"
+        ], 
+        [
+            "a", 
+            "an", 
+            "the", 
+            "/"
+        ], 
+        [
+            "holiday", 
+            "rest", 
+            "book", 
+            "time"
+        ], 
+        [
+            "shall", 
+            "can", 
+            "would", 
+            "need"
+        ], 
+        [
+            "tennis", 
+            "football", 
+            "basketball", 
+            "volleyball"
+        ], 
+        [
+            "interesting", 
+            "funny", 
+            "beautiful", 
+            "bright"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "A", 
+        "C", 
+        "D", 
+        "B", 
+        "C", 
+        "A"
+    ], 
+    "source": "middle2400"
+}

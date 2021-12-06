@@ -1,0 +1,57 @@
+{
+    "article": "A healthy diet along with exercise will help you look better, feel better and live longer. But I am  _  to say that many children don't have a healthy lifestyle. They eat much junk food  _  French fries and fried chicken. Eating too much junk food and dessert is  _  .If you want to  _  a long and healthy life, you have to  look after  your living habits . It is important to get a yearly physical examination ,too. You don't hope to  hear  any bad news, but the doctor will tell you  _  healthy you are. It's also a good idea for you to  _  a book on healthy eating.  _  milk or juice from fruits and vegetables can help to improve your health, too. I am  in  good health now. People tell me that I look very young. Healthy eating has helped me and it will also help you!", 
+    "options": [
+        [
+            "happy", 
+            "sad", 
+            "excited", 
+            "angry"
+        ], 
+        [
+            "with", 
+            "as", 
+            "like", 
+            "about"
+        ], 
+        [
+            "cheap", 
+            "difficult", 
+            "delicious", 
+            "unhealthy"
+        ], 
+        [
+            "live", 
+            "try", 
+            "show", 
+            "play"
+        ], 
+        [
+            "what", 
+            "how", 
+            "when", 
+            "where"
+        ], 
+        [
+            "write", 
+            "sell", 
+            "read", 
+            "take"
+        ], 
+        [
+            "Drink", 
+            "Eat", 
+            "Drinking", 
+            "Eating"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "D", 
+        "A", 
+        "B", 
+        "C", 
+        "C"
+    ], 
+    "source": "middle1129"
+}

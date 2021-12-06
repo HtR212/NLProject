@@ -1,0 +1,43 @@
+{
+    "article": "Dear Lucy, How are you? After reading your letter in the newspaper, I want  to be  your pen pal . Let me introduce  _  to you. I'm  _  Chinese schoolgirl. My name is Liu Yue. I'm studying in a middle school in Beijing now. I'm in Class One, Grade Eight. My parents work in a high school. One teaches English and  the other  teaches math. I know you enjoy  listening to  music. You have a good  _  and sing well. I also like music very much. I can play  _  piano. I also know you like dancing, and I like it, too. I  joined  the school dance club last month. You see, we have many things in common. I think we can be good friends.  One more thing  , I'll send you a photo of my family. You'll see a girl  _  a red dress in the picture. It's me.", 
+    "options": [
+        [
+            "I", 
+            "my", 
+            "myself", 
+            "mine"
+        ], 
+        [
+            "the", 
+            "an", 
+            "/", 
+            "a"
+        ], 
+        [
+            "noise", 
+            "voice", 
+            "mouth", 
+            "ear"
+        ], 
+        [
+            "a", 
+            "An", 
+            "the", 
+            "/"
+        ], 
+        [
+            "in", 
+            "on", 
+            "at", 
+            "for"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "D", 
+        "B", 
+        "C", 
+        "A"
+    ], 
+    "source": "middle598"
+}

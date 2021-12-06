@@ -1,0 +1,50 @@
+{
+    "article": "Hello, my friends, long time no see! My family and I went on a  two-week  trip to Europe during our recent vacation. We visited Paris, France, and London, England. Here I want to share my tour of Paris with you.  _  we set out, we all expected a fun and interesting vacation. For my sister and me, our stay in Paris had  another  meaning. It was a golden chance  to practice  our French, since English and French are the two official languages in Canada. My mom doesn't speak French, and my sister can't speak it very  _  (she is only in Grade Three). So it was my duty  to ask for  directions , order food, and deal with any person-to-person communication. I was, of course, really nervous:  what if  they couldn't understand my French  _  I couldn't understand theirs? My  _  soon went away. The people in Paris  seemed  very happy to answer my questions. They listened patiently and carefully, and spoke slowly  so that  we could understand. One gentleman was even kind enough to lead us to the hotel we were  looking for  .  What about  the places we visited? We visited many places in Paris. My sister liked the Eiffel Tower and the Arc de Triomphe . My mom liked the Louvre Museum most. Her favorite painting was the Mona Lisa. Which places did I like? I liked all of them.  _  its romantic air, people's friendly greetings and historic buildings, Paris is a city that we will  _  forget.", 
+    "options": [
+        [
+            "When", 
+            "If", 
+            "Before", 
+            "After"
+        ], 
+        [
+            "good", 
+            "better", 
+            "well", 
+            "best"
+        ], 
+        [
+            "and", 
+            "but", 
+            "although", 
+            "or"
+        ], 
+        [
+            "sadness", 
+            "happiness", 
+            "pleasure", 
+            "worries"
+        ], 
+        [
+            "With", 
+            "Without", 
+            "Under", 
+            "Behind"
+        ], 
+        [
+            "always", 
+            "often", 
+            "never", 
+            "sometimes"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "C", 
+        "D", 
+        "D", 
+        "A", 
+        "C"
+    ], 
+    "source": "middle1134"
+}

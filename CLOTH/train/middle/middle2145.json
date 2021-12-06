@@ -1,0 +1,71 @@
+{
+    "article": "Do the boys and girls have the same favorite subjects? The answer is  _  . There are many differences between boys and girls  _  school. As we know, sometimes we say boys  like  math and girls like English. That's right. Many boys like P.E. And  _  like science and math, too. Many  _  like Chinese and English,  _  science and math  _  their favorite subjects. Girls usually don't like math  _  science.  _  don't girls and boys have the same favorite subjects? We don't know.  _  you know?", 
+    "options": [
+        [
+            "no", 
+            "not", 
+            "yes", 
+            "don't"
+        ], 
+        [
+            "on", 
+            "at", 
+            "of", 
+            "to"
+        ], 
+        [
+            "we", 
+            "us", 
+            "them", 
+            "they"
+        ], 
+        [
+            "girls", 
+            "girl", 
+            "boys", 
+            "teachers"
+        ], 
+        [
+            "or", 
+            "but", 
+            "and", 
+            "because"
+        ], 
+        [
+            "is", 
+            "isn't", 
+            "aren't", 
+            "are"
+        ], 
+        [
+            "so", 
+            "but", 
+            "and", 
+            "or"
+        ], 
+        [
+            "Why", 
+            "What", 
+            "When", 
+            "Where"
+        ], 
+        [
+            "Have", 
+            "Do", 
+            "Does", 
+            "Are"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "D", 
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle2145"
+}

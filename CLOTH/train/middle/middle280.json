@@ -1,0 +1,64 @@
+{
+    "article": "I am Helen. I come from the U.S.A. I am thirteen years old. There _ five _ in my family. We live in China now .\nMy father is a doctor. He _ in a hospital. My mother is a teacher. She _ in a high school. My little sister, Rose, is _ four years old. My grandmother lives _ us and looks after Rose at home. She love _ a  lot. I _ a  happy family.", 
+    "options": [
+        [
+            "are", 
+            "be", 
+            "is", 
+            "will"
+        ], 
+        [
+            "peoples", 
+            "women", 
+            "people", 
+            "boys"
+        ], 
+        [
+            "work", 
+            "works", 
+            "teaches", 
+            "teach"
+        ], 
+        [
+            "teach", 
+            "teaches", 
+            "drives", 
+            "drive"
+        ], 
+        [
+            "in", 
+            "often", 
+            "only", 
+            "at"
+        ], 
+        [
+            "of", 
+            "for", 
+            "in", 
+            "with"
+        ], 
+        [
+            "her", 
+            "she", 
+            "he", 
+            "him"
+        ], 
+        [
+            "has", 
+            "like", 
+            "have", 
+            "am"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "B", 
+        "B", 
+        "C", 
+        "D", 
+        "A", 
+        "C"
+    ], 
+    "source": "middle280"
+}

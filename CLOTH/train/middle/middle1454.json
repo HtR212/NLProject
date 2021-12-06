@@ -1,0 +1,57 @@
+{
+    "article": "The Greens lived in a small town. Mr. Green worked in a factory. Mrs. Green didn't go out to work. She cooked meals and did some  _  at home all day. Their child Bob studied in a middle school far from their  _  . And he took a bus to school every day. Mrs. Green  had to  get up very early in the morning to cook breakfast for the family. One morning, Mrs. Green didn't feel well,  _  she told her son to get something to eat himself. The boy didn't find any food in the fridge and went to school without breakfast. After Bob left home, Mrs. Green felt very  _  about that. She got up and cooked  _  delicious for her son. Then she went to the bus stop and took a bus to her son's school. It was her first time to go to her son's school. After thirty minutes, she  got off  the bus. \"I can't find the  _  to my son's school. What shall I do?\" she asked a man at the side of the road for help. \"It doesn't matter. Lie down in the middle of the  _  and the policemen will take you there,\" the man answered. \"I don't think so. The doctors will come  instead of  the policemen,\" said Mrs. Green.", 
+    "options": [
+        [
+            "shopping", 
+            "cleaning", 
+            "reading", 
+            "writing"
+        ], 
+        [
+            "office", 
+            "room", 
+            "family", 
+            "home"
+        ], 
+        [
+            "when", 
+            "so", 
+            "but", 
+            "or"
+        ], 
+        [
+            "angry", 
+            "sorry", 
+            "happy", 
+            "excited"
+        ], 
+        [
+            "something", 
+            "anything", 
+            "everything", 
+            "nothing"
+        ], 
+        [
+            "way", 
+            "money", 
+            "traffic", 
+            "stop"
+        ], 
+        [
+            "school", 
+            "park", 
+            "road", 
+            "shop"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "B", 
+        "B", 
+        "A", 
+        "A", 
+        "C"
+    ], 
+    "source": "middle1454"
+}

@@ -1,0 +1,50 @@
+{
+    "article": "Miss Jane White is English. She is in Beijing now. She has never been to  Beijing before. She wants  to go to some interesting places. Because she is _  there, she doesn't know Beijing well(know...well......). She _ some help. Look! She's  _ a policeman for help. Miss White:  Excuse me. Could you tell me how to get to the Forbidden City ? Policeman:  Sure! Go down this road, and  _ left at the second street. Then you will come to Chang'an Jie. Go along Chang'an Jie, and the Forbidden City is _ the right. You can't miss it. Miss White: Thank you a lot. Policeman: You're  _ .", 
+    "options": [
+        [
+            "new", 
+            "old", 
+            "quiet", 
+            "busy"
+        ], 
+        [
+            "has", 
+            "asks", 
+            "needs", 
+            "thinks"
+        ], 
+        [
+            "asking", 
+            "coming", 
+            "taking", 
+            "arriving"
+        ], 
+        [
+            "have", 
+            "take", 
+            "turn", 
+            "pass"
+        ], 
+        [
+            "in", 
+            "Across", 
+            "for", 
+            "on"
+        ], 
+        [
+            "right", 
+            "good", 
+            "welcome", 
+            "well"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "A", 
+        "C", 
+        "D", 
+        "C"
+    ], 
+    "source": "middle2786"
+}

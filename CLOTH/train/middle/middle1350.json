@@ -1,0 +1,71 @@
+{
+    "article": "(10,l,10) ,,A, B, C, D,. A dog is our friend who will never oppose and hurt us. No matter who you are, rich or poor, they will always be  _  you. Now , please read these pet's commandments , which will help you get a better understanding of your faithful friend. My life is likely to  _  ten to fifteen years . Any separation from you will be painful for me. Remember that before you buy me . Don't be  _  with me for long and don't lock me up as punishment . You have your work, your entertainment and your friends. I have  _  you. Talk to me sometimes. Even if I don't understand your words, I understand your  _  when you're speaking to me. Remember that however you  _  me, I'll never forget it and if it's cruel it may affect me forever. Before you hit me,please remember that I have  _  that could easily crush the bones of your hand, but that I choose not to bite you. Before you scold me for being lazy, ask  _  if something might be bothering me . Perhaps I'm not getting the right food, I have been in the sun too long,  _  my heart might be getting old or weak.  Take care of  me when I get old. You too, will grow old. When I will leave, you must stay at my side. Never say \"I can't stand watching it.\" Everything is easy for me if you are there. Remember, I love you.", 
+    "options": [
+        [
+            "through", 
+            "without", 
+            "towards", 
+            "with"
+        ], 
+        [
+            "leave", 
+            "last", 
+            "carry", 
+            "create"
+        ], 
+        [
+            "angry", 
+            "excited", 
+            "pleased", 
+            "strict"
+        ], 
+        [
+            "only", 
+            "mainly", 
+            "still", 
+            "even"
+        ], 
+        [
+            "noise", 
+            "voice", 
+            "sound", 
+            "shout"
+        ], 
+        [
+            "treat", 
+            "destroy", 
+            "consider", 
+            "regard"
+        ], 
+        [
+            "legs", 
+            "nose", 
+            "necks", 
+            "teeth"
+        ], 
+        [
+            "itself", 
+            "himself", 
+            "yourself", 
+            "myself"
+        ], 
+        [
+            "and", 
+            "since", 
+            "although", 
+            "or"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "B", 
+        "A", 
+        "A", 
+        "B", 
+        "A", 
+        "D", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle1350"
+}

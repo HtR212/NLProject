@@ -1,0 +1,71 @@
+{
+    "article": "Mark Twain was asked one day if he could remember the first money he got. He thought for a long time before answering and then said, \"Yes, it was at school. I can remember  _  about it. Schoolboys in those days never  _  teachers and never took care of thing of the school. They often damaged their desks. There was a(n)  _  in our school that anybody who damaged his desk with a pencil or knife would be beaten before the  _  school or have to pay five dollars.\" \"One day, I damaged my desk in some  _  . I had to tell my father I had broken the rule, and had to pay five dollars or be beaten before the whole school. My father said it  would  be too bad to have our face lost in front of the whole school. He  _  to give five dollars to hand over to the teacher. But before giving me the money he took me upstairs and give me a beating.\" \"But as I had had one beating and wasn't afraid of it any  _  I decided I would take  _  beating at school and  _  the dollars. So that was what I did. That was the first money I ever got.\"", 
+    "options": [
+        [
+            "something", 
+            "anything", 
+            "everything", 
+            "nothing"
+        ], 
+        [
+            "loved", 
+            "trusted", 
+            "hated", 
+            "respected"
+        ], 
+        [
+            "punishment", 
+            "bet", 
+            "issue", 
+            "rule"
+        ], 
+        [
+            "whole", 
+            "total", 
+            "complete", 
+            "all"
+        ], 
+        [
+            "way", 
+            "method", 
+            "manner", 
+            "means"
+        ], 
+        [
+            "agreed", 
+            "permitted", 
+            "accepted", 
+            "screamed"
+        ], 
+        [
+            "time", 
+            "longer", 
+            "more", 
+            "way"
+        ], 
+        [
+            "another", 
+            "more", 
+            "a", 
+            "some"
+        ], 
+        [
+            "earn", 
+            "keep", 
+            "make", 
+            "obtain"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "D", 
+        "D", 
+        "A", 
+        "B", 
+        "A", 
+        "C", 
+        "A", 
+        "B"
+    ], 
+    "source": "high16"
+}

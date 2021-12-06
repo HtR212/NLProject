@@ -1,0 +1,64 @@
+{
+    "article": "Gao Ming was very busy yesterday.He got up  _  7:10 in the morning.He washed his face  _  and had some milk and bread  _  breakfast.It was a fine day.He went to school early.He had four  _  in the morning.He had a little  _  after lunch, _  he worked very hard in class all day.He played basketball after school and then went home.On his way  home  he bought a pen.\nWhen he  _  home,he had a short rest.After that he helped his parents.He quickly had  _  and cleaned the house.He watched TV for half an hour.Then he finished his homework at half past nine.He  went to bed  at ten o'clock.", 
+    "options": [
+        [
+            "on", 
+            "before", 
+            "for", 
+            "about"
+        ], 
+        [
+            "sadly", 
+            "happily", 
+            "slowly", 
+            "quickly"
+        ], 
+        [
+            "for", 
+            "about", 
+            "on", 
+            "of"
+        ], 
+        [
+            "matches", 
+            "games", 
+            "classes", 
+            "books"
+        ], 
+        [
+            "time", 
+            "homework", 
+            "rest", 
+            "housework"
+        ], 
+        [
+            "and", 
+            "but", 
+            "or", 
+            "for"
+        ], 
+        [
+            "took", 
+            "was", 
+            "left", 
+            "arrived"
+        ], 
+        [
+            "supper", 
+            "breakfast", 
+            "lunch", 
+            "meals"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "A", 
+        "C", 
+        "C", 
+        "A", 
+        "D", 
+        "A"
+    ], 
+    "source": "middle980"
+}

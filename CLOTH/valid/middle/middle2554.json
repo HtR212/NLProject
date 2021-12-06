@@ -1,0 +1,43 @@
+{
+    "article": "I come from Liaocheng. It is my  home town  .It's a beautiful  _ .It's in the _  of Shandong Province. The _ of it is about 6 mllion. It's famous _ Dongchang lake, Gguangyue Tower, Shan-shan Guildhall and so on. It' s hot in  _ and  cold  in winter. It's the hottest in August. So  the best time to come here is in spring  or autumn. Every year millions of visitors come here to spend their holidays.  Welcome to my home town! You will have a good time.", 
+    "options": [
+        [
+            "capital", 
+            "hill", 
+            "city", 
+            "island"
+        ], 
+        [
+            "south", 
+            "southwest", 
+            "northwest", 
+            "east"
+        ], 
+        [
+            "population", 
+            "number", 
+            "people", 
+            "city"
+        ], 
+        [
+            "for", 
+            "of", 
+            "with", 
+            "as"
+        ], 
+        [
+            "winter", 
+            "spring", 
+            "summer", 
+            "autumn"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "C", 
+        "A", 
+        "A", 
+        "C"
+    ], 
+    "source": "middle2554"
+}

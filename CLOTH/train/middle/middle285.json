@@ -1,0 +1,64 @@
+{
+    "article": "In real life, robots are mainly used in factories. They do many different jobs. Usually these jobs are too _ , difficult or boring for humans.\nRobots also help disabled people and people who cannot look after _ . For example, scientists are making a robot to help _ people. Now many of them have a dog to help them. The dog is called a guide dog. In the future, guide dogs might be robot dogs.\nOne robot dog is called Meldog. It has wheels. It usually \"walks\" in front of its owner. It is very clever. It knows the speed of its owner's walk. Meldog talks to its owner by radio . The owner wears a special belt. This belt _ instructions to the owner from Meldog such as \"Stop here\", \"Turn left\" and \"Turn right\".\nIn the United States, another _ of robot helps disabled workers. This robot, called Kilroy, helps disabled computer operators. The robot _ the sound of its owner's voice. It follows instructions such as \"Turn the page\" and \"Make a cup of coffee\".\nRobots are also used in American _ . They can do simple jobs. For example, they shave   patients and brush their teeth and take meals from the kitchen to patients' rooms. It never gets lost _ this robot has a map of the hospital in its computer memory.", 
+    "options": [
+        [
+            "interesting", 
+            "strange", 
+            "dangerous", 
+            "safe"
+        ], 
+        [
+            "others", 
+            "another", 
+            "them", 
+            "themselves"
+        ], 
+        [
+            "deaf", 
+            "blind", 
+            "old", 
+            "sick"
+        ], 
+        [
+            "posts", 
+            "writes", 
+            "reads", 
+            "sends"
+        ], 
+        [
+            "type", 
+            "size", 
+            "set", 
+            "double"
+        ], 
+        [
+            "guesses", 
+            "thinks", 
+            "hears", 
+            "sees"
+        ], 
+        [
+            "cinema", 
+            "hospitals", 
+            "museum", 
+            "theatre"
+        ], 
+        [
+            "until", 
+            "before", 
+            "because", 
+            "whether"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "D", 
+        "B", 
+        "D", 
+        "A", 
+        "C", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle285"
+}

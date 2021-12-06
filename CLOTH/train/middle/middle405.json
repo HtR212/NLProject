@@ -1,0 +1,43 @@
+{
+    "article": "Ann is  an  English girl. She is fourteen. She is a  middle school  student. Her teacher is Miss White. Ann helps her teacher to put  _  books and ruler on the desk. They have a new  _  . In it you can  see  40 desks and chairs. A blackboard, a clock and a map are on the  _  . There are some pens on the desks. The red  _  is Ann's. Others are Kate's. Kate is Ann's  _  friend. Kate isn't    here today . She is ill . Look at the clock.  It's  four o'clock. It's time to go home.", 
+    "options": [
+        [
+            "my", 
+            "your", 
+            "his", 
+            "her"
+        ], 
+        [
+            "room", 
+            "class", 
+            "grade", 
+            "classroom"
+        ], 
+        [
+            "wall", 
+            "chair", 
+            "desk", 
+            "floor"
+        ], 
+        [
+            "pens", 
+            "pencil", 
+            "one", 
+            "ones"
+        ], 
+        [
+            "fine", 
+            "good", 
+            "nice", 
+            "right"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "D", 
+        "A", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle405"
+}

@@ -1,0 +1,43 @@
+{
+    "article": "Hi, boys and girls! I'm  Kathy. Let me _ you something about my family. There _ three people in my family------my father, my mother, and I. My father is a bank clerk .And he works in a bank .He thinks his job is kind of boring. He wants to be a policeman. He enjoys  watching  TV after dinner. My mother is a teacher .She _ in a middle  school. She thinks her job is very _ .She likes her students very much .She works hard and often comes back home late . Look, many students are on the playground. Some are walking,  other are  playing games .In her free time , she likes writing stories _ a  magazine. I study at a middle school .I also want to be a teacher when I grow up.", 
+    "options": [
+        [
+            "say", 
+            "speak", 
+            "tell", 
+            "talk"
+        ], 
+        [
+            "have", 
+            "is", 
+            "has", 
+            "are"
+        ], 
+        [
+            "teac", 
+            "wants", 
+            "work", 
+            "teaches"
+        ], 
+        [
+            "dangerous", 
+            "difficult", 
+            "interesting", 
+            "boring"
+        ], 
+        [
+            "in", 
+            "for", 
+            "as", 
+            "at"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "D", 
+        "D", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle2801"
+}

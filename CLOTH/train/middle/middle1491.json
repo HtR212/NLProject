@@ -1,0 +1,64 @@
+{
+    "article": "I have a good friend.  _  name is Peter. We study in Beijing Sunshine Secondary School. We are in the same class. He sits in front of  _  . He likes Music lesson best. He  has  many CDs. He likes  listening to  music very much. He likes playing football, too. After school we often play football in the  _  . He is very helpful. We often help each  _  . Peter is not a Chinese. He is from  _  . He comes to Beijing  _  his family. His father is a doctor and his mother is a nurse. They work from Monday  _  Friday. At weekends, his mother likes shopping and his father likes fishing. Sometimes they go to the park. They all like Chinese food. They  _  very happy.", 
+    "options": [
+        [
+            "My", 
+            "His", 
+            "Your", 
+            "Her"
+        ], 
+        [
+            "I", 
+            "my", 
+            "mine", 
+            "me"
+        ], 
+        [
+            "classroom", 
+            "library", 
+            "playground", 
+            "bookshop"
+        ], 
+        [
+            "one", 
+            "other", 
+            "others", 
+            "some"
+        ], 
+        [
+            "England", 
+            "Chinese", 
+            "English", 
+            "China"
+        ], 
+        [
+            "from", 
+            "on", 
+            "with", 
+            "for"
+        ], 
+        [
+            "in", 
+            "to", 
+            "with", 
+            "of"
+        ], 
+        [
+            "be", 
+            "am", 
+            "is", 
+            "are"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "C", 
+        "B", 
+        "A", 
+        "C", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle1491"
+}

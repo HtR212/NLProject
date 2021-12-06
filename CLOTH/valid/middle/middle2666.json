@@ -1,0 +1,36 @@
+{
+    "article": "Mr. Brown is a very old man. Every morning he  goes  for a walk in the park. And he comes home at twelve thirty  _  his lunch. But today a car  stops  at his house at twelve o'clock. Two policemen help him get out. One of them  says  to Mr. Brown's daughter, \" The old man can't find his  _  in the park. He asks us to take him home in the  _  .\" The daughter thanks the  policemen  and they leave. Then she asks her father, \"Dad, you go to that  _  every day. But today, you can't find the way. What's wrong with you?\" The old man smiles like a child and  says  , \"I can find my way. I don't want  to walk  home, you know.\"", 
+    "options": [
+        [
+            "for", 
+            "with", 
+            "at", 
+            "in"
+        ], 
+        [
+            "bus", 
+            "car", 
+            "bike", 
+            "way"
+        ], 
+        [
+            "car", 
+            "bus", 
+            "taxi", 
+            "plane"
+        ], 
+        [
+            "way", 
+            "park", 
+            "bus", 
+            "car"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle2666"
+}

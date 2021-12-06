@@ -1,0 +1,71 @@
+{
+    "article": "My brother doesn't like doing exercise. Last night he  coughed  again and again. Today my father took him to see a  _  The doctor said that my brother had a bad  _  .He told my father to buy some  _  and told my brother to have a rest .  _  happened to my brother? My brother said he kept the windows  _  all night. But my father thought that my brothe  _  do more exercise every day. After taking  _  medicine, he was much  _  . My mother told us to take good care of ourselves. I will  _  what my parents said .I will do more sports in the future.", 
+    "options": [
+        [
+            "teacher", 
+            "friend", 
+            "dentist", 
+            "doctor"
+        ], 
+        [
+            "cold", 
+            "headache", 
+            "toothache", 
+            "SARS"
+        ], 
+        [
+            "water", 
+            "medicine", 
+            "milk", 
+            "hamburgers"
+        ], 
+        [
+            "What", 
+            "When", 
+            "Where", 
+            "How"
+        ], 
+        [
+            "close", 
+            "closed", 
+            "open", 
+            "opened"
+        ], 
+        [
+            "may", 
+            "can", 
+            "mustn't", 
+            "should"
+        ], 
+        [
+            "a", 
+            "an", 
+            "the", 
+            "/"
+        ], 
+        [
+            "good", 
+            "better", 
+            "ill", 
+            "worse"
+        ], 
+        [
+            "forget", 
+            "remember", 
+            "read", 
+            "write"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "A", 
+        "B", 
+        "A", 
+        "C", 
+        "D", 
+        "C", 
+        "B", 
+        "B"
+    ], 
+    "source": "middle1409"
+}

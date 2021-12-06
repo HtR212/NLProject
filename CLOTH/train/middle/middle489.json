@@ -1,0 +1,71 @@
+{
+    "article": "Helen is a student. She usually gets up at 6:00 in the morning. Then she has  _  at 6:30 a.m. She goes to school  _  about 7:00 a. m.. She is never late for school . Helen is a clever girl,  _  she doesn't have any friends. One morning,  _  her way to school, she finds a yellow cat. She thinks,\"The cat can't find  _  way home.\" So she  takes  to the zoo. Then she hurries to  _  , but she is late. All the students and her  _  look at her. Her face looks red. After(......)class, her teacher says to the students.\"Helen is a  _  girl. She finds a cat and takes it to the  _  .\"Now all her classmates like her.", 
+    "options": [
+        [
+            "breakfast", 
+            "lunch", 
+            "dinner", 
+            "picnic"
+        ], 
+        [
+            "of", 
+            "in", 
+            "at", 
+            "to"
+        ], 
+        [
+            "and", 
+            "but", 
+            "if", 
+            "so"
+        ], 
+        [
+            "to", 
+            "on", 
+            "in", 
+            "of"
+        ], 
+        [
+            "my", 
+            "your", 
+            "their", 
+            "its"
+        ], 
+        [
+            "school", 
+            "zoo", 
+            "home", 
+            "farm"
+        ], 
+        [
+            "father", 
+            "teacher", 
+            "brother", 
+            "sister"
+        ], 
+        [
+            "new", 
+            "strong", 
+            "heavy", 
+            "kind"
+        ], 
+        [
+            "class", 
+            "school", 
+            "zoo", 
+            "hospital"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "B", 
+        "B", 
+        "D", 
+        "A", 
+        "B", 
+        "D", 
+        "C"
+    ], 
+    "source": "middle489"
+}

@@ -1,0 +1,71 @@
+{
+    "article": "Lucy and Jim live in China. They  _  friends. They are  _  the same school. They have lessons from Monday to Friday. They  _  to school together in the morning. They have four classes in the morning and two in the  _  . They have lunch at school. After school, Lucy goes  _  and does her homework,  _  Jim stays at school. He plays basketball with his classmates. On Saturday Jim plays computer games at home but Lucy has to go to her  _  lessons in a music club. On  _  Jim stays at home and watches TV. Lucy has to learn to play  _  piano. Lucy is so busy. She has little time  to play  . How she envies Jim!", 
+    "options": [
+        [
+            "be", 
+            "is", 
+            "are", 
+            "makes"
+        ], 
+        [
+            "on", 
+            "in", 
+            "of", 
+            "to"
+        ], 
+        [
+            "play", 
+            "go", 
+            "come", 
+            "do"
+        ], 
+        [
+            "noon", 
+            "afternoon", 
+            "evening", 
+            "night"
+        ], 
+        [
+            "home", 
+            "classroom", 
+            "playground", 
+            "library"
+        ], 
+        [
+            "and", 
+            "so", 
+            "but", 
+            "because"
+        ], 
+        [
+            "swimming", 
+            "drawing", 
+            "reading", 
+            "singing"
+        ], 
+        [
+            "Saturday", 
+            "Monday", 
+            "Weekday", 
+            "Sunday"
+        ], 
+        [
+            "the", 
+            "a", 
+            "/", 
+            "an"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "B", 
+        "B", 
+        "A", 
+        "C", 
+        "D", 
+        "D", 
+        "A"
+    ], 
+    "source": "middle1753"
+}

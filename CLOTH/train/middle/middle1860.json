@@ -1,0 +1,71 @@
+{
+    "article": "A student and his teacher are walking past a field. They  _  an old pair of shoes. The shoes are the old man's. He's  _  on the other side of the field. The student says, \"Let's  _  the shoes away. It will be funny when he  _  find his shoes.\" The teacher says, \"Don't play a  _  on others. It may be funny for you, but  _  will he do without shoes?\" Then the teacher puts some  _  into the shoes and says,\" Let's go behind the tree.\" A few minutes later, the old man comes to  put on  his shoes. When he finds the money, he looks around. No one is there. He cries and  _  ,\"Thank you very much for the money! My wife is ill and my children have nothing to  _  .\"", 
+    "options": [
+        [
+            "clean", 
+            "sell", 
+            "buy", 
+            "see"
+        ], 
+        [
+            "working", 
+            "studying", 
+            "playing", 
+            "shopping"
+        ], 
+        [
+            "bring", 
+            "take", 
+            "ask", 
+            "put"
+        ], 
+        [
+            "can", 
+            "can't", 
+            "must", 
+            "mustn't"
+        ], 
+        [
+            "trick", 
+            "game", 
+            "ball", 
+            "way"
+        ], 
+        [
+            "when", 
+            "where", 
+            "what", 
+            "why"
+        ], 
+        [
+            "eggs", 
+            "apples", 
+            "money", 
+            "toys"
+        ], 
+        [
+            "tells", 
+            "says", 
+            "talks", 
+            "speaks"
+        ], 
+        [
+            "buy", 
+            "learn", 
+            "enjoy", 
+            "eat"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "A", 
+        "B", 
+        "B", 
+        "A", 
+        "C", 
+        "C", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle1860"
+}

@@ -1,0 +1,71 @@
+{
+    "article": "My brother likes to collect sports things. He _ many sports things.\nHe likes basketball very much _ he doesn't play basketball. He only likes to _ basketball games on TV. And he likes basketball shoes very much. He has four pairs of basketball shoes. And he always wears these basketball _ . He has ten ping-pang _ and two ping-pang bats _ his box. He has many photos of sports stars. He _ their names, too.\nHow _ your brother? _ he like any things?", 
+    "options": [
+        [
+            "is", 
+            "have", 
+            "has", 
+            "am"
+        ], 
+        [
+            "and", 
+            "so", 
+            "but", 
+            "because"
+        ], 
+        [
+            "look", 
+            "watch", 
+            "see", 
+            "be"
+        ], 
+        [
+            "shoe", 
+            "shoes", 
+            "shoees", 
+            "shoese"
+        ], 
+        [
+            "ball", 
+            "balles", 
+            "balls", 
+            "ballse"
+        ], 
+        [
+            "in", 
+            "for", 
+            "about", 
+            "at"
+        ], 
+        [
+            "buy", 
+            "buys", 
+            "know", 
+            "knows"
+        ], 
+        [
+            "about", 
+            "for", 
+            "on", 
+            "much"
+        ], 
+        [
+            "Does", 
+            "Do", 
+            "Is", 
+            "Can"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "C", 
+        "B", 
+        "B", 
+        "C", 
+        "C", 
+        "D", 
+        "A", 
+        "A"
+    ], 
+    "source": "middle2044"
+}

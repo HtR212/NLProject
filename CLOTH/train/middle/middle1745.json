@@ -1,0 +1,71 @@
+{
+    "article": "My name is Li Hua. I'm thirteen. I'm a middle school student. I am _ Class Five, Grade One. My English teacher _ Mr Lin. He is _ old teacher. I have _ pen, a ruler and two _ in my pencil-box. I have a bike, _ .\nLiu Ping is in my class. She is a girl. We _ good friends . She is not at school today. I think she is at home, Look ! Here is a _ .But it is not my book, I think it is _ book.", 
+    "options": [
+        [
+            "in", 
+            "at", 
+            "do", 
+            "not"
+        ], 
+        [
+            "are", 
+            "am", 
+            "is", 
+            "/"
+        ], 
+        [
+            "a", 
+            "an", 
+            "this", 
+            "very"
+        ], 
+        [
+            "a", 
+            "an", 
+            "that", 
+            "this"
+        ], 
+        [
+            "boxes", 
+            "pencils", 
+            "buses", 
+            "desk"
+        ], 
+        [
+            "too", 
+            "or", 
+            "much", 
+            "very"
+        ], 
+        [
+            "have", 
+            "am", 
+            "are", 
+            "all"
+        ], 
+        [
+            "license", 
+            "book", 
+            "picture", 
+            "map"
+        ], 
+        [
+            "you", 
+            "your", 
+            "she", 
+            "her"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "B", 
+        "A", 
+        "B", 
+        "A", 
+        "C", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle1745"
+}

@@ -1,0 +1,57 @@
+{
+    "article": "My name is Bob. I have a  _  . Look! Here is a photo  _  my friend. He wears a hat on his head.  _  name is Mike. His  telephone  number is 293-7668. One day, he can't find his English book. So he calls me in the evenig. \"Good  _  , Bob! My English book is lost.  Where  is it?\" \"Mike, your books are everywhere. Is it  _  your bed?\" Mike says, \"  No  , I can only find my shoes under the bed.\" \"Well....Is it on your bed this time?\" \"Oh, yes! Thanks  _  your help!\" says Mike. \"You're  _  .\"", 
+    "options": [
+        [
+            "father", 
+            "friend", 
+            "book", 
+            "bed"
+        ], 
+        [
+            "of", 
+            "on", 
+            "/", 
+            "for"
+        ], 
+        [
+            "He", 
+            "She", 
+            "His", 
+            "Her"
+        ], 
+        [
+            "night", 
+            "afternoon", 
+            "morning", 
+            "evening"
+        ], 
+        [
+            "under", 
+            "on", 
+            "near", 
+            "in"
+        ], 
+        [
+            "of", 
+            "at", 
+            "for", 
+            "/"
+        ], 
+        [
+            "welcome", 
+            "good", 
+            "come", 
+            "Well"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "C", 
+        "D", 
+        "A", 
+        "C", 
+        "A"
+    ], 
+    "source": "middle255"
+}

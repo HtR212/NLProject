@@ -1,0 +1,71 @@
+{
+    "article": "Long long ago, in France, there was a king. He liked to  draw  pictures and he thought these pictures  _  good. No one liked his pictures,  _  they were afraid of him. So they said he drew very  _  . One day he showed his  _  to an honest man, and said, \"How about my pictures?\" To his surprise, the honest man said that they were  _  in fact. The king got  _  and put the honest man into prison. After a month the king sent his man to the honest man to tell him that he was free. When the honest man returned from  _  , the king invited him to his palace to have dinner with him. He showed him some of his new pictures again and  _  him what he thought of them. The honest man said  _  but turned back to the soldiers and said, \"Put me into prison!\"", 
+    "options": [
+        [
+            "is", 
+            "are", 
+            "was", 
+            "were"
+        ], 
+        [
+            "and", 
+            "so", 
+            "but", 
+            "then"
+        ], 
+        [
+            "good", 
+            "well", 
+            "beautiful", 
+            "fine"
+        ], 
+        [
+            "pictures", 
+            "books", 
+            "money", 
+            "cream"
+        ], 
+        [
+            "good", 
+            "well", 
+            "bad", 
+            "badly"
+        ], 
+        [
+            "angry", 
+            "glad", 
+            "exciting", 
+            "funny"
+        ], 
+        [
+            "palace", 
+            "park", 
+            "station", 
+            "prison"
+        ], 
+        [
+            "visited", 
+            "asked", 
+            "stopped", 
+            "taught"
+        ], 
+        [
+            "something", 
+            "anything", 
+            "nothing", 
+            "everything"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "C", 
+        "B", 
+        "A", 
+        "C", 
+        "A", 
+        "D", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle2977"
+}

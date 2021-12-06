@@ -1,0 +1,43 @@
+{
+    "article": "On Sundays, Li Lei gets up at six thirty. He has _ at eight. Then he helps his mother _ the housework. At ten he leaves _ and goes shopping by bike . At about eleven o'clock he comes _ home. He is cooking now. They have lunch at twelve. In the afternoon he often plays games with his friends. They have _ at six thirty. In the evening he does his homework. Sometimes, he watches TV. He goes to bed at nine.", 
+    "options": [
+        [
+            "food", 
+            "breakfast", 
+            "lunch", 
+            "supper"
+        ], 
+        [
+            "in", 
+            "on", 
+            "with", 
+            "from"
+        ], 
+        [
+            "home", 
+            "house", 
+            "room", 
+            "classroom"
+        ], 
+        [
+            "for", 
+            "to", 
+            "back", 
+            "from"
+        ], 
+        [
+            "work", 
+            "homework", 
+            "housework", 
+            "supper"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "A", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle130"
+}

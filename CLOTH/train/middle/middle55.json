@@ -1,0 +1,57 @@
+{
+    "article": "\" Tell me what you are going to do  _  Sunday morning, Mike.\" Mr. Zhang asks, \"I'm going to see  _  new film. It's an English film  _  the life of the students in America. Bill tells me it's  _  interesting.\" \" After seeing the film, what are you going to do?\" Mr. Zhang wants  to know  . \" I'm going to read Chinese.\" Mike says. \"Do you like it?\" asks Mr. Zhang. \"Chinese is not  _  for me, but I like it very much. I'm going  to work  hard at it. After lunch I'm going to do my homework. I think I  can  do it better than before.\" \"Then,  _  about Sunday evening?\" Mr. Zhang asks, \"After supper I'm going to help Han Mei  _  her English. She wants my help.\" Mike says. \"You are going to have a busy day, aren't you?\" says Mr. Zhang.", 
+    "options": [
+        [
+            "at", 
+            "on", 
+            "in", 
+            "/"
+        ], 
+        [
+            "a", 
+            "an", 
+            "the", 
+            "/"
+        ], 
+        [
+            "of", 
+            "with", 
+            "for", 
+            "about"
+        ], 
+        [
+            "much", 
+            "most", 
+            "very", 
+            "many"
+        ], 
+        [
+            "easy", 
+            "difficult", 
+            "good", 
+            "bad"
+        ], 
+        [
+            "when", 
+            "where", 
+            "who", 
+            "what"
+        ], 
+        [
+            "does", 
+            "doing", 
+            "with", 
+            "/"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "D", 
+        "C", 
+        "A", 
+        "D", 
+        "C"
+    ], 
+    "source": "middle55"
+}

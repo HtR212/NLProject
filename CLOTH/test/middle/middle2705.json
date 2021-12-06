@@ -1,0 +1,71 @@
+{
+    "article": "Do you like animals? Yes. I  _  I love to go to the  _  I want to write about my  _  animals at the zoo. I like pandas. They are black and  _  and they look so cute. Pandas are  _  china. They  _  bamboo leaves .I like monkeys,  _  They are lovely . They like to eat bananas..I think the king of the  _  is not happy in the zoo. It looks  _  . Now it  is missing  the forest . It`s dream is going back to the forest.", 
+    "options": [
+        [
+            "am", 
+            "have", 
+            "do", 
+            "like"
+        ], 
+        [
+            "park", 
+            "school", 
+            "zoo", 
+            "home"
+        ], 
+        [
+            "like", 
+            "good", 
+            "want", 
+            "favourite"
+        ], 
+        [
+            "white", 
+            "green", 
+            "red", 
+            "yellow"
+        ], 
+        [
+            "on", 
+            "to", 
+            "from", 
+            "for"
+        ], 
+        [
+            "watch", 
+            "eat", 
+            "drink", 
+            "see"
+        ], 
+        [
+            "and", 
+            "but", 
+            "too", 
+            "or"
+        ], 
+        [
+            "zoo", 
+            "park", 
+            "forest", 
+            "tree"
+        ], 
+        [
+            "funny", 
+            "cool", 
+            "pretty", 
+            "lonely"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "C", 
+        "D", 
+        "A", 
+        "C", 
+        "B", 
+        "C", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle2705"
+}

@@ -1,0 +1,71 @@
+{
+    "article": "The Art Festival in our school comes in November. It starts on  the first  Monday of November, and lasts a whole  _  ,so we have no lessons for seven days. This year, it is on November 7. And now we are  _  because we must get ready for it. The Art Festival show is usually  _  Monday afternoon. At the show, students and teachers sing and dance. And many parents come to  _  the show. This year, our class will dance at the show.  _  is a Uigurian dance. We will dance in special  _  .Girls wear long dresses and boys wear special  _  on their heads. We must  _  hard. And there is also a painting competition for the festival. I  _  my painting can get a prize .", 
+    "options": [
+        [
+            "month", 
+            "day", 
+            "year", 
+            "week"
+        ], 
+        [
+            "happy", 
+            "busy", 
+            "free", 
+            "early"
+        ], 
+        [
+            "on", 
+            "at", 
+            "in", 
+            "from"
+        ], 
+        [
+            "look", 
+            "play", 
+            "read", 
+            "watch"
+        ], 
+        [
+            "It", 
+            "This", 
+            "She", 
+            "He"
+        ], 
+        [
+            "way", 
+            "time", 
+            "clothes", 
+            "music"
+        ], 
+        [
+            "hats", 
+            "dresses", 
+            "scarves", 
+            "skirts"
+        ], 
+        [
+            "think", 
+            "sing", 
+            "study", 
+            "practise"
+        ], 
+        [
+            "like", 
+            "hope", 
+            "want", 
+            "need"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "B", 
+        "A", 
+        "D", 
+        "A", 
+        "C", 
+        "A", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle575"
+}

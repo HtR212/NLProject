@@ -1,0 +1,64 @@
+{
+    "article": "Mike: Hi, Cindy! Cindy: Hello, Mike. Mike: Cindy, I  _  a photo. Is it yours? Cindy: Yes. It is  _  . Thank you, Mike. Mike:  You are welcome  . Who are they in this picture? Cindy: They are my grandparents. Mike:  _  this man your father? Cindy: No. He is my father's brother. He is my  _  . Mike: Who's the boy? Is  _  your brother? Cindy: No. He is my friend, Eric. He is in China now. Mike: What is his  e-mail  ? I want to know something  _  China. Cindy: It is eric226@qq.com. You can  _  Eric at 536-85472, too. Mike: Thanks. Have a  _  day! Cindy: You, too.", 
+    "options": [
+        [
+            "lost", 
+            "ask", 
+            "found", 
+            "spell"
+        ], 
+        [
+            "yours", 
+            "mine", 
+            "my", 
+            "your"
+        ], 
+        [
+            "Is", 
+            "Are", 
+            "Am", 
+            "Who's"
+        ], 
+        [
+            "son", 
+            "grandpa", 
+            "aunt", 
+            "uncle"
+        ], 
+        [
+            "she", 
+            "he", 
+            "her", 
+            "his"
+        ], 
+        [
+            "for", 
+            "in", 
+            "about", 
+            "to"
+        ], 
+        [
+            "see", 
+            "call", 
+            "look", 
+            "say"
+        ], 
+        [
+            "good", 
+            "first", 
+            "next", 
+            "some"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "A", 
+        "D", 
+        "B", 
+        "C", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle3003"
+}

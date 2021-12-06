@@ -1,0 +1,29 @@
+{
+    "article": "Last year Tom left school. He came to Taipei to  _  a job. He went from one company to another but  no one  wanted him. Now he had little money. He had to go back to his small town. So he came to the station. He felt  _  and tired. It was very late at night and  the station  was full of people. They were waiting  to buy  tickets of the last train. He bought the last ticket, and he was very happy. At that time, a woman with a crying baby walked to him. She asked him to sell her the ticket. He gave her the ticket. He thought they needed it  more than  he did. After  the train  left, he sat on the bench and didn't know  _  to go. Just then, an old man came and said, \"Young man, I  have seen  what you did to the woman. I have a big company. I need a good young man like  you  . Would you like to work for me?\"", 
+    "options": [
+        [
+            "find", 
+            "see", 
+            "look", 
+            "buy"
+        ], 
+        [
+            "happy", 
+            "interesting", 
+            "sad", 
+            "glad"
+        ], 
+        [
+            "what", 
+            "which", 
+            "why", 
+            "where"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle104"
+}

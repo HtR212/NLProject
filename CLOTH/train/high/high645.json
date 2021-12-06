@@ -1,0 +1,57 @@
+{
+    "article": "Justin, my brother, has been missing for two weeks. Now I  _  him very much. I'm worried that something  _  has happened to him. I'm sure he  came home  that night at about 11 o'clock, because I heard him playing his favorite CD in his bedroom. But where has he gone? Yesterday a girl named Marvies told me that  _  was once taken away by aliens from outer space. They did some research on her. Marvies said that the whole experience was really terrible,  _  luckily they returned her home. If Justin has been taken away by aliens too, I hope they will  _  him soon. My parents have been worrying about Justin. Soon after he was found missing, they called  the police  . However, the police are not making  much progress  in the case . They are very puzzled, saying Justin might have been murdered. Dad is very  _  with them. He doesn't think they are doing their job well. Mum is so worried that she  _  sleep well. I hope Justin will come home soon and tell us what happened to him. I want all of us to be together again.", 
+    "options": [
+        [
+            "dislike", 
+            "respect", 
+            "hate", 
+            "miss"
+        ], 
+        [
+            "bad", 
+            "good", 
+            "wonderful", 
+            "simple"
+        ], 
+        [
+            "he", 
+            "they", 
+            "it", 
+            "she"
+        ], 
+        [
+            "because", 
+            "so", 
+            "or", 
+            "but"
+        ], 
+        [
+            "kill", 
+            "hurt", 
+            "return", 
+            "catch"
+        ], 
+        [
+            "delighted", 
+            "disappointed", 
+            "satisfied", 
+            "pleased"
+        ], 
+        [
+            "shan't", 
+            "can't", 
+            "needn't", 
+            "mustn't"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "A", 
+        "D", 
+        "D", 
+        "C", 
+        "B", 
+        "B"
+    ], 
+    "source": "high645"
+}

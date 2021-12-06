@@ -1,0 +1,36 @@
+{
+    "article": "Look! This is my room. It has a big window. My bed is near the window . Next to the bed there is a desk. .My books are on the desk. My pens, rulers and other _ things are in my school bag. The bag is _ the door. In the morning, I clean my room and put everything in good order. Can you see the cat under the chair? _ my cat Mimi. I have a bird Polly, but you can't see it in this room. It's a Chinese cat. It's in my _ . The cat and the bird can't live in the same room, you know.", 
+    "options": [
+        [
+            "school", 
+            "family", 
+            "living", 
+            "home"
+        ], 
+        [
+            "in", 
+            "of", 
+            "behind", 
+            "under"
+        ], 
+        [
+            "It", 
+            "It's", 
+            "That", 
+            "They're"
+        ], 
+        [
+            "parent", 
+            "parent's", 
+            "parents'", 
+            "parents"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle2405"
+}

@@ -1,0 +1,71 @@
+{
+    "article": "I have a wonderful friend. Her name is Emily. We have been friends ever since kindergarten. Last year, Emily started to  _  my things all the time. I  _  lent her what she asked for because I wanted to be nice.  _  then I noticed that she was not always returning the things she had borrowed! One day I asked Emily to give my things back. She said that she  _  remember what she had borrowed. I made a list and gave it to  _  . The next day she brought back only one thing. It was a dirty T-shirt. The next time I went to Emily's house. I saw that her room was very untidy. I asked her  _  we could look for my things together. \"I know they're here  _  ,\" she said. Emily and I played some music on the computer and sang while we worked. The  _  lost thing that I discovered was my purple hat. It was under a pile of clothes in a chair. We kept finding  more and more  things. Emily has stopped borrowing things. Also, she is trying to keep her room  _  . I hope she can do it all the time.", 
+    "options": [
+        [
+            "borrow", 
+            "lend", 
+            "buy", 
+            "sell"
+        ], 
+        [
+            "never", 
+            "sometimes", 
+            "always", 
+            "sometime"
+        ], 
+        [
+            "If", 
+            "Or", 
+            "So", 
+            "But"
+        ], 
+        [
+            "would", 
+            "couldn't", 
+            "might", 
+            "needn't"
+        ], 
+        [
+            "him", 
+            "her", 
+            "me", 
+            "them"
+        ], 
+        [
+            "where", 
+            "why", 
+            "if", 
+            "who"
+        ], 
+        [
+            "somewhere", 
+            "anywhere", 
+            "where", 
+            "nowhere"
+        ], 
+        [
+            "first", 
+            "last", 
+            "second", 
+            "third"
+        ], 
+        [
+            "dirty", 
+            "small", 
+            "wide", 
+            "tidy"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "D", 
+        "B", 
+        "B", 
+        "C", 
+        "A", 
+        "A", 
+        "D"
+    ], 
+    "source": "middle1521"
+}

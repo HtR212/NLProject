@@ -1,0 +1,64 @@
+{
+    "article": "Bruce likes playing _ a river . But there _ a river near his new house. He is not very happy.\nOne day, he asks _ mother,\" Is there a river near here?\"\"No, there _ \",his mother says, \"But _ new house has a garden.\" \"I don't like _ \"says Bruce.\nOne morning, his mother says \" _ is a beautiful park near here. Bruce, and there _ two pools  in it. We'll go there this afternoon.\" Bruce is very happy.\nAfter lunch, Bruce and his mother go to the park, and he plays in one of the pools. He has a very good time.", 
+    "options": [
+        [
+            "at", 
+            "to", 
+            "in", 
+            "from"
+        ], 
+        [
+            "isn't", 
+            "is", 
+            "aren't", 
+            "are"
+        ], 
+        [
+            "her", 
+            "his", 
+            "our", 
+            "their"
+        ], 
+        [
+            "isn't", 
+            "is", 
+            "aren't", 
+            "are"
+        ], 
+        [
+            "your", 
+            "my", 
+            "our", 
+            "us"
+        ], 
+        [
+            "you", 
+            "me", 
+            "them", 
+            "it"
+        ], 
+        [
+            "They", 
+            "It", 
+            "This", 
+            "There"
+        ], 
+        [
+            "is", 
+            "are", 
+            "isn't", 
+            "aren't"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "B", 
+        "A", 
+        "C", 
+        "D", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle2133"
+}

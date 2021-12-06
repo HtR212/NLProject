@@ -1,0 +1,71 @@
+{
+    "article": "Do you live in  a big house? How many  _  does your house have?\nI have a pen pal. His  _  is Liu Jun and he  comes  from Guangxi. His family live in a small house  _  only two rooms. He lives far from school, but he has to  _  to school every day because he has no bike. At home, he doesn't have his own  _  ---he and his brother and sister sleep in the  _  room. There is no study. Liu Jun has to do  _  homework on the bed. He wishes  to have a desk. His brother, a 15-year-old boy, wishes to have a basketball.  _  he likes playing basketball very much.\nLiu Jun and his family need our  _ . It's always nice to help others, right?", 
+    "options": [
+        [
+            "lamps", 
+            "rooms", 
+            "clocks", 
+            "desks"
+        ], 
+        [
+            "school", 
+            "card", 
+            "number", 
+            "name"
+        ], 
+        [
+            "by", 
+            "with", 
+            "in", 
+            "for"
+        ], 
+        [
+            "ride", 
+            "drive", 
+            "run", 
+            "swim"
+        ], 
+        [
+            "study", 
+            "garden", 
+            "bathroom", 
+            "bedroom"
+        ], 
+        [
+            "tall", 
+            "short", 
+            "same", 
+            "different"
+        ], 
+        [
+            "my", 
+            "our", 
+            "his", 
+            "their"
+        ], 
+        [
+            "So", 
+            "Because", 
+            "But", 
+            "If"
+        ], 
+        [
+            "help", 
+            "house", 
+            "food", 
+            "answer"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "B", 
+        "C", 
+        "D", 
+        "C", 
+        "C", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle2110"
+}

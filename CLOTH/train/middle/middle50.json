@@ -1,0 +1,57 @@
+{
+    "article": "Mr Black works in a hospital . As a good  _  , the people in the town like him. He's often  _  to the patients and looks them over carefully.  _  he's always busy and has little time to rest. One morning Mr Black got to the hospital and saw there was a fat woman in the  waiting room  . He called her into his office and asked, \"  What's the matter  , madam ?\" \"It was my birthday yesterday, sir\", said the woman. \"My husband gave me a  _  . But I couldn't push my way in it.\" \"  It doesn't matter  , madam,\" said Mr Black, \"You must lose some weight . You'll be able to  _  your coat, if you do all that I say.\" \"You're  _  , sir,\" said the rich woman. \"He bought me not a coat, but an expensive  _  .\"", 
+    "options": [
+        [
+            "doctor", 
+            "farmer", 
+            "teacher", 
+            "cleaner"
+        ], 
+        [
+            "bad", 
+            "fine", 
+            "cold", 
+            "kind"
+        ], 
+        [
+            "Or", 
+            "But", 
+            "So", 
+            "Then"
+        ], 
+        [
+            "house", 
+            "coat", 
+            "shop", 
+            "present"
+        ], 
+        [
+            "put", 
+            "wear", 
+            "buy", 
+            "wash"
+        ], 
+        [
+            "right", 
+            "wrong", 
+            "easy", 
+            "safe"
+        ], 
+        [
+            "bike", 
+            "bus", 
+            "car", 
+            "truck"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "C", 
+        "D", 
+        "B", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle50"
+}

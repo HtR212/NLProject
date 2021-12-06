@@ -1,0 +1,57 @@
+{
+    "article": "It's Saturday afternoon. It's  _  and warm. There is a little wind. There are many people in the Yongtai District. What are they  doing  there? Some  old men  are playing chess. Some  _  are walking  _  the garden. Some boys are  _  basketball. Two girls are  _  a storybook. What  _  those old women? They're  doing  exercise to keep healthy. Look! Two cats are  _  the tree. There are some birds in the tree. They want to catch the birds!", 
+    "options": [
+        [
+            "sunny", 
+            "snowy", 
+            "cold", 
+            "rainy"
+        ], 
+        [
+            "man", 
+            "women", 
+            "lady", 
+            "student"
+        ], 
+        [
+            "in", 
+            "with", 
+            "from", 
+            "on"
+        ], 
+        [
+            "play", 
+            "singing", 
+            "doing", 
+            "playing"
+        ], 
+        [
+            "seeing", 
+            "looking", 
+            "watching", 
+            "reading"
+        ], 
+        [
+            "about", 
+            "at", 
+            "off", 
+            "with"
+        ], 
+        [
+            "eating", 
+            "walking", 
+            "climbing", 
+            "running"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "A", 
+        "D", 
+        "D", 
+        "A", 
+        "C"
+    ], 
+    "source": "middle591"
+}

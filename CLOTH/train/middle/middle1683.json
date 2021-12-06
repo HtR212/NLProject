@@ -1,0 +1,71 @@
+{
+    "article": "Dick had a toothache. His mother  _  him to the dentist. Before they saw the dentist, they  _  wait. \"Please come in!\" said a nurse in a  _  dress. Dick looked afraid  _  he came into the dentist's room. \"Now tell me. What's wrong  _  you?\" the dentist asked. \"I feel terrible. I think I've a  _  tooth.\" said the boy. \"Well, let me have a  look  \", said the dentist kindly. Dick  _  his mouth  _  the dentist began to examine his  _  .", 
+    "options": [
+        [
+            "took", 
+            "wanted", 
+            "brought", 
+            "saw"
+        ], 
+        [
+            "will", 
+            "may", 
+            "must", 
+            "can"
+        ], 
+        [
+            "white", 
+            "black", 
+            "red", 
+            "green"
+        ], 
+        [
+            "when", 
+            "if", 
+            "then", 
+            "so"
+        ], 
+        [
+            "to", 
+            "about", 
+            "with", 
+            "in"
+        ], 
+        [
+            "big", 
+            "good", 
+            "bad", 
+            "nice"
+        ], 
+        [
+            "closed", 
+            "opened", 
+            "saw", 
+            "held"
+        ], 
+        [
+            "as", 
+            "or", 
+            "but", 
+            "and"
+        ], 
+        [
+            "teeth", 
+            "arm", 
+            "foot", 
+            "nose"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "A", 
+        "A", 
+        "C", 
+        "C", 
+        "B", 
+        "D", 
+        "A"
+    ], 
+    "source": "middle1683"
+}

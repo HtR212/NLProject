@@ -1,0 +1,71 @@
+{
+    "article": "Welcome to Center Street. Center Street is a great place to have _ . There  _ many stores on it. Many people and cars are there. It's a _ street. If  you are hungry , you can go to the restaurant . It is _ from the big hospital. There is also a new _  next to the hospital. There are many trees and flowers in it. It is clean and quiet. You can _ a walk in the park. If you want to read _ , you can go to the new library. It's _ the supermarket and the park.\nPlease come and _ the street, you may like it.", 
+    "options": [
+        [
+            "time", 
+            "funny", 
+            "fun", 
+            "great"
+        ], 
+        [
+            "is", 
+            "are", 
+            "be", 
+            "have"
+        ], 
+        [
+            "quiet", 
+            "clean", 
+            "small", 
+            "busy"
+        ], 
+        [
+            "across", 
+            "next", 
+            "between", 
+            "near"
+        ], 
+        [
+            "park", 
+            "library", 
+            "hospital", 
+            "school"
+        ], 
+        [
+            "enjoys", 
+            "has", 
+            "make", 
+            "take"
+        ], 
+        [
+            "books", 
+            "games", 
+            "movies", 
+            "animals"
+        ], 
+        [
+            "down", 
+            "between", 
+            "through", 
+            "in"
+        ], 
+        [
+            "visiting", 
+            "buy", 
+            "visit", 
+            "buying"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "D", 
+        "A", 
+        "A", 
+        "D", 
+        "A", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle48"
+}

@@ -1,0 +1,36 @@
+{
+    "article": "I have a beautiful mother. She is very busy every day. She gets up at five o'clock. She _ her teeth and takes a shower .Then she makes a nice meal for my father and _ Then we eat breakfast at half past six. My father works in a hospital. He is busy too. He can't take me to school, so my mother takes me to school in her car . It takes us twenty minutes to get to school. Sometimes I ride a bike. The bike ride is about 40 minutes. I'm never late for school. After school, my mother comes to the school to take me. She drives _ . She is good at driving. When we get home, she does some work in the rooms. And then she watches TV for one and a half _ Then she goes to bed at half past nine. She is busy every day, but she is happy. I love my mother.", 
+    "options": [
+        [
+            "brush", 
+            "has", 
+            "brushes", 
+            "does"
+        ], 
+        [
+            "I", 
+            "me", 
+            "my", 
+            "mine"
+        ], 
+        [
+            "quick", 
+            "slow", 
+            "well", 
+            "good"
+        ], 
+        [
+            "weeks", 
+            "days", 
+            "hours", 
+            "minutes"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "C", 
+        "C"
+    ], 
+    "source": "middle2291"
+}

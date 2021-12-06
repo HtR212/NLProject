@@ -1,0 +1,71 @@
+{
+    "article": "Many people go to school for education.They learn languages,history,geography, physics , chemistry and math.Others go to school to learn a skill  so that  they can make a living. School education is very important and useful,but no one can learn  _  from school. A teacher,no matter how much he knows,can't teach his students everything they want to know. The teacher's.job is to show his students how to read and  _  to think.So much more is to be learned out of school  _  students themselves. It is always more important to know how to study by oneself than to memorize some  _  or formulas .It is actually quite  _  to learn a certain fact in history or a formula in mathematics.But it is very difficult to use a formula in working out a math problem. Great scientists such as Einstein,Newton and Galileo,didn't learn many things from school, but they were all  _  and invented many things for mankind. The  _  for their success is that they knew how to study.They read books that were not  _  at school . They worked hard all their lives  _  not a single minute . They would ask many questions as they read and they did thousands of experiments.", 
+    "options": [
+        [
+            "everything", 
+            "something", 
+            "anything", 
+            "nothing"
+        ], 
+        [
+            "what", 
+            "which", 
+            "how", 
+            "why"
+        ], 
+        [
+            "by", 
+            "with", 
+            "on", 
+            "in"
+        ], 
+        [
+            "meanings", 
+            "books", 
+            "history", 
+            "facts"
+        ], 
+        [
+            "necessary", 
+            "easy", 
+            "different", 
+            "common"
+        ], 
+        [
+            "clever", 
+            "popular", 
+            "successful", 
+            "patient"
+        ], 
+        [
+            "experiment", 
+            "reason", 
+            "result", 
+            "way"
+        ], 
+        [
+            "kept", 
+            "shown", 
+            "expressed", 
+            "taught"
+        ], 
+        [
+            "spending", 
+            "wasting", 
+            "costing", 
+            "taking"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "A", 
+        "D", 
+        "B", 
+        "C", 
+        "B", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle2022"
+}

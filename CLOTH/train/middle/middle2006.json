@@ -1,0 +1,71 @@
+{
+    "article": "Hello , I'm Leo. I'm 13 years old and I'm _ Class Six. I  have _ good friends. They are Lily, Gina, and Ben. Lily _ Gina are in Class Seven. Ben is in Class Seven, _ . We're all in Grade Seven.\n _ like sports. My favorite sport is ping-pong. It is interesting. I _ three ping-pong balls and four ping-pong bats. Lily and Gina are sisters. They _ like ping-pong. They think it is _ . Their favorite sport is tennis. They have five tennis balls and they play tennis with their parents and two brothers. Ben's favorite sport is soccer. He has two soccer balls and he plays soccer very _ .", 
+    "options": [
+        [
+            "in", 
+            "on", 
+            "under", 
+            "At"
+        ], 
+        [
+            "one", 
+            "zero", 
+            "three", 
+            "four"
+        ], 
+        [
+            "but", 
+            "and", 
+            "with", 
+            "so"
+        ], 
+        [
+            "you", 
+            "two", 
+            "to", 
+            "too"
+        ], 
+        [
+            "We", 
+            "You", 
+            "They", 
+            "She"
+        ], 
+        [
+            "find", 
+            "have", 
+            "lost", 
+            "spell"
+        ], 
+        [
+            "isn't", 
+            "don't", 
+            "not", 
+            "doesn't"
+        ], 
+        [
+            "fun", 
+            "great", 
+            "nice", 
+            "boring"
+        ], 
+        [
+            "good", 
+            "fine", 
+            "well", 
+            "OK"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "B", 
+        "D", 
+        "A", 
+        "B", 
+        "B", 
+        "D", 
+        "C"
+    ], 
+    "source": "middle2006"
+}

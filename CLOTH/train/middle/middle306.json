@@ -1,0 +1,36 @@
+{
+    "article": "I'm thinking about what I'm going to do this summer. Maybe I'll get a job. If I get a job, I'll have  enough  money to buy some new things. I'd like to have some new dresses  _  I start school again in September. I can also buy some books or some music CDs. I really love jazz .I could buy some more CDs  _  my jazz collection. Or I can use the money  to pay for  tennis lessons. I can play tennis  well  ,but I'd like to learn to play it much better. Or maybe I can use the money to pay for the piano lessons.I'd like to learn to play the piano,too. If I don't get a job this summer, I'll visit my grandparents in San Francisco. They live in a beautiful old house  _  the sea. My grandparents are always very nice to me. They'll let me sleep late. I  won't  have to get up until 10 o'clock every day. I'll eat delicious food because my grandmother is an excellent  _  . She always cooks my favorite food. I'll also go to the  beach  with my grandparents. Because I like swimming in the sea. My grandparents like to go to museums but I don't enjoy it so much, so maybe I'll  stay at home  to watch TV.", 
+    "options": [
+        [
+            "because", 
+            "where", 
+            "when", 
+            "if"
+        ], 
+        [
+            "in", 
+            "to", 
+            "at", 
+            "as"
+        ], 
+        [
+            "in", 
+            "at", 
+            "near", 
+            "to"
+        ], 
+        [
+            "cook", 
+            "lawyer", 
+            "agent", 
+            "teacher"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "D", 
+        "C", 
+        "A"
+    ], 
+    "source": "middle306"
+}

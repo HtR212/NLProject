@@ -1,0 +1,71 @@
+{
+    "article": "One day the boss asks Tom to meet his friend Mr. Green in London. But it is his  _  time to come to London. He doesn't know the  _  to Mr. Green's home He thinks he can ask people for help.When he  _  in London, He gets off the bus.There are  many  people in the street. He looks around and stops a  _  and tells her where he wants to go. The woman is very helpful.  _  her help, he finds Mr. Green's home. Two weeks  _  , Tom needs to visit Mr. Green again. But he can't  _  where his home is. He stops a person to ask the way. It's the same woman. The woman is very  _  . She says, \"Are you  _  looking for the place?", 
+    "options": [
+        [
+            "last", 
+            "first", 
+            "second", 
+            "third"
+        ], 
+        [
+            "name", 
+            "way", 
+            "city", 
+            "man"
+        ], 
+        [
+            "comes", 
+            "gets", 
+            "arrives", 
+            "goes"
+        ], 
+        [
+            "man", 
+            "woman", 
+            "boy", 
+            "girl"
+        ], 
+        [
+            "With", 
+            "Without", 
+            "Under", 
+            "By"
+        ], 
+        [
+            "after", 
+            "later", 
+            "behind", 
+            "late"
+        ], 
+        [
+            "remember", 
+            "forget", 
+            "know", 
+            "tell"
+        ], 
+        [
+            "sad", 
+            "glad", 
+            "surprised", 
+            "sorry"
+        ], 
+        [
+            "never", 
+            "still", 
+            "just", 
+            "again"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "B", 
+        "C", 
+        "B", 
+        "A", 
+        "B", 
+        "A", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle2608"
+}

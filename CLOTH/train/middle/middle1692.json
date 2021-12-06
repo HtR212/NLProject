@@ -1,0 +1,71 @@
+{
+    "article": "Next to the No.l Middle School is a school store. It's not  _  but it has  _  of school things . Do  _  like books, erasers, pens  _  color pencils? They're on  _  . Big erasers are only one yuan  _  and the small one is 0.5 yuan. Those color pencils are only two yuan  _  three. I want the yellow pencil sharpener. It is  _  a good price. I'll take it. Do you need some school things for  _  ?  A or B  to this store!", 
+    "options": [
+        [
+            "big", 
+            "small", 
+            "long", 
+            "good"
+        ], 
+        [
+            "lot", 
+            "lots", 
+            "Many", 
+            "much"
+        ], 
+        [
+            "I", 
+            "they", 
+            "you", 
+            "we"
+        ], 
+        [
+            "but", 
+            "too", 
+            "all", 
+            "or"
+        ], 
+        [
+            "sell", 
+            "selling", 
+            "sale", 
+            "buying"
+        ], 
+        [
+            "one", 
+            "every", 
+            "each", 
+            "sale"
+        ], 
+        [
+            "for", 
+            "on", 
+            "in", 
+            "of"
+        ], 
+        [
+            "in", 
+            "at", 
+            "on", 
+            "for"
+        ], 
+        [
+            "yours", 
+            "your", 
+            "my", 
+            "yourself"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "C", 
+        "C", 
+        "A", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle1692"
+}

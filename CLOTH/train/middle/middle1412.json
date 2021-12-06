@@ -1,0 +1,71 @@
+{
+    "article": "I was in a strange city and I didn't know the city at all.  _ , I could not speak a  _  of the language there. After I spent my first day in the town center, I decided to lose my way on my second day, for I  _  that this was the way of getting to know the strange city.\nI  _ on a bus, rode on it for several stops, then  off it  and walked on. The first two hours  _  pleasantly enough. Then I decided to turn  back to my hotel for lunch. After I walked for  some time , I decided I had better  ask the way. But the trouble was that I knew only the word of the name to the street.\nI  _ to ask a newspaper-seller. He smiled and handed me a  _ . I shook my head and  _  the name of the street again and he put the paper into my hands. I  had to  give him some money and went on my way. The next person was a policeman. He listened to me carefully, smiled and took me by the arm. There was a strange look in his eyes as he pointed left and right, and left again. I nodded politely and walked on.\nAbout an hour passed and I noticed that the houses were getting  fewer and fewer and I saw green fields on  _  side of me. I had come all the way into the country. Now I had to look for the nearest railway station!", 
+    "options": [
+        [
+            "Besides", 
+            "Except", 
+            "Beside", 
+            "But"
+        ], 
+        [
+            "sentence", 
+            "meaning", 
+            "sound", 
+            "word"
+        ], 
+        [
+            "believed", 
+            "understood", 
+            "said", 
+            "realized"
+        ], 
+        [
+            "rode", 
+            "took", 
+            "got", 
+            "climbed"
+        ], 
+        [
+            "spent", 
+            "past", 
+            "passed", 
+            "through"
+        ], 
+        [
+            "stood", 
+            "stop", 
+            "stopped", 
+            "standing"
+        ], 
+        [
+            "book", 
+            "paper", 
+            "magazine", 
+            "note"
+        ], 
+        [
+            "told", 
+            "said", 
+            "talked", 
+            "spoke"
+        ], 
+        [
+            "either", 
+            "both", 
+            "all", 
+            "neither"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "A", 
+        "C", 
+        "C", 
+        "C", 
+        "B", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle1412"
+}

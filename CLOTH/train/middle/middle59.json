@@ -1,0 +1,71 @@
+{
+    "article": "Dear Peter, I hope everything is going well with you ! I'm glad  to receive  your letter asking for my  _  on how to learn Chinese well. Here are  a few  suggestions. Firstly, you can take part  _  a Chinese course. There you can learn from the teachers and practice with your classmates as possible as you can. Secondly,  _  is important to read some newspapers about  _  and watch Chinese TV programs whenever possible. Besides, it is also a good idea  to learn  and sing Chinese songs, it can improve your oral Chinese and by  _  so, you'll learn and remember Chinese words  more easily  I think  the best way  to improve your Chinese is by making more Chinese friends. You can chat and do something  _  them together.  _  you want to learn it, they will tell you a lot about China and help you learn Chinese. I believe you can learn Chinese  _  . Try  to write  to me in Chinese next time. Good luck to you! Best  _  ! Yours, Li Hua", 
+    "options": [
+        [
+            "advice", 
+            "advices", 
+            "interest", 
+            "interests"
+        ], 
+        [
+            "on", 
+            "with", 
+            "in", 
+            "to"
+        ], 
+        [
+            "this", 
+            "that", 
+            "its", 
+            "it"
+        ], 
+        [
+            "English", 
+            "Chinese", 
+            "math", 
+            "Japanese"
+        ], 
+        [
+            "do", 
+            "doing", 
+            "did", 
+            "does"
+        ], 
+        [
+            "for", 
+            "to", 
+            "with", 
+            "behind"
+        ], 
+        [
+            "Whenever", 
+            "Whatever", 
+            "Wherever", 
+            "However"
+        ], 
+        [
+            "good", 
+            "well", 
+            "bad", 
+            "badly"
+        ], 
+        [
+            "wish", 
+            "wishes", 
+            "wishing", 
+            "wished"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "D", 
+        "B", 
+        "B", 
+        "C", 
+        "A", 
+        "B", 
+        "B"
+    ], 
+    "source": "middle59"
+}

@@ -1,0 +1,71 @@
+{
+    "article": "My name is Jack Smith. Jack  _  my first name,  _  Smith is my last name. I am  twelve  . I am  _  English boy. I  _  a sister.  _  name is Mary. She is only four. She is a  _  little girl. My father and mother  _  teachers. They like  _  work. They have many  _  .", 
+    "options": [
+        [
+            "am", 
+            "is", 
+            "are", 
+            "be"
+        ], 
+        [
+            "or", 
+            "and", 
+            "but", 
+            "to"
+        ], 
+        [
+            "an", 
+            "a", 
+            "the", 
+            "/"
+        ], 
+        [
+            "have", 
+            "am", 
+            "know", 
+            "see"
+        ], 
+        [
+            "He", 
+            "His", 
+            "She", 
+            "Her"
+        ], 
+        [
+            "good", 
+            "nice", 
+            "fine", 
+            "different"
+        ], 
+        [
+            "is", 
+            "are", 
+            "like", 
+            "think"
+        ], 
+        [
+            "they", 
+            "our", 
+            "their", 
+            "them"
+        ], 
+        [
+            "friend", 
+            "teachers", 
+            "students", 
+            "classes"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "B", 
+        "A", 
+        "A", 
+        "D", 
+        "B", 
+        "B", 
+        "C", 
+        "C"
+    ], 
+    "source": "middle1205"
+}

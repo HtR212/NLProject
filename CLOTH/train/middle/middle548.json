@@ -1,0 +1,64 @@
+{
+    "article": "Tom and Jerry were  _  . Last year they travelled in Spain . One day they came into a restaurant for lunch. They didn't know Spanish , and the waiter didn't know English,  _  . They want to have some milk and bread. At first, Tom said the word \"milk\"  _  times. Then, Jerry  _  it down on the table.  _  the waiter could not understand them at all. At last Tom took out  a piece of paper  and began to draw a cow. The waiter looked at it and ran out of the restaurant. \"You are so  _  \"said Jerry happily, \"He understands us at last!\" After  some time  , the waiter came back. He brought no  _  with him, but he  _  two tickets for a bullfight in his hand.", 
+    "options": [
+        [
+            "America", 
+            "American", 
+            "Americans", 
+            "Americen"
+        ], 
+        [
+            "too", 
+            "either", 
+            "also", 
+            "again"
+        ], 
+        [
+            "some", 
+            "much", 
+            "any", 
+            "many"
+        ], 
+        [
+            "wrote", 
+            "took", 
+            "made", 
+            "set"
+        ], 
+        [
+            "And", 
+            "Then", 
+            "But", 
+            "So"
+        ], 
+        [
+            "happy", 
+            "clever", 
+            "nice", 
+            "kind"
+        ], 
+        [
+            "milk", 
+            "cake", 
+            "food", 
+            "money"
+        ], 
+        [
+            "hold", 
+            "took", 
+            "carried", 
+            "brought"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "D", 
+        "A", 
+        "C", 
+        "B", 
+        "A", 
+        "D"
+    ], 
+    "source": "middle548"
+}

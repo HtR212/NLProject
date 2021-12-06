@@ -1,0 +1,64 @@
+{
+    "article": "Why do children go to school? You may _ they go to learn languages, P.E., history, science and other _ . But why do they learn these things?\nWe send our children to school to get ready for the time when they will grow up and will begin to work for  _  . Nearly everything they study at school is useful in their life. But is that the _ reason why they go to school?\nThere is more in education  than just learning facts. We go to school to learn _ to learn. In this way, when we leave school, we can still go on learning. If a man really knows how to learn, he will always be successful . When he has to do something _ , he will teach himself  how to do it in the best way. If the person doesn't go to school, he may do it _ . So, we go to school not to learn languages, maths, geography, etc., but to learn the _ to learn.", 
+    "options": [
+        [
+            "speak", 
+            "tell", 
+            "say", 
+            "talk"
+        ], 
+        [
+            "stories", 
+            "subjects", 
+            "sports", 
+            "news"
+        ], 
+        [
+            "their", 
+            "they", 
+            "us", 
+            "themselves"
+        ], 
+        [
+            "only", 
+            "really", 
+            "first", 
+            "one"
+        ], 
+        [
+            "what", 
+            "how", 
+            "why", 
+            "when"
+        ], 
+        [
+            "interesting", 
+            "exciting", 
+            "old", 
+            "new"
+        ], 
+        [
+            "bad", 
+            "badly", 
+            "nice", 
+            "well"
+        ], 
+        [
+            "road", 
+            "reason", 
+            "way", 
+            "fact"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "D", 
+        "A", 
+        "B", 
+        "D", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle2387"
+}

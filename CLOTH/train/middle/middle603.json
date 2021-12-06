@@ -1,0 +1,64 @@
+{
+    "article": "Frank Smith _ a boy. _ is a student. Smith is _ family name and Frank is his _ name. His _ number is 806-8027 and his ID number is 8283928655. His mother _ a teacher. His father is a teacher, _ . He and his parents are in the same  _ .", 
+    "options": [
+        [
+            "am", 
+            "are", 
+            "is", 
+            "aren't"
+        ], 
+        [
+            "she", 
+            "She", 
+            "He", 
+            "I"
+        ], 
+        [
+            "her", 
+            "she", 
+            "she's", 
+            "his"
+        ], 
+        [
+            "family", 
+            "last", 
+            "middle", 
+            "first"
+        ], 
+        [
+            "phone", 
+            "ID", 
+            "bus", 
+            "card"
+        ], 
+        [
+            "are", 
+            "is", 
+            "am", 
+            "aren't"
+        ], 
+        [
+            "two", 
+            "to", 
+            "too", 
+            "OK"
+        ], 
+        [
+            "room", 
+            "photo", 
+            "box", 
+            "School"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "C", 
+        "D", 
+        "D", 
+        "A", 
+        "B", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle603"
+}

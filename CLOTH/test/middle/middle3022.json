@@ -1,0 +1,50 @@
+{
+    "article": "Many people like to travel by plane,but I don't like it because the airport  is usually  far from  the city.You have to  get  there early and wait  for hours  for the plane to take off and it is  _  late.You can't open the windows.You can't choose the food.Planes are fast,but they still  _  hours to go out of the airport and into the city.\nI like traveling by train.I think trains are safe.Railway stations are usually in cities.When you are  late for  a train,you can catch  _  one.You can walk in the train and open the windows.You can see many interesting things  _  your way.I know it takes a little more time.\nI also like cars.You can  _  your journey when you want to,and you don't need to get to a railway station or a bus stop.Also you can  _  many things with you in a car.But sometimes there are too many cars on the road.", 
+    "options": [
+        [
+            "usually", 
+            "often", 
+            "never", 
+            "always"
+        ], 
+        [
+            "spend", 
+            "take", 
+            "have", 
+            "want"
+        ], 
+        [
+            "more", 
+            "this", 
+            "another", 
+            "other"
+        ], 
+        [
+            "in", 
+            "by", 
+            "on", 
+            "with"
+        ], 
+        [
+            "leave", 
+            "get", 
+            "have", 
+            "start"
+        ], 
+        [
+            "buy", 
+            "sell", 
+            "spend", 
+            "carry"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "B", 
+        "C", 
+        "C", 
+        "D", 
+        "D"
+    ], 
+    "source": "middle3022"
+}

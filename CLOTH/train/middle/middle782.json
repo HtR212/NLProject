@@ -1,0 +1,71 @@
+{
+    "article": "Dear Lin Xin,\nI am going to have a summer vacation soon. My parents said they would _ me to China. I am so _ . I will be able to see you very soon.\nWe are going to Beijing first. We will stay there for one week. I have heard about the Great Wall. I always hope that I can have the _ to visit it. My dream is going to come true. Then we will go to Hangzhou, _ my uncle lives there. He _ as a host   at a radio station. We haven't _ him for five years. But I often write letters to him. He told me that Hangzhou is _ . He wants to live there forever  . Have you ever been to that _ ? Is he right?\nFinally, we will fly to Shanghai. You have told me a lot about _ . Would you like to be our guide? I hope to receive your letter very soon.\nYours,\nMark", 
+    "options": [
+        [
+            "take", 
+            "send", 
+            "make", 
+            "guess"
+        ], 
+        [
+            "upset", 
+            "excited", 
+            "scared", 
+            "bored"
+        ], 
+        [
+            "project", 
+            "meeting", 
+            "plan", 
+            "chance"
+        ], 
+        [
+            "although", 
+            "so", 
+            "because", 
+            "but"
+        ], 
+        [
+            "takes", 
+            "works", 
+            "wants", 
+            "plays"
+        ], 
+        [
+            "missed", 
+            "written", 
+            "seen", 
+            "talked"
+        ], 
+        [
+            "strange", 
+            "dangerous", 
+            "dirty", 
+            "beautiful"
+        ], 
+        [
+            "city", 
+            "town", 
+            "village", 
+            "country"
+        ], 
+        [
+            "them", 
+            "here", 
+            "him", 
+            "it"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "D", 
+        "C", 
+        "B", 
+        "C", 
+        "D", 
+        "A", 
+        "D"
+    ], 
+    "source": "middle782"
+}

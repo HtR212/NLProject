@@ -1,0 +1,64 @@
+{
+    "article": "What is the best way to study? This is a very important question. SomeChinese students often study very hard for a long  _  .This is a  _  habit, but it is not a better way to study.A good student must  _  enough sleep, enough food and enough rests. Every day you need to  _  a walk or play basketball or sing a song. When you  _  back to your studies, you'll find yourself stronger than before and you'll learn  more  . Perhaps we can  _  that learning English is like  _  Chinese medicine, the effects of your study come slowly  _  strangely . Learn  every day  ,and effects will come just like Chinese medicine. Wait and see.", 
+    "options": [
+        [
+            "time", 
+            "hours", 
+            "hour", 
+            "day"
+        ], 
+        [
+            "good", 
+            "bad", 
+            "bright", 
+            "clever"
+        ], 
+        [
+            "do", 
+            "need", 
+            "have", 
+            "want"
+        ], 
+        [
+            "go", 
+            "give", 
+            "pay", 
+            "take"
+        ], 
+        [
+            "begin", 
+            "come", 
+            "finish", 
+            "return"
+        ], 
+        [
+            "guess", 
+            "know", 
+            "believe", 
+            "say"
+        ], 
+        [
+            "making", 
+            "having", 
+            "taking", 
+            "eating"
+        ], 
+        [
+            "and", 
+            "but", 
+            "or", 
+            "of"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "A", 
+        "C", 
+        "D", 
+        "D", 
+        "D", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle1617"
+}

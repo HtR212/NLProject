@@ -1,0 +1,57 @@
+{
+    "article": "London is such a wonderful city. It is very large. The Tames River runs through the city  _  west to east. So the city has  _  parts, the South and the North. In the North are important buildings, shops, big parks and interesting places. The weather in London is good. In winter it is not very cold and in summer it is not very hot  _  the city is near the sea. People  _  that London is a foggy city and it often rains. It is true. When I  _  in London, I meet one of the thickest fogs in years. You can not  see  your hand in front of your face. Cars and buses move along with their lights on. When evening comes, the weather gets even worse .  _  the buses and cars stop. I have  _  important meeting on  the othe  side of the town, but it is not easy to find a car or bus. I have to get there  on foot", 
+    "options": [
+        [
+            "between", 
+            "through", 
+            "from", 
+            "along"
+        ], 
+        [
+            "two", 
+            "four", 
+            "five", 
+            "six"
+        ], 
+        [
+            "because", 
+            "or", 
+            "so", 
+            "but"
+        ], 
+        [
+            "speak", 
+            "tell", 
+            "say", 
+            "talk"
+        ], 
+        [
+            "be", 
+            "am", 
+            "come", 
+            "go"
+        ], 
+        [
+            "Each", 
+            "Every", 
+            "None", 
+            "All"
+        ], 
+        [
+            "a", 
+            "an", 
+            "the", 
+            "\\"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "A", 
+        "C", 
+        "B", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle2592"
+}

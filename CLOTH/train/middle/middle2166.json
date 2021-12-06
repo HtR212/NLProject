@@ -1,0 +1,71 @@
+{
+    "article": "What about your future? Listen to five students talking about their future. Fang Ming: I want to be a  _  when I grow up. I will need good eyesight and I will have to take flying lessons. I really  _  traveling and I hope to see the world in the  _  . Tom: I want to be an engineer when I grow up. I'm going to study design and engineering at  university  . My dream is to  _  the longest bridge in the world. Jack: I want to be an actor when I grow up. I'm going to take acting lessons, and  _  singing and dancing lessons, too. I hope I can be famous one day. Zhang Wen: I want to be a  _  player when I grow up. I know that I have to train hard every day. It isn't easy,  _  I will keep on doing it. I want to be just  _  my hero, Yao Ming, in the future. Guo Xiaoyi: I want to be a cook. I'm going to a cooking school in Europe. I hope I can work in a five-star hotel in Beijing when I'm  _  .", 
+    "options": [
+        [
+            "pilot", 
+            "doctor", 
+            "policeman", 
+            "teacher"
+        ], 
+        [
+            "want", 
+            "enjoy", 
+            "ask", 
+            "get"
+        ], 
+        [
+            "morning", 
+            "daytime", 
+            "future", 
+            "moment"
+        ], 
+        [
+            "build", 
+            "walk", 
+            "see", 
+            "buy"
+        ], 
+        [
+            "may", 
+            "maybe", 
+            "can", 
+            "must"
+        ], 
+        [
+            "baseball", 
+            "volleyball", 
+            "basketball", 
+            "soccer"
+        ], 
+        [
+            "and", 
+            "so", 
+            "or", 
+            "but"
+        ], 
+        [
+            "like", 
+            "at", 
+            "from", 
+            "with"
+        ], 
+        [
+            "bigger", 
+            "younger", 
+            "higher", 
+            "older"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "C", 
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "A", 
+        "D"
+    ], 
+    "source": "middle2166"
+}

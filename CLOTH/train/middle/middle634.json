@@ -1,0 +1,64 @@
+{
+    "article": "Alice went down the rabbit hole after the White Rabbit. It was a very strange  _ . Alice  _  falling very slowly. She had no time to think and look around her. She could see nothing because it was dark.\nDown, down, down.  _ , she was sitting on the ground. She jumped to her  _  and looked around. She could see the White Rabbit. He was  _  saying, \"Oh, dear! Oh, dear! I'll be late.\" Alice ran after him like the wind . She was getting very near  _ .\nNow Alice was in a very long, dark room with a door and she could not see the White Rabbit. She tried  to open  the door, but it was locked(, ). Then she saw a little table in the room. On it was a very small key . She looked out of the window into a beautiful garden  _  green trees and bright flowers.\nShe went back to the table.  _  she saw a little box on the table. She opened it and  found  a very small cake with the words EAT ME on it. Very soon Alice finished the cake.", 
+    "options": [
+        [
+            "tree", 
+            "hole", 
+            "hill", 
+            "river"
+        ], 
+        [
+            "is", 
+            "am", 
+            "was", 
+            "were"
+        ], 
+        [
+            "Nearly", 
+            "Suddenly", 
+            "Quick", 
+            "Quickly"
+        ], 
+        [
+            "foot", 
+            "feet", 
+            "hands", 
+            "arms"
+        ], 
+        [
+            "ever", 
+            "never", 
+            "still", 
+            "since"
+        ], 
+        [
+            "he", 
+            "him", 
+            "she", 
+            "her"
+        ], 
+        [
+            "with", 
+            "at", 
+            "in", 
+            "after"
+        ], 
+        [
+            "So", 
+            "But", 
+            "Because", 
+            "Then"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "B", 
+        "B", 
+        "C", 
+        "B", 
+        "A", 
+        "D"
+    ], 
+    "source": "middle634"
+}

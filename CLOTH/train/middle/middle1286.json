@@ -1,0 +1,71 @@
+{
+    "article": "Hello, everyone! My name  is  Millie. I am  _  America. My parents come to work in China, so I come here, too. I am thirteen  _  old. Now I am in Class Four, Grade Seven at No.1 Secondary School. I am a(n)  _  student at school. My English teacher is Miss Lin. She is very nice  _  me. I have a brother.  _  name is John. He is seventeen years old. I have many hobbies. I like all kinds of  _  , like running, swimming and playing basketball. I don't wear glasses, but my brother  _  . At the weekend, I often  _  with my classmates. My brother  _  eating fish. So he is very strong.", 
+    "options": [
+        [
+            "in", 
+            "from", 
+            "of", 
+            "for"
+        ], 
+        [
+            "grades", 
+            "days", 
+            "months", 
+            "years"
+        ], 
+        [
+            "big", 
+            "old", 
+            "new", 
+            "bad"
+        ], 
+        [
+            "for", 
+            "with", 
+            "to", 
+            "from"
+        ], 
+        [
+            "Your", 
+            "My", 
+            "Her", 
+            "His"
+        ], 
+        [
+            "films", 
+            "books", 
+            "sports", 
+            "pictures"
+        ], 
+        [
+            "is", 
+            "isn't", 
+            "does", 
+            "doesn't"
+        ], 
+        [
+            "welcome", 
+            "look", 
+            "play", 
+            "go"
+        ], 
+        [
+            "loves", 
+            "looks", 
+            "meets", 
+            "comes"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "C", 
+        "C", 
+        "D", 
+        "C", 
+        "C", 
+        "C", 
+        "A"
+    ], 
+    "source": "middle1286"
+}

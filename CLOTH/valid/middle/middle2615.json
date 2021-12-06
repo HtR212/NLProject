@@ -1,0 +1,71 @@
+{
+    "article": "Lisa is an English girl. She is young. She is fifteen  _  old now. Her mom is  _  actor. Lisa is very nice.  _  hair is long and blond. Her eyes  _  blue and big. Her  _  like her very much. Lisa looks like Huang Yongmei,  _  good actor. The actor  is from  Hong Kong. Lisa's favorite color is red. She is often in red. Now she is in Beijing Ren'ai  _  . Lisa likes  _  , oranges and bananas.  _  is her good friend? Oh, she is Sally.", 
+    "options": [
+        [
+            "year", 
+            "/", 
+            "yaers", 
+            "years"
+        ], 
+        [
+            "a", 
+            "/", 
+            "the", 
+            "an"
+        ], 
+        [
+            "Hers", 
+            "She", 
+            "Her", 
+            "His"
+        ], 
+        [
+            "am", 
+            "is", 
+            "/", 
+            "are"
+        ], 
+        [
+            "mom", 
+            "friends", 
+            "dad", 
+            "students"
+        ], 
+        [
+            "a", 
+            "/", 
+            "an", 
+            "the"
+        ], 
+        [
+            "school", 
+            "class", 
+            "grade", 
+            "School"
+        ], 
+        [
+            "apple", 
+            "apples", 
+            "aple", 
+            "applees"
+        ], 
+        [
+            "Who", 
+            "Whose", 
+            "Where", 
+            "How"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "D", 
+        "C", 
+        "D", 
+        "B", 
+        "A", 
+        "D", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle2615"
+}

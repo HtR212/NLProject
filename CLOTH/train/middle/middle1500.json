@@ -1,0 +1,64 @@
+{
+    "article": "When do you have dinner?And what do you eat _ dinner?We have dinner _ 7 pm.We eat meat or fish,and _ .Some people like to have soup.We _ soup before the meat and vegetables.Some people like to _ pudding or dessert.We eat pudding _ dessert after the meat and vegetables.Many people drink water or wine with dinner.Some people drink _ after supper.My _ like green tea.", 
+    "options": [
+        [
+            "for", 
+            "in", 
+            "on", 
+            "of"
+        ], 
+        [
+            "at", 
+            "with", 
+            "in", 
+            "on"
+        ], 
+        [
+            "juice", 
+            "tea", 
+            "vegetables", 
+            "soup"
+        ], 
+        [
+            "put", 
+            "have", 
+            "bring", 
+            "get"
+        ], 
+        [
+            "drinks", 
+            "has", 
+            "have", 
+            "drink"
+        ], 
+        [
+            "of", 
+            "but", 
+            "so", 
+            "or"
+        ], 
+        [
+            "hamburgers", 
+            "tea", 
+            "salad", 
+            "dumplings"
+        ], 
+        [
+            "parents", 
+            "parent", 
+            "father", 
+            "mother"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "A", 
+        "C", 
+        "B", 
+        "C", 
+        "D", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle1500"
+}

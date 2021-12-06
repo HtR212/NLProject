@@ -1,0 +1,57 @@
+{
+    "article": "Miss Guo is our art teacher. She _ some pictures. Every class, she shows those pictures to us. She wants us to learn something from them. In _ of her pictures, we see a boy. He's cleaning the room. In another picture, a girl is singing. She's singing an English some. In other pictures, we see others doing different things. One is running, another is _ a cake. And a girl is doing _ homework. We lok at our teacher and her pictures. We talk _ English and our teacher listens to us. We learn English _ our teacher and her pictures. Our teacher likes _ . We likes her class, too.", 
+    "options": [
+        [
+            "is", 
+            "are", 
+            "has", 
+            "have"
+        ], 
+        [
+            "a", 
+            "one", 
+            "an", 
+            "the"
+        ], 
+        [
+            "make", 
+            "making", 
+            "do", 
+            "doing"
+        ], 
+        [
+            "my", 
+            "your", 
+            "her", 
+            "his"
+        ], 
+        [
+            "in", 
+            "on", 
+            "of", 
+            "out"
+        ], 
+        [
+            "to", 
+            "from", 
+            "with", 
+            "for"
+        ], 
+        [
+            "we", 
+            "us", 
+            "I", 
+            "me"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "B", 
+        "C", 
+        "A", 
+        "B", 
+        "B"
+    ], 
+    "source": "middle1612"
+}

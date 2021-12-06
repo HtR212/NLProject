@@ -1,0 +1,64 @@
+{
+    "article": "Dear Sandy, My family and I are in Nanjing, China. We are very happy. I am a  _  in No. 11 Middle School. Is our school  _  ? No, it isn't very big, but it's very beautiful. There  _  any swimming pools in it. But our school  has  two basketball courts. There is a garden and many tall trees in our school. There are about fifteen  _  in our school. I am in Class2,Grade1. My classroom is  _  the second floor in the building. There are twenty girls and twenty--five boys in my class. Miss Li is our English teacher.  _  comes from the USA. She often goes to Chinese classes to study Chinese in the evening. Now she  _  Chinese well. She likes  working  in China. Miss Li is a very good teacher. We all like her very much. May you be  _  ! Hope to see you soon. Yours Lily", 
+    "options": [
+        [
+            "student", 
+            "teacher", 
+            "worker", 
+            "classmate"
+        ], 
+        [
+            "beautiful", 
+            "big", 
+            "small", 
+            "clean"
+        ], 
+        [
+            "are", 
+            "is", 
+            "isn't", 
+            "aren't"
+        ], 
+        [
+            "classes", 
+            "grades", 
+            "libraries", 
+            "offices"
+        ], 
+        [
+            "in", 
+            "on", 
+            "at", 
+            "between"
+        ], 
+        [
+            "He", 
+            "They", 
+            "She", 
+            "We"
+        ], 
+        [
+            "says", 
+            "talks", 
+            "speaks", 
+            "tells"
+        ], 
+        [
+            "thin", 
+            "slim", 
+            "sad", 
+            "happy"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "D", 
+        "A", 
+        "B", 
+        "C", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle1169"
+}

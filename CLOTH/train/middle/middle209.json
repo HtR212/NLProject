@@ -1,0 +1,50 @@
+{
+    "article": "I am on the way I have been dreaming of being a volunteer  _  I entered the university. Last summer, I could finally become a volunteer after the end term examination. Step1 First experiencing I thought I could have a good  _  . But when I faced so many strangers, also my new workmates for the first time, I got nervous and  kept silence  almost all the time. Step2 Start work My first job of volunteering was  teaching  . The kids were from families  with  low income .They were at different  _  ,from primary school pupils to high school students.We talked about the  _  ,sadness and happiness.I told them that lessons were much more important than money,though I knew they did not have  _  lives.I  _  that my experience would help them.  To be honest  ,we needed to make better plans,and sometimes we didn't know what to do at all,especially when  something new  happened. Step3 Wishes I also  joined  the older serving group.It seemed  a little  more difficult to communicate with elders.I really hoped that I could bring  more  happiness into their lives and help them more. Anyway,I am on the way. 1 will  hold on to  my dream,no matter what would happen the next day.", 
+    "options": [
+        [
+            "before", 
+            "since", 
+            "after", 
+            "when"
+        ], 
+        [
+            "beginning", 
+            "end", 
+            "finish", 
+            "experience"
+        ], 
+        [
+            "heights", 
+            "weights", 
+            "builds", 
+            "ages"
+        ], 
+        [
+            "lessons", 
+            "languages", 
+            "activities", 
+            "life"
+        ], 
+        [
+            "poor", 
+            "rich", 
+            "sad", 
+            "happy"
+        ], 
+        [
+            "wanted", 
+            "think", 
+            "hoped", 
+            "believe"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "D", 
+        "D", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle209"
+}

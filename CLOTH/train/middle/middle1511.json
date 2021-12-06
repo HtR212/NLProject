@@ -1,0 +1,71 @@
+{
+    "article": "On a visit to England, Wendy saw a car accident and the police officer asked her some questions. The police officer asked her  _  she had seen the accident happen. She said \"yes\". She was  _  to go across Green Street at that time. And the  _  asked her where she was standing. Wendy told him that she was  _  the south side of Green Street, near the corner. She wanted to  _  to the north side of Green Street. The police officer asked her what she  had seen  . Wendy said that a white car with an \"L\" sign on it came along Green Street to City Road. It did not  _  at the traffic light. That surprised her very much. The driver was a man with a woman sitting beside  _  . He drove straight out into City Road without  _  left and hit a yellow car which was going to the north. Then both  _  crossed the road and went into the street about 20 meters away. They finished up on the east side of City Road. The policeman said thanks to Wendy and asked her name and address.", 
+    "options": [
+        [
+            "what", 
+            "how", 
+            "that", 
+            "if"
+        ], 
+        [
+            "waited", 
+            "waiting", 
+            "wanted", 
+            "want"
+        ], 
+        [
+            "driver", 
+            "woman", 
+            "man", 
+            "policeman"
+        ], 
+        [
+            "on", 
+            "at", 
+            "in", 
+            "under"
+        ], 
+        [
+            "across", 
+            "pass", 
+            "cross", 
+            "past"
+        ], 
+        [
+            "start", 
+            "drive", 
+            "stop", 
+            "begin"
+        ], 
+        [
+            "him", 
+            "her", 
+            "he", 
+            "she"
+        ], 
+        [
+            "turn", 
+            "turned", 
+            "turns", 
+            "turning"
+        ], 
+        [
+            "people", 
+            "persons", 
+            "cars", 
+            "men"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "B", 
+        "D", 
+        "A", 
+        "C", 
+        "C", 
+        "A", 
+        "D", 
+        "C"
+    ], 
+    "source": "middle1511"
+}

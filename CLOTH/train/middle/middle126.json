@@ -1,0 +1,71 @@
+{
+    "article": "Every Sunday morning, Alice goes to visit her grandparents. They live in the south of the city. It usually takes her about 20 minutes to _ there by bus.\nIt's Sunday today. Alice gets everything _ at 8.00. She wants to take some eggs and vegetables to her grandparents. At 8.10, she comes to the bus stop to  _   the No.7 bus to her grandparents' place.  At about 8.30, she knocks _ the door. Her grandpa and grandma are waiting for her at home. They are very happy to see Alice.\nAt about 10.00, Alice and her grandma do some _ in the supermarket. They put some rice, meat _ some fruit into the shopping basket. Her grandma is _ at cooking. Every Sunday, she cooks some nice food for Alice.\nAfter lunch, Alice _ her grandma do the dishes. Then Grandpa takes Alice to his small _ . They water the flowers there.\nAlice feels very happy to stay with her grandparents.", 
+    "options": [
+        [
+            "take", 
+            "get", 
+            "make", 
+            "come"
+        ], 
+        [
+            "ready", 
+            "busy", 
+            "free", 
+            "tired"
+        ], 
+        [
+            "take", 
+            "use", 
+            "buy", 
+            "sit"
+        ], 
+        [
+            "to", 
+            "with", 
+            "of", 
+            "on"
+        ], 
+        [
+            "reading", 
+            "shopping", 
+            "washing", 
+            "cooking"
+        ], 
+        [
+            "and", 
+            "or", 
+            "but", 
+            "so"
+        ], 
+        [
+            "well", 
+            "nice", 
+            "bad", 
+            "good"
+        ], 
+        [
+            "hopes", 
+            "asks", 
+            "helps", 
+            "tells"
+        ], 
+        [
+            "house", 
+            "garden", 
+            "library", 
+            "family"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "A", 
+        "D", 
+        "B", 
+        "A", 
+        "D", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle126"
+}

@@ -1,0 +1,71 @@
+{
+    "article": "Yesterday I didn't feel well, so I had to stay at home. _ my mom thought I was just too tired. Later she  _  my temperature. It was 38.5degC. She found I got a _ and she took me to the _ . I don't like hospitals or doctors. _ the doctor was very kind, I was afraid. The doctor told me I should lie down and _ . He said I should drink some hot water and eat more fruit. The doctor also gave me some _ for my sore throat. Then my mother and I _ back home. To be at home is good, but the cold is _ . I hoped I would feel better soon.", 
+    "options": [
+        [
+            "First", 
+            "Then", 
+            "Next", 
+            "Later"
+        ], 
+        [
+            "did", 
+            "took", 
+            "had", 
+            "got"
+        ], 
+        [
+            "fever", 
+            "toothache", 
+            "headache", 
+            "stomachache"
+        ], 
+        [
+            "school", 
+            "factory", 
+            "park", 
+            "hospital"
+        ], 
+        [
+            "So", 
+            "But", 
+            "Although", 
+            "Because"
+        ], 
+        [
+            "play", 
+            "study", 
+            "rest", 
+            "exercise"
+        ], 
+        [
+            "balls", 
+            "honey", 
+            "medicine", 
+            "fruit"
+        ], 
+        [
+            "took", 
+            "came", 
+            "had", 
+            "kept"
+        ], 
+        [
+            "sore", 
+            "good", 
+            "weak", 
+            "bad"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "A", 
+        "D", 
+        "C", 
+        "C", 
+        "C", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle635"
+}

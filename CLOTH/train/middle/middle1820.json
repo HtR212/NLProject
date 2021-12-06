@@ -1,0 +1,71 @@
+{
+    "article": "I am American. _ name is Ron. I'm eleven. I _ two friends. They're _ . _ names are Kate and Susan. _ all like sports. I _ soccer . Kate likes _ , too. Susan likes basketball. She _ three basketballs. We play basketball after school. We often watch the games _ TV.", 
+    "options": [
+        [
+            "My", 
+            "His", 
+            "Her", 
+            "Its"
+        ], 
+        [
+            "am", 
+            "do", 
+            "have", 
+            "has"
+        ], 
+        [
+            "them", 
+            "brothers", 
+            "sisters.", 
+            "friend"
+        ], 
+        [
+            "Their", 
+            "My", 
+            "Her", 
+            "Our"
+        ], 
+        [
+            "She", 
+            "We", 
+            "He", 
+            "It"
+        ], 
+        [
+            "am", 
+            "like", 
+            "likes", 
+            "don't"
+        ], 
+        [
+            "volleyball", 
+            "baseball", 
+            "ping-pong", 
+            "soccer"
+        ], 
+        [
+            "is", 
+            "have", 
+            "has", 
+            "are"
+        ], 
+        [
+            "on", 
+            "in", 
+            "to", 
+            "at"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "C", 
+        "A", 
+        "B", 
+        "B", 
+        "D", 
+        "C", 
+        "A"
+    ], 
+    "source": "middle1820"
+}

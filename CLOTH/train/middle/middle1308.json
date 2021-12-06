@@ -1,0 +1,64 @@
+{
+    "article": "Jay Chou is a popular singer around the world now. He looks very cool  _  his songs sound beautiful. He is  _  with teenagers. Jay Chou was born  _  January the 18th, 1979 in Taiwan. As a little boy, he showed great interest in music. His mother asked a teacher  to teach  him to play  _  piano when he was 3 years old. He also learned to play other musical  _  like the guitar and cello . When he was 13 years old, his parents got divorced . Jay felt sad. He often  _  his time listening to music. During this time, he wrote his first song. Jay's first job was a waiter in a restaurant. Then he began to write songs for  other  singers. Many of the songs became popular, but nobody knew Jay wrote  _  at that time. In 2000, Jay's first album came out. To everyone's surprise, it was a great  _  . With his second album, Jay was among one of the stars.", 
+    "options": [
+        [
+            "if", 
+            "when", 
+            "and", 
+            "or"
+        ], 
+        [
+            "exciting", 
+            "creative", 
+            "interesting", 
+            "popular"
+        ], 
+        [
+            "in", 
+            "on", 
+            "at", 
+            "from"
+        ], 
+        [
+            "the", 
+            "an", 
+            "a", 
+            "/"
+        ], 
+        [
+            "programs", 
+            "information", 
+            "instruments", 
+            "science"
+        ], 
+        [
+            "enjoyed", 
+            "spent", 
+            "took", 
+            "found"
+        ], 
+        [
+            "it", 
+            "them", 
+            "him", 
+            "us"
+        ], 
+        [
+            "success", 
+            "problem", 
+            "future", 
+            "competition"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "D", 
+        "B", 
+        "A", 
+        "C", 
+        "B", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle1308"
+}

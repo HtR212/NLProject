@@ -1,0 +1,57 @@
+{
+    "article": "China is a country that is changing very quickly over the past fifty years and  if  you look closely you can see it  changing  in front of your eyes. Fifty years ago, everybody travelled around by bike. Today lots of people in China still ride their bikes  _  school or work, but many people also take the bus or travel  _  underground. There are some people who even drive their own cars. Shops  _  small businesses but now the centre of China's cities are full of  _  department stores. In these department stores, you can buy  _  you want in one trip. You can buy food, toys, bikes and even televisions. Television is  another  change that China has seen. Many children would say that they can not imagine life  without one  TV set , but years ago they had to live without them. The Internet and the computer have only recently become regular items in our lives. Without the Internet, people would not  be able to  to get information as quickly as they can now and the Internet helps to make people  be  friends all over the world. Computers help  _  children and adults in their  everyday  lives Many students are lucky enough  to be  able to use them to do their homework or  _  with their friends and sometimes play games.", 
+    "options": [
+        [
+            "from", 
+            "to", 
+            "in", 
+            "at"
+        ], 
+        [
+            "with", 
+            "at", 
+            "in", 
+            "by"
+        ], 
+        [
+            "is", 
+            "was", 
+            "are", 
+            "were"
+        ], 
+        [
+            "large", 
+            "larger", 
+            "small", 
+            "smaller"
+        ], 
+        [
+            "anything", 
+            "something", 
+            "everything", 
+            "nothing"
+        ], 
+        [
+            "both", 
+            "all", 
+            "either", 
+            "neither"
+        ], 
+        [
+            "speak", 
+            "chatting", 
+            "chat", 
+            "speaking"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "D", 
+        "A", 
+        "A", 
+        "A", 
+        "C"
+    ], 
+    "source": "middle294"
+}

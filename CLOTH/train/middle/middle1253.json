@@ -1,0 +1,71 @@
+{
+    "article": "Alice wanted to buy a gift for her mother for Mother's Day but she didn't have enough _ So she told her father about her _ .\n\"I'll give you some money if you do the housework. You need to clean the house,\" her father said. [:. \"You also need to _ my car and Mom's. You can see they're really dirty. Both of them need a wash.\"\nAlice washed his father's car carefully. \"It is too _ . You don't have to wash your mother's car. It is OK. \" Dad said when he gave the money to Alice at night.\nBut the next morning Alice still got up very early. First, she washed her mother's car _ it was very clean. Then she went to the _ shop and bought a bunch  of flowers. After breakfast Alice asked her mother to go to the garage .\n\"Wow!\" Alice's mother said, \"My car is gleaming .\"\n\" _ the door, mom.\" Alice said. Alice's mother opened the door. There on the seat she _ a bunch of flowers. \"Happy Mother's Day!\" Alice said. Alice's mother was very _ . She gave her a big hug  and said, \"Thank you, honey. This is the best gift for me.\"", 
+    "options": [
+        [
+            "money", 
+            "time", 
+            "homework", 
+            "food"
+        ], 
+        [
+            "reply", 
+            "answer", 
+            "problem", 
+            "exam"
+        ], 
+        [
+            "drive", 
+            "wash", 
+            "sell", 
+            "accept"
+        ], 
+        [
+            "late", 
+            "early", 
+            "traditional", 
+            "common"
+        ], 
+        [
+            "if", 
+            "until", 
+            "after", 
+            "when"
+        ], 
+        [
+            "food", 
+            "clothes", 
+            "flower", 
+            "computer"
+        ], 
+        [
+            "See", 
+            "Close", 
+            "Clean", 
+            "Open"
+        ], 
+        [
+            "saw", 
+            "bought", 
+            "met", 
+            "hung"
+        ], 
+        [
+            "sad", 
+            "nervous", 
+            "happy", 
+            "worried"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "B", 
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "A", 
+        "C"
+    ], 
+    "source": "middle1253"
+}

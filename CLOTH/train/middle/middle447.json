@@ -1,0 +1,64 @@
+{
+    "article": "Hello, everyone! Come and have a look at our Dessert House ! Would you like  to eat  dessert? Do you enjoy eating with your friends? I have a good place to  _  you.\nDessert House is not big,  _  it is a great place. There are six waiters in it. They're friendly. The chair and tables there are  _  green. The color makes people hungry . You can  listen to  music when you're eating in Dessert House.  _  you don't like to eat dessert, you can eat some other food like dumplings, noodles , soup and so on  .\nThere is a great  _  every day at Dessert House, sometimes fruit ice creams with apples or strawberries, sometimes other dessert. Special fruit ice cream is only 1.00 yuan  _  two. Also, they put a small  _  in some ice creams. If you have this kind of dumpling ice cream, you can get a free ice cream. It's very  _ .", 
+    "options": [
+        [
+            "tell", 
+            "ask", 
+            "teach", 
+            "call"
+        ], 
+        [
+            "and", 
+            "for", 
+            "but", 
+            "because"
+        ], 
+        [
+            "all", 
+            "some", 
+            "either", 
+            "every"
+        ], 
+        [
+            "Before", 
+            "If", 
+            "Who", 
+            "Where"
+        ], 
+        [
+            "beef", 
+            "special", 
+            "cabbage", 
+            "tomato"
+        ], 
+        [
+            "for", 
+            "of", 
+            "in", 
+            "with"
+        ], 
+        [
+            "pen", 
+            "orange", 
+            "dumpling", 
+            "potato"
+        ], 
+        [
+            "expensive", 
+            "bad", 
+            "terrible", 
+            "interesting"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "A", 
+        "B", 
+        "B", 
+        "A", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle447"
+}

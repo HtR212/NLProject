@@ -1,0 +1,43 @@
+{
+    "article": "Hello.everyone! My name is Ann.I _ from America.I am in China.I will tell you something about my _ .There are _ people in my family.They are my grandparents,my parents and I.\nMy father is a worker.My mother is a doctor.They _ hard.I am in Grade 3 now.I enjoy reading .But I am not good at Chinese.I must read many books.My _ is near a river.\n Here's a photo of my family.You can see lots of people in it.I like my family very much.", 
+    "options": [
+        [
+            "comes", 
+            "is", 
+            "are", 
+            "come"
+        ], 
+        [
+            "home", 
+            "family", 
+            "class", 
+            "school"
+        ], 
+        [
+            "one", 
+            "three", 
+            "five", 
+            "seven"
+        ], 
+        [
+            "sing", 
+            "work", 
+            "talk", 
+            "do"
+        ], 
+        [
+            "mother", 
+            "family", 
+            "father", 
+            "home"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "B", 
+        "C", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle135"
+}

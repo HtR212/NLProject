@@ -1,0 +1,71 @@
+{
+    "article": "Hello,everyone!I'm Chen Kang. I  come from  China. Now I'm studying in a middle school in New York. The  _  is great. I like it very much.\nI'm studying new  _ ,like science. It is my favorite  _ it's very interesting. And I'm also  _  how to use the Internet. Now I can use it very well and I can  _  e-mails and send  them to people. I'm making lots of new friends here. They are very  _ .I usually do sports with them on the weekend. Sometimes  _  stay in the sports hall to play ping-pong and  _  go out to play soccer. I'm enjoying  my life here a lot.\nHow about your school?Can you tell me _  you're doing in your school?", 
+    "options": [
+        [
+            "trip", 
+            "host", 
+            "school", 
+            "dream"
+        ], 
+        [
+            "subjects", 
+            "rules", 
+            "dances", 
+            "sports"
+        ], 
+        [
+            "or", 
+            "because", 
+            "but", 
+            "before"
+        ], 
+        [
+            "teaching", 
+            "saying", 
+            "learning", 
+            "asking"
+        ], 
+        [
+            "bring", 
+            "read", 
+            "remember", 
+            "write"
+        ], 
+        [
+            "terrible", 
+            "friendly", 
+            "sorry", 
+            "funny"
+        ], 
+        [
+            "we", 
+            "they", 
+            "I", 
+            "he"
+        ], 
+        [
+            "never", 
+            "usually", 
+            "often", 
+            "sometimes"
+        ], 
+        [
+            "when", 
+            "who", 
+            "what", 
+            "Why"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "B", 
+        "A", 
+        "D", 
+        "C"
+    ], 
+    "source": "middle1007"
+}

@@ -1,0 +1,71 @@
+{
+    "article": "What's a typical day like in Buenos Aires ? For Diego, who lives with his parents in a house in Buenos Aires, a school day starts  _  . If his mother doesn't wake him up at 6:00 a.m., his dog Luna will. Diego  _  himself quickly and takes Luna for a walk. Then it's time to get ready for school. Diego puts on his school clothes and eats a quick  _  . He slings his heavy schoolbag over his shoulder and gets onto the city bus for the 25 minutes'  _  to school. Diego is in the seventh year of primary school. Classes start at 8:00 a.m. with math, followed  _  history and music. At 1:00 p.m., Diego and his friends have their lunch. After lunch, Diego heads to English class. This is one of his favorites,  _  the students practise English by writing e-mails to students in  other  countries. When the  _  class ends, Diego and his friends  _  the bus to a city park to play football. Then he's back home to start on homework. If he finishes in time, Diego will cook dinner. His parents come home from work at about 8:00 p.m., and  _  they sit down to dinner. After dinner, Diego does some reading or watches TV before getting ready for bed!", 
+    "options": [
+        [
+            "quickly", 
+            "early", 
+            "late", 
+            "slowly"
+        ], 
+        [
+            "dress", 
+            "dressed", 
+            "dressing", 
+            "dresses"
+        ], 
+        [
+            "lunch", 
+            "breakfast", 
+            "supper", 
+            "dinner"
+        ], 
+        [
+            "walk", 
+            "way", 
+            "ride", 
+            "road"
+        ], 
+        [
+            "at", 
+            "for", 
+            "by", 
+            "about"
+        ], 
+        [
+            "because", 
+            "if", 
+            "since", 
+            "unless"
+        ], 
+        [
+            "first", 
+            "second", 
+            "third", 
+            "last"
+        ], 
+        [
+            "fetch", 
+            "carry", 
+            "take", 
+            "bring"
+        ], 
+        [
+            "only", 
+            "just", 
+            "also", 
+            "then"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "B", 
+        "C", 
+        "C", 
+        "A", 
+        "D", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle693"
+}

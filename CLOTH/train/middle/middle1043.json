@@ -1,0 +1,64 @@
+{
+    "article": "It is five o'clock in the afternoon.It's time to go home .But we must _ our classroom.There _ five students in our team.Now there are only three.Chen Hua and Li Yong are playing games.I _ to them,\"Come and clean _ classroom.\"Look!Chen Hua is carrying water,and I am cleaning the floor.What is Li Yong _ ?We can't _ him in our classroom. _ is he? _ you know?", 
+    "options": [
+        [
+            "take", 
+            "clean", 
+            "ask", 
+            "watch"
+        ], 
+        [
+            "is", 
+            "have", 
+            "are", 
+            "has"
+        ], 
+        [
+            "say", 
+            "answer", 
+            "tell", 
+            "see"
+        ], 
+        [
+            "we're", 
+            "we", 
+            "our", 
+            "us"
+        ], 
+        [
+            "do", 
+            "work", 
+            "doing", 
+            "make"
+        ], 
+        [
+            "look", 
+            "listen", 
+            "come", 
+            "find"
+        ], 
+        [
+            "Where", 
+            "What", 
+            "How", 
+            "Why"
+        ], 
+        [
+            "Do", 
+            "Are", 
+            "Is", 
+            "Does"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "A", 
+        "C", 
+        "C", 
+        "D", 
+        "A", 
+        "A"
+    ], 
+    "source": "middle1043"
+}

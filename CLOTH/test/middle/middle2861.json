@@ -1,0 +1,57 @@
+{
+    "article": "Mary was ill, so she went to see  the doctor .\n\"Doctor, I'm not feeling  _ ,\" said Mary, \" Every time I do homework, I feel  _ . If I go to school on foot, I have to sit down and  have a rest  for a few times.\"\nThe doctor looked over her  _ . At last he said, \"  _  serious, but I'm afraid you are eating too much.\"\n\" I don't understand. What do you mean? \" asked Mary.\n\" I mean you eat  too much  food, \" said the doctor.\n\" Oh! You mean I'm too  _ . That's a problem,\" said Mary, \"What should I do?\"\n\" The answer is easy,\" said the doctor, \" If you want to be thinner and healthier, you  _  eat a lot of food and you should also do much  _ .", 
+    "options": [
+        [
+            "terrible", 
+            "ill", 
+            "good", 
+            "well"
+        ], 
+        [
+            "tired", 
+            "thirsty", 
+            "hungry", 
+            "happy"
+        ], 
+        [
+            "carelessly", 
+            "carefully", 
+            "careless", 
+            "careful"
+        ], 
+        [
+            "Something", 
+            "Anything", 
+            "Everything", 
+            "Nothing"
+        ], 
+        [
+            "thin", 
+            "heavy", 
+            "tall", 
+            "healthy"
+        ], 
+        [
+            "must", 
+            "should", 
+            "shouldn't", 
+            "didn't"
+        ], 
+        [
+            "housework", 
+            "homework", 
+            "shopping", 
+            "Exercise"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "A", 
+        "B", 
+        "D", 
+        "B", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle2861"
+}

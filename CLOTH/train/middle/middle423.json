@@ -1,0 +1,71 @@
+{
+    "article": "This is a special class in a Chinese school. The students come from  _  countries. Some come from America.  Others  come from Canada, Germany, Australia and England. They  _  different languages, but all of  _  can speak Chinese. They are good friends. They  _  together, play together and live together. They help each other. All of the  _  of this class are Chinese, but they can speak English, too. They help their students  _  Chinese. They are very kind  _  helpful. They work hard. All the students  _  this class study Chinese cooking, so they can make delicious meals. All the students say that they are  _  here. They also say China is a great country and the Chinese people are very friendly.", 
+    "options": [
+        [
+            "same", 
+            "different", 
+            "old", 
+            "new"
+        ], 
+        [
+            "speak", 
+            "say", 
+            "talk", 
+            "tell"
+        ], 
+        [
+            "their", 
+            "they", 
+            "them", 
+            "us"
+        ], 
+        [
+            "study", 
+            "enjoy", 
+            "see", 
+            "help"
+        ], 
+        [
+            "parents", 
+            "brothers", 
+            "teachers", 
+            "students"
+        ], 
+        [
+            "learn", 
+            "answer", 
+            "love", 
+            "use"
+        ], 
+        [
+            "but", 
+            "so", 
+            "or", 
+            "and"
+        ], 
+        [
+            "on", 
+            "outside", 
+            "in", 
+            "into"
+        ], 
+        [
+            "bad", 
+            "happy", 
+            "sorry", 
+            "sad"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "C", 
+        "A", 
+        "C", 
+        "A", 
+        "D", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle423"
+}

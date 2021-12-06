@@ -1,0 +1,64 @@
+{
+    "article": "A man was looking for things of the old times. One day he came to a village and found a blue bowl which looked very  _  . The bowl was on the ground and a cat was drinking milk from it. A farmer, the  _  of the cat, was lying  _  the bowl. The man did not want the farmer to know that he was interested in the  _  . So he said to him, \"What a nice cat you have! Will you  _  it to me?\" The farmer asked, \"  How much  will you give me for the cat?\" \"Twenty dollars. Would that be enough?\" The farmer thought for a few minutes, then he  _  . After he paid the farmer, the man said, \"My cat will certainly feel  _  . May I take the bowl  so that  the cat can drink with it?\" But the farmer said, \"I'm  _  I can't give you the bowl. Thanks to the bowl, I have sold twenty cats already.\"", 
+    "options": [
+        [
+            "old", 
+            "new", 
+            "big", 
+            "small"
+        ], 
+        [
+            "teacher", 
+            "servant", 
+            "doctor", 
+            "owner"
+        ], 
+        [
+            "in", 
+            "over", 
+            "beside", 
+            "under"
+        ], 
+        [
+            "cat", 
+            "bowl", 
+            "bottle", 
+            "milk"
+        ], 
+        [
+            "sell", 
+            "give", 
+            "pass", 
+            "return"
+        ], 
+        [
+            "agreed", 
+            "refused", 
+            "replied", 
+            "stopped"
+        ], 
+        [
+            "tired", 
+            "thirsty", 
+            "comfortable", 
+            "excited"
+        ], 
+        [
+            "sorry", 
+            "happy", 
+            "sad", 
+            "grateful"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "C", 
+        "B", 
+        "A", 
+        "A", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle596"
+}

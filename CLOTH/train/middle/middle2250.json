@@ -1,0 +1,71 @@
+{
+    "article": "Most people like traveling on vacation. Last year I _ on a trip to Italy . I visited _ places. My favorite _ was Venice. There are _ roads in Venice. There are canals  between the _ , instead. There is a lot of water in the canals. People _ Venice use boats just like we use buses and bikes. They go to work _ boat. We go to work by bike and bus. Venice is famous for _ canals and boats. Venice is beautiful because of the _ . I hope to visit it again.", 
+    "options": [
+        [
+            "have", 
+            "having", 
+            "go", 
+            "went"
+        ], 
+        [
+            "many", 
+            "little", 
+            "much", 
+            "lot"
+        ], 
+        [
+            "park", 
+            "country", 
+            "city", 
+            "museum"
+        ], 
+        [
+            "no", 
+            "not", 
+            "any", 
+            "some"
+        ], 
+        [
+            "streets", 
+            "buildings", 
+            "roads", 
+            "boats"
+        ], 
+        [
+            "on", 
+            "at", 
+            "in", 
+            "for"
+        ], 
+        [
+            "to", 
+            "at", 
+            "with", 
+            "by"
+        ], 
+        [
+            "it's", 
+            "it", 
+            "their", 
+            "its"
+        ], 
+        [
+            "house", 
+            "grass", 
+            "water", 
+            "trees"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "A", 
+        "C", 
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "D", 
+        "C"
+    ], 
+    "source": "middle2250"
+}

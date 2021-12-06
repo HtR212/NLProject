@@ -1,0 +1,71 @@
+{
+    "article": "Last Sunday we had a great trip.My father, my mother and I  _  to summer camp.We went to a mountain.First we  arrived  at the foot of the mountain  _  bus.In the middle of the mountain there was a river.The water was clean and clear.I washed my face  _  the water.It was warm. In the mountain, there  _  flowers.They were  _  .At noon, many people got together, and they were very  _  .We made our meal in the mountain.The food was very  _  and we liked it very much. After meal, we went on our trip.We felt  _  .It was really  _  .", 
+    "options": [
+        [
+            "go", 
+            "goe", 
+            "went", 
+            "going"
+        ], 
+        [
+            "by", 
+            "on", 
+            "in", 
+            "took"
+        ], 
+        [
+            "on", 
+            "with", 
+            "for", 
+            "into"
+        ], 
+        [
+            "is", 
+            "was", 
+            "were", 
+            "are"
+        ], 
+        [
+            "ugly", 
+            "beautiful", 
+            "awful", 
+            "delicious"
+        ], 
+        [
+            "friendly", 
+            "friends", 
+            "busy", 
+            "tired"
+        ], 
+        [
+            "nice", 
+            "terrible", 
+            "bad", 
+            "worse"
+        ], 
+        [
+            "happy", 
+            "unhappy", 
+            "friendly", 
+            "unpleasant"
+        ], 
+        [
+            "cold", 
+            "hot", 
+            "fun", 
+            "sad"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "B", 
+        "C", 
+        "B", 
+        "A", 
+        "A", 
+        "A", 
+        "C"
+    ], 
+    "source": "middle2030"
+}

@@ -1,0 +1,64 @@
+{
+    "article": "A teacher was giving a talk to his students on stress management. He raised a glass of water and asked them, \"How _ do you think this glass of water is?\" The students began to think and _ . Their answers are different, from 20g to 500g. \"It does not matter on the real _ . It depends on how long you hold it. If I hold it for a  _ ,it is OK.If I hold it for an hour, I will have an ache in my right arm. If I hold it for a day, you will have to call a  _ . It is the exact same weight,but the longer I hold it, the heavier it becomes. What we have to do is to put the glass down,  _ for a while before holding it up again.\" \"If we carry our burdens  all the time ,sooner or later, we will not be able to carry on. The burden will become increasingly heavier. We have to  put down the burden every now and then, so that we can be refreshed and are able to carry on.\" So  _ you return home from work tonight, put the burden of work down. Don't carry it back home. You can pick it up tomorrow. Whatever burdens you have , let them down for a moment if you can .And learn to _ yourselves. Life is short but amazing. Enjoy it!", 
+    "options": [
+        [
+            "heavy", 
+            "full", 
+            "much", 
+            "long"
+        ], 
+        [
+            "read", 
+            "watch", 
+            "guess", 
+            "listen"
+        ], 
+        [
+            "glass", 
+            "weight", 
+            "water", 
+            "height"
+        ], 
+        [
+            "minute", 
+            "night", 
+            "day", 
+            "week"
+        ], 
+        [
+            "mother", 
+            "teacher", 
+            "doctor", 
+            "friend"
+        ], 
+        [
+            "rest", 
+            "shake", 
+            "look", 
+            "work"
+        ], 
+        [
+            "after", 
+            "since", 
+            "before", 
+            "until"
+        ], 
+        [
+            "save", 
+            "help", 
+            "care", 
+            "relax"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "B", 
+        "A", 
+        "C", 
+        "A", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle1199"
+}

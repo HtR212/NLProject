@@ -1,0 +1,71 @@
+{
+    "article": "Hello! I'm Peter. I'm  _  English girl. I have  _  friends. They are Gina and Cindy. I love  _  . I don't have a soccer ball,  _  my brother does. We go to the  _  school. We play it  _  school with our friends. It's  _  . Gina  has  two soccer balls, three volleyballs, four basketballs. She loves sports, but she  _  play them. Cindy doesn't have a soccer ball. She thinks it's  _  . She likes ping-pong. We are good friends and we like sports.", 
+    "options": [
+        [
+            "the", 
+            "a", 
+            "an", 
+            "/"
+        ], 
+        [
+            "one", 
+            "two", 
+            "three", 
+            "four"
+        ], 
+        [
+            "they", 
+            "their", 
+            "them", 
+            "us"
+        ], 
+        [
+            "and", 
+            "but", 
+            "of", 
+            "/"
+        ], 
+        [
+            "difficult", 
+            "same", 
+            "good", 
+            "next"
+        ], 
+        [
+            "after", 
+            "in", 
+            "on", 
+            "under"
+        ], 
+        [
+            "relaxing", 
+            "tidy", 
+            "boring", 
+            "fun"
+        ], 
+        [
+            "don't", 
+            "doesn't", 
+            "isn't", 
+            "aren't"
+        ], 
+        [
+            "difficult", 
+            "great", 
+            "nice", 
+            "interesting"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "C", 
+        "B", 
+        "B", 
+        "A", 
+        "A", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle2097"
+}

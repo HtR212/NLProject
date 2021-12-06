@@ -1,0 +1,71 @@
+{
+    "article": "The world is an interesting place. Different people like different things. Some people like loud music. Other people don't. They like  _  music. Many people like sports, but they do not  all like  the same sports. In some countries, cricket is a very popular sport. In others it is not popular  _  all. No one plays it or watches it on TV.  _  , most people like soccer. The World Cup is very popular.  _  of people watch the games on TV. Different people like different  _  . Some people do not like meat. They eat fruit and vegetables most of the time. Some people do not like  _  or bread. They prefer rice. Not everyone likes the same color. Most people have their favorite colors. Some people like  _  colors. Others prefer dark colors. Many people like  _  . Different people like different places. Some people like to go to the country. They like fresh air. Some people like to go to cities because they like  _  . Some other people enjoy beautiful places like mountains or beaches. What do you like? Have you got an idea?", 
+    "options": [
+        [
+            "soft", 
+            "noisy", 
+            "classical", 
+            "hard"
+        ], 
+        [
+            "in", 
+            "at", 
+            "on", 
+            "for"
+        ], 
+        [
+            "So", 
+            "While", 
+            "Though", 
+            "However"
+        ], 
+        [
+            "None", 
+            "Million", 
+            "Millions", 
+            "Hundreds"
+        ], 
+        [
+            "foods", 
+            "drinks", 
+            "vegetable", 
+            "meat"
+        ], 
+        [
+            "potato", 
+            "potatoes", 
+            "tomato", 
+            "tomatos"
+        ], 
+        [
+            "warm", 
+            "cold", 
+            "bright", 
+            "dark"
+        ], 
+        [
+            "swimming", 
+            "running", 
+            "climbing", 
+            "traveling"
+        ], 
+        [
+            "shopping", 
+            "nature", 
+            "noise", 
+            "mountains"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "D", 
+        "C", 
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "A"
+    ], 
+    "source": "middle2756"
+}

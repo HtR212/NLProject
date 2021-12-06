@@ -1,0 +1,71 @@
+{
+    "article": "Have you ever seen a \"tomboy\"? I have a girl classmate, Rose, _ acts like a boy. She is outgoing. She loves soccer, and likes to play _ boys. She even looks like a boy! On the first day of school, I was _ surprised to learn Rose was a girl that I nearly asked her: \"Are you a boy or a girl?\" But that doesn't matter any more. She is friendly to both girls and boys, and we've _ seen her high-tempered. Wherever she goes, she carries a smile along, and she _ it with everyone she meets. When she plays soccer or other sports, she smiles with joy. If her team wins, her _ shows joy and pride. If she loses, then her smile says \"they're so good, it was great playing with them\". When she meets a friend, her smile is a greeting, and when she meets a teacher, her smile is filled with  _ . Every day, when I ask _ about our math homework, she tells me every detail she knows. Before every math class, I see her  _ at the front leading the class, or carrying a stack of homework or math materials. I have never heard her say a word of displeasure or boast about her job in the math office.", 
+    "options": [
+        [
+            "who", 
+            "which", 
+            "what", 
+            "that"
+        ], 
+        [
+            "for", 
+            "with", 
+            "at", 
+            "to"
+        ], 
+        [
+            "too", 
+            "as", 
+            "so", 
+            "very"
+        ], 
+        [
+            "usually", 
+            "often", 
+            "ever", 
+            "never"
+        ], 
+        [
+            "laughs", 
+            "agrees", 
+            "ends", 
+            "shares"
+        ], 
+        [
+            "smile", 
+            "view", 
+            "idea", 
+            "record"
+        ], 
+        [
+            "pride", 
+            "friend", 
+            "joy", 
+            "respect"
+        ], 
+        [
+            "him", 
+            "her", 
+            "she", 
+            "he"
+        ], 
+        [
+            "either", 
+            "neither", 
+            "both", 
+            "hardly"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "D", 
+        "A", 
+        "D", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle1882"
+}

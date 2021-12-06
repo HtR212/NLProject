@@ -1,0 +1,57 @@
+{
+    "article": "Do you like bubble gum ? Do you know when it was _ ?\nIn the 1870s, an American discovered bubble gum. _ name was Thomas Adams. He wanted to find the use for a chicle . Chicle is a Spanish _ for sticky water that comes from one kind of Mexican tree.\nMr. Adams wanted to make rubber _ chicle. He worked in his home while he tried to find a way to make the chicle become stronger. He had a son _ name was Horatio. He also helped his father now and then.\nOne day, young Horatio began to chew  the chicle while he watched his father work. It did not _ very good, but Horatio enjoyed chewing it. Then the young boy began to blow bubbles with the new chicle which his father had made. Mr. Adams had discovered bubble gum by accident .\nMr. Adams gave up trying to find a way to make rubber. Instead , he wanted to try to sell the new gum that he had made. He thought other people might like the taste, too.\nHe was _ . Soon, the new gum became more and more popular.", 
+    "options": [
+        [
+            "created", 
+            "create", 
+            "discovered", 
+            "discover"
+        ], 
+        [
+            "Her", 
+            "My", 
+            "Your", 
+            "His"
+        ], 
+        [
+            "word", 
+            "meaning", 
+            "sentence", 
+            "idea"
+        ], 
+        [
+            "of", 
+            "from", 
+            "with", 
+            "to"
+        ], 
+        [
+            "whom", 
+            "which", 
+            "whose", 
+            "who"
+        ], 
+        [
+            "taste", 
+            "sound", 
+            "look", 
+            "smell"
+        ], 
+        [
+            "good", 
+            "true", 
+            "right", 
+            "fine"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "D", 
+        "A", 
+        "B", 
+        "C", 
+        "A", 
+        "C"
+    ], 
+    "source": "middle1324"
+}

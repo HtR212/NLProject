@@ -1,0 +1,71 @@
+{
+    "article": "Hey, friends! I'm Alice. I'm an English _ , but I'm in China now. My Chinese name is Xu Ruike. These are two _ of my family. My father Xu Yajun and I are in the _ photo. Xu Yajun is my _ Chinese name. _ English name is Mike. In the second  photo, you can _ three people. They are my mother and my _ sisters. Their names are Dee, Elly _ Lily. Dee is my mother. Elly and Lily _ my sisters. They are nice.", 
+    "options": [
+        [
+            "name", 
+            "school", 
+            "girl", 
+            "book"
+        ], 
+        [
+            "photos", 
+            "numbers", 
+            "dogs", 
+            "friends"
+        ], 
+        [
+            "first", 
+            "last", 
+            "second", 
+            "one"
+        ], 
+        [
+            "mother's", 
+            "father's", 
+            "sister's", 
+            "brother's"
+        ], 
+        [
+            "Her", 
+            "Your", 
+            "His", 
+            "My"
+        ], 
+        [
+            "say", 
+            "have", 
+            "meet", 
+            "see"
+        ], 
+        [
+            "one", 
+            "two", 
+            "three", 
+            "four"
+        ], 
+        [
+            "too", 
+            "and", 
+            "well", 
+            "but"
+        ], 
+        [
+            "is", 
+            "am", 
+            "are", 
+            "be"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "B", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle2593"
+}

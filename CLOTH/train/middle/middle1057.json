@@ -1,0 +1,64 @@
+{
+    "article": "Today is Monday. Now we are having  _  class. Are we in the classroom? No, we are at the  _  . Our art teacher, Ms Jones, is talking to  _  ,\" Boys and girls, we are going to draw animals here today. You can find your  _  animals and draw a picture of them.\" Tom and Mike like  _  best, because they are black and white, they are beautiful. What are Bob and Jenny doing? They  are watching  an elephant show. The show is very funny, and they like it very much. Nancy's favorite animal is the monkey .  _  the monkeys are staying in their home and they don't want  to come  out. Nancy has a good  _ . She gives the monkeys some  _  . Soon all of the monkeys come out to eat them.", 
+    "options": [
+        [
+            "English", 
+            "math", 
+            "art", 
+            "music"
+        ], 
+        [
+            "zoo", 
+            "home", 
+            "school", 
+            "supermarket"
+        ], 
+        [
+            "me", 
+            "him", 
+            "them", 
+            "us"
+        ], 
+        [
+            "like", 
+            "favorite", 
+            "fun", 
+            "interesting"
+        ], 
+        [
+            "tigers", 
+            "pandas", 
+            "lions", 
+            "monkeys"
+        ], 
+        [
+            "But", 
+            "So", 
+            "And", 
+            "Because"
+        ], 
+        [
+            "habit", 
+            "time", 
+            "food", 
+            "idea"
+        ], 
+        [
+            "bananas", 
+            "bread", 
+            "meat", 
+            "chicken"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "D", 
+        "B", 
+        "B", 
+        "A", 
+        "D", 
+        "A"
+    ], 
+    "source": "middle1057"
+}

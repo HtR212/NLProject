@@ -1,0 +1,50 @@
+{
+    "article": "I like my Chinese teacher very much. He is a  young  man, about 25 years old. He is tall  _  black short hair. He is a very humorous person. He often  _  us jokes and  stories  to make our class more  _  . In class, he is a very  _  teacher. If we don't listen to him carefully, he will give us some punishment by  _  us some questions. But after class, he becomes a very good  _  of us. He often talks with the girls and plays  basketball  with the boys. All of us really like him. He is our  favorite  teacher.", 
+    "options": [
+        [
+            "and", 
+            "for", 
+            "with", 
+            "at"
+        ], 
+        [
+            "tells", 
+            "says", 
+            "speaks", 
+            "speak"
+        ], 
+        [
+            "tired", 
+            "difficult", 
+            "interesting", 
+            "boring"
+        ], 
+        [
+            "busy", 
+            "strict", 
+            "interested", 
+            "well"
+        ], 
+        [
+            "ask", 
+            "asks", 
+            "asking", 
+            "asked"
+        ], 
+        [
+            "teacher", 
+            "teachers", 
+            "friend", 
+            "friends"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "C", 
+        "B", 
+        "C", 
+        "C"
+    ], 
+    "source": "middle1058"
+}

@@ -1,0 +1,22 @@
+{
+    "article": "My name _ Ted Pike. I am a worker in a big store. I don't work in the morning. I only work at night. Every morning I come home at half past six . I _ breakfast at seven. After breakfast I go to bed . I get up at about two thirty. I have lunch at a quarter to three and supper at twenty to eight. Then I go to work at a quarter past eight. I start work at nine. I look after the store every night. I like my work  a lot .", 
+    "options": [
+        [
+            "be", 
+            "am", 
+            "is", 
+            "are"
+        ], 
+        [
+            "eats", 
+            "has", 
+            "have", 
+            "do"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "C"
+    ], 
+    "source": "middle1780"
+}

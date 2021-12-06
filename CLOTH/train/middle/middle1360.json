@@ -1,0 +1,57 @@
+{
+    "article": "Hello!My  name  is Jim Smith. My first name is  Jim  , and Smith is my  _  name.  _  am  _  English boy. What's that over there? Oh, it's my  _  . It's an  _  dictionary. I like  _  very much.  What color  is it? It's red. Can you  _  dictionary? Yes, D-I-C-T-I-O-N-A-R-Y.", 
+    "options": [
+        [
+            "first", 
+            "Middle", 
+            "full", 
+            "family"
+        ], 
+        [
+            "My", 
+            "You", 
+            "I", 
+            "He"
+        ], 
+        [
+            "a", 
+            "an", 
+            "the", 
+            "/"
+        ], 
+        [
+            "book", 
+            "eraser", 
+            "name", 
+            "dictionary"
+        ], 
+        [
+            "Chinese", 
+            "English", 
+            "Japanese", 
+            "good"
+        ], 
+        [
+            "this", 
+            "that", 
+            "it", 
+            "me"
+        ], 
+        [
+            "say", 
+            "spell", 
+            "speak", 
+            "tell"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "C", 
+        "B", 
+        "D", 
+        "B", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle1360"
+}

@@ -1,0 +1,71 @@
+{
+    "article": "My  _  and I like  _  . My father likes red apples. My  _  likes yellow bananas. And I like  _  . I eat oranges  _  day.  _  also like vegetables. My father and I  _  tomatoes. My mother likes carrots. I  don't  like  _  , but my parents like it. We often eat  _  food.", 
+    "options": [
+        [
+            "friends", 
+            "father", 
+            "parents", 
+            "sister"
+        ], 
+        [
+            "fruit", 
+            "vegetable", 
+            "food", 
+            "chicken"
+        ], 
+        [
+            "uncle", 
+            "aunt", 
+            "mother", 
+            "brother"
+        ], 
+        [
+            "pears", 
+            "eggs", 
+            "oranges", 
+            "apples"
+        ], 
+        [
+            "every", 
+            "that", 
+            "this", 
+            "in"
+        ], 
+        [
+            "They", 
+            "We", 
+            "You", 
+            "She"
+        ], 
+        [
+            "need", 
+            "like", 
+            "have", 
+            "likes"
+        ], 
+        [
+            "breads", 
+            "milks", 
+            "milk", 
+            "milkes"
+        ], 
+        [
+            "bad", 
+            "well", 
+            "healthy", 
+            "health"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "C", 
+        "C", 
+        "A", 
+        "B", 
+        "B", 
+        "C", 
+        "C"
+    ], 
+    "source": "middle2558"
+}

@@ -1,0 +1,71 @@
+{
+    "article": "We make traffic rules to keep order on the roads. These rules also help keep us  _  on the roads. People have to  _  many traffic rules. In China, you must walk  _  the sidewalk or on the side of the road. Look carefully before you  cross  the street. If you are riding a bike, don't ride in the middle of the roads or run through the road when the traffic light is  _  . When you ride a bike  _  If you drive, you must slow down at the traffic lights. You must always  _  ). Without belts,  _  the driver and the other people in the car may hurt themselves when the car stops suddenly . When you take a bus, you must be  _  . Get on or get off a bus only when it comes to a  _  When it's full , you shouldn't get on it or you may fall down.", 
+    "options": [
+        [
+            "happy", 
+            "safe", 
+            "dangerous", 
+            "quiet"
+        ], 
+        [
+            "miss", 
+            "show", 
+            "obey", 
+            "take"
+        ], 
+        [
+            "on", 
+            "in", 
+            "at", 
+            "across"
+        ], 
+        [
+            "brown", 
+            "black", 
+            "green", 
+            "red"
+        ], 
+        [
+            "with", 
+            "and", 
+            "about", 
+            "from"
+        ], 
+        [
+            "bring", 
+            "dress", 
+            "wear", 
+            "take"
+        ], 
+        [
+            "every", 
+            "both", 
+            "each", 
+            "between"
+        ], 
+        [
+            "glad", 
+            "interesting", 
+            "careful", 
+            "wonderful"
+        ], 
+        [
+            "school", 
+            "sign", 
+            "corner", 
+            "stop"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "A", 
+        "D", 
+        "A", 
+        "C", 
+        "B", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle2235"
+}

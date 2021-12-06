@@ -1,0 +1,43 @@
+{
+    "article": "_ name is Li Lei. I have _ brothers, Li Ping and Li Shan. We like hamburgers for lunch. Li Ping and I like French fries . But Li Shan _ like them. I don't like eggs for dinner, but my brothers like eggs. I think we need to eat healthy food every day. I eat many _ and bananas every day. My brothers eat ice-ream. I don't like ice-cream. I don't want to be fat. Please tell  me something  _ your eating habits.", 
+    "options": [
+        [
+            "My", 
+            "I", 
+            "Her", 
+            "His"
+        ], 
+        [
+            "four", 
+            "three", 
+            "two", 
+            "one"
+        ], 
+        [
+            "don't", 
+            "doesn't", 
+            "isn't", 
+            "not"
+        ], 
+        [
+            "orange", 
+            "oranges", 
+            "orangies", 
+            "orangees"
+        ], 
+        [
+            "for", 
+            "at", 
+            "in", 
+            "about"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "B", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle2307"
+}

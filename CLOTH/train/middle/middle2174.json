@@ -1,0 +1,64 @@
+{
+    "article": "On Saturday morning, every boy in town was happy, except Tom Sawyer. Tom was _ by his aunt for causing some trouble. And he had to paint their fence  which was 30 yards long. He knew other boys would laugh at him. He didn't want to become a joke, so he thought hard. Then he came up with an idea and picked up his brush to start the work.\nA moment later, Ben Rogers came with an apple in his hand.\n\"You did something wrong again, right?\" Ben asked.\n\"Of course not. I'm enjoying myself. Does a boy get a _ to paint a fence like this everyday?\" Tom said   and went on painting.\nBen watched in silence for a while and became more and more _ . \"Tom, will you let me have a try?\" He asked.\nBut Tom _ , \"Sorry, but Aunt Polly trusted me to do the painting. She said only I could do the job _ .\"\n\"Oh, please, Tom,\" said Ben. \"I'll be really careful. I'll give you half my _ . Wait,I'll give you all of it.\"\n\"That's a deal,\" said Tom. \"But you must be careful.\"\nTom gave Ben his brush with worry on his face _ joy in his heart. He sat down and started to eat the apple.\nWhen Ben got _ , Billy was waiting for his turn. He gave Tom a kite for the chance to paint. Behind Bill, there were many others...\nSoon Tom got lots of \"treasure\", and the fence got three coats of paint. Aunt Polly was so pleased that she gave Tom a big apple!", 
+    "options": [
+        [
+            "chosen", 
+            "guided", 
+            "praised", 
+            "punished"
+        ], 
+        [
+            "competition", 
+            "journey", 
+            "decision", 
+            "chance"
+        ], 
+        [
+            "nervous", 
+            "interested", 
+            "lonely", 
+            "sleepy"
+        ], 
+        [
+            "refused", 
+            "agreed", 
+            "stopped", 
+            "succeeded"
+        ], 
+        [
+            "sadly", 
+            "comfortably", 
+            "perfectly", 
+            "poorly"
+        ], 
+        [
+            "brush", 
+            "kite", 
+            "apple", 
+            "toy"
+        ], 
+        [
+            "but", 
+            "so", 
+            "and", 
+            "or"
+        ], 
+        [
+            "worried", 
+            "sick", 
+            "relaxed", 
+            "Tired"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "D", 
+        "B", 
+        "A", 
+        "C", 
+        "C", 
+        "A", 
+        "D"
+    ], 
+    "source": "middle2174"
+}

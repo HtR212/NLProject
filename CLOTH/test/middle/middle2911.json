@@ -1,0 +1,29 @@
+{
+    "article": "A train stopped at a small station.An old man on the train looked  out of  the window and saw a woman.The woman was selling cakes,and many people from  _  train were buying them.The old man wanted  to buy  a cake,but the old woman was standing far from him.It was raining hard and he  _  want to go out of the train. Suddenly he saw a boy.The boy was walking on the platform  not far  from him.\"Come here boy,\"the old man shouted.\"Do you know  how much  each of the cakes is?\"\"Five cents,\"the boy answered.The old man gave ten cents and asked him  to buy  two cakes.\"One is for me,and  the other  is for you,\"he told the boy. Some minutes  _  ,the boy came back.He was eating a cake.He gave the old man five cents and said,\"Sorry,there was only  one cake  .\"", 
+    "options": [
+        [
+            "a", 
+            "the", 
+            "/", 
+            "an"
+        ], 
+        [
+            "doesn't", 
+            "not", 
+            "didn't", 
+            "stand"
+        ], 
+        [
+            "after", 
+            "later", 
+            "late", 
+            "before"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle2911"
+}

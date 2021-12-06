@@ -1,0 +1,71 @@
+{
+    "article": "The lion is called the king of all animals. Once it was also called as the king of the desert  . However, lions _ live in any desert now. Their colour may _ different from yellow to brown and males   can be from blond to black. The male lions _ up to 190 kg and are about 1.20 metres tall while the females weigh nearly 130 kg and are 1 metre tall. They _ beautiful fur, strong legs with sharp claws and a long tail.\nPanthera Leo   lives in sub-Saharan Africa and Asia. _ it feeds on many kinds of animals. When it's _ its food, it can reach the speed of 60 km per hour and jump even 12 metres. The lion likes to eat its food at once, _ sometimes it has to hide the food because of hyenas  . Hyenas are the only animals which kill lions for food.\nThe lion lives in small families made from 20 to 30 members. In each family there is usually one _ male with two or three females with small baby lions. _ , the lion population is in great danger mainly because of people's hunting.", 
+    "options": [
+        [
+            "never", 
+            "always", 
+            "sometimes", 
+            "usually"
+        ], 
+        [
+            "is", 
+            "are", 
+            "am", 
+            "be"
+        ], 
+        [
+            "eat", 
+            "weigh", 
+            "grow", 
+            "hold"
+        ], 
+        [
+            "want", 
+            "need", 
+            "have", 
+            "like"
+        ], 
+        [
+            "Where", 
+            "Here", 
+            "There", 
+            "Which"
+        ], 
+        [
+            "chasing", 
+            "watching", 
+            "enjoying", 
+            "thinking"
+        ], 
+        [
+            "so", 
+            "but", 
+            "and", 
+            "because"
+        ], 
+        [
+            "healthy", 
+            "beautiful", 
+            "young", 
+            "grown"
+        ], 
+        [
+            "Luckily", 
+            "Suddenly", 
+            "Unluckily", 
+            "Cheerfully"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "B", 
+        "C", 
+        "B", 
+        "A", 
+        "B", 
+        "D", 
+        "C"
+    ], 
+    "source": "middle899"
+}

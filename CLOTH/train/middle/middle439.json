@@ -1,0 +1,64 @@
+{
+    "article": "Do you have lots of friends? What do you  think of  friends and friendship? Are they very important for you? Some of your friends may have different views and interests, and some like doing the same  _  as you. Do you like friends different from  _  the same as you? You may like the friends who  _  the same interests as you. But I don't really care. I have two good friends, Peter and James. Peter is  _  me. I am a quiet boy, and Peter is also quiet. We  _  enjoy reading books and surfing the Internet. On weekends, we often go to the library or  _  on the computer together. But James is very different from us. He likes playing ball games, and he is more athletic than us. He is  a lot  more outgoing. He likes talking and often makes  _  laugh. You see, friends are not  _  to be the same. Do you agree with me?", 
+    "options": [
+        [
+            "interests", 
+            "views", 
+            "things", 
+            "habits"
+        ], 
+        [
+            "or", 
+            "and", 
+            "until", 
+            "but"
+        ], 
+        [
+            "are", 
+            "have", 
+            "show", 
+            "get"
+        ], 
+        [
+            "like", 
+            "as", 
+            "for", 
+            "with"
+        ], 
+        [
+            "all", 
+            "each", 
+            "both", 
+            "some"
+        ], 
+        [
+            "watch", 
+            "work", 
+            "read", 
+            "play"
+        ], 
+        [
+            "him", 
+            "her", 
+            "them", 
+            "us"
+        ], 
+        [
+            "important", 
+            "necessary", 
+            "difficult", 
+            "different"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "B", 
+        "A", 
+        "C", 
+        "D", 
+        "D", 
+        "A"
+    ], 
+    "source": "middle439"
+}

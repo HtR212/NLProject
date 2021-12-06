@@ -1,0 +1,43 @@
+{
+    "article": "Today we  have  only three lessons in the morning. The first lesson is math. It  starts  at eight o'clock and finishes at  a quarter  to nine. It is in Room 101. But I don't like math. Then the second lesson is my favorite  subject  --music. It starts at nine o'clock. The  _  lesson in the morning is PE. It starts at ten  _  ten and finishes at five to eleven. We have our lunch at eleven thirty  _  the second floor of dining hall. We have two lessons  _  lunch. Art starts at two and at three o'clock we have a  _  lesson. We can learn a lot of knowledge about China. At about four in the afternoon  class  is over.", 
+    "options": [
+        [
+            "last", 
+            "first", 
+            "one", 
+            "a"
+        ], 
+        [
+            "by", 
+            "from", 
+            "in", 
+            "past"
+        ], 
+        [
+            "in", 
+            "at", 
+            "on", 
+            "for"
+        ], 
+        [
+            "after", 
+            "before", 
+            "at", 
+            "for"
+        ], 
+        [
+            "math", 
+            "Chinese", 
+            "art", 
+            "music"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "C", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle1196"
+}

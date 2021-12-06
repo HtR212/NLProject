@@ -1,0 +1,71 @@
+{
+    "article": "We students enjoy our school life. But sometimes we feel unhappy. It's every student's bad dream:  _  time. During the last three days of every term, we  _  six exams. Last week I finished my end-of-year exam. The  _  exam to me was Maths. All of its questions were from earlier exams. So I finished it soon. The biology exam was hard. At first, I thought I would  _  it. It asked about lots of things we never studied in class, though we could  open  textbooks. And there wasn't enough time to check every question. I guess at many of them. But my teacher said I did well in it. In the Computer exam, we had a lot to do. I  _  I needed more time, but some of my classmates didn't think so. They just  _  wrote down the answers and then played games. I didn't think I could get a good score in the English exam. We had to  _  an article about the books we had read in class.But I didn't study English hard enough. At our school, we can \"test out \"of some  _  .That means students can study by themselves and then take the exam. If they pass, they don't have to  _  that class. I tested out of both Art and Health classes. Studying for those exams was hard. Those classes would last for six months, but I had to review everything in three weeks. I'm so glad it's all over. Now it's the summer holiday and I can enjoy it.", 
+    "options": [
+        [
+            "lunch", 
+            "game", 
+            "exam", 
+            "homework"
+        ], 
+        [
+            "want", 
+            "have", 
+            "collect", 
+            "do"
+        ], 
+        [
+            "easiest", 
+            "hardest", 
+            "worst", 
+            "best"
+        ], 
+        [
+            "fail", 
+            "pass", 
+            "miss", 
+            "through"
+        ], 
+        [
+            "thought", 
+            "wondered", 
+            "asked", 
+            "wanted"
+        ], 
+        [
+            "slowly", 
+            "quickly", 
+            "clearly", 
+            "fast"
+        ], 
+        [
+            "discover", 
+            "copy", 
+            "write", 
+            "find"
+        ], 
+        [
+            "books", 
+            "exams", 
+            "homework", 
+            "subjects"
+        ], 
+        [
+            "make", 
+            "sit", 
+            "take", 
+            "go"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "A", 
+        "A", 
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "C"
+    ], 
+    "source": "middle2639"
+}

@@ -1,0 +1,64 @@
+{
+    "article": "One day a little girl came into a shop. She  had  five dollars and wanted to  _  some pears. She said to the shopkeeper, \"Please give me some pears for five dollars.\" When the shopkeeper gave her the pears, the girl  _  them. Then she said, \"Last week my mother bought pears here for five dollars, and she got  _  than I got for the same money. Why did you give me so few?\"\"Don't ask questions, my girl. I have  no  time for questions.\" \"Excuse me, sir,\" said the little girl, \"but...\"\"That's all right, my girl,\" said the shopkeeper. \"Don't you understand? You get fewer pears, and then you will  _  less fruit.\" \"All right, \" said the girl and she put  _  dollars on the counter . She was going to leave the shop when she heard the words, \"Come back. You  _  give me five dollars.\" \"That's all right!\" said the girl, \"Don't you understand? You get  _  dollars, and you will count less  _  \"", 
+    "options": [
+        [
+            "buy", 
+            "sell", 
+            "borrow", 
+            "pick"
+        ], 
+        [
+            "took", 
+            "saw", 
+            "got", 
+            "counted"
+        ], 
+        [
+            "better", 
+            "bigger", 
+            "more", 
+            "nicer"
+        ], 
+        [
+            "bring", 
+            "carry", 
+            "buy", 
+            "sell"
+        ], 
+        [
+            "four", 
+            "five", 
+            "six", 
+            "no"
+        ], 
+        [
+            "need", 
+            "must", 
+            "ought", 
+            "may"
+        ], 
+        [
+            "more", 
+            "less", 
+            "few", 
+            "fewer"
+        ], 
+        [
+            "pears", 
+            "fruit", 
+            "dollars", 
+            "money"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "C", 
+        "B", 
+        "A", 
+        "B", 
+        "D", 
+        "D"
+    ], 
+    "source": "middle776"
+}

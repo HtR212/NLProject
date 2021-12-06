@@ -1,0 +1,64 @@
+{
+    "article": "Mr Jenkins lives in a town. He works in a museum. There are a lot of old wonderful things in it. He likes his work and _ goes to work on time.\nOne day he leaves his office at twelve. He goes to eat something. As soon as he goes out of the gate,he meets an old friend of _ . Of course they are very _ .His friend asks him for dinner. In a restaurant they _ a lot. Then his friend says,\"Perhaps you're drunk now. Let me help you to your _ .\"\n\"No,no,\"says Mr Jenkins. \"My office is only two minutes' walk. I can go there myself.\"\nWhen his friend leaves,he feels _ to stand. He is afraid to be late and stops a taxi. When he gets on,the driver asks,\"Where are you going,sir?\"\n\" _ the Park Street.\"\n\"Oh! Sorry ,sir,\"the driver says in a hurry. \"It's just the Park Street.\"\n\"OK!\" Mr Jenkins says and gets off. He brings out some money and throws it to the driver. He _ ,\"But don't drive so fast next time!\"", 
+    "options": [
+        [
+            "always", 
+            "never", 
+            "sometimes", 
+            "seldom"
+        ], 
+        [
+            "he", 
+            "him", 
+            "his", 
+            "himself"
+        ], 
+        [
+            "happy", 
+            "angry", 
+            "sorry", 
+            "surprised"
+        ], 
+        [
+            "take", 
+            "get", 
+            "drink", 
+            "buy"
+        ], 
+        [
+            "home", 
+            "house", 
+            "factory", 
+            "office"
+        ], 
+        [
+            "difficult", 
+            "easy", 
+            "happy", 
+            "afraid"
+        ], 
+        [
+            "From", 
+            "To", 
+            "Over", 
+            "Up"
+        ], 
+        [
+            "asks", 
+            "say", 
+            "tells", 
+            "shouts"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "A", 
+        "C", 
+        "D", 
+        "A", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle1411"
+}

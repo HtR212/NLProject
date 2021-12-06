@@ -1,0 +1,57 @@
+{
+    "article": "My brother Jerry works at a clothes shop. He works very  _  hours every day. He usually  gets up  at six in the morning. Then he starts to  _  for ten minutes. He thinks running is  _  for his health. After that, he plays  badminton  for fifteen minutes. Then he has breakfast. After breakfast, he takes a bus to work. He is very busy. He has no time  to go  home for lunch, so he eats  _  at the shop. In the afternoon, he  _  for four hours. He has dinner at home. On weekends, he is not so  _  . He usually goes to see a film  _  me.", 
+    "options": [
+        [
+            "long", 
+            "big", 
+            "short", 
+            "small"
+        ], 
+        [
+            "speak", 
+            "swim", 
+            "sing", 
+            "run"
+        ], 
+        [
+            "happy", 
+            "good", 
+            "fun", 
+            "difficult"
+        ], 
+        [
+            "them", 
+            "him", 
+            "it", 
+            "us"
+        ], 
+        [
+            "stands", 
+            "waits", 
+            "works", 
+            "buys"
+        ], 
+        [
+            "busy", 
+            "free", 
+            "happy", 
+            "tired"
+        ], 
+        [
+            "at", 
+            "with", 
+            "for", 
+            "to"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "B", 
+        "C", 
+        "C", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle2010"
+}

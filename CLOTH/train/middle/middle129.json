@@ -1,0 +1,71 @@
+{
+    "article": "Welcome to Wenzhou  _  , everyone! Let me  _  you many different animals today. Listen! Many  _  are singing in the tree. Can you see some monkeys? They are clever and like  _  bananas. Look! There are many koalas. They  come  from Australia. They are quiet,  _  and cute. Children like them. Oh, there's a tiger in the cage  _  the tree. It eats a lot of  _  every day. I like pandas best  _  they live only in China. Animals are our friends, we should take care of them. I'm  _  you'll have a good time here.", 
+    "options": [
+        [
+            "hospital", 
+            "zoo", 
+            "farm", 
+            "school"
+        ], 
+        [
+            "talk", 
+            "say", 
+            "tell", 
+            "speak"
+        ], 
+        [
+            "giraffes", 
+            "lions", 
+            "chicken", 
+            "birds"
+        ], 
+        [
+            "eat", 
+            "eats", 
+            "eatting", 
+            "eating"
+        ], 
+        [
+            "friendly", 
+            "scary", 
+            "dangerous", 
+            "bored"
+        ], 
+        [
+            "under", 
+            "on", 
+            "in", 
+            "/"
+        ], 
+        [
+            "grass", 
+            "leaves", 
+            "meat", 
+            "bamboos"
+        ], 
+        [
+            "and", 
+            "because", 
+            "so", 
+            "but"
+        ], 
+        [
+            "sorry", 
+            "ready", 
+            "sure", 
+            "good"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "D", 
+        "D", 
+        "A", 
+        "C", 
+        "C", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle129"
+}

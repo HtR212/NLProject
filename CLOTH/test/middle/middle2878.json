@@ -1,0 +1,71 @@
+{
+    "article": "Hello!  _  name is John. I'm 13 years old. I'm  _  Class Two, Grade One. I have a friend at school.  _  is a boy. His name is Dave. His telephone number  _  86123489. I often go  _  with him in the swimming pool. Oh, this is his  _ . It's  _  the floor. I like taking photos  . Because it makes me happy. Look, here is a photo of my family. This is my mother and  _  is my father. I love them very much and  _  love me, too.", 
+    "options": [
+        [
+            "I", 
+            "My", 
+            "His", 
+            "Her"
+        ], 
+        [
+            "in", 
+            "at", 
+            "on", 
+            "to"
+        ], 
+        [
+            "She", 
+            "It", 
+            "I", 
+            "He"
+        ], 
+        [
+            "be", 
+            "am", 
+            "is", 
+            "are"
+        ], 
+        [
+            "shopping", 
+            "fishing", 
+            "swimming", 
+            "running"
+        ], 
+        [
+            "shoes", 
+            "name", 
+            "week", 
+            "pencil"
+        ], 
+        [
+            "near", 
+            "on", 
+            "under", 
+            "in"
+        ], 
+        [
+            "this", 
+            "she", 
+            "it", 
+            "they"
+        ], 
+        [
+            "them", 
+            "they", 
+            "we", 
+            "he"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "D", 
+        "C", 
+        "C", 
+        "D", 
+        "B", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle2878"
+}

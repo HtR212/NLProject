@@ -1,0 +1,64 @@
+{
+    "article": "Xiao Lin has a good friend.  _  name is Lucy. She's  _  the USA. She's American. Xiao Lin and Lucy are in  _  same class. They go to school five days a  _  .They stay  _  home on Saturday and Sunday. Lucy  likes  China and Chinese food. Her favorite food is rice. At school they play soccer  _  class. Xiao Lin eats  _  She often has tomatoes, rice, chicken and fruit for dinner.  _  Lucy doesn't like them. She often has ice- cream, bananas and  hamburgers  .", 
+    "options": [
+        [
+            "She", 
+            "Her", 
+            "Hers", 
+            "She's"
+        ], 
+        [
+            "from", 
+            "to", 
+            "of", 
+            "for"
+        ], 
+        [
+            "a", 
+            "an", 
+            "the", 
+            "/"
+        ], 
+        [
+            "month", 
+            "year", 
+            "hour", 
+            "week"
+        ], 
+        [
+            "in", 
+            "on", 
+            "at", 
+            "of"
+        ], 
+        [
+            "at", 
+            "for", 
+            "after", 
+            "in"
+        ], 
+        [
+            "good", 
+            "well", 
+            "bad", 
+            "healthy"
+        ], 
+        [
+            "But", 
+            "And", 
+            "So", 
+            "Or"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "C", 
+        "D", 
+        "C", 
+        "C", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle1702"
+}

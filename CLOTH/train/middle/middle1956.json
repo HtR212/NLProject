@@ -1,0 +1,71 @@
+{
+    "article": "(10,l,10) Time passes swiftly and never returns. Our three years of junior high school life will come to an end soon. We'll have to say  _  to each other-- to our best friends and to our beloved teachers. I have all the  _  and sad memories of the three years in my heart. Three years ago, three boys came to a school  _  different places. They were my best friends. At that time, we were young and shy with each other. However, as time went by, we became  closer and closer  . We studied hard together, played sports together and  _  out with each other. When we failed exams, we  _  each other. We faced challenges together, and solved  _  together. We shared happiness and sadness, and grew up together. Now, as best friends, we have to face the future separately .  _  can change this fact. I believe that,  _  we may end up in different high schools, our friendship will last. I have a  _  for my friends. I hope they will get good grades in the high school entrance exams.", 
+    "options": [
+        [
+            "welcome", 
+            "hello", 
+            "goodbye", 
+            "sorry"
+        ], 
+        [
+            "happy", 
+            "surprising", 
+            "lovely", 
+            "lively"
+        ], 
+        [
+            "around", 
+            "in", 
+            "outside", 
+            "from"
+        ], 
+        [
+            "ran", 
+            "hung", 
+            "took", 
+            "handed"
+        ], 
+        [
+            "greeted", 
+            "joined", 
+            "communicated", 
+            "encouraged"
+        ], 
+        [
+            "questions", 
+            "ways", 
+            "problems", 
+            "answers"
+        ], 
+        [
+            "Nothing", 
+            "Anything", 
+            "Everything", 
+            "Something"
+        ], 
+        [
+            "since", 
+            "after", 
+            "although", 
+            "if"
+        ], 
+        [
+            "hope", 
+            "wish", 
+            "idea", 
+            "dream"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "D", 
+        "B", 
+        "D", 
+        "C", 
+        "A", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle1956"
+}

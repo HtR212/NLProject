@@ -1,0 +1,71 @@
+{
+    "article": "I have a good friend, his name is Jack Green. His parents often call him Jack. And he is an _ boy. He is from New York. He is thirteen. There are four _ in his family, father, mother, Jack and his _ . His father is an English teacher in China. He can only speak a little Chinese, so he goes to a Chinese class every Saturday. He says _ is very important in the world. Everyone in China learns it very hard. He says his students are very _ .His mother is a nurse, she _ very hard, too. Lucy is his sister. She and Jack are in the _ school. They like it very much. Jack like eating Chinese _ very much. He often eats dumplings near our school. He is _ at playing basketall, too. We often play it together.", 
+    "options": [
+        [
+            "American", 
+            "Japanese", 
+            "Chinese", 
+            "Australian"
+        ], 
+        [
+            "rooms", 
+            "people", 
+            "students", 
+            "books"
+        ], 
+        [
+            "sister", 
+            "brother", 
+            "grandma", 
+            "grandpa"
+        ], 
+        [
+            "drawing", 
+            "art", 
+            "English", 
+            "PE"
+        ], 
+        [
+            "nice", 
+            "bad", 
+            "new", 
+            "tired"
+        ], 
+        [
+            "works", 
+            "drives", 
+            "draws", 
+            "teaches"
+        ], 
+        [
+            "two", 
+            "three", 
+            "different", 
+            "same"
+        ], 
+        [
+            "food", 
+            "drink", 
+            "fruit", 
+            "vegetables"
+        ], 
+        [
+            "good", 
+            "healthy", 
+            "happy", 
+            "nice"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "A", 
+        "C", 
+        "A", 
+        "A", 
+        "D", 
+        "A", 
+        "A"
+    ], 
+    "source": "middle915"
+}

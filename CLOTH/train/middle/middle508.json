@@ -1,0 +1,71 @@
+{
+    "article": "Look at the picture. It's a nice  _  . In the picture you can see a teacher's  _  on his desk. It's a Chinese book. There are fifty desks and fifty chairs in the room. There is also a big blackboard. You can see a girl and  _  boys. The girl's  _  is Julia. She is thirteen. The boy with the football is Tom. He likes playing  _  . The other boy is Tony. They  _  the same coats and they are the same age. They look the same. I  _  they are twins. Tom is a  _  boy. A book is in his hand. You  can't  see the teacher.  _  is the teacher? He is taking the picture.", 
+    "options": [
+        [
+            "house", 
+            "station", 
+            "classroom", 
+            "shop"
+        ], 
+        [
+            "backpack", 
+            "basketball", 
+            "book", 
+            "hat"
+        ], 
+        [
+            "one", 
+            "two", 
+            "three", 
+            "four"
+        ], 
+        [
+            "name", 
+            "age", 
+            "brother", 
+            "notebook"
+        ], 
+        [
+            "basketball", 
+            "chess", 
+            "football", 
+            "cards"
+        ], 
+        [
+            "are", 
+            "wear", 
+            "lose", 
+            "is"
+        ], 
+        [
+            "think", 
+            "see", 
+            "look", 
+            "meet"
+        ], 
+        [
+            "dear", 
+            "first", 
+            "lost", 
+            "good"
+        ], 
+        [
+            "What", 
+            "How", 
+            "Where", 
+            "When"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "C", 
+        "B", 
+        "A", 
+        "C", 
+        "B", 
+        "A", 
+        "D", 
+        "C"
+    ], 
+    "source": "middle508"
+}

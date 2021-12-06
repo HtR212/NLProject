@@ -1,0 +1,43 @@
+{
+    "article": "One day, a Chinese student goes to study English in England. His family name is Sun. It is the  _ as the word \"sun\". England is a country with bad weather . It is often cloudy or misty  ,and it rains often, so the days there _ get much sunshine all the year. When the Chinese student gets to London, a tall _ policeman with a long face opens his passport   to check   it. The policeman finds the Chinese name \"Sun\" in the passport. He  thinks it is pronounced   just like the _ word \"sun\". So he says to the Chinese student, \"I see your name is Sun, you're wanted here. You bring sunshine _ England, so we don't want you to go away .\" They smile.", 
+    "options": [
+        [
+            "same", 
+            "different", 
+            "like", 
+            "as"
+        ], 
+        [
+            "don't", 
+            "doesn't", 
+            "also", 
+            "often"
+        ], 
+        [
+            "Chinese", 
+            "China", 
+            "English", 
+            "Japanese"
+        ], 
+        [
+            "English", 
+            "Chinese", 
+            "Japan", 
+            "French"
+        ], 
+        [
+            "at", 
+            "of", 
+            "to", 
+            "for"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "A", 
+        "C", 
+        "A", 
+        "C"
+    ], 
+    "source": "middle2263"
+}

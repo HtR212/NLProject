@@ -1,0 +1,71 @@
+{
+    "article": "My name is Santo Smith.My  _  name is Yu Feng. I come  _  Canada. But now my mom and I  _  in China. My mom is  _  English teacher in a junior high school. I`m a student. But my mom and I are in  different  schools. I  _  a good friend at school.  _  name is Wang Qiang. He is a Chinese boy. He is tall and strong. He likes English very much. He often  _  English with me. And he is a good boy. He often helps  _  and my classmates. We all like him. Oh, can you  _  the boy in white over there ? Do you think he is cool?.", 
+    "options": [
+        [
+            "China", 
+            "Chinese", 
+            "America", 
+            "England"
+        ], 
+        [
+            "from", 
+            "in", 
+            "to", 
+            "for"
+        ], 
+        [
+            "am", 
+            "is", 
+            "are", 
+            "be"
+        ], 
+        [
+            "a", 
+            "an", 
+            "the", 
+            "/"
+        ], 
+        [
+            "am", 
+            "look", 
+            "think", 
+            "have"
+        ], 
+        [
+            "His", 
+            "He`s", 
+            "Her", 
+            "She`s"
+        ], 
+        [
+            "looks", 
+            "speaks", 
+            "wants", 
+            "sees"
+        ], 
+        [
+            "me", 
+            "I", 
+            "my", 
+            "mine"
+        ], 
+        [
+            "look", 
+            "know", 
+            "see", 
+            "welcome"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "C", 
+        "B", 
+        "D", 
+        "A", 
+        "B", 
+        "A", 
+        "C"
+    ], 
+    "source": "middle2940"
+}

@@ -1,0 +1,64 @@
+{
+    "article": "Dear John,\nHow are you? Nice to meet  you. From your letter I know a lot about you and your school. Now let me _ something about me and my school.\nI am thirteen years old. I am _ Class Two, Grade One. My father is a teacher. He is my _ English teacher. My mother is a doctor. I have a sister.   she and I  are in the same school. We can sing  many songs _ English.\nThis is my classroom. _ have a class photo on the wall. But can you see _ photo? It's at the door. In the classroom _ our desks and chairs. Mrs. Green is our head teacher. _ is very kind .\nPlease come and have a look at our school if you are free.\nMillie", 
+    "options": [
+        [
+            "see", 
+            "say", 
+            "speak", 
+            "have"
+        ], 
+        [
+            "at", 
+            "for", 
+            "in", 
+            "on"
+        ], 
+        [
+            "a", 
+            "/", 
+            "the", 
+            "an"
+        ], 
+        [
+            "for", 
+            "in", 
+            "on", 
+            "to"
+        ], 
+        [
+            "They", 
+            "We", 
+            "It", 
+            "His"
+        ], 
+        [
+            "a", 
+            "/", 
+            "the", 
+            "an"
+        ], 
+        [
+            "am", 
+            "is", 
+            "are", 
+            "be"
+        ], 
+        [
+            "She", 
+            "Her", 
+            "He", 
+            "Mine"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "B", 
+        "B", 
+        "B", 
+        "C", 
+        "C", 
+        "A"
+    ], 
+    "source": "middle2048"
+}

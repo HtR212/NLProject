@@ -1,0 +1,71 @@
+{
+    "article": "Would you like to be volunteers? Many people think volunteering is not _ . However, when I became a  _ , I thought it was great fun.\nDuring the summer camp, there were many _  joining in. They wanted to _    time with their kids and hoped to take a rest from the busy life.\nYou could see these parents  _  from the time they arrived. They worked hard in the camp _  doing the dishes, taking kids to see the doctor, buying things, cleaning around the rooms and taking  _  in all kinds of activities. They were full of energy   to be _  to do so much work. At the end of the camp, it was so _  to say goodbye to each other. I really thanked them. They were always giving but never  asking for  anything in return  . Thank you, summer camp parents.", 
+    "options": [
+        [
+            "easy", 
+            "hard", 
+            "good", 
+            "nice"
+        ], 
+        [
+            "volunteer", 
+            "teacher", 
+            "doctor", 
+            "policeman"
+        ], 
+        [
+            "workers", 
+            "parents", 
+            "students", 
+            "doctors"
+        ], 
+        [
+            "get", 
+            "take", 
+            "give", 
+            "spend"
+        ], 
+        [
+            "somewhere", 
+            "anywhere", 
+            "everywhere", 
+            "nowhere"
+        ], 
+        [
+            "in", 
+            "by", 
+            "with", 
+            "at"
+        ], 
+        [
+            "place", 
+            "photos", 
+            "care", 
+            "part"
+        ], 
+        [
+            "tired", 
+            "sad", 
+            "able", 
+            "bored"
+        ], 
+        [
+            "difficult", 
+            "different", 
+            "difference", 
+            "difficulty"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "A", 
+        "B", 
+        "D", 
+        "C", 
+        "B", 
+        "D", 
+        "C", 
+        "A"
+    ], 
+    "source": "middle1353"
+}

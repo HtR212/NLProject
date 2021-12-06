@@ -1,0 +1,71 @@
+{
+    "article": "I'm a boy. _ name is Tom. I  _ in Canada .  _ is my school . I have _  friends in the school, Zhang Li and Ma Lin.  Zhang Li _ a girl and Ma Lin is a  _ . Look, here is my  classroom . My teacher is in it. His _ is Liu Bin. _ is a nice teacher. We can _ him at 2784444 for help.", 
+    "options": [
+        [
+            "your", 
+            "His", 
+            "Her", 
+            "My"
+        ], 
+        [
+            "am", 
+            "/", 
+            "is", 
+            "are"
+        ], 
+        [
+            "He", 
+            "This", 
+            "She", 
+            "You"
+        ], 
+        [
+            "one", 
+            "two", 
+            "three", 
+            "four"
+        ], 
+        [
+            "have", 
+            "am", 
+            "is", 
+            "are"
+        ], 
+        [
+            "boy", 
+            "girl", 
+            "cat", 
+            "window"
+        ], 
+        [
+            "name", 
+            "boy", 
+            "girl", 
+            "cat"
+        ], 
+        [
+            "It", 
+            "He", 
+            "She", 
+            "I"
+        ], 
+        [
+            "call", 
+            "look", 
+            "ball", 
+            "ask"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "A", 
+        "B", 
+        "B", 
+        "C", 
+        "A", 
+        "A", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle1701"
+}

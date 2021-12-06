@@ -1,0 +1,71 @@
+{
+    "article": "There is a zoo in our city. My parents often take me there on _ . I like animals. I have a lot of   toy animals in my room. In the _   , I can see the tigers, elephants, monkeys, pandas, bears, snakes, and many other  _  . Some animals are friendly, but some are not. Tigers, bears and some snakes are _  , that is why they have to stay in _  . But I do not think it is good for animals to stay in cages . They should be free. The animals in cages can't be _  . I think the most interesting animals in the zoo are the dolphins. I like _   them swim and jump. They swim so fast and jump so high. They can play with a ball. They can stand up and walk _   water! They are very _  to people. If you fall into water and can't swim, they may come to help you.", 
+    "options": [
+        [
+            "summer", 
+            "month", 
+            "weekday", 
+            "weekends"
+        ], 
+        [
+            "zoo", 
+            "park", 
+            "bank", 
+            "library"
+        ], 
+        [
+            "tigers", 
+            "people", 
+            "friends", 
+            "animals"
+        ], 
+        [
+            "dangerous", 
+            "friendly", 
+            "interesting", 
+            "ugly"
+        ], 
+        [
+            "houses", 
+            "buildings", 
+            "cages", 
+            "ponds"
+        ], 
+        [
+            "angry", 
+            "happy", 
+            "friendly", 
+            "boring"
+        ], 
+        [
+            "looking", 
+            "seeing", 
+            "watching", 
+            "hearing"
+        ], 
+        [
+            "in", 
+            "at", 
+            "with", 
+            "on"
+        ], 
+        [
+            "friendly", 
+            "interesting", 
+            "warm", 
+            "cold"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "A", 
+        "D", 
+        "A", 
+        "C", 
+        "B", 
+        "C", 
+        "A", 
+        "A"
+    ], 
+    "source": "middle1507"
+}

@@ -1,0 +1,64 @@
+{
+    "article": "Dear Lily,\nThank you   _  your letter. I read it after school today, and now let me  tell you something about my hobbies . I like swimming I swim every day   _  summer. You know summer in England is _  hot. I also like reading. I read all kinds of books. I read two _ three books a week. I enjoy writing, too. I want to be a writer in the future . I also like to play  _ my friend, Mickey. He is tall and needs a lot of exercises. So on _ we often go for a long walk around the lake near my house. Mickey likes jumping into the water to swim. He is a good _ Well, these are my hobbies. Please write to me and tell me about   _ .", 
+    "options": [
+        [
+            "to", 
+            "for", 
+            "about", 
+            "in"
+        ], 
+        [
+            "at", 
+            "on", 
+            "in", 
+            "for"
+        ], 
+        [
+            "very", 
+            "much", 
+            "many", 
+            "fine"
+        ], 
+        [
+            "and", 
+            "or", 
+            "about", 
+            "but"
+        ], 
+        [
+            "on", 
+            "with", 
+            "and", 
+            "for"
+        ], 
+        [
+            "weekends", 
+            "weekdays", 
+            "week", 
+            "Monday"
+        ], 
+        [
+            "teacher", 
+            "worker", 
+            "doctor", 
+            "swimmer"
+        ], 
+        [
+            "you", 
+            "yours", 
+            "your", 
+            "his"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "A", 
+        "B", 
+        "B", 
+        "A", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle358"
+}

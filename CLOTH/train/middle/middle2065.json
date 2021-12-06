@@ -1,0 +1,64 @@
+{
+    "article": "Many Americans like to have their vacation in other countries. One day an American _ comes to visit China. This is her first time to China and she _ to make some friends there. She meets a Chinese. This Chinese wants to talk in English with the American. When he sees her, he comes up, says \" _ to her, then he begins his first talk with a person _ an English-speaking country. \"How old are you?\"the Chinese _ . \"I'm  _ . Please don't ask a lady   about her _ .\" answers the woman. The Chinese is surprised. He doesn't know _ . Can you help him?", 
+    "options": [
+        [
+            "man", 
+            "boy", 
+            "woman", 
+            "child"
+        ], 
+        [
+            "want", 
+            "go", 
+            "goes", 
+            "wants"
+        ], 
+        [
+            "OK", 
+            "hello", 
+            "sorry", 
+            "good-bye"
+        ], 
+        [
+            "to", 
+            "at", 
+            "of", 
+            "from"
+        ], 
+        [
+            "asks", 
+            "say", 
+            "talk", 
+            "speaks"
+        ], 
+        [
+            "sure", 
+            "shy", 
+            "happy", 
+            "sorry"
+        ], 
+        [
+            "name", 
+            "age", 
+            "job", 
+            "family"
+        ], 
+        [
+            "how", 
+            "why", 
+            "what", 
+            "Where"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "D", 
+        "B", 
+        "D", 
+        "A", 
+        "D", 
+        "B", 
+        "B"
+    ], 
+    "source": "middle2065"
+}

@@ -1,0 +1,57 @@
+{
+    "article": "Mr. Green  lives in  a small town. He can't speak very  _  . He stammers a lot when he  _  . One day he goes to a shop. He wants to buy a parrot . He  _  the shopkeeper , \"D-do-do you have a p-parrot?\" \"Yes, sir.\" answers the shopkeeper. \"  Here is  a nice green  _  . It knows everything.\" So Mr. Green buys  _  and goes  home  with his bird. But  _  a few days, he  _  it back to the shopkeeper. \"This bird can't t-t-talk. It can only st-t-ammer.\"", 
+    "options": [
+        [
+            "good", 
+            "well", 
+            "nice", 
+            "fine"
+        ], 
+        [
+            "tells", 
+            "talks", 
+            "says", 
+            "speaks"
+        ], 
+        [
+            "says", 
+            "asks", 
+            "answers", 
+            "talks"
+        ], 
+        [
+            "bird", 
+            "cat", 
+            "parrot", 
+            "dog"
+        ], 
+        [
+            "it", 
+            "them", 
+            "one", 
+            "that"
+        ], 
+        [
+            "first", 
+            "later", 
+            "after", 
+            "then"
+        ], 
+        [
+            "makes", 
+            "gives", 
+            "buys", 
+            "borrows"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "B", 
+        "C", 
+        "A", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle116"
+}

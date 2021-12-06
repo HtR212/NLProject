@@ -1,0 +1,71 @@
+{
+    "article": "Hello, boys and girls! My name  _  Frank. I am eleven. This is a  _  of my family. This is my father.  _  name is Dale Brown. He is a teacher in my  school  . He teaches English. And that is mother. She is a  _  , too. Who is this? Oh, he is my  _  --my father's brother. My grandparents  _  in the photo.  _  are in the USA. That is my dog.  _  name is Dick. I love my  _  and I love my dog, too.", 
+    "options": [
+        [
+            "is", 
+            "am", 
+            "are", 
+            "he"
+        ], 
+        [
+            "backpack", 
+            "book", 
+            "photo", 
+            "ring"
+        ], 
+        [
+            "His", 
+            "Her", 
+            "Your", 
+            "He"
+        ], 
+        [
+            "name", 
+            "friend", 
+            "girl", 
+            "teacher"
+        ], 
+        [
+            "brother", 
+            "cousin", 
+            "uncle", 
+            "father"
+        ], 
+        [
+            "are", 
+            "aren't", 
+            "do", 
+            "don't"
+        ], 
+        [
+            "She", 
+            "You", 
+            "They", 
+            "He"
+        ], 
+        [
+            "Its", 
+            "It's", 
+            "He's", 
+            "She's"
+        ], 
+        [
+            "picture", 
+            "mother", 
+            "aunt", 
+            "family"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "A", 
+        "D", 
+        "C", 
+        "B", 
+        "C", 
+        "A", 
+        "D"
+    ], 
+    "source": "middle1396"
+}

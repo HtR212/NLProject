@@ -1,0 +1,36 @@
+{
+    "article": "My name is John Brown. I am a school boy. My school is  far from  my home. Every day I spend a lot of time  getting  there. The  _  is not good, so I can't ride my bike to school. I often take a bus there. It usually  _  me forty minutes to get there  by bus  . I  get up  at seven every morning. I have no time for breakfast at home. I often have something for breakfast on the bus  _  at school. I don't want to  be late for  school. Most students in our school take buses to school. Some students walk to school  _  their homes are not far.  A small number of  the students ride bikes.", 
+    "options": [
+        [
+            "road", 
+            "school", 
+            "bicycle", 
+            "town"
+        ], 
+        [
+            "has", 
+            "spends", 
+            "takes", 
+            "makes"
+        ], 
+        [
+            "and", 
+            "or", 
+            "to", 
+            "but"
+        ], 
+        [
+            "when", 
+            "so", 
+            "although", 
+            "because"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle1599"
+}

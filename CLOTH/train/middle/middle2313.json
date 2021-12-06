@@ -1,0 +1,64 @@
+{
+    "article": "I am a boy. My name is Jim Green. Jim is my _ name and Green is my last name. My birthday is _ June 7th. I have a birthday party every year. My favorite _ is math at school. I like math because it's interesting . I like my math teacher. He is tall and fun . We _ math on Monday and Wednesday. My favorite color is _ . I have some white trousers and T-shirts. My favorite _ is ping-pong. I think it's easy _ me and it's relaxing. I often play it with my classmates after class. Do you like sports? When is your birthday? Can you tell _ ?", 
+    "options": [
+        [
+            "first", 
+            "last", 
+            "second", 
+            "third"
+        ], 
+        [
+            "in", 
+            "at", 
+            "on", 
+            "for"
+        ], 
+        [
+            "food", 
+            "subject", 
+            "color", 
+            "sport"
+        ], 
+        [
+            "play", 
+            "have", 
+            "has", 
+            "plays"
+        ], 
+        [
+            "black", 
+            "red", 
+            "white", 
+            "blue"
+        ], 
+        [
+            "sport", 
+            "Subject", 
+            "clothes", 
+            "fruit"
+        ], 
+        [
+            "with", 
+            "for", 
+            "on", 
+            "to"
+        ], 
+        [
+            "I", 
+            "she", 
+            "he", 
+            "me"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "B", 
+        "B", 
+        "C", 
+        "A", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle2313"
+}

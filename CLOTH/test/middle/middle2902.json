@@ -1,0 +1,43 @@
+{
+    "article": "Ann: Hey, Rose! Let's  go to  a movie. Rose: Hm, I don't know... Ann: Well... let's go to see . It's  a  thriller. Rose: Un, well, I  don't  like thrillers. I don't want to go, but  thanks  . Ann: Ok. Where's James?  _  he want to go? Rose: I don't  _  . Ann: Hi, James.  _  you want to go to a movie? It's . James: Is  it  a comedy? I like comedies  _  action movies. Ann:  _  , it's thriller. James: No, thank you. Let's go to an action movie.", 
+    "options": [
+        [
+            "Is", 
+            "Are", 
+            "Does", 
+            "Those"
+        ], 
+        [
+            "no", 
+            "not", 
+            "now", 
+            "know"
+        ], 
+        [
+            "Is", 
+            "Are", 
+            "Do", 
+            "Does"
+        ], 
+        [
+            "but", 
+            "or", 
+            "and", 
+            "for"
+        ], 
+        [
+            "Not", 
+            "Doesn't", 
+            "No", 
+            "Don't"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "D", 
+        "C", 
+        "C", 
+        "C"
+    ], 
+    "source": "middle2902"
+}

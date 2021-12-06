@@ -1,0 +1,64 @@
+{
+    "article": "Dear Jackie, I am happy to get your letter. Do you want  to know  about my schoollife this week? This week I  _  three English classes.Ilearn some new words. And we also  see  an interesting movie in the class. Its name is Home Alone. I like  _  very much. 1 1ike having PE  _  Mr White is my PE teacher. He is my favorite teacher. He is great  _  , and we all like to play  _  him. In  _  class, he teaches us to play basketball, soccer and ping-pong. This week, our class has a basketball game with Class 5 and we win . I like playing  _  best and I want to be a great basketball player. What about you? Can you  _  me something interesting in your school? Write to me soon. Yours, Emma", 
+    "options": [
+        [
+            "have", 
+            "has", 
+            "leam", 
+            "learns"
+        ], 
+        [
+            "him", 
+            "it's", 
+            "them", 
+            "it"
+        ], 
+        [
+            "because", 
+            "so", 
+            "of", 
+            "but"
+        ], 
+        [
+            "boring", 
+            "sad", 
+            "fun", 
+            "cool"
+        ], 
+        [
+            "with", 
+            "and", 
+            "of", 
+            "for"
+        ], 
+        [
+            "her", 
+            "he", 
+            "his", 
+            "him"
+        ], 
+        [
+            "soccer", 
+            "basketball", 
+            "ping-pong", 
+            "tennis"
+        ], 
+        [
+            "tell", 
+            "speak", 
+            "call", 
+            "ask"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "A", 
+        "C", 
+        "A", 
+        "C", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle700"
+}

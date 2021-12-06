@@ -1,0 +1,50 @@
+{
+    "article": "Ava was ill. She went to see a doctor. The doctor asked her to  put out  her tongue , and then he said,\"OK. You can put your tongue back now. There's  _  wrong with you, but I'm afraid you have a problem, you never take  _  .\" \"But, doctor,\"Ava said,\"I don't think so.\" \"Don't  _  me what you think,\"the doctor said,\"I see a lot of people  _  you. None of them get any exercise. They sit in offices all day and in front of the TV in the evening. You must walk quickly for at least 20 minutes a day.\" \"Doctor, you don't understand.\"Ava said,\"I take enough exercise every day. \" \"I don't want to  hear  any excuses,\" the doctor said, \"You must find time  _  exercise. If you don't, you will get  _  and have health problems.\" \"But I walk every day.\"Ava said. \"Oh, yes, and I know what kind of walking that is. You walk  a few  meters to the bus stop from your house, from the bus stop to your office, and from your office to your dining-room for lunch and back. That's not a real walk. I'm talking about a walk by the lake or in the park for 20 minutes every day. \" \"Would you please  listen to  me, doctor?\"Ava said,\"I'm a postwoman. I walk for nearly seven hours every day.\" For a moment the doctor was silent, then he said,\"Can I see your tongue again?\"", 
+    "options": [
+        [
+            "something", 
+            "nothing", 
+            "some", 
+            "anything"
+        ], 
+        [
+            "exercises", 
+            "medicine", 
+            "medicines", 
+            "exercise"
+        ], 
+        [
+            "tell", 
+            "say", 
+            "ask", 
+            "speak"
+        ], 
+        [
+            "seem", 
+            "likes", 
+            "like", 
+            "seems"
+        ], 
+        [
+            "about", 
+            "for", 
+            "in", 
+            "with"
+        ], 
+        [
+            "thin", 
+            "strong", 
+            "fat", 
+            "healthy"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "A", 
+        "C", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle98"
+}

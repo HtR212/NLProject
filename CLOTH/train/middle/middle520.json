@@ -1,0 +1,57 @@
+{
+    "article": "Miss Wang is twenty-three years  _  . She likes children and her  _  work. From Monday to Friday she stays at  _  and gives the children classes. She has much work  to do  , but she often plays sports  _  her students after school. The children like  _  very much.  _  Saturday she drives her car to her father's house and  stays  with her father and mother. Sometimes she goes to see her friends on Sunday. She drives back  _  school on Monday morning. She  likes  singing and swimming. She's a nice girl.", 
+    "options": [
+        [
+            "long", 
+            "short", 
+            "old", 
+            "tall"
+        ], 
+        [
+            "cleaning", 
+            "teaching", 
+            "cooking", 
+            "fishing"
+        ], 
+        [
+            "hotel", 
+            "home", 
+            "school", 
+            "bank"
+        ], 
+        [
+            "and", 
+            "to", 
+            "of", 
+            "with"
+        ], 
+        [
+            "her", 
+            "she", 
+            "he", 
+            "him"
+        ], 
+        [
+            "In", 
+            "On", 
+            "At", 
+            "For"
+        ], 
+        [
+            "from", 
+            "on", 
+            "in", 
+            "to"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "C", 
+        "D", 
+        "A", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle520"
+}

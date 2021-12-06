@@ -1,0 +1,71 @@
+{
+    "article": "Jack is my good friend. We are in the same _ and we're in the same class, too. He is twelve years old, and I'm thirteen years old. His parents are both teachers in a middle school.\nJack is a good _ . In the school, he studies very hard. His _ is very good. He often helps other students with their English. Our teacher likes him _ we like him, too. After school, we play football and basketball sometimes.\nEvery day, he gets u p early in the morning. Then he reads English for thirty minutes. After breakfast, we go to school together by bus. In the evening, he does his _ at home. Then he often _ football games on TV. On Sundays, he goes out to play with his parents. _ are in a park and do sports there. Sometimes my father also takes me to the _ on weekends. We can meet them and then we do sports and play _ together. We are happy.", 
+    "options": [
+        [
+            "school", 
+            "family", 
+            "city", 
+            "room"
+        ], 
+        [
+            "teacher", 
+            "student", 
+            "worker", 
+            "doctor"
+        ], 
+        [
+            "maths", 
+            "Chinese", 
+            "history", 
+            "English"
+        ], 
+        [
+            "but", 
+            "and", 
+            "so", 
+            "or"
+        ], 
+        [
+            "housework", 
+            "homework", 
+            "study", 
+            "learn"
+        ], 
+        [
+            "plays", 
+            "listens", 
+            "watches", 
+            "buys"
+        ], 
+        [
+            "We", 
+            "They", 
+            "You", 
+            "Them"
+        ], 
+        [
+            "school", 
+            "farm", 
+            "factory", 
+            "park"
+        ], 
+        [
+            "games", 
+            "songs", 
+            "lessons", 
+            "classes"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "D", 
+        "B", 
+        "B", 
+        "C", 
+        "B", 
+        "D", 
+        "A"
+    ], 
+    "source": "middle2244"
+}

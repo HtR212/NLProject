@@ -1,0 +1,57 @@
+{
+    "article": "Most parents, I suppose, have had the experience of reading a bedtime story to their children. And they must have realized how difficult it is to write a _ children's book. On the one hand, the writer has aimed   too high so that children can't follow what is in his (or more often, her) story. On the other hand, the stroy seems to be talking   _  the adults instead of children.\nThe best children's books are  _ very difficult nor very simple, and meet the needs of the child who hears the story and the adult who   _ it. Sadly, however, there are in fact  few  books like this, so the problem of finding the right bedtime story is not easy to solve. This may be why many of the books considered as works of children's literature were in fact written for adults. \"Alice in Wonderland\" is perhaps one of the examples of this.\nChildren _ often show the worst possible interest in literature. Just leave a child in a bookshop or a _ and he would like to choose the books written in a different way, or just take a look at the most children's cartoons, full of the stories and jokes which are not the same as things we think.\nPerhaps we parents should stop _ to get children into accepting our taste in books we read. After all children and adults are so different that we parents should not expect that they will enjoy the same books. So I suppose we'll just have to think further and talk about more when it comes to the bedtime story.", 
+    "options": [
+        [
+            "short", 
+            "long", 
+            "good", 
+            "bad"
+        ], 
+        [
+            "in", 
+            "to", 
+            "on", 
+            "around"
+        ], 
+        [
+            "both", 
+            "very", 
+            "either", 
+            "neither"
+        ], 
+        [
+            "hears", 
+            "reads", 
+            "understands", 
+            "buys"
+        ], 
+        [
+            "them", 
+            "their", 
+            "themselves", 
+            "theirs"
+        ], 
+        [
+            "school", 
+            "home", 
+            "office", 
+            "library"
+        ], 
+        [
+            "going", 
+            "trying", 
+            "liking", 
+            "doing"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "D", 
+        "B", 
+        "C", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle505"
+}

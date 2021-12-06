@@ -1,0 +1,71 @@
+{
+    "article": "I was flying to New York at night. Suddenly, a storm broke and the plane began to be tossed around.\nWhen I looked _ the plane, I could see that nearly all the passengers were worried and _ The future seemed terrible and many were wondering if they would make it through the storm.\nThen I _ saw a little girl. It seemed that the storm meant _ to her. She sat on her seat reading a book. Sometimes she closed her eyes, then she would read again, with no _ or fear in her eyes. When the other passengers were scared half to death, that child was completely _ . I could not believe my eyes.\nWhen the plane finally reached New York, I was not surprised to _ that all the passengers were hurrying to come out. I stopped and spoke to the girl for such a long time. I asked _ she had not been afraid.\nThe child replied,\" My daddy is the _ , and he is taking me home.", 
+    "options": [
+        [
+            "at", 
+            "around", 
+            "up", 
+            "into"
+        ], 
+        [
+            "afraid", 
+            "shy", 
+            "happy", 
+            "friendly"
+        ], 
+        [
+            "probably", 
+            "luckily", 
+            "suddenly", 
+            "certainly"
+        ], 
+        [
+            "something", 
+            "anything", 
+            "everything", 
+            "nothing"
+        ], 
+        [
+            "pride", 
+            "worry", 
+            "anger", 
+            "regret"
+        ], 
+        [
+            "calm", 
+            "nervous", 
+            "active", 
+            "tired"
+        ], 
+        [
+            "say", 
+            "hear", 
+            "find", 
+            "think"
+        ], 
+        [
+            "whether", 
+            "how", 
+            "when", 
+            "why"
+        ], 
+        [
+            "guard", 
+            "driver", 
+            "pilot", 
+            "traveler"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "C", 
+        "D", 
+        "B", 
+        "A", 
+        "C", 
+        "D", 
+        "C"
+    ], 
+    "source": "middle290"
+}

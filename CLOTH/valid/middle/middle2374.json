@@ -1,0 +1,71 @@
+{
+    "article": "Have you ever offered a helping hand to those who are in trouble? One day, two  _  were walking along the road to school when they saw an old woman carrying a large basket of pears. They thought the woman looked very  _  . They went up to her and said, \"Are you going to town? If you are, we will help carry your basket.\" \"Thank you,\"  _  the woman, \"you are very kind. You see I'm weak and ill.\" Then she told them that she was now going to market to  _  the pears which grew on the only tree in her little garden. \"We are all going to the  _  .\" said the boys. \"Let us have the basket.\" And they took hold of it, one each side. They walked  _  with the heavy basket, but happily. The other day, I saw a little girl stop and  pick up  a piece of orange peel , which she threw into the dustbin , \"I wish  _  would throw that on the sidewalk,\" said she. \"Someone may step on it and fall.\" Perhaps some may say that these are not  _  things. That is right. But such a little thing shows that you have a thoughtful mind and a feeling heart. We must not wait for the  _  to do great things. We must begin with little things of love.", 
+    "options": [
+        [
+            "boys", 
+            "girls", 
+            "men", 
+            "women"
+        ], 
+        [
+            "bored", 
+            "tired", 
+            "pleased", 
+            "surprised"
+        ], 
+        [
+            "asked", 
+            "told", 
+            "replied", 
+            "spoke"
+        ], 
+        [
+            "bring", 
+            "buy", 
+            "take", 
+            "sell"
+        ], 
+        [
+            "town", 
+            "market", 
+            "garden", 
+            "school"
+        ], 
+        [
+            "weakly", 
+            "quickly", 
+            "slowly", 
+            "quietly"
+        ], 
+        [
+            "nobody", 
+            "everybody", 
+            "somebody", 
+            "anybody"
+        ], 
+        [
+            "little", 
+            "good", 
+            "great", 
+            "bad"
+        ], 
+        [
+            "pay", 
+            "time", 
+            "advice", 
+            "love"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "A", 
+        "C", 
+        "A", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle2374"
+}

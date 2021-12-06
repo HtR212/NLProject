@@ -1,0 +1,57 @@
+{
+    "article": "Dear Kitty, I am sorry that I did not write to you earlier because I have been very  _  . I was helping with a charity show to raise money  _  Project Green Hope. A lot of work needed to be finished, so I did not have much free time. I felt very happy when I was chosen to be the host. It was exciting,  _  I was also very nervous. I knew that lots of people would watch the show and that many famous pop  _  would come, too. We started working on the show half a year ago so that we could do everything on time. My job was to introduce each star and I also had many other duties. We practiced a lot before the show. I had to remember to  look at  the right camera at the right time.  At first  , I thought I would never be able to remember all the words. Slowly, everything became  easier  . The big day came very quickly, and I was so excited. Twenty minutes before the big event, we opened the doors and many people came into the theatre to watch the show. The fans of the pop stars were making a noise, so I had to speak  _  . Everything seemed to happen so fast. A lot of  _  has been given to Project Green Hope. I hope more events like this will be organized to raise money for charity and I think more people should be  _  to take part in them. See you soon. Best wishes! Ricky", 
+    "options": [
+        [
+            "busy", 
+            "free", 
+            "nervous", 
+            "excited"
+        ], 
+        [
+            "except", 
+            "for", 
+            "from", 
+            "towards"
+        ], 
+        [
+            "so", 
+            "or", 
+            "and", 
+            "but"
+        ], 
+        [
+            "stars", 
+            "doctors", 
+            "teachers", 
+            "students"
+        ], 
+        [
+            "loudly", 
+            "quickly", 
+            "quietly", 
+            "happily"
+        ], 
+        [
+            "food", 
+            "paper", 
+            "money", 
+            "medicine"
+        ], 
+        [
+            "found", 
+            "invited", 
+            "caught", 
+            "carried"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "D", 
+        "A", 
+        "A", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle2808"
+}

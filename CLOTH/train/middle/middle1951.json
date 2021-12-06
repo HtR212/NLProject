@@ -1,0 +1,71 @@
+{
+    "article": "Long long ago a thief stole a bag of money from from a farmer's house. The _ went to the judge and asked _ help. The judge ordered _ the people of the farm to come before him. He took out a number of sticks of the same size and gave one stick to _ man. Then he said,\"Come before me again tomorrow.I'll know which _ you is the thief, because the thief's stick will be one inch longer than the _ .\"  The thief was afraid to be found out and so he cut an inch _ the stick.\nThe next day the thief's stick was found to be one inch _ than any other stick. _ this way the theif was found out and put into prison.", 
+    "options": [
+        [
+            "theif", 
+            "farmer", 
+            "money", 
+            "bag"
+        ], 
+        [
+            "to", 
+            "of", 
+            "for", 
+            "from"
+        ], 
+        [
+            "all", 
+            "every", 
+            "each", 
+            "whole"
+        ], 
+        [
+            "one", 
+            "every", 
+            "each", 
+            "any"
+        ], 
+        [
+            "from", 
+            "for", 
+            "to", 
+            "of"
+        ], 
+        [
+            "other", 
+            "other's", 
+            "others'", 
+            "others"
+        ], 
+        [
+            "out", 
+            "off", 
+            "from", 
+            "of"
+        ], 
+        [
+            "shorter", 
+            "longer", 
+            "thinner", 
+            "wider"
+        ], 
+        [
+            "On", 
+            "By", 
+            "In", 
+            "To"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "A", 
+        "C", 
+        "D", 
+        "C", 
+        "B", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle1951"
+}

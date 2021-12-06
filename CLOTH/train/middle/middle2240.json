@@ -1,0 +1,71 @@
+{
+    "article": "Hello, everyone. My name is Sonia Hall. My first name is Sonia. Hall is my _ name. I am _ English girl. I am 13. There are _ people in my family. They are _ parents, my brother and I. I also have a cousin. She is my uncle's _ . We _ Ping-Pong every day. We like _ very much.\nI have a bedroom. This is my new bedroom. The walls are white, and the floor is brown . There is a big bed near the window. It's red _ white. The desk is between the bed and the dresser. Look, What are these on the desk? They _ a computer, some CDs and a CD player on it. The bookcase is near the door and my books are on it. I like sports very much, so the books are usually about  sports. I like football and baseball. I have three baseball rackets in my home.", 
+    "options": [
+        [
+            "family", 
+            "first", 
+            "one", 
+            "/"
+        ], 
+        [
+            "a", 
+            "an", 
+            "/", 
+            "the"
+        ], 
+        [
+            "one", 
+            "two", 
+            "three", 
+            "four"
+        ], 
+        [
+            "I", 
+            "my", 
+            "me", 
+            "mine"
+        ], 
+        [
+            "son", 
+            "cousin", 
+            "daughter", 
+            "sister"
+        ], 
+        [
+            "take", 
+            "play", 
+            "bring", 
+            "watch"
+        ], 
+        [
+            "it", 
+            "them", 
+            "him", 
+            "her"
+        ], 
+        [
+            "or", 
+            "and", 
+            "but", 
+            "/"
+        ], 
+        [
+            "are", 
+            "is", 
+            "have", 
+            "has"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "D", 
+        "B", 
+        "C", 
+        "B", 
+        "A", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle2240"
+}

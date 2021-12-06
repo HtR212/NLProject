@@ -1,0 +1,57 @@
+{
+    "article": "It is evening.  _  old cock is sitting  _  a tall tree. A hungry fox is  looking for  food. He comes to the tree and looks up at the cock. \"Hello, Mr. Cock. I have some good news for you.\" says the fox. \"Oh?\" asks the cock. \"What is it?\" \"All the animals  _  good friends now.  _  be friends, too. Please come down and play with me.\" \"Fine!\" says the cock. \"I'm very happy to hear that.\" Then he looks up. \"Look! There is something over there.\" \"  _  are you looking at?\" asks the fox. \"Oh. I see some animals over there.  They are  coming this way.\" \"Animals?\" \"Yes. Oh, they're dogs.\" \"What? Dogs!\" says the fox. \"Err..., I  must go  now. Goodbye.\" \"Wait, Mr. fox,\" says the cock. \"  _  go. They are only dogs. And dogs are our friends now.\" \"Yes.  _  they don't know that yet.\" \"I see,\" says the cock. He smiles and goes to sleep in the tree.", 
+    "options": [
+        [
+            "the", 
+            "an", 
+            "a", 
+            "\\"
+        ], 
+        [
+            "in", 
+            "on", 
+            "under", 
+            "over"
+        ], 
+        [
+            "am", 
+            "is", 
+            "are", 
+            "be"
+        ], 
+        [
+            "Let", 
+            "Let's", 
+            "Lets", 
+            "Lets'"
+        ], 
+        [
+            "What", 
+            "How", 
+            "Where", 
+            "Whose"
+        ], 
+        [
+            "No", 
+            "Not", 
+            "Don't", 
+            "Doesn't"
+        ], 
+        [
+            "So", 
+            "And", 
+            "Or", 
+            "But"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "C", 
+        "B", 
+        "A", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle2382"
+}

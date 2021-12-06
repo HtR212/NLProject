@@ -1,0 +1,50 @@
+{
+    "article": "I was not a confident girl before. I _ spoke in front of the class because I was afraid of making mistakes. My family went to Mount Tai last summer holiday. Something important _ there and it changed me greatly.\nWe arrived there early in the morning and began to climb. Soon all of us felt tired because the stairs were really steep  . An hour later, we stopped to have a rest. While we were having a rest, my mother changed her _ and decided not to climb any more. I couldn't decide whether to stay there or go on climbing  with my father. \"No matter how hard it is, I am _ you can get there,\" said my father. So again we _ the hard journey. We were very tired, _ we kept going on and on. Another hour later, we reached the top. It was really beautiful. My father and I were so excited that we couldn't help jumping up happily. What an interesting trip!", 
+    "options": [
+        [
+            "never", 
+            "always", 
+            "often", 
+            "sometimes"
+        ], 
+        [
+            "left", 
+            "continuted", 
+            "went", 
+            "happened"
+        ], 
+        [
+            "place", 
+            "speed", 
+            "road", 
+            "mind"
+        ], 
+        [
+            "sorry", 
+            "afraid", 
+            "sure", 
+            "worried"
+        ], 
+        [
+            "ended", 
+            "finished", 
+            "started", 
+            "stopped"
+        ], 
+        [
+            "and", 
+            "but", 
+            "so", 
+            "though"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "D", 
+        "C", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle2621"
+}

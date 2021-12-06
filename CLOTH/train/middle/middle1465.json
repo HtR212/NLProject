@@ -1,0 +1,71 @@
+{
+    "article": "Dear Mr. Zhu,\nI read your magazine every month. I _ your column \"Teenagers Now\" a lot. I am almost 17, and have some problems at home. They are always  troubling me. I hope you can help me.\nThe problem is my _ . Whenever I want to do something or tell him my idea, he doesn't listen to me at all. Whenever I try to talk to him, he just shouts at me. When I don't listen to him, the two of us _ .\nHe and my mother always _ me do things I don't like, such as _ the piano and learning Japanese. Then, when I have some free time and want to be alone, they are not happy.\nMy father gets very _ when I listen to music. Also, every time I watch a DVD in the evening, he sends me to _ or tells me to spend more time studying. He has _ stopped me from getting on the Internet.\nI love him a lot, but I don't understand why he always says\" _ \" to the things I want to do. He was once a young person as I am now. He should understand me better than he does now. Don't you think so?\nYours truly,\nLiu Wei", 
+    "options": [
+        [
+            "write", 
+            "love", 
+            "hate", 
+            "make"
+        ], 
+        [
+            "father", 
+            "mother", 
+            "friend", 
+            "teacher"
+        ], 
+        [
+            "smile", 
+            "laugh", 
+            "sing", 
+            "quarrel"
+        ], 
+        [
+            "allow", 
+            "make", 
+            "want", 
+            "ask"
+        ], 
+        [
+            "playing", 
+            "buying", 
+            "mending", 
+            "borrowing"
+        ], 
+        [
+            "glad", 
+            "angry", 
+            "strange", 
+            "surprised"
+        ], 
+        [
+            "bed", 
+            "shop", 
+            "home", 
+            "hospital"
+        ], 
+        [
+            "hardly", 
+            "never", 
+            "already", 
+            "even"
+        ], 
+        [
+            "OK", 
+            "Yes", 
+            "No", 
+            "Good"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "D", 
+        "B", 
+        "A", 
+        "B", 
+        "A", 
+        "D", 
+        "C"
+    ], 
+    "source": "middle1465"
+}

@@ -1,0 +1,71 @@
+{
+    "article": "Dear friends, My name is Helen. I'm 12 years old. I  come  from Taxas, America. I'm really  _  in Chinese geography. It's fun! And I hope you can tell me more. I like hamburgers best,  _  I try to eat them twice a week  _  it's a kind of  _  food. And I like to drink lemon  _  . As for sports, I often go swimming with my parents on weekends. I  _  in Cobb Street School. My  _  subjects in school are ME and art. They are really fun! After school, I like to go to the  _  with my family or friends. I like action movies and cartoons. They're  _  How about you? Do you often go to the cinema with your family or friends? Yours, Helen", 
+    "options": [
+        [
+            "different", 
+            "interested", 
+            "same", 
+            "great"
+        ], 
+        [
+            "so", 
+            "and", 
+            "but", 
+            "or"
+        ], 
+        [
+            "because", 
+            "with", 
+            "and", 
+            "or"
+        ], 
+        [
+            "Asian", 
+            "delicious", 
+            "healthy", 
+            "unhealthy"
+        ], 
+        [
+            "tree", 
+            "food", 
+            "juice", 
+            "game"
+        ], 
+        [
+            "study", 
+            "start", 
+            "ride", 
+            "meet"
+        ], 
+        [
+            "like", 
+            "hate", 
+            "favorite", 
+            "first"
+        ], 
+        [
+            "library", 
+            "playground", 
+            "hospital", 
+            "cinema"
+        ], 
+        [
+            "boring", 
+            "exciting", 
+            "awful", 
+            "difficult"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "A", 
+        "D", 
+        "C", 
+        "A", 
+        "C", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle2060"
+}

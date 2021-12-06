@@ -1,0 +1,71 @@
+{
+    "article": "Elephants are the largest living animals on land. More than 500 _ kinds of elephants were found on the earth over the last 55 million years. Only _ kinds are still alive today: the African elephant and the Asian (or Indian) elephant. These elephants can only be found in _ places. However, the older kinds lived in cold places a long time _ . An example is the mammoth   -- the largest hairy elephant.\nThe mammoth was the largest living elephant, which was about seven tons. _ the elephants today, mammoths had black or dark brown hairs _ their bodies. All the mammoths had tusks  .\nScientists found most of the extinct   animals by _ the fossils, such as their bones and teeth that could be found. However, mammoths are quite different. During the Ice Age, mammoths died and were covered _ in the ice. The ice kept them very well. So scientists could find the _ body of the mammoth.", 
+    "options": [
+        [
+            "same", 
+            "different", 
+            "large", 
+            "small"
+        ], 
+        [
+            "two", 
+            "three", 
+            "four", 
+            "five"
+        ], 
+        [
+            "hot", 
+            "cold", 
+            "cool", 
+            "warm"
+        ], 
+        [
+            "after", 
+            "later", 
+            "ago", 
+            "away"
+        ], 
+        [
+            "Aside", 
+            "Unlike", 
+            "As", 
+            "For"
+        ], 
+        [
+            "filling", 
+            "covering", 
+            "laying", 
+            "pushing"
+        ], 
+        [
+            "dealing", 
+            "studying", 
+            "buying", 
+            "fixing"
+        ], 
+        [
+            "sadly", 
+            "gently", 
+            "deeply", 
+            "easily"
+        ], 
+        [
+            "whole", 
+            "all", 
+            "part", 
+            "piece"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "A", 
+        "C", 
+        "B", 
+        "B", 
+        "B", 
+        "C", 
+        "A"
+    ], 
+    "source": "middle114"
+}

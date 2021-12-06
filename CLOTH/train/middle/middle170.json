@@ -1,0 +1,71 @@
+{
+    "article": "How is the weather in Xinjiang? Xinjiang is  _  the west of China. The weather there is very  _  . It's cold in the morning,  _  it turns warm at noon. You must have  heard of  the famous saying, \"Put on your leather coat in the morning but put on your shirt in the  _  of the day. And you can eat watermelons at the fire.\" It means the weather changes very  _  . It rains little so it's also very  _  there. And the fruit there is very sweet  _  there is lots of sunshine. Xinjiang is also famous  _  its grapes . Mutton is Xinjiang's popular food. Roast mutton is very delicious.  _  you go to Xinjiang one day, remember to try it.", 
+    "options": [
+        [
+            "in", 
+            "on", 
+            "at", 
+            "to"
+        ], 
+        [
+            "common", 
+            "pleasant", 
+            "strange", 
+            "usual"
+        ], 
+        [
+            "and", 
+            "but", 
+            "so", 
+            "or"
+        ], 
+        [
+            "beginning", 
+            "front", 
+            "middle", 
+            "end"
+        ], 
+        [
+            "slow", 
+            "slowly", 
+            "quickly", 
+            "quick"
+        ], 
+        [
+            "wet", 
+            "dry", 
+            "cold", 
+            "hot"
+        ], 
+        [
+            "because", 
+            "so", 
+            "though", 
+            "but"
+        ], 
+        [
+            "as", 
+            "on", 
+            "of", 
+            "for"
+        ], 
+        [
+            "Before", 
+            "After", 
+            "If", 
+            "Since"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "B", 
+        "C", 
+        "C", 
+        "B", 
+        "A", 
+        "D", 
+        "C"
+    ], 
+    "source": "middle170"
+}

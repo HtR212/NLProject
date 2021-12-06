@@ -1,0 +1,64 @@
+{
+    "article": "This is a  _  girl.  _  name is Wu Yan.  _  is twelve. She is  _  No. 8 Middle School . She is in  Class One , Grade Two  .Bill is  _  American boy.  _  eleven . He is in No.8 Middle School,  _  . Miss Gao is  _  English teacher. She is a  very good  teacher.", 
+    "options": [
+        [
+            "Chinese", 
+            "English", 
+            "American", 
+            "Japanese"
+        ], 
+        [
+            "His", 
+            "She's", 
+            "He's", 
+            "Her"
+        ], 
+        [
+            "She", 
+            "He", 
+            "I", 
+            "We"
+        ], 
+        [
+            "/", 
+            "on", 
+            "in", 
+            "a"
+        ], 
+        [
+            "a", 
+            "an", 
+            "the", 
+            "/"
+        ], 
+        [
+            "His", 
+            "Her", 
+            "He's", 
+            "She's"
+        ], 
+        [
+            "and", 
+            "too", 
+            "student", 
+            "teacher"
+        ], 
+        [
+            "they", 
+            "their", 
+            "your", 
+            "my"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "A", 
+        "C", 
+        "B", 
+        "C", 
+        "B", 
+        "B"
+    ], 
+    "source": "middle5"
+}

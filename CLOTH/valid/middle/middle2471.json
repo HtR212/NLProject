@@ -1,0 +1,71 @@
+{
+    "article": "Mr Green is a teacher .His son Bill is a  _ .He is twelve .The child likes to  _ kites and play some other games .\nOne Monday afternoon , Bill flies kites with his friends after school .But Bill's kite is in the tree and he can't  _ it .Bill and his friends don't know  _ they should do .They worry about it very much and Bill comes to his father  _ help .His father wants to get the kite  _ , but he can't , so Bill asks him to make a new  _ for him . Mr Green makes a new kite .When the boy gets the new kite , he is very  _ .He  _ his father for the kite and goes out  to play with his friends .The kite flies high in the sky .", 
+    "options": [
+        [
+            "teacher", 
+            "student", 
+            "doctor", 
+            "policeman"
+        ], 
+        [
+            "make", 
+            "do", 
+            "draw", 
+            "fly"
+        ], 
+        [
+            "get", 
+            "make", 
+            "write", 
+            "watch"
+        ], 
+        [
+            "where", 
+            "how", 
+            "what", 
+            "why"
+        ], 
+        [
+            "to", 
+            "from", 
+            "for", 
+            "with"
+        ], 
+        [
+            "up", 
+            "down", 
+            "off", 
+            "on"
+        ], 
+        [
+            "it", 
+            "that", 
+            "this", 
+            "one"
+        ], 
+        [
+            "glad", 
+            "well", 
+            "good", 
+            "quiet"
+        ], 
+        [
+            "says", 
+            "thanks", 
+            "tells", 
+            "helps"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "A", 
+        "C", 
+        "C", 
+        "B", 
+        "D", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle2471"
+}

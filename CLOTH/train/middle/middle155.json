@@ -1,0 +1,57 @@
+{
+    "article": "There is a big  _  in our city. We can see many  _  there. A(n)  _  the biggest animal on land is also  living  there. Many birds fly in the sky .Some beautiful ducks always  _  in the river. What are these in the trees? Oh, they are  _  .They like  eating  leaves. They are from Australia. Aren't they cute? There's a tiger in the cage under the tree. It eats  a lot of  meat every day. I like the  _  best because it only lives in China and it's the symbol of  _  .", 
+    "options": [
+        [
+            "park", 
+            "zoo", 
+            "hall", 
+            "school"
+        ], 
+        [
+            "trees", 
+            "students", 
+            "food", 
+            "animals"
+        ], 
+        [
+            "lion", 
+            "giraffe", 
+            "elephant", 
+            "cat"
+        ], 
+        [
+            "fly", 
+            "swim", 
+            "save", 
+            "sleep"
+        ], 
+        [
+            "elephants", 
+            "tigers", 
+            "koalas", 
+            "lions"
+        ], 
+        [
+            "garaffe", 
+            "tiger", 
+            "panda", 
+            "lion"
+        ], 
+        [
+            "funny", 
+            "scary", 
+            "lazy", 
+            "friendly"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "C", 
+        "B", 
+        "C", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle155"
+}

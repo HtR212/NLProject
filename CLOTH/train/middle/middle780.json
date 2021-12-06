@@ -1,0 +1,50 @@
+{
+    "article": "Mr. Green was ill and went to the hospital. A doctor  looked him over  and said, \"Well, Mr. Green, you are going to  _  some injections , and you'll feel much better. A nurse will come  _  give you the first one this evening, and then you'll  have to  get another one tomorrow evening.\"  In the evening a young nurse came to Mr. Green's bed and said to him, \"I am going to give you your _  injection now, Mr. Green. Where do you want it?\"\nThe old man was  _ . He looked at the nurse for a  _ , then he said, \" _  has ever let me choose that before. Are you really going to let me choose now?\"\n\"Yes, Mr. Green,\" the nurse answered. She was in a hurry. \"Where do you want it?\"\n\"Well, then,\" the old man answered  with a smile  \"I want it in your left arm, please.\"", 
+    "options": [
+        [
+            "get", 
+            "give", 
+            "make", 
+            "hold"
+        ], 
+        [
+            "so", 
+            "but", 
+            "or", 
+            "and"
+        ], 
+        [
+            "first", 
+            "one", 
+            "two", 
+            "second"
+        ], 
+        [
+            "confident", 
+            "surprised", 
+            "full", 
+            "hungry"
+        ], 
+        [
+            "hour", 
+            "minutes", 
+            "year", 
+            "moment"
+        ], 
+        [
+            "Somebody", 
+            "Anybody", 
+            "Nobody", 
+            "People"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "A", 
+        "B", 
+        "D", 
+        "C"
+    ], 
+    "source": "middle780"
+}

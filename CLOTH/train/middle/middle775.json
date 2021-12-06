@@ -1,0 +1,64 @@
+{
+    "article": "Beethoven was one of the greatest composers in the world. He was born  _  Germany in 1770. Even as a child,Beethoven did not have a  _  life. His father was a singer, but he was very lazy and always drank a lot. When Beethoven was only four, his father decided to make him a  _  . So Beethoven had to play  the music  . He learned very fast and he could go around and give a  _  when he was only eleven. A few years later Beethoven went to Vienna to study under Haydn, a famous Austrian composer. Soon he could write a lot of music himself. Beethoven was often  _  in his life. After one illness, he became deaf . He couldn't  _  any more. This didn't stop Beethoven. He continued  to write  many pieces of beautiful music. To everyone's  _  ,Beethoven wrote his most beautiful pieces such as Destiny after he became deaf. He died at the age of  _  in 1827.", 
+    "options": [
+        [
+            "at", 
+            "in", 
+            "on", 
+            "of"
+        ], 
+        [
+            "happy", 
+            "unhappy", 
+            "sad", 
+            "lovely"
+        ], 
+        [
+            "doctor", 
+            "teacher", 
+            "musician", 
+            "writer"
+        ], 
+        [
+            "concert", 
+            "talk", 
+            "lesson", 
+            "music"
+        ], 
+        [
+            "fine", 
+            "strong", 
+            "ill", 
+            "nice"
+        ], 
+        [
+            "hear", 
+            "see", 
+            "read", 
+            "writer"
+        ], 
+        [
+            "difference", 
+            "surprise", 
+            "health", 
+            "interest"
+        ], 
+        [
+            "47", 
+            "67", 
+            "37", 
+            "57"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "C", 
+        "A", 
+        "C", 
+        "A", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle775"
+}

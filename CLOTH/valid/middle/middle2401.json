@@ -1,0 +1,71 @@
+{
+    "article": "This  _  a photo  _  my bedroom. The computer game  _  the books are on the desk. My notebook is under the bed.  _  eraser is on my bed.  _  is red and white. There are seven people  _  my family. My grandparents, my parents, my sister, my brother and  _  . My grandparents  _  having eggs. But my mother  _  like having them. We all like having  lots of  healthy food.", 
+    "options": [
+        [
+            "am", 
+            "is", 
+            "are", 
+            "be"
+        ], 
+        [
+            "to", 
+            "for", 
+            "of", 
+            "at"
+        ], 
+        [
+            "but", 
+            "and", 
+            "or", 
+            "on"
+        ], 
+        [
+            "/", 
+            "an", 
+            "a", 
+            "the"
+        ], 
+        [
+            "It", 
+            "it's", 
+            "It's", 
+            "it"
+        ], 
+        [
+            "for", 
+            "to", 
+            "in", 
+            "under"
+        ], 
+        [
+            "my", 
+            "I", 
+            "me", 
+            "mine"
+        ], 
+        [
+            "like", 
+            "likes", 
+            "have", 
+            "do"
+        ], 
+        [
+            "isn't", 
+            "don't", 
+            "doesn't", 
+            "does"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "B", 
+        "B", 
+        "A", 
+        "C", 
+        "B", 
+        "A", 
+        "C"
+    ], 
+    "source": "middle2401"
+}

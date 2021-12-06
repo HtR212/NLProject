@@ -1,0 +1,57 @@
+{
+    "article": "Look at this girl in the picture, she is  _  good friend.  _  name is Lily. She is  English  .She is thirteen. This is me. My  _  is Li Ling. I'm a Chinese girl. I am one year younger than Lily. We are  _  the same class. Lily likes collecting sports things. She  _  a great sports collection. Look, these are her things. She has 10 tennis rackets, 8 baseballs, 6 basketballs, 12 soccer balls  _  18 volleyballs. But she  doesn't  like sports. She  _  likes collecting sports things. His brother, David, likes soccer. He plays  football  every day with his friends.", 
+    "options": [
+        [
+            "I", 
+            "me", 
+            "my", 
+            "a"
+        ], 
+        [
+            "She", 
+            "Her", 
+            "My", 
+            "His"
+        ], 
+        [
+            "friend", 
+            "father", 
+            "mother", 
+            "name"
+        ], 
+        [
+            "in", 
+            "at", 
+            "on", 
+            "for"
+        ], 
+        [
+            "is", 
+            "are", 
+            "has", 
+            "have"
+        ], 
+        [
+            "and", 
+            "or", 
+            "but", 
+            "/"
+        ], 
+        [
+            "no", 
+            "not", 
+            "many", 
+            "only"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "D", 
+        "A", 
+        "C", 
+        "A", 
+        "D"
+    ], 
+    "source": "middle1657"
+}

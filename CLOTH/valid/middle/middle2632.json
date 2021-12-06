@@ -1,0 +1,64 @@
+{
+    "article": "My name  _  Lily. I'm in China now. I'm twelve. I'm a new student in Class 4,  Grade Seven  , No.6 Middle School. My music teacher is Miss Li. She is  _  , but I'm  _  American girl. I have a sister.  _  name is Lucy. We are twins. I'm very tall and slim. I like listening to music, and I'm good  _  singing. My sister is  _  the school volleyball team. She  plays  volleyball very well, but she  _  love singing. We have a cat. Her name is Mimi. We love  _  very much.", 
+    "options": [
+        [
+            "am", 
+            "is", 
+            "are", 
+            "be"
+        ], 
+        [
+            "England", 
+            "America", 
+            "Chinese", 
+            "American"
+        ], 
+        [
+            "a", 
+            "an", 
+            "the", 
+            "/"
+        ], 
+        [
+            "Her", 
+            "She", 
+            "She's", 
+            "Her's"
+        ], 
+        [
+            "to", 
+            "for", 
+            "in", 
+            "at"
+        ], 
+        [
+            "at", 
+            "in", 
+            "from", 
+            "of"
+        ], 
+        [
+            "isn't", 
+            "don't", 
+            "doesn't", 
+            "aren't"
+        ], 
+        [
+            "he", 
+            "him", 
+            "she", 
+            "her"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "A", 
+        "B", 
+        "D", 
+        "B", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle2632"
+}

@@ -1,0 +1,71 @@
+{
+    "article": "How many  _  of Chinese food do you know? I'd like  to tell  you some specials.  _  1 is noodles. There are many kinds of noodles in China, like rolled noodles, pulled noodles, knife-cut noodles and fried noodles. All of them  _  great. Special 2 is  _  Dumplings, yes, I think you must know  _  . Do you know the famous cartoon movie? There are  _  kinds of Chinese specials in the movie: noodles and fried dumplings.  _  we also have another dumplings--boiled dumplings. We often eat boiled dumplings  _  our Spring Festival. I like Chinese food very much. I hope you  _  like it.", 
+    "options": [
+        [
+            "kind", 
+            "kinds", 
+            "size", 
+            "sizes"
+        ], 
+        [
+            "Food", 
+            "Drink", 
+            "Fruit", 
+            "Special"
+        ], 
+        [
+            "is", 
+            "am", 
+            "be", 
+            "are"
+        ], 
+        [
+            "dumpling", 
+            "dumplings", 
+            "hamburgers", 
+            "cakes"
+        ], 
+        [
+            "them", 
+            "they", 
+            "it", 
+            "me"
+        ], 
+        [
+            "some", 
+            "many", 
+            "two", 
+            "second"
+        ], 
+        [
+            "As", 
+            "Or", 
+            "So", 
+            "But"
+        ], 
+        [
+            "during", 
+            "in", 
+            "on", 
+            "of"
+        ], 
+        [
+            "too", 
+            "also", 
+            "either", 
+            "very"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "D", 
+        "B", 
+        "A", 
+        "C", 
+        "D", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle2548"
+}

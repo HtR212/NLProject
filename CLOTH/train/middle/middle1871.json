@@ -1,0 +1,64 @@
+{
+    "article": "Dear Lin Tao,\nHow are you? I'm at home in New York. You ask me some questions in your letter. Let me answer  _ .\nAmerica is beautiful. We like the school and the people here are very friendly. My sister and I  _  to the same  school. We have _ from Monday to Friday. _ we go to English classes every Saturday. On Sunday, my father _ us to the parks.\nMy father works in a big factory and my mother works in a hospital. They work very hard. I have many friends in my school. They often ask me something _ China. They like playing basketball. I often play with them. I don't like American food at all.\nDo you _ English every day? How are the other friends? Please _ in English in your letter next time.", 
+    "options": [
+        [
+            "it", 
+            "they", 
+            "them", 
+            "some"
+        ], 
+        [
+            "go", 
+            "goes", 
+            "get", 
+            "gets"
+        ], 
+        [
+            "class", 
+            "classes", 
+            "school", 
+            "schools"
+        ], 
+        [
+            "But", 
+            "And", 
+            "Then", 
+            "So"
+        ], 
+        [
+            "takes", 
+            "carries(", 
+            "gets", 
+            "puts"
+        ], 
+        [
+            "for", 
+            "with", 
+            "about", 
+            "in"
+        ], 
+        [
+            "say", 
+            "talk", 
+            "speak", 
+            "tell"
+        ], 
+        [
+            "write", 
+            "say", 
+            "read", 
+            "talk"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "B", 
+        "B", 
+        "A", 
+        "C", 
+        "C", 
+        "A"
+    ], 
+    "source": "middle1871"
+}

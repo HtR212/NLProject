@@ -1,0 +1,71 @@
+{
+    "article": "My name is Eric . I  _  in a big city with my parents . My home is on the second  _  of a tall building . The building is in Garden Street . It's a  _  street because there are lots of cars and people on the street every day .  _  the street is very clean . I  _  living in the city very much . There are a lot of  _  to have fun on the street . We can  play  games in the park and take a  _  in the garden . Sometimes I can read books in the  _  . It's very quiet in the library , and I enjoy reading there . Do you like our  _  ? Welcome to my home .", 
+    "options": [
+        [
+            "take", 
+            "live", 
+            "have", 
+            "put"
+        ], 
+        [
+            "street", 
+            "park", 
+            "floor", 
+            "house"
+        ], 
+        [
+            "busy", 
+            "new", 
+            "wrong", 
+            "short"
+        ], 
+        [
+            "so", 
+            "Because", 
+            "But", 
+            "And"
+        ], 
+        [
+            "like", 
+            "watch", 
+            "play", 
+            "visit"
+        ], 
+        [
+            "gardens", 
+            "supermarkets", 
+            "places", 
+            "rooms"
+        ], 
+        [
+            "walk", 
+            "bus", 
+            "train", 
+            "way"
+        ], 
+        [
+            "bank", 
+            "restaurant", 
+            "library", 
+            "hospital"
+        ], 
+        [
+            "food", 
+            "study", 
+            "neighbourhood", 
+            "street"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "A", 
+        "C", 
+        "A", 
+        "C", 
+        "A", 
+        "C", 
+        "C"
+    ], 
+    "source": "middle1067"
+}

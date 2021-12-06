@@ -1,0 +1,71 @@
+{
+    "article": "Look! Here is a photo of my  _ . The tall man is my father. He _  in a radio station. He likes his job. Every morning he gets up early, because he doesn't want to be _ for work. The radio station is far from our _ , so my father always drives to work. It usually _ him about forty minutes. The woman _ white is my mother. She is a teacher. She _ music in my school. She usually goes to school on foot . She likes walking and she says it's good _ . Can you see the girl in black? It's _ . My name is Lisa. I walk to school with my mother every day.", 
+    "options": [
+        [
+            "room", 
+            "school", 
+            "friends", 
+            "family"
+        ], 
+        [
+            "works", 
+            "lives", 
+            "plays", 
+            "thinks"
+        ], 
+        [
+            "easy", 
+            "late", 
+            "busy", 
+            "fat"
+        ], 
+        [
+            "school", 
+            "club", 
+            "home", 
+            "store"
+        ], 
+        [
+            "gets", 
+            "takes", 
+            "makes", 
+            "wants"
+        ], 
+        [
+            "at", 
+            "on", 
+            "in", 
+            "of"
+        ], 
+        [
+            "teaches", 
+            "has", 
+            "sells", 
+            "shows"
+        ], 
+        [
+            "number", 
+            "dream", 
+            "exercise", 
+            "subject"
+        ], 
+        [
+            "her", 
+            "you", 
+            "his", 
+            "me"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "A", 
+        "B", 
+        "C", 
+        "B", 
+        "C", 
+        "A", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle556"
+}

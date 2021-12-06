@@ -1,0 +1,36 @@
+{
+    "article": "I have a good friend at school. Her name is Liu Mei. She's fifteen years old . She is a beautiful girl _ bright eyes and long black hair. In some ways we look the same, _ some students say we are twins. In our class,her math is not good. But she works hard all the time. Now she is doing _ than before. I hope she can make great progress. I often go to her house.  There are many kinds of books and magazines on her bookshelf. She likes reading . Her Chinese is best in our class. She often helps me with Chinese. Liu Mei is an active girl. She's a little more outgoing than me. She likes tennis very much. She is  well at tennis. But I'm _ better than her at ping-pong. We often play games together after class. Liu Mei lives in a happy family. Her parents are both teachers. She is a good child at home. She often helps her parents with their homework. Her father and mother love her very much. This is my best friend------Liu Mei.", 
+    "options": [
+        [
+            "and", 
+            "with", 
+            "have", 
+            "has"
+        ], 
+        [
+            "because", 
+            "so", 
+            "or", 
+            "but"
+        ], 
+        [
+            "good", 
+            "well", 
+            "better", 
+            "best"
+        ], 
+        [
+            "much", 
+            "more", 
+            "many", 
+            "lot"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "B", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle1020"
+}

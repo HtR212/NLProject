@@ -1,0 +1,71 @@
+{
+    "article": "Dear Tom, My name is Liu Yun. I'm a 12 year-old girl. I'm the only  _  in my family. My birthday is  _  1st. It's the  _  day of the tenth month. It's also the National Day. My parents  _  a party for me on that day. My friends  _  to the party. They bring me lots of birthday presents , and they sing Happy Birthday to me.  _  eat some fruit: strawberries, oranges and  _  . We eat chicken and cakes  _  dinner. We also play games. We have a  _  time! What's your age ?  What  is your birthday? Can you let me know? Yours, Liu Yun", 
+    "options": [
+        [
+            "son", 
+            "daughter", 
+            "boy", 
+            "people"
+        ], 
+        [
+            "April", 
+            "September", 
+            "October", 
+            "December"
+        ], 
+        [
+            "first", 
+            "second", 
+            "fourth", 
+            "tenth"
+        ], 
+        [
+            "look", 
+            "have", 
+            "call", 
+            "sell"
+        ], 
+        [
+            "come", 
+            "take", 
+            "found", 
+            "help"
+        ], 
+        [
+            "You", 
+            "We", 
+            "They", 
+            "I"
+        ], 
+        [
+            "carrots", 
+            "bananas", 
+            "tomatoes", 
+            "chicken"
+        ], 
+        [
+            "on", 
+            "in", 
+            "for", 
+            "of"
+        ], 
+        [
+            "difficult", 
+            "boring", 
+            "healthy", 
+            "good"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "A", 
+        "B", 
+        "A", 
+        "B", 
+        "B", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle1642"
+}

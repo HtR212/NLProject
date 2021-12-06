@@ -1,0 +1,71 @@
+{
+    "article": "A young man works hard on his lessons. He is very busy studying. He doesn't have  _  to rest. After sometime, he falls ill. Every night, when he goes to bed, he  _  his eyes and tries to sleep. But he can't. He thinks, \"I must go to  _  the doctor.\" He tells the doctor, \"I can't go to sleep at night.\" \"Try counting  _  . When you reach 1,000, you'll be asleep,\" says the doctor. The next day the man goes back to the doctor's office. \"Well,\" says the doctor, \"  _  are you today?\" \"Well,\" the man says, \"I tried counting one, two, three ... up to 1,000.  _  when I reached 569, I began  _  feel sleepy . I had to  get up  and  _  some tea. Then I went on counting up to 1,000 again. But I  _  couldn't fall asleep.\"", 
+    "options": [
+        [
+            "water", 
+            "food", 
+            "time", 
+            "money"
+        ], 
+        [
+            "closes", 
+            "opens", 
+            "washes", 
+            "cleans"
+        ], 
+        [
+            "look", 
+            "call", 
+            "see", 
+            "listen"
+        ], 
+        [
+            "colors", 
+            "numbers", 
+            "ages", 
+            "time"
+        ], 
+        [
+            "where", 
+            "when", 
+            "which", 
+            "how"
+        ], 
+        [
+            "So", 
+            "But", 
+            "Then", 
+            "For"
+        ], 
+        [
+            "to", 
+            "of", 
+            "at", 
+            "out"
+        ], 
+        [
+            "eat", 
+            "drink", 
+            "take", 
+            "drinks"
+        ], 
+        [
+            "still", 
+            "already", 
+            "again", 
+            "Hardly"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "C", 
+        "B", 
+        "D", 
+        "B", 
+        "A", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle2350"
+}

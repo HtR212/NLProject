@@ -1,0 +1,64 @@
+{
+    "article": "Hello. I'm Tom. I'm a middle school student. It's nice to meet you here. First, let me tell you  _  my family. Five people are in my  _  , my mother, my father, my two sisters and I. But I have  _  brother. My father is a worker. My mother is  _  English teacher. My sisters are sixteen. I'm fourteen. We go to the same school. We all like  watching  football games. We think they're interesting. I also have a cat.  _  name is Mimi. There is a big tree and some small trees around my house. The big one is a pear tree and the small ones are apple  _  .  _  a photo of my room. Please have a look. When you  come to  my room, you can see three English dictionaries on my desk. I like (35)  _  very much.", 
+    "options": [
+        [
+            "about", 
+            "for", 
+            "at", 
+            "on"
+        ], 
+        [
+            "school", 
+            "family", 
+            "bedroom", 
+            "classroom"
+        ], 
+        [
+            "not", 
+            "no", 
+            "two", 
+            "three"
+        ], 
+        [
+            "/", 
+            "a", 
+            "an", 
+            "the"
+        ], 
+        [
+            "It", 
+            "It's", 
+            "Its", 
+            "Is"
+        ], 
+        [
+            "trees", 
+            "schools", 
+            "boys", 
+            "girls"
+        ], 
+        [
+            "He's", 
+            "Here's", 
+            "They're", 
+            "She's"
+        ], 
+        [
+            "their", 
+            "theirs", 
+            "they", 
+            "them"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "B", 
+        "C", 
+        "C", 
+        "A", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle376"
+}

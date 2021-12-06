@@ -1,0 +1,50 @@
+{
+    "article": "Now, here's some information about our school trip. As usual we will _ the first four days in Paris. We'll have a sightseeing tour of the city and we'll also visit _ of the famous places like the Eiffel Tower and the Louvre. From Paris we'll travel down to the south of France near Marseilles _ boat. We'll spend five days there.\nLast year we went by coach, but we found that the journey was too long and we didn't have enough time to do _ .So this year we will go by train. I will provide more information about the schedule later.\nThere will be students on the trip. We will travel in three groups and there will be three teachers with each group. I will go with Group One.\nI hope that everyone on the trip will have a good time, but please remember that it is an educational _ not a holiday. There will be some time for swimming and other sports, but we are going to France to study French culture and to use the French language as _ as possible.", 
+    "options": [
+        [
+            "takes", 
+            "spend", 
+            "stay", 
+            "live"
+        ], 
+        [
+            "all", 
+            "one", 
+            "both", 
+            "some"
+        ], 
+        [
+            "by", 
+            "in", 
+            "take", 
+            "on"
+        ], 
+        [
+            "everything", 
+            "anything", 
+            "something", 
+            "nothing"
+        ], 
+        [
+            "tour", 
+            "trip", 
+            "journey", 
+            "visit"
+        ], 
+        [
+            "many", 
+            "much", 
+            "little", 
+            "few"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "A", 
+        "A", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle1979"
+}

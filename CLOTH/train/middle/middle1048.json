@@ -1,0 +1,57 @@
+{
+    "article": "Lisa is an English girl. She is  _  . She is twenty-two years old now. She is  _  teacher. She is very nice.  _  hair is long and blond. She  _  blue and big eyes. Her  _  like her very much. Lisa looks  like  Huang Yongmei, a good actress . The actress  is from  Hong Kong. Lisa's favorite  _  is red. She is often  in red  Lisa likes apples, oranges and bananas.  _  is her good friend? Oh, she is Sally.", 
+    "options": [
+        [
+            "old", 
+            "young", 
+            "long", 
+            "different"
+        ], 
+        [
+            "a", 
+            "/", 
+            "the", 
+            "an"
+        ], 
+        [
+            "Hers", 
+            "She", 
+            "Her", 
+            "His"
+        ], 
+        [
+            "has", 
+            "is", 
+            "have", 
+            "are"
+        ], 
+        [
+            "mom", 
+            "friends", 
+            "dad", 
+            "students"
+        ], 
+        [
+            "clothes", 
+            "teacher", 
+            "girl", 
+            "color"
+        ], 
+        [
+            "Who", 
+            "Whose", 
+            "Where", 
+            "How"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "C", 
+        "A", 
+        "D", 
+        "D", 
+        "A"
+    ], 
+    "source": "middle1048"
+}

@@ -1,0 +1,57 @@
+{
+    "article": "We have a big playground in our school.We all like to _ games there after school.It's Friday.We have only two classes _ the afternoon.When school is _ ,a lot of students go to the playground.Look!The boys of Grade Two are _ a basketball match.Some girls are _ and shouting .Football is our favorite sport.Many teachers are also playing football.Li Ming,Li Lei and Wei Fang are students of Grade One.They are _ volleyball.They are playing very _ .It's half past five now.It's time to go home.The students all leave the playground.", 
+    "options": [
+        [
+            "do", 
+            "make", 
+            "play", 
+            "take"
+        ], 
+        [
+            "on", 
+            "in", 
+            "at", 
+            "with"
+        ], 
+        [
+            "beginning", 
+            "finish", 
+            "all", 
+            "over"
+        ], 
+        [
+            "having", 
+            "making", 
+            "playing", 
+            "doing"
+        ], 
+        [
+            "seeing", 
+            "looking", 
+            "watching", 
+            "meeting"
+        ], 
+        [
+            "playing", 
+            "making", 
+            "play", 
+            "make"
+        ], 
+        [
+            "good", 
+            "nice", 
+            "well", 
+            "bad"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "D", 
+        "A", 
+        "C", 
+        "A", 
+        "C"
+    ], 
+    "source": "middle2899"
+}

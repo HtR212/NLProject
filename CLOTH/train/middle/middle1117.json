@@ -1,0 +1,43 @@
+{
+    "article": "A boy who was cleaning shoes in the street said to a young man  _  by,\"Let me clean your shoes,  will you  ?\"The young man said,\"No, thank you.\"\"You may  _  me only a pound for that, sir.\"said the boy.  _  the young man refused again. Then the boy told him that he would clean his shoes for  _  . The young man agreed to this,and soon one of his shoes was shining brightly. The man wore  the other  shoe ,but the boy refused to clean it unless he  paid  two pounds for his work.. The young man refused to pay anything and went away. But one looked  _  dirty that he couldn't walk away. He had to  come back  and gave the boy  two pounds  . In a very short time his shoes shone brightly.", 
+    "options": [
+        [
+            "passed", 
+            "passing", 
+            "pass", 
+            "passes"
+        ], 
+        [
+            "spend", 
+            "cost", 
+            "take", 
+            "pay"
+        ], 
+        [
+            "And", 
+            "Then", 
+            "But", 
+            "Or"
+        ], 
+        [
+            "Anything", 
+            "Something", 
+            "Everything", 
+            "Nothing"
+        ], 
+        [
+            "such", 
+            "so", 
+            "very", 
+            "quite"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "C", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle1117"
+}

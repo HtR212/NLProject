@@ -1,0 +1,64 @@
+{
+    "article": "Dear Anne,\nThank you for your  _ .I'm glad you like your school.I go to school from  _ to Friday.We have four classes in the morning and two classes  in the afternoon .We have many things to do after  _ .On Monday and Wednesday afternoon we have sports.On Tuesday afternoon some of  _ have a singing class and on Thursday afternoon  _ of us have a drawing class.On Friday afternoon we practise speaking English.My Chinese friends would like to talk with me in English.They think I am like an  _ teacher.Isn't it great?\nOn  _ and Sundays I don't go to  _ .Very often I go to the parks and have a good time with my family there.\nYours,\nHenry", 
+    "options": [
+        [
+            "beg", 
+            "bike", 
+            "letter", 
+            "dictionary"
+        ], 
+        [
+            "Monday", 
+            "Tuesday", 
+            "Wednesday", 
+            "Friday"
+        ], 
+        [
+            "supper", 
+            "breakfast", 
+            "lunch", 
+            "school"
+        ], 
+        [
+            "them", 
+            "you", 
+            "us", 
+            "ours"
+        ], 
+        [
+            "much", 
+            "some", 
+            "any", 
+            "one"
+        ], 
+        [
+            "English", 
+            "Chinese", 
+            "Japanese", 
+            "French"
+        ], 
+        [
+            "Sundays", 
+            "Saturdays", 
+            "Fridays", 
+            "Mondays"
+        ], 
+        [
+            "park", 
+            "bed", 
+            "school", 
+            "Beijing"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "D", 
+        "C", 
+        "B", 
+        "A", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle2519"
+}

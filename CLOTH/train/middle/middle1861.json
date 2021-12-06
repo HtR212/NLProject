@@ -1,0 +1,36 @@
+{
+    "article": "Traditional Chinese doctors believe we need a balance of and to  be healthy  For example, are you often weak and tired? Maybe you have  too much  You should eat hot foods, like beef. Eating Dangshen and Huangqi herbs  _  also good  _  this.But people who are too  stressed out  and angry may have too much . Chinese doctors believe that they should eat  _  foods like tofu. Chinese medicine is now popular in many  western countries  .It's easy  to have  a healthy lifestyle ,and it's  _  to eat a balanced diet. As for me, I exercise every day, usually when I come home from school. My  eating  habits are pretty good ,I try to eat a lot of vegetables. I eat fruit and drink milk every day.I never drink  coffee  .Of course, I love junk food too ,but I try to eat it only  once a week  .Oh, and I sleep  nine hours every night  .So you see ,I look after my health .And my healthy lifestyle  helps me get good grades  . Good food and  exercise  help me to study better.", 
+    "options": [
+        [
+            "be", 
+            "is", 
+            "am", 
+            "are"
+        ], 
+        [
+            "for", 
+            "at", 
+            "with", 
+            "in"
+        ], 
+        [
+            "little", 
+            "much", 
+            "more", 
+            "less"
+        ], 
+        [
+            "difficult", 
+            "important", 
+            "easy", 
+            "interesting"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle1861"
+}

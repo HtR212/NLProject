@@ -1,0 +1,71 @@
+{
+    "article": "Kevin is a 12--year--old boy. He  _  from New York. He is in Class 5, Grade 7. Mr Zhang is his class teacher. He is a good teacher. All the students of  _  class like him very much. There are forty  _  in the class. You can see forty desks, chairs and a teacher's desk in the classroom. A lost and found box is  _  the teacher's desk. There  _  a lot of things in it. The students are in the classroom now. Betty is  looking for  her crayons, but she can't find them in her bag. Tony is looking for his  _  It's a nice watch. Jim is  _  an interesting book. Look! Mr Zhang is coming in. He  _  to the class, \"Good morning, class. There are a lot of things in the lost and found box. Please be  _  with your things from now on.\" Betty and Tony are very happy to find their lost things in the lost and found box.", 
+    "options": [
+        [
+            "gets", 
+            "comes", 
+            "leaves", 
+            "goes"
+        ], 
+        [
+            "my", 
+            "their", 
+            "his", 
+            "her"
+        ], 
+        [
+            "boys", 
+            "girls", 
+            "students", 
+            "teachers"
+        ], 
+        [
+            "for", 
+            "on", 
+            "from", 
+            "at"
+        ], 
+        [
+            "are", 
+            "be", 
+            "have", 
+            "has"
+        ], 
+        [
+            "camera", 
+            "eraser", 
+            "wallet", 
+            "watch"
+        ], 
+        [
+            "reading", 
+            "seeing", 
+            "watching", 
+            "looking"
+        ], 
+        [
+            "tells", 
+            "talks", 
+            "says", 
+            "speaks"
+        ], 
+        [
+            "happy", 
+            "busy", 
+            "careful", 
+            "strange"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "C", 
+        "B", 
+        "A", 
+        "D", 
+        "A", 
+        "C", 
+        "C"
+    ], 
+    "source": "middle272"
+}

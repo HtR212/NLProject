@@ -1,0 +1,71 @@
+{
+    "article": "I'm Wang Jun from China. I'm a Chinese  _  . I'm a boy. My English name is Oscar and I'm twelve. There are  _  people in my family.  _  are my father, my mother, my grandmother and I. My parents are doctors in the same  _  in Hefei. My father is forty-two and my  _  is forty. My grandmother is very old. She lives with  _  . I'm in No. 40 Middle School. I'm in Class One, Grade Seven. There are fifty  _  in my class. We all like English. My classroom is not very big,  _  it is very clean and nice. We have a  _  school because there are lots of flowers and tree  in  it. And we love our school very much.", 
+    "options": [
+        [
+            "student", 
+            "teacher", 
+            "doctor", 
+            "worker"
+        ], 
+        [
+            "six", 
+            "five", 
+            "four", 
+            "three"
+        ], 
+        [
+            "These", 
+            "Those", 
+            "They", 
+            "There"
+        ], 
+        [
+            "hospital", 
+            "school", 
+            "factory", 
+            "hotel"
+        ], 
+        [
+            "sister", 
+            "brother", 
+            "grandmother", 
+            "mother"
+        ], 
+        [
+            "us", 
+            "her", 
+            "him", 
+            "it"
+        ], 
+        [
+            "windows", 
+            "students", 
+            "books", 
+            "teachers"
+        ], 
+        [
+            "and", 
+            "so", 
+            "or", 
+            "but"
+        ], 
+        [
+            "bad", 
+            "small", 
+            "beautiful", 
+            "sweet"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "C", 
+        "A", 
+        "D", 
+        "A", 
+        "B", 
+        "D", 
+        "C"
+    ], 
+    "source": "middle211"
+}

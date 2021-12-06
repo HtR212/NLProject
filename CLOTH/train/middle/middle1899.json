@@ -1,0 +1,64 @@
+{
+    "article": "Different people have different hobbies. For example  , some _ reading, some like swimming and others like collecting and so on.\nDo you want to _ my hobby? I like _ and listening to the Red Songs  , like my grandparents. I think these _ sound   very great. I can sing many red songs _ I Love You, China (<<,>> ), and Learn From Lei Feng (<<>> ).\nBesides (...), I think playing sports every day is helpful. I like playing basketball . I'm good at it. I think it's very interesting. I also like playing it with my _ in PE class. _ team work . Everyone _ to work together   with others. I can also make many friends in the game.", 
+    "options": [
+        [
+            "likes", 
+            "like", 
+            "want", 
+            "wants"
+        ], 
+        [
+            "know", 
+            "have", 
+            "ask", 
+            "see"
+        ], 
+        [
+            "reading", 
+            "playing", 
+            "watching", 
+            "singing"
+        ], 
+        [
+            "stories", 
+            "words", 
+            "songs", 
+            "jokes"
+        ], 
+        [
+            "in", 
+            "for", 
+            "about", 
+            "like"
+        ], 
+        [
+            "grandparents", 
+            "parents", 
+            "classmates", 
+            "teachers"
+        ], 
+        [
+            "It's", 
+            "He's", 
+            "She's", 
+            "They're"
+        ], 
+        [
+            "goes", 
+            "needs", 
+            "asks", 
+            "wants"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "D", 
+        "C", 
+        "D", 
+        "C", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle1899"
+}

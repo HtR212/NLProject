@@ -1,0 +1,71 @@
+{
+    "article": "The 2010 Winter Olympic Games will take place in Vancouver and Whistler from February 12 to 28. As the world's 41  _  athletes will compete there, Canada is preparing for it well. It will be broadcasted in Canada's two 42  _  languages----English and French. Billions of television viewers worldwide will 43  _  the opening ceremony of the 2010 Winter Olympic Games. Athletes from more than 80 44  _  will compete in 86 medal events over 17 days. Then the Paralympics will 45  _  from March 12 to 21. Canada has 46  _  millions of dollars preparing. Thousands of spectators will visit the country. Canada will be 47  ready for  it all. The building of Olympic gyms began in 2005. Opening and closing ceremonies will be held indoors, at BC Place Stadium. It'll 48  _  55,000 seats. Some competitions, 49  _  ski, and bobsled, will take place in Whistler. It's a ski village. During the Games, roads will be closed. More than 15,000 policemen will work to 50  _  the peace throughout the Games. The United States is the only country to host the Winter Games four times. Team USA hopes 2010 will be a golden year.", 
+    "options": [
+        [
+            "worst", 
+            "best", 
+            "cleverest", 
+            "tallest"
+        ], 
+        [
+            "special", 
+            "unusual", 
+            "official", 
+            "ordinary"
+        ], 
+        [
+            "watch", 
+            "notice", 
+            "look", 
+            "hear"
+        ], 
+        [
+            "cities", 
+            "towns", 
+            "villages", 
+            "countries"
+        ], 
+        [
+            "run", 
+            "begin", 
+            "stop", 
+            "end"
+        ], 
+        [
+            "paid", 
+            "took", 
+            "cost", 
+            "spent"
+        ], 
+        [
+            "give", 
+            "serve", 
+            "hold", 
+            "host"
+        ], 
+        [
+            "with", 
+            "including", 
+            "as", 
+            "so"
+        ], 
+        [
+            "keep", 
+            "make", 
+            "let", 
+            "protect"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "A", 
+        "D", 
+        "A", 
+        "D", 
+        "C", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle2498"
+}

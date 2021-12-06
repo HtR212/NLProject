@@ -1,0 +1,71 @@
+{
+    "article": "Jack  _ in a small town in England. He always stays in England  _ his holidays, but this year he thinks, \"I've never been to _ countries. All my friends go to Spain, _ they like it very much, so this year I'm going there, too.\" So he gets on a _ to Spain and  _  at the airport of the capital, Madrid, and stays in a hotel for a few days. On the first morning, he goes _ for a walk. In England people drive on the left, but in Spain they drive on the right. Jack forgets about this, and _ he is walking on a busy street, a bicycle knocks him down\nJack _  on the ground for a few minutes and then he sits up and says, \"Where am I?\" Just then, an old man selling maps goes past him. When he hears Jack's words, he says to him  at once , \"Maps of the city, sir?\"", 
+    "options": [
+        [
+            "flies", 
+            "lives", 
+            "goes", 
+            "drops"
+        ], 
+        [
+            "for", 
+            "off", 
+            "with", 
+            "into"
+        ], 
+        [
+            "all", 
+            "both", 
+            "other", 
+            "any"
+        ], 
+        [
+            "and", 
+            "but", 
+            "though", 
+            "however"
+        ], 
+        [
+            "bus", 
+            "plane", 
+            "train", 
+            "bike"
+        ], 
+        [
+            "reaches", 
+            "leaves", 
+            "arrives", 
+            "stays"
+        ], 
+        [
+            "down", 
+            "up", 
+            "away", 
+            "out"
+        ], 
+        [
+            "before", 
+            "while", 
+            "since", 
+            "after"
+        ], 
+        [
+            "lies", 
+            "stands", 
+            "falls", 
+            "jumps"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "C", 
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle2260"
+}

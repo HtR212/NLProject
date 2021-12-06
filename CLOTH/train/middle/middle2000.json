@@ -1,0 +1,57 @@
+{
+    "article": "People talk with words. Do you think you can talk without words? A smile on your face  shows  that you are happy and friendly. Tears in your eyes tell  others  that you are sad. When you  put up  your hand in class, the teacher knows you want to say  _  or ask questions. You shake your head, and people know you are saying \" no\". You nod and people know you are saying  _  . Other things can also give some  _  . For example, a sign at the bus stop helps you to know which bus to take. A sign on the wall of your school helps you find the library. Signs on doors tell you  _  to go. People talk to each other in many other  _  . An artist uses his pictures to tell about the blue sea, about beautiful mountains and many other things.  _  write books to tell you about all wonderful things in the world and also about people and their ideas. They all help us to know  _  is going on in the world.", 
+    "options": [
+        [
+            "something", 
+            "anything", 
+            "everything", 
+            "nothing"
+        ], 
+        [
+            "no", 
+            "hello", 
+            "yes", 
+            "nothing"
+        ], 
+        [
+            "message", 
+            "saying", 
+            "meaning", 
+            "information"
+        ], 
+        [
+            "which", 
+            "where", 
+            "how", 
+            "what"
+        ], 
+        [
+            "things", 
+            "pictures", 
+            "ways", 
+            "roads"
+        ], 
+        [
+            "Magicians", 
+            "Traders", 
+            "Dentists", 
+            "Writers"
+        ], 
+        [
+            "it", 
+            "what", 
+            "that", 
+            "where"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "D", 
+        "B", 
+        "C", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle2000"
+}

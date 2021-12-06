@@ -1,0 +1,71 @@
+{
+    "article": "Bob likes all kinds of weather.When it's sunny in summer,he usually sits under the tree.It's cool and he can _ books there.When he is tired ,he often lies on the grass and _ .In winter,he likes to sit in the sun when it's sunny, _ sunlight can make people healthy.\nWhen it's raining,he likes listening to the sound of rain.He thinks it is the best _ in the world.When it is snowing,he likes walking in the _ .He often plays _ his friends outside.\nWhen it is windy,he can also do something _ .He usually flies kites in the park in the light wind .He often watches the trees,the flowers and the grass _ in the wind when the wind is strong. _ can dance very well.He thinks the best dancers come from the wind.", 
+    "options": [
+        [
+            "buy", 
+            "read", 
+            "find", 
+            "look"
+        ], 
+        [
+            "relaxes", 
+            "cooks", 
+            "sits", 
+            "waits"
+        ], 
+        [
+            "if", 
+            "but", 
+            "because", 
+            "only"
+        ], 
+        [
+            "music", 
+            "songs", 
+            "subject", 
+            "food"
+        ], 
+        [
+            "snow", 
+            "wind", 
+            "cloud", 
+            "rain"
+        ], 
+        [
+            "in", 
+            "from", 
+            "on", 
+            "with"
+        ], 
+        [
+            "interesting", 
+            "good", 
+            "boring", 
+            "difficult"
+        ], 
+        [
+            "singing", 
+            "saying", 
+            "dancing", 
+            "sleeping"
+        ], 
+        [
+            "It", 
+            "He", 
+            "They", 
+            "Them"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "C", 
+        "A", 
+        "A", 
+        "D", 
+        "A", 
+        "C", 
+        "C"
+    ], 
+    "source": "middle1589"
+}

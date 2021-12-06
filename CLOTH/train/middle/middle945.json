@@ -1,0 +1,57 @@
+{
+    "article": "My name is Simon. I  _  in Toronto, Canada, and I want to have a pen pal in  _  . I think China is a great and  _  country. I'm 14 years old and my  birthday  is in November. I can speak English and a little French. I have a brother, Paul, and a  _  , Sarah.  _  have pen pals in England and Australia. I like going to the movies  _  my friends and  playing  sports. My favorite subject in school is P.E. It's  fun  . But I don't like math. It's too  _  .", 
+    "options": [
+        [
+            "study", 
+            "work", 
+            "live", 
+            "talk"
+        ], 
+        [
+            "Australia", 
+            "England", 
+            "China", 
+            "Canada"
+        ], 
+        [
+            "interesting", 
+            "bad", 
+            "small", 
+            "broing"
+        ], 
+        [
+            "mother", 
+            "brother", 
+            "sister", 
+            "father"
+        ], 
+        [
+            "You", 
+            "They", 
+            "We", 
+            "Brother"
+        ], 
+        [
+            "for", 
+            "to", 
+            "with", 
+            "by"
+        ], 
+        [
+            "exciting", 
+            "interesting", 
+            "difficult", 
+            "different"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "C", 
+        "A", 
+        "C", 
+        "B", 
+        "C", 
+        "C"
+    ], 
+    "source": "middle945"
+}

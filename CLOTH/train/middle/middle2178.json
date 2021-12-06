@@ -1,0 +1,57 @@
+{
+    "article": "I  _  a good friend at school. He is  _  English boy. His  _  is Tom . He is  _  .\u007fWe study  _  No.8 Middle School. But we are not in  the same  class There. I'm in Class Two. His home is behind  _  .Tom's father and mother are teachers. Tom's sister  is not  a student. She is six. She is a nice  _  . Look, today she  is on  a while hat.", 
+    "options": [
+        [
+            "am", 
+            "can", 
+            "have", 
+            "find"
+        ], 
+        [
+            "/", 
+            "a", 
+            "an", 
+            "the"
+        ], 
+        [
+            "teacher", 
+            "name", 
+            "man", 
+            "girl"
+        ], 
+        [
+            "ninth", 
+            "tenth", 
+            "thirteen's", 
+            "fourteen"
+        ], 
+        [
+            "at", 
+            "on", 
+            "to", 
+            "in"
+        ], 
+        [
+            "mine", 
+            "my", 
+            "me", 
+            "I"
+        ], 
+        [
+            "boy", 
+            "girl", 
+            "mother", 
+            "woman"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "C", 
+        "B", 
+        "D", 
+        "A", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle2178"
+}

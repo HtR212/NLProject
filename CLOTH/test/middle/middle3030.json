@@ -1,0 +1,57 @@
+{
+    "article": "One morning Mr. Green is driving around the country and looking for a small bookshop. When he sees an old man on the side of the road, he stops his car and says to  _ old man, \"Excuse me. I want to go to the Sun Bookshop. Do you know it?\"\n\"Yes,\" the old man answers, \"I can show you the way.\" He gets _ Mr. Green's car, and they drive about twelve miles  . _ they come to a small house, the old man says \"Stop here.\" Mr. Green stops and looks at the house in front of _ . But this isn't the _ ,\" he says to the old man. \"Right,\" the old man answers, \"this is my house, and now I'll show you the _ to the bookshop. Turn around and go back nine miles. _ you can see the bookshop\"", 
+    "options": [
+        [
+            "the", 
+            "a", 
+            "an", 
+            "/"
+        ], 
+        [
+            "by", 
+            "at", 
+            "into", 
+            "/"
+        ], 
+        [
+            "Because", 
+            "When", 
+            "Why", 
+            "After"
+        ], 
+        [
+            "her", 
+            "he", 
+            "him", 
+            "they"
+        ], 
+        [
+            "shop", 
+            "hotel", 
+            "sun", 
+            "bookshop"
+        ], 
+        [
+            "street", 
+            "time", 
+            "way", 
+            "car"
+        ], 
+        [
+            "For", 
+            "Then", 
+            "Or", 
+            "But"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "B", 
+        "C", 
+        "D", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle3030"
+}

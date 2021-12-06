@@ -1,0 +1,71 @@
+{
+    "article": "Do you like going to the movies? Most of the  _  in high schools like movies very much. Last Sunday I went to a school and asked some students  _  their favorite movies.  _  of their answers were really interesting. Here are their likes and  _  : Jim, a  13-year-old  boy, likes watching thrillers because they are scary  _  exciting. His classmate, Kate can't stand documentaries . She told me they were  _  parents. But she really likes comedies because they are funny. Jack is a big boy. He said he  _  mind documentaries. But he doesn't like comedies  _  they are boring! And the coolest movies are action movies. Everyone  _  them very much!", 
+    "options": [
+        [
+            "teachers", 
+            "students", 
+            "parents", 
+            "people"
+        ], 
+        [
+            "about", 
+            "of", 
+            "at", 
+            "from"
+        ], 
+        [
+            "Any", 
+            "Some", 
+            "Lot", 
+            "Much"
+        ], 
+        [
+            "dislike", 
+            "dislikes", 
+            "hobbies", 
+            "enjoyments"
+        ], 
+        [
+            "also", 
+            "too", 
+            "but", 
+            "and"
+        ], 
+        [
+            "for", 
+            "with", 
+            "to", 
+            "of"
+        ], 
+        [
+            "can't", 
+            "didn't", 
+            "doesn't", 
+            "couldn't"
+        ], 
+        [
+            "so", 
+            "why", 
+            "because", 
+            "before"
+        ], 
+        [
+            "enjoy", 
+            "enjoys", 
+            "watch", 
+            "watches"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "B", 
+        "B", 
+        "D", 
+        "A", 
+        "B", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle654"
+}

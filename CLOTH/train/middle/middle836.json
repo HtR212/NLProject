@@ -1,0 +1,64 @@
+{
+    "article": "Betty is Australian and Sally is  _  Australian girl too. They are in the same school.  _  houses are far from school. So they get up  _  in the morning and  _  the early bus after breakfast. Sometimes they have lunch in the  _ . Betty likes hamburgers and meat,  _  Sally likes vegetables and fruit. She thinks they are  _ . After lunch Betty goes to play the  _  and Sally goes to the classroom. She sings English songs or  listens to  music. This weekend, they are going to have a picnic with John and Mike. They  will meet  in the park at one o'clock.", 
+    "options": [
+        [
+            "a", 
+            "an", 
+            "the", 
+            "/"
+        ], 
+        [
+            "They", 
+            "Their", 
+            "Them", 
+            "Then"
+        ], 
+        [
+            "late", 
+            "lately", 
+            "early", 
+            "fast"
+        ], 
+        [
+            "by", 
+            "take", 
+            "on", 
+            "in"
+        ], 
+        [
+            "home", 
+            "restaurant", 
+            "shop", 
+            "airport"
+        ], 
+        [
+            "and", 
+            "or", 
+            "but", 
+            "also"
+        ], 
+        [
+            "unhealthy", 
+            "healthy", 
+            "bad", 
+            "well"
+        ], 
+        [
+            "piano", 
+            "basketball", 
+            "tennis", 
+            "chess"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "B", 
+        "C", 
+        "B", 
+        "B", 
+        "C", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle836"
+}

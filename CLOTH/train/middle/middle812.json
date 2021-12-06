@@ -1,0 +1,64 @@
+{
+    "article": "We see many animals, like rabbits, bees, dogs, birds, sheep...,but do you know _ these animals say things? First,let's see a rabbit. When a rabbit sees _ dangerous ,it runs away at once. When it runs, its tail moves up and _ .When others see this, they run away, _ .\nMany other animals use this kind of language . When a bee has found some food,  it goes back to _ home. It cannot tell the other bees where the food is by speaking to them,but it does a little dance in the air. This may tell other bees _ the food is.\nSome animals say things by _ sounds like a man does. For example,a dog barks when a stranger comes near. Some birds can make several _ sounds,  each with its own meaning. In a word, every animal has its own language.", 
+    "options": [
+        [
+            "how", 
+            "when", 
+            "why", 
+            "where"
+        ], 
+        [
+            "nothing", 
+            "something", 
+            "anything", 
+            "everything"
+        ], 
+        [
+            "up", 
+            "again", 
+            "down", 
+            "on"
+        ], 
+        [
+            "also", 
+            "too", 
+            "either", 
+            "back"
+        ], 
+        [
+            "their", 
+            "they're", 
+            "its", 
+            "it's"
+        ], 
+        [
+            "what", 
+            "how", 
+            "where", 
+            "whose"
+        ], 
+        [
+            "making", 
+            "make", 
+            "taking", 
+            "take"
+        ], 
+        [
+            "strange", 
+            "interesting", 
+            "useful", 
+            "different"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "C", 
+        "B", 
+        "C", 
+        "C", 
+        "A", 
+        "D"
+    ], 
+    "source": "middle812"
+}

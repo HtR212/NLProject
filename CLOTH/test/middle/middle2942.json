@@ -1,0 +1,71 @@
+{
+    "article": "I'm a middle school student. In the past, I had some bad  _  I hardly had breakfast  _  I usually got up late. I didn't like exercising. I  _  exercised one to two times a month. In the evening, I always watched TV  _  more than two hours. Then I  _  the Internet.. I liked to play computer games. So I often stayed up late. My parents thought staying up late was bad for my health, so they were not  _  with that. One day, I fainted in a P.E.class. When I  woke up  , I was in the hospital. The doctor said that my classmates sent  _  there. He said that I was in poor  _  . Then he told me to eat breakfast every day and do more exercise. From then on, I  _  to give up my bad habits. Now I usually get up early and have a good breakfast. After school, I always play sports with my friends. It's fun and good for my health.", 
+    "options": [
+        [
+            "activities", 
+            "habits", 
+            "buildings", 
+            "programs"
+        ], 
+        [
+            "although", 
+            "that", 
+            "because", 
+            "if"
+        ], 
+        [
+            "only", 
+            "least", 
+            "quite", 
+            "never"
+        ], 
+        [
+            "after", 
+            "for", 
+            "through", 
+            "below"
+        ], 
+        [
+            "waited", 
+            "saw", 
+            "bought", 
+            "used"
+        ], 
+        [
+            "happy", 
+            "bored", 
+            "afraid", 
+            "different"
+        ], 
+        [
+            "me", 
+            "her", 
+            "him", 
+            "us"
+        ], 
+        [
+            "percent", 
+            "difference", 
+            "magazine", 
+            "health"
+        ], 
+        [
+            "asked", 
+            "decided", 
+            "stopped", 
+            "disliked"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "A", 
+        "B", 
+        "D", 
+        "A", 
+        "A", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle2942"
+}

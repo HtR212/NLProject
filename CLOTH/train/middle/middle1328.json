@@ -1,0 +1,43 @@
+{
+    "article": "Mr.Smith teaches English in a middle school.He has two children. They are  twin brothers  . Mr. Smith calls them Mike and Dick. Jim and Alex are Mr. Smith's students. They often go to see the twins and  _  with them at home. Sometimes, they  _  something to Dick and Mike. On Saturday, they go to Mr. Smith's. When the twins see Jim and Alex, they are very happy. Jim asks Mike, \"  How old  are you, Mike?\" \"Three.\" Mike answers. Alex behind Jim says, \"Dick and Mike. Look! Pears. Don't you want  to eat  ? Well, I have a  _  . If one of you can answer well, I will  _  him one.\" The twins  listen to  Alex carefully. \"I have two pears, now I eat one. How many do I have, then?\" \"One.\" Dick says. Mike answers, \"Two.\" \"Two?\" Jim says, \"  _  ?\" \"Oh, one is inside and  the other  is outside.\"", 
+    "options": [
+        [
+            "study", 
+            "eat", 
+            "play", 
+            "work"
+        ], 
+        [
+            "borrow", 
+            "buy", 
+            "pass", 
+            "bring"
+        ], 
+        [
+            "game", 
+            "problem", 
+            "question", 
+            "puzzle"
+        ], 
+        [
+            "give", 
+            "catch", 
+            "draw", 
+            "finish"
+        ], 
+        [
+            "How", 
+            "Where", 
+            "Why", 
+            "What"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "D", 
+        "C", 
+        "A", 
+        "C"
+    ], 
+    "source": "middle1328"
+}

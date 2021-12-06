@@ -1,0 +1,71 @@
+{
+    "article": "Hi! I'm Tony. I love weekends! I always get up late on weekends. For breakfast, I only have _ . It's usually an apple. I have a big lunch. After lunch, I like to eat ice-cream. It tastes _ . In the afternoon, I like to _ . I usually play basketball. _ I swim. In the evening, I clean the house  -- I like _ rooms. I always go to bed late, at about 23:00. _ my sister doesn't like weekends. She has a job in a big store and she always _ on weekends. She never goes out _ her friends. She usually gets home from work at 22:00. After taking a shower, she goes to bed . Sometimes she reads in bed. But don't ask her _ she reads. She always falls asleep   after reading one or two pages  .", 
+    "options": [
+        [
+            "eggs", 
+            "milk", 
+            "vegetables", 
+            "fruit"
+        ], 
+        [
+            "good", 
+            "welcome", 
+            "useful", 
+            "happy"
+        ], 
+        [
+            "sing", 
+            "draw", 
+            "exercise", 
+            "read"
+        ], 
+        [
+            "Only", 
+            "Always", 
+            "Really", 
+            "Sometimes"
+        ], 
+        [
+            "tidy", 
+            "busy", 
+            "small", 
+            "old"
+        ], 
+        [
+            "And", 
+            "So", 
+            "But", 
+            "Because"
+        ], 
+        [
+            "writes", 
+            "works", 
+            "calls", 
+            "plays"
+        ], 
+        [
+            "about", 
+            "from", 
+            "of", 
+            "with"
+        ], 
+        [
+            "when", 
+            "what", 
+            "who", 
+            "Where"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "A", 
+        "C", 
+        "D", 
+        "A", 
+        "C", 
+        "B", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle989"
+}

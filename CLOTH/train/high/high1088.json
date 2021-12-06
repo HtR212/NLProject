@@ -1,0 +1,43 @@
+{
+    "article": "Mr. Smith gave his wife ten pounds for her birthday.The day after her birthday Mrs. Smith went shopping.She got on  a bus  and sat down next to an old lady.  After a while  she noticed that the old lady's handbag was  _  .Inside it, she found a wad of pound notes  exactly like  the one her husband had given her. She quickly  looked into  her own bag--the notes were  _  .Mrs. Smith was now sure that the old lady sitting  next to  her must have stolen them.She thought  she would  not have to call the  police  as she didn't like getting people  into trouble  . So she decided to take back the money  _  the lady's handbag and say  _  about it.She looked around the bus to make sure  _  was watching, then she carefully put her hand into  the old lady's  handbag, took out the notes and  put them into  her own handbag. When she got home that evening, she showed  her husband  the beautiful hat she had bought.\"How did you  pay for  it?\" he asked.\"  With the money  you gave me for my birthday, of course.\"\"Oh,  what's that  then?\" he asked, as he  pointed to  a wad of pound notes on the table.", 
+    "options": [
+        [
+            "good", 
+            "old", 
+            "open", 
+            "shut"
+        ], 
+        [
+            "gone", 
+            "missed", 
+            "disappear", 
+            "found"
+        ], 
+        [
+            "into", 
+            "out", 
+            "away", 
+            "from"
+        ], 
+        [
+            "something", 
+            "everything", 
+            "anything", 
+            "nothing"
+        ], 
+        [
+            "nothing", 
+            "somebody", 
+            "nobody", 
+            "neither"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "D", 
+        "D", 
+        "C"
+    ], 
+    "source": "high1088"
+}

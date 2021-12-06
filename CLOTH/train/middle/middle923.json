@@ -1,0 +1,57 @@
+{
+    "article": "This is a photo  _  a classroom. It's a big room. In the photo, you can see a table, some  desks and chairs  . You can see a teacher and two students ,  _  Three  _  are on the table. A pencil case is on the desk. Two pens and two rulers are in  the  pencil case. A schoolbag  _  behind a chair. The lady is the Chinese teacher. Her name is  Wang Ying  . One student is Jack. He is 12. The other student is Mike.  _  is 11. They are in Class 8. They're good  _  .  _  math teacher is Mr. Brown. He is not here.", 
+    "options": [
+        [
+            "to", 
+            "of", 
+            "for", 
+            "in"
+        ], 
+        [
+            "too", 
+            "please", 
+            "yes", 
+            "OK"
+        ], 
+        [
+            "book", 
+            "books", 
+            "pen", 
+            "photo"
+        ], 
+        [
+            "am", 
+            "are", 
+            "is", 
+            "does"
+        ], 
+        [
+            "He", 
+            "His", 
+            "He's", 
+            "Him"
+        ], 
+        [
+            "girls", 
+            "friends", 
+            "sisters", 
+            "teachers"
+        ], 
+        [
+            "His", 
+            "Her", 
+            "Their", 
+            "They"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "B", 
+        "C", 
+        "A", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle923"
+}

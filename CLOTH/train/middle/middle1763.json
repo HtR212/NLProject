@@ -1,0 +1,57 @@
+{
+    "article": "Once there was an old man in a town. He always forgot a lot of things. So his wife always had to say to him,\"Don't forget this!\"\nOne day he went on a long trip alone. Before he _ home, his wife said,\"Now you have all these _ . They are what you need for your trip. Take care of your things during the trip.\" He went to the station, bought a ticket and got on the train with it.\nAbout half _ hour later, the conductor  began to see the tickets. He came to the old man and _ , \"Will you please show me your ticket?\" The old man looked for his ticket in all his pockets, but he could not find _ . He was very worried. \"I can't find my ticket. I really bought a ticket _ I got on the train,\" said the old man.\n\"I believe you bought a ticket. All right, you don't have to buy another one,\" said the conductor kindly. \"But how can I know where I'm going? I can't _ my station!\" the old man said sadly.", 
+    "options": [
+        [
+            "got", 
+            "left", 
+            "went", 
+            "moved"
+        ], 
+        [
+            "money", 
+            "clothes", 
+            "tickets", 
+            "things"
+        ], 
+        [
+            "a", 
+            "an", 
+            "the", 
+            "this"
+        ], 
+        [
+            "say", 
+            "said", 
+            "says", 
+            "saying"
+        ], 
+        [
+            "it", 
+            "this", 
+            "that", 
+            "ticket"
+        ], 
+        [
+            "when", 
+            "till", 
+            "before", 
+            "after"
+        ], 
+        [
+            "forget", 
+            "get", 
+            "remember", 
+            "see"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "B", 
+        "B", 
+        "A", 
+        "C", 
+        "C"
+    ], 
+    "source": "middle1763"
+}

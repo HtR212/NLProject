@@ -1,0 +1,64 @@
+{
+    "article": "Jim is a middle school student now. He's very  _  to come to the new school. He  has many new teachers and friends.  _  are all very friendly.  .\nHe often gets up at 7:00 in the morning.  _  he eats breakfast at 7:20. He usually comes to school at 7:40. Classes  _  at 8:00. He has Maths, Chinese, English lessons  _  8:00 to 11:00. In the afternoon, he has other lessons  like  Music, Art, PE and Computer. He often plays  _  his classmates after 5:00. He likes playing football. He eats dinner at 6:30. Usually he doesn't  _  TV in the evening. He does his homework. He goes to bed at about 9:20. He  _  his day very much.", 
+    "options": [
+        [
+            "beautiful", 
+            "sorry", 
+            "happy", 
+            "late"
+        ], 
+        [
+            "They", 
+            "He", 
+            "We", 
+            "Their"
+        ], 
+        [
+            "Then", 
+            "After", 
+            "When", 
+            "Again"
+        ], 
+        [
+            "begins", 
+            "begin", 
+            "have", 
+            "has"
+        ], 
+        [
+            "at", 
+            "from", 
+            "about", 
+            "in"
+        ], 
+        [
+            "and", 
+            "to", 
+            "with", 
+            "of"
+        ], 
+        [
+            "look", 
+            "read", 
+            "see", 
+            "watch"
+        ], 
+        [
+            "works", 
+            "starts", 
+            "studies", 
+            "enjoys"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "A", 
+        "B", 
+        "B", 
+        "C", 
+        "D", 
+        "D"
+    ], 
+    "source": "middle1303"
+}

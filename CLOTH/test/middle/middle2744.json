@@ -1,0 +1,50 @@
+{
+    "article": "Hi, everybody! Welcome to Taiwan! Now I would like to show you _ this island. After that, you will find that it is as beautiful as many other places in our country.\nDo you know anything about the Sun Moon Lake? You _ ask why people call it so. If you fly high up _ the lake and look down from the plane, you will find the answer by yourself. In the middle of this lake, there is a small island. People call it Pearl Island  because it _ like a pearl. On one side of Pearl Island, this lake is like the sun and on the other side it is like the moon. That is _ people call the lake the Sun Moon Lake.\nThere are many mountains around this lake. The Ali Mountain is near the Sun Moon Lake. We will stay there _ three days. You can also have a dance party with the local people. You can climb the mountain and watch the sun go down slowly in the west. Of course, you can get up early and enjoy the beautiful sunrise  in the morning.\nNow, do you think Taiwan is a wonderful place to visit ?", 
+    "options": [
+        [
+            "below", 
+            "over", 
+            "of", 
+            "around"
+        ], 
+        [
+            "want", 
+            "may", 
+            "can", 
+            "need"
+        ], 
+        [
+            "on", 
+            "in", 
+            "over", 
+            "past"
+        ], 
+        [
+            "sound", 
+            "looks", 
+            "sees", 
+            "watches"
+        ], 
+        [
+            "when", 
+            "why", 
+            "what", 
+            "where"
+        ], 
+        [
+            "for", 
+            "with", 
+            "in", 
+            "till"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "B", 
+        "C", 
+        "B", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle2744"
+}

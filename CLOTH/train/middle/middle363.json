@@ -1,0 +1,71 @@
+{
+    "article": "This year I go to a new middle school. I love _ very much. It's very big and clean. We have _ buildings -- one is for studying, and the other one is for living. We have three _ . We do experiments  there. I like doing experiments. I think it's very _ . There are 50 computers in the computer room, _ we all love Computer class. There are a lot of flowers, grass and trees on the playground. We often sit there and draw pictures of them in _ class.\nIn this school, teachers and students are like friends. I enjoy _ here. I like all the subjects and teachers. How _ your school life? Do you like it, too? Please write and _ me.", 
+    "options": [
+        [
+            "her", 
+            "it", 
+            "him", 
+            "you"
+        ], 
+        [
+            "two", 
+            "one", 
+            "three", 
+            "Four"
+        ], 
+        [
+            "libraries", 
+            "gyms", 
+            "buildings", 
+            "Labs"
+        ], 
+        [
+            "busy", 
+            "interesting", 
+            "nice", 
+            "clean"
+        ], 
+        [
+            "and", 
+            "so", 
+            "but", 
+            "or"
+        ], 
+        [
+            "Chinese", 
+            "English", 
+            "M.E.", 
+            "Art"
+        ], 
+        [
+            "studying", 
+            "singing", 
+            "drawing", 
+            "sleeping"
+        ], 
+        [
+            "for", 
+            "with", 
+            "about", 
+            "as"
+        ], 
+        [
+            "speak", 
+            "say", 
+            "tell", 
+            "ask"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "D", 
+        "B", 
+        "A", 
+        "D", 
+        "A", 
+        "C", 
+        "C"
+    ], 
+    "source": "middle363"
+}

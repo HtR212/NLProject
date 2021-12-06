@@ -1,0 +1,71 @@
+{
+    "article": "Dear Peter,\nSchool is going well. I am so _ and I have little time to go out and play _ the weekend. I always go to the library to _ newspapers or study English.\nIf you have time, you can come to _ me. You can go straight down Centre Street. _ you see Blue Bar, just turn left. The name of my apartment   is Victor. That's easy to _ . I like my house. It isn't very big _ it's a nice home. If you come to my house, we can watch movies and we can _ Chinese food. I'm often at home after 7 pm, and I go to bed at around 10:30 pm every day because I have to go to school early the next morning. You can give me a _ before you come. Hope to see you soon.\nYour best friend,\nLinda", 
+    "options": [
+        [
+            "lazy", 
+            "busy", 
+            "happy", 
+            "sorry"
+        ], 
+        [
+            "in", 
+            "with", 
+            "on", 
+            "for"
+        ], 
+        [
+            "read", 
+            "see", 
+            "buy", 
+            "look"
+        ], 
+        [
+            "tell", 
+            "teach", 
+            "visit", 
+            "help"
+        ], 
+        [
+            "So", 
+            "Because", 
+            "Where", 
+            "When"
+        ], 
+        [
+            "find", 
+            "look", 
+            "pay", 
+            "answer"
+        ], 
+        [
+            "and", 
+            "but", 
+            "or", 
+            "so"
+        ], 
+        [
+            "sell", 
+            "talk", 
+            "cook", 
+            "do"
+        ], 
+        [
+            "call", 
+            "number", 
+            "time", 
+            "report"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "A", 
+        "C", 
+        "D", 
+        "A", 
+        "B", 
+        "C", 
+        "A"
+    ], 
+    "source": "middle820"
+}

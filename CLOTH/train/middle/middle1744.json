@@ -1,0 +1,71 @@
+{
+    "article": "This is a photo of Mr. King's family. Mr. and Mrs. King have got three children. They  _  in England. Mrs. King is  _  English teacher. Mr. King is a math teacher.  _  daughter is eleven and  _  is a student. Her name is Kate King. Kate is her  _  name. She is  _  Class Four Grade Seven in No. 1 Middle School. There are thirty students in her class. Her favourite season is summer, because it's  _  and she can swim. Tom and David are Kate's brothers. They are nine years old. They are  _  , too. They go to school in the morning. Tom and David like playing  _  and they play it every day. Their favourite drink is  milk  . They love their sister very much.", 
+    "options": [
+        [
+            "are", 
+            "is", 
+            "am", 
+            "/"
+        ], 
+        [
+            "a", 
+            "an", 
+            "the", 
+            "/"
+        ], 
+        [
+            "Your", 
+            "Its", 
+            "Their", 
+            "Our"
+        ], 
+        [
+            "he", 
+            "his", 
+            "she", 
+            "her"
+        ], 
+        [
+            "first", 
+            "last", 
+            "family", 
+            "middle"
+        ], 
+        [
+            "in", 
+            "for", 
+            "on", 
+            "with"
+        ], 
+        [
+            "warm", 
+            "hot", 
+            "cool", 
+            "cold"
+        ], 
+        [
+            "friends", 
+            "sisters", 
+            "students", 
+            "women"
+        ], 
+        [
+            "school", 
+            "teachers", 
+            "Chinese", 
+            "football"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "C", 
+        "C", 
+        "A", 
+        "A", 
+        "B", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle1744"
+}

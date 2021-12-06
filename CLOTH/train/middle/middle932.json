@@ -1,0 +1,71 @@
+{
+    "article": "A: Good afternoon, Helen. Look! _ is a photo.\nB: Oh! It's a(n) _ photo. Is it your family, Eric?\nA: Yes! Can you see me in the _ ?\nB: _ the boy you?\nA: Yes.\nB: Are these your parents?\nA: Yes, _ are.\nB: Who is the _ ?\nA: She is my sister.\nB: Is the tall   boy your brother?\nA: No. He is my uncle's son. He is my _ .\nB: _ his name?\nA: Paul Miller.\nB: What's his telephone number ?\nA: It's 698-4569.\nB: Oh, I see. Well, _ a good day!\nA: Thanks! You, too.", 
+    "options": [
+        [
+            "Here", 
+            "She", 
+            "They", 
+            "He"
+        ], 
+        [
+            "first", 
+            "fine", 
+            "middle", 
+            "nice"
+        ], 
+        [
+            "map", 
+            "picture", 
+            "school", 
+            "pen"
+        ], 
+        [
+            "Be", 
+            "Am", 
+            "Is", 
+            "Are"
+        ], 
+        [
+            "you", 
+            "they", 
+            "those", 
+            "these"
+        ], 
+        [
+            "friend", 
+            "son", 
+            "girl", 
+            "dog"
+        ], 
+        [
+            "cousin", 
+            "grandfather", 
+            "father", 
+            "uncle"
+        ], 
+        [
+            "What", 
+            "Who", 
+            "What's", 
+            "Who's"
+        ], 
+        [
+            "see", 
+            "have", 
+            "meet", 
+            "say"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "B", 
+        "C", 
+        "B", 
+        "C", 
+        "A", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle932"
+}

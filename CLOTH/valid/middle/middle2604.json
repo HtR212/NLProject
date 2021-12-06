@@ -1,0 +1,71 @@
+{
+    "article": "My aunt, Jenny Lee lives in a town in Canada. She has a _ face like the sun. Her favorite _ is Hu Xinger. Now she's in the _ Wonderful Friends(<<>> )with five other stars. They live and play with many kinds of _ in the zoo in Guangzhou. These animals are very cute.\nMy aunt often tells stories about animals to her son. Today she wants to take him to the _ to see animals. In the morning, Jenny gets up early and helps her son get dressed. They can _ the subway to the zoo easily. Her son is only five years old, so he doesn't need to pay for the ticket . It's _ . At the zoo, they watch the monkeys _ the trees. After lunch they enjoy drinking _ in the park. They like to spend time in the park. In the evening, they have dinner in a restaurant and go home. The restaurant is near their house.", 
+    "options": [
+        [
+            "long", 
+            "round", 
+            "short", 
+            "tall"
+        ], 
+        [
+            "actor", 
+            "actress", 
+            "police", 
+            "teacher"
+        ], 
+        [
+            "movie", 
+            "book", 
+            "newspaper", 
+            "show"
+        ], 
+        [
+            "persons", 
+            "animals", 
+            "mountains", 
+            "trees"
+        ], 
+        [
+            "cinema", 
+            "bank", 
+            "hospital", 
+            "zoo"
+        ], 
+        [
+            "by", 
+            "get", 
+            "take", 
+            "ride"
+        ], 
+        [
+            "busy", 
+            "bad", 
+            "free", 
+            "young"
+        ], 
+        [
+            "crossing", 
+            "putting", 
+            "making", 
+            "climbing"
+        ], 
+        [
+            "juice", 
+            "salad", 
+            "vegetables", 
+            "fruits"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "B", 
+        "A", 
+        "B", 
+        "D", 
+        "C", 
+        "C", 
+        "D", 
+        "A"
+    ], 
+    "source": "middle2604"
+}

@@ -1,0 +1,64 @@
+{
+    "article": "Traffic rules help to keep order on the road. They also help to keep people  _  . The pedestrian has as many rules to  _  as the driver of a car. You should walk on the sidewalk or at the side of the road. Always look  _  before you walk across the street. If you like riding a bike, don't ride in the middle of the road or run  _  red traffic lights. When you ride a bike with a friend, don't look around or talk. If you drive a car, you should  slow down  at the traffic lights. You must always  _  a seat belt . Without belts  _  the driver and the passengers may be badly hurt in a sudden accident. You may not need to take a bus, but  take care  if you have to travel in one. Get on or get off a bus only when it comes to a  _  . When it is full, don't try to get inside  _  you may fall off. Traffic rules are also called Road Safety rules. The maxim for all road users is \"Thinking about others\".", 
+    "options": [
+        [
+            "healthy", 
+            "safe", 
+            "happy", 
+            "careful"
+        ], 
+        [
+            "follow", 
+            "make", 
+            "break", 
+            "pass"
+        ], 
+        [
+            "happy", 
+            "happily", 
+            "careful", 
+            "carefully"
+        ], 
+        [
+            "through", 
+            "across", 
+            "along", 
+            "around"
+        ], 
+        [
+            "take", 
+            "wear", 
+            "carry", 
+            "bring"
+        ], 
+        [
+            "half", 
+            "none", 
+            "both", 
+            "all"
+        ], 
+        [
+            "sign", 
+            "stop", 
+            "corner", 
+            "crossing"
+        ], 
+        [
+            "and", 
+            "so", 
+            "or", 
+            "but"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "D", 
+        "A", 
+        "B", 
+        "C", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle2173"
+}

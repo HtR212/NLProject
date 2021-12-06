@@ -1,0 +1,64 @@
+{
+    "article": "These days, a new kind of restaurant is becoming popular. People who go there can not only enjoy their  _  , they can also enjoy playing computer games and  have fun  with their family and friends on the Internet. uWink is the restaurant's name. It is in Los Angeles, and it's about fun and food. In uWink, there are  _  waiters or waitresses around you. The screens have replaced them. You can order the food you want by touching the screen in front of you and runners will bring  _  to the tables. You can  _  play video games with the people at the next table. The screens can show music videos, movies and so on, though mainly they  are used to  show video games. It's an interactive restaurant  _  you will control your meal and your fun. The service is fast and the runners know clearly where to go. There will be no waiting for a waiter, and no misunderstandings in the  _  . Different kinds of foods are  _  at any time of a day. uWink is a place which hosts \"room games\" too, where every table in the restaurant can have a video game competition at the same  _  . The owner of the restaurant hopes that uWink can make it easy for people to be interactive, have fun and enjoy a delicious meal.", 
+    "options": [
+        [
+            "music", 
+            "meals", 
+            "activities", 
+            "smile"
+        ], 
+        [
+            "no", 
+            "enough", 
+            "some", 
+            "few"
+        ], 
+        [
+            "them", 
+            "her", 
+            "him", 
+            "it"
+        ], 
+        [
+            "only", 
+            "hardly", 
+            "also", 
+            "always"
+        ], 
+        [
+            "which", 
+            "where", 
+            "what", 
+            "that"
+        ], 
+        [
+            "shop", 
+            "school", 
+            "window", 
+            "kitchen"
+        ], 
+        [
+            "served", 
+            "cleaned", 
+            "bought", 
+            "taken"
+        ], 
+        [
+            "year", 
+            "money", 
+            "time", 
+            "food"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "D", 
+        "C", 
+        "B", 
+        "D", 
+        "A", 
+        "C"
+    ], 
+    "source": "middle1733"
+}

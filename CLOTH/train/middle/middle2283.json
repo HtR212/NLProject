@@ -1,0 +1,57 @@
+{
+    "article": "Mary Smith  _  a girl.  _  is a student.  Smith  is  _  family name and Mary is her  _  name. Her  _  number is 806-8027 and her ID number  is  8283928655. Her mother  _  a worker. She and  _  mother  look  the same.", 
+    "options": [
+        [
+            "am", 
+            "are", 
+            "is", 
+            "aren't"
+        ], 
+        [
+            "she", 
+            "She", 
+            "He", 
+            "I"
+        ], 
+        [
+            "her", 
+            "she", 
+            "she's", 
+            "his"
+        ], 
+        [
+            "family", 
+            "last", 
+            "middle", 
+            "first"
+        ], 
+        [
+            "phone", 
+            "ID", 
+            "bus", 
+            "card"
+        ], 
+        [
+            "are", 
+            "is", 
+            "am", 
+            "aren't"
+        ], 
+        [
+            "her", 
+            "Her", 
+            "his", 
+            "His"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "A", 
+        "D", 
+        "A", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle2283"
+}

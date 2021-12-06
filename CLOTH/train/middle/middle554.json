@@ -1,0 +1,57 @@
+{
+    "article": "Alice comes from Austria.She is eighteen years old.She will _ with the Black family for a year.Alice comes to England _ she wants to study English.She helps Mrs Black in the _ and goes to English classes every Wednesday and Friday afternoon.Alice is _ in London. _ is strange to her.She finds life is different from that in Vienna.\nSome things are _ in London,other things are not so nice.The shops are bigger in London than in Vienna.But it's very dear to enjoy yourself in London.It's dear to have a meal at a restaurant or go to a cinema.\nAlice has got used to many things already,but she can't get used to breakfast in England.\"You English eat so much in the morning.\"she often says.\"Fruits,porridge,eggs,tea and bread.How can you face all that food so _ in the day?\"", 
+    "options": [
+        [
+            "stay", 
+            "talk", 
+            "move", 
+            "play"
+        ], 
+        [
+            "when", 
+            "why", 
+            "because", 
+            "how"
+        ], 
+        [
+            "London", 
+            "hospital", 
+            "house", 
+            "school"
+        ], 
+        [
+            "old", 
+            "new", 
+            "not", 
+            "student"
+        ], 
+        [
+            "Something", 
+            "Anything", 
+            "Nothing", 
+            "Everything"
+        ], 
+        [
+            "nice", 
+            "nicer", 
+            "nicest", 
+            "worse"
+        ], 
+        [
+            "early", 
+            "late", 
+            "many", 
+            "much"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "C", 
+        "B", 
+        "D", 
+        "A", 
+        "A"
+    ], 
+    "source": "middle554"
+}

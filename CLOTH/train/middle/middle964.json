@@ -1,0 +1,64 @@
+{
+    "article": "This boy is Jim. He is thirteen. He's  _  English boy. This is his school. His school  _  number is 832 147. He's  _  Class Two. His teacher is Miss White. Miss White is a good  _  . She teaches English. Li Rui is Jim's good  _  at school. He is a Chinese boy. He is in Class Two,  _  . Look! This is Jim's  schoolbag  . It's blue. There  _  five books and three pencils in it.  _  is Jim's favourite day. He can play  football  with his friends.", 
+    "options": [
+        [
+            "a", 
+            "an", 
+            "the", 
+            "/"
+        ], 
+        [
+            "telephone", 
+            "room", 
+            "car", 
+            "class"
+        ], 
+        [
+            "at", 
+            "on", 
+            "in", 
+            "of"
+        ], 
+        [
+            "student", 
+            "room", 
+            "car", 
+            "teacher"
+        ], 
+        [
+            "friend", 
+            "student", 
+            "girlfriend", 
+            "father"
+        ], 
+        [
+            "to", 
+            "two", 
+            "too", 
+            "or"
+        ], 
+        [
+            "am", 
+            "is", 
+            "are", 
+            "be"
+        ], 
+        [
+            "Monday", 
+            "Thursday", 
+            "Sunday", 
+            "Friday"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "C", 
+        "D", 
+        "A", 
+        "C", 
+        "C", 
+        "C"
+    ], 
+    "source": "middle964"
+}

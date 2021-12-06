@@ -1,0 +1,36 @@
+{
+    "article": "Have you ever heard of Agatha Christie, an excellent writer? Agatha Christie is, without a doubt,  the most famous  mystery writer in the world. Her books have been translated into more than 100 languages. All 77 novels and story collections she wrote are still on the market 25 years after her  _  . Agatha Christie was born in 1890 in a southwest England seaside town. She enjoyed a very comfortable childhood in a big house with  plenty of  servants . Agatha was known  _  an imaginative child. With her sister and brother away at school, she often played alone. She passed the time by making up stories which she told to  herself  . Agatha Christie's first novel was published in 1920. In it, she  _  one of her most popular characters, Belgian detective Hercule Poirot. He went on to appear in 33 of her novels, and in several movies  as well  . Although Poirot appears again and again in her novels, Christie certainly could not be considered as repeating her ideas. Her powers of invention and her ability to surprise continue to attract  millions of  readers around the world. Christie also wrote several  _  . One of these, \"The Mousetrap\", became the longest-running play in the history of theater. It is about a murder mystery that  takes place", 
+    "options": [
+        [
+            "loss", 
+            "birth", 
+            "death", 
+            "arrival"
+        ], 
+        [
+            "as", 
+            "like", 
+            "by", 
+            "for"
+        ], 
+        [
+            "created", 
+            "produced", 
+            "built", 
+            "continued"
+        ], 
+        [
+            "stories", 
+            "plays", 
+            "movies", 
+            "comedies"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle313"
+}

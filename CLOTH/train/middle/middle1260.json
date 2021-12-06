@@ -1,0 +1,43 @@
+{
+    "article": "Daming is a middle school student. He is a good boy. Uncle Wu lives next to him. Uncle Wu doesn't have any children and he can't see anything. He works in the factory near Daming's  _ . He goes to work at 7:30 in the morning and comes home at 4:30 in the afternoon. Daming goes to school at 8:00 in the morning and comes home at the _ time as Uncle Wu in the afternoon. _ weekdays Daming gets up early to take Uncle Wu _ the factory. After school he takes Uncle Wu home. On Sundays Daming helps Uncle Wu clean the house and do some other _ .Uncle Wu thanks Daming very much. He says, \"Daming is a good boy. He is like my son. \"", 
+    "options": [
+        [
+            "school", 
+            "home", 
+            "factory", 
+            "hospital"
+        ], 
+        [
+            "same", 
+            "morning", 
+            "different", 
+            "dinner"
+        ], 
+        [
+            "In", 
+            "On", 
+            "At", 
+            "Of"
+        ], 
+        [
+            "in", 
+            "from", 
+            "to", 
+            "with"
+        ], 
+        [
+            "shopping", 
+            "reading", 
+            "homework", 
+            "housework"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "A", 
+        "B", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle1260"
+}

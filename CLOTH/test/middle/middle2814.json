@@ -1,0 +1,50 @@
+{
+    "article": "Dear Aunt Kate,\nThank you very much for inviting me  to stay  with you for a week in summer holiday. It's very kind  _  you. I always like staying at your home in the countryside because it is so  _  there. In Shanghai, our house is near Hongqiao Airport. Planes often fly right over us, so it is very _  sometimes. And there is also a factory near our house, and that  _  a lot of noise, too.\nI am sure I will have a good time there.\n _  is Uncle John? I believe he is feeling a little  better now. We were very sorry to hear about his  _ , I have drawn a picture for him and I  will bring  it with me when I visit you. Mother and Father send him their best wishes, and I  hope  he will soon be well..", 
+    "options": [
+        [
+            "of", 
+            "for", 
+            "at", 
+            "with"
+        ], 
+        [
+            "empty", 
+            "quiet", 
+            "horrible", 
+            "serious"
+        ], 
+        [
+            "noise", 
+            "noised", 
+            "noise", 
+            "noises"
+        ], 
+        [
+            "make", 
+            "makes", 
+            "made", 
+            "making"
+        ], 
+        [
+            "What", 
+            "When", 
+            "Why", 
+            "How"
+        ], 
+        [
+            "ill", 
+            "illness", 
+            "bad", 
+            "badness"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "C", 
+        "B", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle2814"
+}

@@ -1,0 +1,57 @@
+{
+    "article": "There lived a young man in a village. He was born in a  _  family. His parents had a lot of farms and got much money . He was in school for only four years, but he thought he knew all.  _  the villagers called him Mr. Know-All. And he told his servants not to tell him the results directly . The servants . were afraid of him and had to listen to him. One day Mr. Know-All went to  visit  his friend who lived in a town. He stayed there for nearly a week. Suddenly one of his servants came and called out, \"  Bad news  , sir!\" \"What happened?\" \"Your cat has died!\" \"What's there to be surprised at ?\" said the young man. \"Throw it to the river. By the way, of what illness did it die?\" \"It  _  much meat of the horse and died.\" \"What? Has my horse died, too? And what illness did it die of, then?\" \"It pulled the carried to the hospital,\" said the servant. \" We made it  _  as fast as possible. When we reached the hospital, it was so tired that it couldn't  _  up any longer and died.\" \"Wait a minute,\" said Mr Know-All. \"What did you go to the hospital for?\" \"To  _  your mother there.\" \"What's the matter with my mother?\" \"She  _  down stairs and hurt her head. We sent her to the hospital, but it was too late. The doctors operated on her at once, they tried their best to save her, but she died!\" Mr Know-All became angry and shouted, \"Why didn't you tell me about it  earlier  ?\" \"You never let us tell you the results directly, sir.\"", 
+    "options": [
+        [
+            "worker's", 
+            "teacher's", 
+            "farmer's", 
+            "soldier's"
+        ], 
+        [
+            "But", 
+            "Then", 
+            "Or", 
+            "So"
+        ], 
+        [
+            "ate", 
+            "saw", 
+            "touched", 
+            "cut"
+        ], 
+        [
+            "run", 
+            "walk", 
+            "jump", 
+            "fly"
+        ], 
+        [
+            "sit", 
+            "lie", 
+            "sleep", 
+            "stand"
+        ], 
+        [
+            "post", 
+            "bring", 
+            "take", 
+            "put"
+        ], 
+        [
+            "went", 
+            "lived", 
+            "stayed", 
+            "fell"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "A", 
+        "A", 
+        "C", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle1389"
+}

@@ -1,0 +1,64 @@
+{
+    "article": "Mulan is an  _  action movie. It comes from an old  _  story. The movie is about a village  _  , Mulan. She dresses up like a boy and takes her father's place to fight in the army. I think the actress played  _  well. The other actors  _  also fantastic and they did a good job  _  the movie. I like Mulan  very much  . The movie shows her love for  _  family, friends and country. If you plan  to watch  a movie this weekend and you want to see  _  enjoyable, choose this movie Mulan!", 
+    "options": [
+        [
+            "popular", 
+            "exciting", 
+            "fantastic", 
+            "important"
+        ], 
+        [
+            "American", 
+            "English", 
+            "boring", 
+            "Chinese"
+        ], 
+        [
+            "girl", 
+            "boy", 
+            "man", 
+            "woman"
+        ], 
+        [
+            "mulan's", 
+            "Mulans", 
+            "Mulan's", 
+            "an"
+        ], 
+        [
+            "are", 
+            "be", 
+            "is", 
+            "was"
+        ], 
+        [
+            "at", 
+            "in", 
+            "for", 
+            "on"
+        ], 
+        [
+            "his", 
+            "she", 
+            "her", 
+            "himself"
+        ], 
+        [
+            "everything", 
+            "anything", 
+            "something", 
+            "nothing"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "A", 
+        "C", 
+        "D", 
+        "B", 
+        "C", 
+        "C"
+    ], 
+    "source": "middle178"
+}

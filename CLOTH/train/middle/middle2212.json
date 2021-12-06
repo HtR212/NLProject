@@ -1,0 +1,71 @@
+{
+    "article": "Cinderella has to do all the housework. She makes the beds. She watches the clothes. She cleans the room. She  _  the meals. She goes shopping  _  the family. One day, the family goes to a  _  at the prince's palace . Cinderella is  _  . She says, \"I want to go and dance, too! \" Then, a fairy comes and says, \"I can help you. \" She gives Cinderella a party dress and a pair of glass  _  . Then she says, \"Come home early. You must get home before 12:00  at night  \" Cinderella goes to the party and  _  with the prince. She forgets about the  _  . Then she sees a clock. It is almost midnight. Cinderella  _  home and she gets home right at 12:00,  _  she loses one of her glass shoes on the way.", 
+    "options": [
+        [
+            "eats", 
+            "makes", 
+            "buys", 
+            "gives"
+        ], 
+        [
+            "with", 
+            "up", 
+            "in", 
+            "for"
+        ], 
+        [
+            "party", 
+            "movie", 
+            "picnic", 
+            "trip"
+        ], 
+        [
+            "relaxing", 
+            "busy", 
+            "happy", 
+            "boring"
+        ], 
+        [
+            "shoes", 
+            "hats", 
+            "pants", 
+            "gloves"
+        ], 
+        [
+            "sings", 
+            "dances", 
+            "plays", 
+            "talks"
+        ], 
+        [
+            "clothes", 
+            "housework", 
+            "music", 
+            "time"
+        ], 
+        [
+            "goes", 
+            "walks", 
+            "takes", 
+            "runs"
+        ], 
+        [
+            "but", 
+            "and", 
+            "so", 
+            "Because"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "A", 
+        "C", 
+        "A", 
+        "B", 
+        "D", 
+        "D", 
+        "A"
+    ], 
+    "source": "middle2212"
+}

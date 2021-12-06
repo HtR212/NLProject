@@ -1,0 +1,64 @@
+{
+    "article": "I am a middle-school student. Now let  _  tell you something  _  our classroom. It's very  _  . There are two maps  _  the back wall.  _  is a map of China.  The other  is a map of the world . There are  _  desks and chairs in our classroom. There is a big desk  _  the teacher in the front of it. We  have  four classes in the  _  and two in the afternoon.", 
+    "options": [
+        [
+            "I", 
+            "my", 
+            "me", 
+            "we"
+        ], 
+        [
+            "about", 
+            "in", 
+            "on", 
+            "at"
+        ], 
+        [
+            "small", 
+            "big", 
+            "bigger", 
+            "biggest"
+        ], 
+        [
+            "in", 
+            "on", 
+            "under", 
+            "over"
+        ], 
+        [
+            "It", 
+            "It's", 
+            "One", 
+            "one"
+        ], 
+        [
+            "fourty", 
+            "forty", 
+            "forteen", 
+            "fourteenth"
+        ], 
+        [
+            "for", 
+            "of", 
+            "to", 
+            "about"
+        ], 
+        [
+            "moning", 
+            "mourning", 
+            "morning", 
+            "moring"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "B", 
+        "B", 
+        "C", 
+        "B", 
+        "A", 
+        "C"
+    ], 
+    "source": "middle70"
+}

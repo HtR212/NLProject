@@ -1,0 +1,57 @@
+{
+    "article": "Here is a _ of Tom's family. This man  _ Mr. Green. He is Tom's father. _ woman is Mrs Green. She is Tom's _ . Who is  the boy? He is Tom. _ parents are teachers. The _ is Kate. She's Tom's sister. Tom _ Kate are students. They're in  the same school.", 
+    "options": [
+        [
+            "book", 
+            "photo", 
+            "map", 
+            "room"
+        ], 
+        [
+            "is", 
+            "am", 
+            "are", 
+            "be"
+        ], 
+        [
+            "A", 
+            "An", 
+            "These", 
+            "This"
+        ], 
+        [
+            "father", 
+            "mother", 
+            "brother", 
+            "grandfather"
+        ], 
+        [
+            "She", 
+            "Her", 
+            "He", 
+            "His"
+        ], 
+        [
+            "girl", 
+            "boy", 
+            "boys", 
+            "girls"
+        ], 
+        [
+            "and", 
+            "or", 
+            "at", 
+            "with"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "D", 
+        "B", 
+        "D", 
+        "A", 
+        "A"
+    ], 
+    "source": "middle1479"
+}

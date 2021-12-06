@@ -1,0 +1,57 @@
+{
+    "article": "A first-grade student named Vincent Butterfield has a best friend who gets cancer. He thought that hours of playing and  _  jokes was not enough - he wanted to show how he understood the hard time he was going through. Five-year-old Vincent decided the only way was to shave his head to support his best friend Zac Gossage who lost his  _  through chemotherapy . When the little boy  was asked  why he shaved his hair off, he answered, \"To make Zac feel like he's not the only one  _  any hair.\" Vincent has also been learning about cancer and raising money  to help  his best friend after learning how  _  his treatments are. He made over 20  _  and sold them, raising more than $200 to give to Zac. The little boy's mom Karen Butterfield said, \"We have been making more scarves and it would be cool if we could sell them  _  . \" When people asked him  _  friendship was like, Vincent looked at his friend Zac and replied, \"It's a beautiful thing. Friends always  cheer up  each other.\"", 
+    "options": [
+        [
+            "speaking", 
+            "saying", 
+            "telling", 
+            "talking"
+        ], 
+        [
+            "hair", 
+            "hands", 
+            "parents", 
+            "friends"
+        ], 
+        [
+            "with", 
+            "has", 
+            "without", 
+            "off"
+        ], 
+        [
+            "cheap", 
+            "expensive", 
+            "high", 
+            "low"
+        ], 
+        [
+            "gloves", 
+            "sweaters", 
+            "toys", 
+            "scarves"
+        ], 
+        [
+            "in", 
+            "on", 
+            "off", 
+            "out"
+        ], 
+        [
+            "why", 
+            "how", 
+            "what", 
+            "that"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "C", 
+        "B", 
+        "D", 
+        "D", 
+        "C"
+    ], 
+    "source": "middle2762"
+}

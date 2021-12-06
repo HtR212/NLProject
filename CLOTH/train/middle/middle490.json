@@ -1,0 +1,64 @@
+{
+    "article": "Tom and Tim are brothers. They are Australians. They live in a mountain village . Tom is 104 years old and Tim is 102 years old now. They  _  their story in a book called Enjoy Our Life. Here is some of their advice for living a long, healthy life. Get up  early  . They get up at 6:30 or 7:00 in the morning. Have a  _  breakfast. The brothers eat oatmeal , half a banana, bread and eggs with a little cheese .  Take exercise  every day. The brothers like to climb mountains. They also walk on the hills every day. Eat a lot of  _  , especially garlic . Garlic is good  _  your health. Don't eat a lot of salt and fat. These things are  _  for your body .  _  listen to the doctors always. Most of the doctors don't know what to do with us. When something is  _  with us, they don't know how to treat us. They are always surprised to see us to live so  _  .", 
+    "options": [
+        [
+            "speak", 
+            "tell", 
+            "talk", 
+            "say"
+        ], 
+        [
+            "good", 
+            "no", 
+            "bad", 
+            "little"
+        ], 
+        [
+            "vegetables", 
+            "fat", 
+            "meat", 
+            "fruit"
+        ], 
+        [
+            "at", 
+            "for", 
+            "in", 
+            "of"
+        ], 
+        [
+            "good", 
+            "bad", 
+            "nice", 
+            "fine"
+        ], 
+        [
+            "Not", 
+            "Don't", 
+            "No", 
+            "\\"
+        ], 
+        [
+            "wrong", 
+            "good", 
+            "right", 
+            "OK"
+        ], 
+        [
+            "long", 
+            "poor", 
+            "short", 
+            "bad"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "A", 
+        "B", 
+        "B", 
+        "B", 
+        "A", 
+        "A"
+    ], 
+    "source": "middle490"
+}

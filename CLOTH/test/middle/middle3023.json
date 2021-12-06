@@ -1,0 +1,71 @@
+{
+    "article": "It is _ in Qingdao.It's very hot here.Now,there are many people _ vacation.They go to the beach and have _ good time there.Today is _ ;it is not very hot.On the beach,a lot of people are talking to their friends _ looking at the beautiful sea.Some of them are _ .Others are taking _ .Can you find _ ? I'm the boy in blue shorts.I'm going to swim.It's _ .", 
+    "options": [
+        [
+            "August", 
+            "December", 
+            "March", 
+            "January"
+        ], 
+        [
+            "in", 
+            "on", 
+            "at", 
+            "with"
+        ], 
+        [
+            "/", 
+            "an", 
+            "a", 
+            "the"
+        ], 
+        [
+            "winds", 
+            "wind", 
+            "winding", 
+            "windy"
+        ], 
+        [
+            "to", 
+            "but", 
+            "and", 
+            "because"
+        ], 
+        [
+            "swim", 
+            "swims", 
+            "swiming", 
+            "swimming"
+        ], 
+        [
+            "photos", 
+            "photoes", 
+            "phones", 
+            "potatoes"
+        ], 
+        [
+            "I", 
+            "me", 
+            "my", 
+            "mine"
+        ], 
+        [
+            "hot", 
+            "warm", 
+            "cold", 
+            "cool"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "C", 
+        "D", 
+        "A", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle3023"
+}

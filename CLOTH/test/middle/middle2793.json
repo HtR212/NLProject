@@ -1,0 +1,57 @@
+{
+    "article": "When I was walking down the street the other day, I happened to  _  a small brown purse  _  on the road. I  _  it up and opened it to see if I could  find out  the owner's name. There was  _  inside it  _  some changes and an old photo--a picture of a woman and a young girl of about twelve years old who looked  like  the woman's daughter. I put the photo back and  _  the purse to police station,  _  I handed it to an officer. Before I left, the officer took my name and address  so that  the owner might want to write and thank me.", 
+    "options": [
+        [
+            "notice", 
+            "look", 
+            "pick", 
+            "take"
+        ], 
+        [
+            "was", 
+            "lying", 
+            "lied", 
+            "put"
+        ], 
+        [
+            "took", 
+            "put", 
+            "picked", 
+            "carried"
+        ], 
+        [
+            "anything", 
+            "something", 
+            "nothing", 
+            "none"
+        ], 
+        [
+            "besides", 
+            "except", 
+            "only", 
+            "then"
+        ], 
+        [
+            "fetched", 
+            "brought", 
+            "sent", 
+            "got"
+        ], 
+        [
+            "there", 
+            "where", 
+            "then", 
+            "how"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "C", 
+        "C", 
+        "B", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle2793"
+}

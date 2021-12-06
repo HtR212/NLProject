@@ -1,0 +1,71 @@
+{
+    "article": "A man comes home from work late. His 5-year-old son is _ for him.\n\"Daddy, can you give me $ 10?\" his son asks.\nThe father is very _ and says,\" If you want to buy a toy, you can go to your _ and go to bed.\"\nAfter about an hour, the man _ , \"Maybe he really needs to buy something. He doesn't ask for money very _ .\"Then the man goes to the little boy's room.\n\"I am too tired and not very happy. Here's $10,\" says the man.\nThe little boy _ up, smiling, \"Oh, thank you, Daddy!\" he says.\nThen , from under his pillow  he takes out some _ Then the man starts to get angry again. \"Why do you want more money if you already have some?\" he asks. \" _ I didn't have enough, but now I do,\" the little boy answers. \"Daddy, I have$20 now. Can I _ an hour of your time? Please come home early tomorrow. I would like to have dinner with you.\"", 
+    "options": [
+        [
+            "waiting", 
+            "asking", 
+            "looking", 
+            "working"
+        ], 
+        [
+            "happy", 
+            "tired", 
+            "angry", 
+            "sad"
+        ], 
+        [
+            "room", 
+            "school", 
+            "shop", 
+            "home"
+        ], 
+        [
+            "says", 
+            "asks", 
+            "thinks", 
+            "hopes"
+        ], 
+        [
+            "late", 
+            "early", 
+            "much", 
+            "often"
+        ], 
+        [
+            "stands", 
+            "sits", 
+            "looks", 
+            "puts"
+        ], 
+        [
+            "toys", 
+            "books", 
+            "food", 
+            "money"
+        ], 
+        [
+            "Because", 
+            "So", 
+            "But", 
+            "Or"
+        ], 
+        [
+            "have", 
+            "make", 
+            "do", 
+            "buy"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "A", 
+        "C", 
+        "D", 
+        "B", 
+        "D", 
+        "A", 
+        "D"
+    ], 
+    "source": "middle370"
+}

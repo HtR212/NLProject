@@ -1,0 +1,71 @@
+{
+    "article": "The earth moves round the sun, and the moon moves round the earth. When our part of the earth turns  _  the sun, it is day. When our part of the earth runs away  _  the sun, it is  _  . The sun is much  _  than the moon. But sometimes the moon  _  bigger than the sun, because it's much  _  to the earth. The sun is very bright. It gives very  _  light. The moon looks quite bright, too, but it doesn't give any light at all. The light  _  the moon comes from the sun. The moon looks much bigger and brighter than the stars,  _  in fact the stars are much bigger and brighter than the moon.  They look  smaller than the moon because they are farther away from the earth.", 
+    "options": [
+        [
+            "to", 
+            "from", 
+            "around", 
+            "on"
+        ], 
+        [
+            "from", 
+            "to", 
+            "off", 
+            "at"
+        ], 
+        [
+            "day", 
+            "noon", 
+            "night", 
+            "evening"
+        ], 
+        [
+            "small", 
+            "big", 
+            "smaller", 
+            "bigger"
+        ], 
+        [
+            "look", 
+            "looks", 
+            "sees", 
+            "watches"
+        ], 
+        [
+            "near", 
+            "far", 
+            "nearer", 
+            "farther"
+        ], 
+        [
+            "stronger", 
+            "poor", 
+            "weak", 
+            "strong"
+        ], 
+        [
+            "from", 
+            "of", 
+            "to", 
+            "away"
+        ], 
+        [
+            "and", 
+            "so", 
+            "but", 
+            "because"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "A", 
+        "C", 
+        "D", 
+        "B", 
+        "C", 
+        "D", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle1666"
+}

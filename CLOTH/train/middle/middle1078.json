@@ -1,0 +1,43 @@
+{
+    "article": "The faster way to travel in a city is by subway. In many big cities, there  _  usually more than one subway lines. How to travel by  _  ? Here is something to know  before  you travel by subway. First, you should choose the right line. If you don't, you will have to get off and take  another  one. Second, you need some coins to buy your  _  In  _  of the ticket machines, only coins are used. You can change  coins  at the ticket office. If you have a prepaid card, you can just go ahead. After you buy the ticket, you should  wait for  the train behind a yellow line. You  mustn't  stand too close to the yellow line. It's  _", 
+    "options": [
+        [
+            "have", 
+            "has", 
+            "are", 
+            "is"
+        ], 
+        [
+            "subway", 
+            "bus", 
+            "train", 
+            "bike"
+        ], 
+        [
+            "food", 
+            "book", 
+            "ticket", 
+            "map"
+        ], 
+        [
+            "most", 
+            "all", 
+            "each", 
+            "few"
+        ], 
+        [
+            "dangerous", 
+            "safe", 
+            "fun", 
+            "OK"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "C", 
+        "A", 
+        "A"
+    ], 
+    "source": "middle1078"
+}

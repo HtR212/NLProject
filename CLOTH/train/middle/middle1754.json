@@ -1,0 +1,71 @@
+{
+    "article": "Here is a picture. It is a picture of my _ . This is my _ . My quilt is on it. Two baseballs are under it. They are white _ . Look at my desk. A _ is on it. I like computer games. A _ is on it, too. It's 9:00. My pencil box is in my schoolbag and two _ are in it. My books are _ the floor. My keys are in the desk. _ is my ID card? Do you _ ? Oh, it's in my English book. I like my room. It's nice.", 
+    "options": [
+        [
+            "room", 
+            "school", 
+            "family", 
+            "tape"
+        ], 
+        [
+            "watch", 
+            "pen", 
+            "bed", 
+            "schoolbag"
+        ], 
+        [
+            "keys", 
+            "baseballs", 
+            "bags", 
+            "chairs"
+        ], 
+        [
+            "photo", 
+            "sofa", 
+            "computer", 
+            "CD"
+        ], 
+        [
+            "picture", 
+            "clock", 
+            "dictionary", 
+            "jacket"
+        ], 
+        [
+            "erasers", 
+            "tables", 
+            "desks", 
+            "bookcase"
+        ], 
+        [
+            "in", 
+            "on", 
+            "under", 
+            "at"
+        ], 
+        [
+            "What", 
+            "How", 
+            "Where", 
+            "Why"
+        ], 
+        [
+            "spell", 
+            "take", 
+            "ask", 
+            "know"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "B", 
+        "C", 
+        "B", 
+        "A", 
+        "B", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle1754"
+}

@@ -1,0 +1,64 @@
+{
+    "article": "A farmer went to town to sell his vegetable. But it was snowing that afternoon, and there  were  few people in the street. So when his vegetable was sold out, it was dark.  _  his way home, he saw a man  _  in the snow. He put his basket  on the ground  and was going to  _  the man to get up. At that time he found  it  was a dead man  _  that there was  much  blood on the ground. He was  so  frightened that he ran away  quickly  ,  without taking  his basket away. The next  _  the farmer was sent to the police station. After showing him the basket, an officer asked, \"Is this yours?\" \"Yes,sir.\" the farmer answered  _  . \"When did you see the dead man?\" \"At about seven yesterday evening.\" \"Did you see who  _  him?\" the officer brought out a knife and asked, \"Have you seen it yet?\" \"No, sir.\" The officer became angry and told the policeman  to beat  him up and  _  him in prison. That afternoon the officer went on  trying  the farmer.  Pointing to  the knife, the officer asked him again, \"Now, listen to me! Did you see it yet?\" \"Yes,sir.\" \"Well,\" the officer became  happy  and asked, \"but when and where?\" \"I saw it  here  this morning, sir.\"", 
+    "options": [
+        [
+            "On", 
+            "By", 
+            "In", 
+            "At"
+        ], 
+        [
+            "lying", 
+            "lay", 
+            "lied", 
+            "laying"
+        ], 
+        [
+            "make", 
+            "help", 
+            "let", 
+            "hope"
+        ], 
+        [
+            "even", 
+            "so", 
+            "and", 
+            "/"
+        ], 
+        [
+            "afternoon", 
+            "morning", 
+            "night", 
+            "evening"
+        ], 
+        [
+            "loudly", 
+            "friendly", 
+            "nervously", 
+            "proudly"
+        ], 
+        [
+            "killed", 
+            "asked", 
+            "sent", 
+            "helped"
+        ], 
+        [
+            "put", 
+            "sent", 
+            "took", 
+            "send"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "A", 
+        "B", 
+        "C", 
+        "B", 
+        "C", 
+        "A", 
+        "A"
+    ], 
+    "source": "high1627"
+}

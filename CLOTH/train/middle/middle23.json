@@ -1,0 +1,71 @@
+{
+    "article": "I am a girl. _ name is Alice Green.I _ two good friends.They're Cindy and Gina.They're _  .They  _ sports every day. I _ a soccer ball.Cindy _ three.Gina has five baseballs ,and she plays baseball every day.She _  play soccer.She only watches it _ TV.But Cindy and I _ scccer every day.", 
+    "options": [
+        [
+            "My", 
+            "His", 
+            "Her", 
+            "It's"
+        ], 
+        [
+            "am", 
+            "do", 
+            "has", 
+            "have"
+        ], 
+        [
+            "friend", 
+            "brothers", 
+            "parents", 
+            "sisters"
+        ], 
+        [
+            "play", 
+            "plays", 
+            "watches", 
+            "has"
+        ], 
+        [
+            "play", 
+            "plays", 
+            "have", 
+            "has"
+        ], 
+        [
+            "play", 
+            "plays", 
+            "have", 
+            "has"
+        ], 
+        [
+            "do", 
+            "don't", 
+            "does", 
+            "doesn't"
+        ], 
+        [
+            "in", 
+            "/", 
+            "on", 
+            "at"
+        ], 
+        [
+            "likes", 
+            "play", 
+            "loves", 
+            "have"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "D", 
+        "A", 
+        "C", 
+        "D", 
+        "D", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle23"
+}

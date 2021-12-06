@@ -1,0 +1,57 @@
+{
+    "article": "Each morning a rich man finds a poor man sitting on a park bench. The poor man always sits there, looking at the big _ in which the rich man lives. One day the rich man gets out of his car and says to the poor man, \"Excuse me, but I just want to know  _ you sit here and look at my hotel every morning \". \"Sir,\" says the poor man, \"I am a failure  . I have no money, no family, no home. I sleep on this bench, and every night I dream that one day I'll sleep in that hotel.\"\nThe rich man says, \"Tonight your dream will  come true . I will pay for the best room in that hotel for you for a whole month.\"\nThe rich man goes past  the poor man's room to ask him if he is enjoying himself. To his _ , he finds that the man has moved out of the hotel, back to his _ . When the rich man asks why, the poor man says, \"You see, when I'm down here sleeping on my bench, I dream I'm up there, in that big hotel. It's a _ dream. But when I am _ there, I dream I am back to this cold bench. It is a terrible dream, and I  _ get any sleep at all.\"", 
+    "options": [
+        [
+            "car", 
+            "room", 
+            "hotel", 
+            "house"
+        ], 
+        [
+            "when", 
+            "how", 
+            "what", 
+            "why"
+        ], 
+        [
+            "joke", 
+            "happiness", 
+            "sadness", 
+            "surprise"
+        ], 
+        [
+            "house", 
+            "corner", 
+            "bench", 
+            "work"
+        ], 
+        [
+            "sad", 
+            "wonderful", 
+            "quick", 
+            "slow"
+        ], 
+        [
+            "out", 
+            "even", 
+            "up", 
+            "down"
+        ], 
+        [
+            "will", 
+            "won't", 
+            "can", 
+            "can't"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "D", 
+        "D", 
+        "C", 
+        "B", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle797"
+}

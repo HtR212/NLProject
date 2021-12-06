@@ -1,0 +1,43 @@
+{
+    "article": "Do you often watch TV? Maybe your  _  is \"Yes\". Most children like watching TV  _  it's interesting and relaxing. They can also learn a lot and know  lots of  things about their country and the world. TV helps to open children's eyes. TV can open  _  mind. They can learn some better ways of  doing  things. Many children are always  _  with their studies, so they watch TV only on weekends.  _  some children watch TV every night. They go to  bed  very late and they can't have a good rest. I  don't think  it's good to do so. What do you  think of  it?", 
+    "options": [
+        [
+            "ask", 
+            "answer", 
+            "question", 
+            "say"
+        ], 
+        [
+            "so", 
+            "because", 
+            "but", 
+            "and"
+        ], 
+        [
+            "they", 
+            "them", 
+            "theirs", 
+            "their"
+        ], 
+        [
+            "free", 
+            "busy", 
+            "tired", 
+            "friendly"
+        ], 
+        [
+            "And", 
+            "But", 
+            "Because", 
+            "Or"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "B", 
+        "D", 
+        "B", 
+        "B"
+    ], 
+    "source": "middle1248"
+}

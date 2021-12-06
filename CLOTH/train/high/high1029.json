@@ -1,0 +1,71 @@
+{
+    "article": "Philo Farnsworth, the inventor of one of the country's greatest machines was actually born in a log cabin,  _  to high school on horse back and without  _  of university degree(indeed, at age 14), thought of the idea of electronic television. In 1906 Farnsworth was born in a community near Beaver City, Utah,  _  by his grandfather.  _  he was 12, his family moved to a ranch  in Rigby, Idaho, which was four miles from, the nearest high school,  _  necessitating his daily horseback rides. Because he was interested in the electron and electricity, he persuaded his chemistry teacher, Justin Tolman, to give him  _  instruction and to allow him to listen to a senior course.\nThe death of his father forced him to leave at the end of his second year, but, as it  turned out  , at no great intellectual cost. There were, at the time, no more than a handful of men  _  the planet who could have understood Farnsworth's idea for building an electronic television system, and it's  _  that any of them were at this local community. One such man was Vladimir Zworykin who had moved to the US from Russia with a Ph. D in electrical engineering. He went to work for Westinghouse with a dream of building an all-electronic television system. But he wasn't  _  to do so.", 
+    "options": [
+        [
+            "rode", 
+            "ran", 
+            "drove", 
+            "jumped"
+        ], 
+        [
+            "sake", 
+            "application", 
+            "benefit", 
+            "significance"
+        ], 
+        [
+            "lived", 
+            "settled", 
+            "inherited", 
+            "occupied"
+        ], 
+        [
+            "Because", 
+            "When", 
+            "However", 
+            "Until"
+        ], 
+        [
+            "thus", 
+            "then", 
+            "finally", 
+            "yet"
+        ], 
+        [
+            "important", 
+            "interesting", 
+            "special", 
+            "vivid"
+        ], 
+        [
+            "in", 
+            "within", 
+            "around", 
+            "on"
+        ], 
+        [
+            "necessarily", 
+            "essential", 
+            "false", 
+            "unlikely"
+        ], 
+        [
+            "possible", 
+            "capable", 
+            "thoughtful", 
+            "able"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "B", 
+        "B", 
+        "A", 
+        "C", 
+        "D", 
+        "D", 
+        "D"
+    ], 
+    "source": "high1029"
+}

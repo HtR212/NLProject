@@ -1,0 +1,64 @@
+{
+    "article": "Once, there lived a man in the mountains. He had a statue made by a famous master. But the statue was put at his door,  _  to the ground, because he didn't like it at all. One day, a man from the city  _  by his house. This man was full of Knowledge. When he saw the statue, he asked the owner  _  he would sell it. The owner laughed and said, \"Who will like this dull and  _  stone?\" The man from the city said, \"I will give you five dollars  _  it.\" The owner was surprised and  _  . Then the statue was moved to the city. A few months later, the man from the mountains visited  _  . When he walked around the streets, he saw many people  standing  in front of a shop, and a man was shouting in a loud voice, \"Come in and see the most wonderful statue in the world. Only one dollar  to enjoy  this most great work of a master.\" The man from the mountains  _  one dollar and walked into the shop. He was shocked by the thing in the shop, because it was the statue that he himself had sold for five dollars.", 
+    "options": [
+        [
+            "facing", 
+            "faced", 
+            "looks", 
+            "looked"
+        ], 
+        [
+            "past", 
+            "passed", 
+            "passes", 
+            "passing"
+        ], 
+        [
+            "how", 
+            "when", 
+            "who", 
+            "if"
+        ], 
+        [
+            "clean", 
+            "dirty", 
+            "interesting", 
+            "sad"
+        ], 
+        [
+            "for", 
+            "on", 
+            "of", 
+            "with"
+        ], 
+        [
+            "disagreed", 
+            "agreed", 
+            "left", 
+            "cried"
+        ], 
+        [
+            "streats", 
+            "shop", 
+            "village", 
+            "city"
+        ], 
+        [
+            "sold", 
+            "spent", 
+            "cost", 
+            "paid"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "D", 
+        "B", 
+        "A", 
+        "B", 
+        "D", 
+        "D"
+    ], 
+    "source": "middle1410"
+}

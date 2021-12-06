@@ -1,0 +1,71 @@
+{
+    "article": "Barry is an English boy. He is my new  _  . He teaches me many  _  songs . I  _  Barry and his songs. That's a good way for  _  to learn English. After class, he plays games with me. He likes  _  . We often play bas-ketball in the afternoon. Today is November 2nd. It is  Barry's  birthday. He doesn't tell me but I  _  it from his sister. I  _  him a present and a birthday card. He is very  _  . He likes the present very much.  _  the present? It's a basketball.", 
+    "options": [
+        [
+            "class", 
+            "father", 
+            "friend", 
+            "family"
+        ], 
+        [
+            "blue", 
+            "Chinese", 
+            "boring", 
+            "English"
+        ], 
+        [
+            "meet", 
+            "like", 
+            "see", 
+            "have"
+        ], 
+        [
+            "her", 
+            "it", 
+            "me", 
+            "them"
+        ], 
+        [
+            "pictures", 
+            "sports", 
+            "books", 
+            "fruits"
+        ], 
+        [
+            "bring", 
+            "know", 
+            "help", 
+            "afford"
+        ], 
+        [
+            "sell", 
+            "want", 
+            "watch", 
+            "buy"
+        ], 
+        [
+            "happy", 
+            "sorry", 
+            "relaxing", 
+            "short"
+        ], 
+        [
+            "Where's", 
+            "How's", 
+            "What's", 
+            "When's"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "D", 
+        "B", 
+        "C", 
+        "B", 
+        "B", 
+        "D", 
+        "A", 
+        "C"
+    ], 
+    "source": "middle1258"
+}

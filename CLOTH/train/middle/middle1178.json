@@ -1,0 +1,64 @@
+{
+    "article": "Several days ago, some students from the US visited our school. When we talked, I found  a few  differences in school life between the US and China. For example, each class  _  fifty minutes in the US. It is a little  _  than that in China. We usually have forty-five minutes in each class. Another difference is that they have less break time between  _  . Besides, although most schools in both countries finish their  _  classes at 12 o'clock, the students in the US only have  an hour-long  break, so they need to eat lunch quickly. Their afternoon classes begin at 1:00 pm and school is over at  _  3:00 pm. Then they take part in club activities or play sports. Many Chinese students don't work during their high school years,  _  the US students like to find a part-time job in their free time. They don't have a dream job in mind. They think  _  is no difference between jobs. Working is a useful experience for them and they make money at the same time. Some of them even take one-year full-time jobs  _  they leave high school and then go to college.", 
+    "options": [
+        [
+            "has", 
+            "finishes", 
+            "starts", 
+            "stays"
+        ], 
+        [
+            "shorter", 
+            "longer", 
+            "earlier", 
+            "later"
+        ], 
+        [
+            "schools", 
+            "classes", 
+            "meals", 
+            "students"
+        ], 
+        [
+            "day", 
+            "night", 
+            "morning", 
+            "afternoon"
+        ], 
+        [
+            "after", 
+            "before", 
+            "during", 
+            "about"
+        ], 
+        [
+            "although", 
+            "when", 
+            "but", 
+            "and"
+        ], 
+        [
+            "it", 
+            "there", 
+            "that", 
+            "this"
+        ], 
+        [
+            "after", 
+            "with", 
+            "when", 
+            "during"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "B", 
+        "C", 
+        "D", 
+        "C", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle1178"
+}

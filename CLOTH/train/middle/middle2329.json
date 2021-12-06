@@ -1,0 +1,71 @@
+{
+    "article": "No sports, no life. Sports are very important to us. Sports help us to keep in good  _  and get good grades. Everyone in our class  _  sports. Our favorite  _  is P.E. We only have P.E.  _  a week, but we play sports every day. The most popular sport in our class is basketball. The boys enjoy  _  it, and many of the  _  like it, too. Football is also popular. When the weather is  _  , we often play football outside. We  _  play volleyball. We think it is boring. There is a basketball team in our class. Our team often has matches with other teams. When there is a match, many of us go to  watch  it. It's very  _  .", 
+    "options": [
+        [
+            "health", 
+            "idea", 
+            "fashion", 
+            "culture"
+        ], 
+        [
+            "meets", 
+            "loves", 
+            "visits", 
+            "dislikes"
+        ], 
+        [
+            "food", 
+            "drink", 
+            "subject", 
+            "fruit"
+        ], 
+        [
+            "two", 
+            "third", 
+            "three", 
+            "twice"
+        ], 
+        [
+            "play", 
+            "playing", 
+            "played", 
+            "plays"
+        ], 
+        [
+            "students", 
+            "brothers", 
+            "girls", 
+            "sisters"
+        ], 
+        [
+            "rainy", 
+            "bad", 
+            "fine", 
+            "terrible"
+        ], 
+        [
+            "never", 
+            "always", 
+            "often", 
+            "usually"
+        ], 
+        [
+            "clever", 
+            "beautiful", 
+            "shy", 
+            "exciting"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "B", 
+        "C", 
+        "C", 
+        "A", 
+        "D"
+    ], 
+    "source": "middle2329"
+}

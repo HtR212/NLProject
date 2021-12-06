@@ -1,0 +1,64 @@
+{
+    "article": "It's September1st, and we're all back to school. It's good to _ all my teachers and friends again. They all _ fine.\nWe're in Grade Eight this year. We have some new subjects. I'm not very _ at Chinese, but Han Mei says she can _ me. I think I can _ it better.\nI like English very much. Zhang Hong likes English, _ . But she needs help. I think I can help her.\nMr Hu is our new English teacher. He _ know all of us, so he has our names on a piece of paper and _ our names before he begins his lesson.", 
+    "options": [
+        [
+            "see", 
+            "watch", 
+            "find", 
+            "look"
+        ], 
+        [
+            "do", 
+            "see", 
+            "look", 
+            "sound"
+        ], 
+        [
+            "well", 
+            "good", 
+            "bad", 
+            "nice"
+        ], 
+        [
+            "learn", 
+            "give", 
+            "help", 
+            "need"
+        ], 
+        [
+            "do", 
+            "play", 
+            "look", 
+            "feel"
+        ], 
+        [
+            "either", 
+            "very", 
+            "much", 
+            "too"
+        ], 
+        [
+            "doesn't", 
+            "don't", 
+            "does", 
+            "do"
+        ], 
+        [
+            "gives", 
+            "calls", 
+            "asks", 
+            "tells"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "B", 
+        "C", 
+        "A", 
+        "D", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle1917"
+}

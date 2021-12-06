@@ -1,0 +1,71 @@
+{
+    "article": "On Friday I have a busy day. I  get up  at half past six in the morning. Then I  _  my hands and face, and have  _  at seven. At half past seven, I go to school and  _  work at eight. There  _  four lessons in the morning. At twenty to ten, we have a  _  for twenty minutes. We go to the playground and I  _  with my friends. We have lunch in the school dining hall. In the afternoon, we have two  _  and go home at half past three. I don't do  _  on Friday evening. I do it  _  Saturday.", 
+    "options": [
+        [
+            "eat", 
+            "smell", 
+            "wash", 
+            "look"
+        ], 
+        [
+            "breakfast", 
+            "lunch", 
+            "dinner", 
+            "lessons"
+        ], 
+        [
+            "finish", 
+            "start", 
+            "close", 
+            "open"
+        ], 
+        [
+            "am", 
+            "is", 
+            "are", 
+            "be"
+        ], 
+        [
+            "break", 
+            "dog", 
+            "apple", 
+            "football"
+        ], 
+        [
+            "talk", 
+            "sleep", 
+            "look", 
+            "listen"
+        ], 
+        [
+            "lessons", 
+            "schools", 
+            "students", 
+            "teachers"
+        ], 
+        [
+            "something", 
+            "homework", 
+            "nothing", 
+            "everything"
+        ], 
+        [
+            "at", 
+            "in", 
+            "on", 
+            "for"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "B", 
+        "C", 
+        "A", 
+        "A", 
+        "A", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle1444"
+}

@@ -1,0 +1,64 @@
+{
+    "article": "A train stopped at a small _ .A man look _ 0f the window and saw a woman _ cakes. People from the train were buying them. The man wanted to _ a cake, but the man was standing far _ the window. It was raining and the man didn't\nwant to go 0ut in the rain.\nSuddenly he saw a boy walking on the platform ,not far from him. _ here, boy!\" the man said, ''Do you know how much money we must pay her for a cake?\"\n\"Five cents ,\"the boy answered.\nThen man gave the boy ten cents and asked him to buy two cakes. \"One _ me, and the other one for you,\" he told the boy.\nA few minutes _ the boy came back. He was eating a cake. He gave the man\nfive cents and said, \"There was only one cake.\"", 
+    "options": [
+        [
+            "station", 
+            "shop", 
+            "hotel", 
+            "office"
+        ], 
+        [
+            "in", 
+            "out", 
+            "up", 
+            "into"
+        ], 
+        [
+            "sell", 
+            "sold", 
+            "sells", 
+            "selling"
+        ], 
+        [
+            "sell", 
+            "borrow", 
+            "buy", 
+            "give"
+        ], 
+        [
+            "from", 
+            "to", 
+            "in", 
+            "on"
+        ], 
+        [
+            "Comes", 
+            "Come", 
+            "Go", 
+            "Goes"
+        ], 
+        [
+            "of", 
+            "for", 
+            "at", 
+            "from"
+        ], 
+        [
+            "ago", 
+            "after", 
+            "before", 
+            "later"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "D", 
+        "C", 
+        "A", 
+        "B", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle529"
+}

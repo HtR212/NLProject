@@ -1,0 +1,50 @@
+{
+    "article": "It was ten o'clock at night. And the last bus just stopped at the gate of a Park. An old woman got out, and the conductor was just going to ring the bell for the  driver  to start the bus again, when he saw a small boy  crying  at the bus stop. \"What's the matter?\"the bus conductor said to the boy. \"My mother gave me ten pence to go home by bus after I finished playing football in the park with my friends,\" the small boy answered. \"But I've  _  it, so now I have to walk all the way home.\" \"That's all right,\" said the conductor. \"Come on, we'll  _  you home.\" The small boy thanked him,  got on  the bus and sat down near the door. The conductor rang the bell, then the bus started. \"  _  are you going?' asked the conductor. The boy told him the name of the place where he lived. It was about two miles away, and the  _  would have cost three pence if the boy had had the money to pay for it. The conductor went to give some other people their tickets, and when he came back a few minutes  _  , he saw that the boy was crying again. 'And what's the matter  _  you now?' the conductor asked. 'You are on your way home, aren't you?' \"Yes, I am,\" answered the boy. \"But what about my change ? You haven't given that to me yet. You should give me  seven  pence.\"", 
+    "options": [
+        [
+            "dropped", 
+            "forgot", 
+            "lost", 
+            "left"
+        ], 
+        [
+            "bring", 
+            "take", 
+            "carry", 
+            "show"
+        ], 
+        [
+            "what", 
+            "where", 
+            "how", 
+            "when"
+        ], 
+        [
+            "ticket", 
+            "seat", 
+            "bus", 
+            "chair"
+        ], 
+        [
+            "before", 
+            "after", 
+            "earlier", 
+            "later"
+        ], 
+        [
+            "about", 
+            "of", 
+            "from", 
+            "with"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "B", 
+        "A", 
+        "D", 
+        "D"
+    ], 
+    "source": "middle1826"
+}

@@ -1,0 +1,57 @@
+{
+    "article": "Have you ever complained why life is so tiring? Does the sky sometimes seem dark to you? Do you sometimes think your studies are not  _  enough? Well, friends, cheer up and smile all the time. If you  see  the world with your warm heart, you'll find that the whole world smiles to you. While in school, sometimes you are tired of your lessons, but have you ever noticed  _  happy smile on your teacher's face when you did a good job? One day it is fine. Just  _  you want to go out, it suddenly starts to rain. Maybe you would feel very sad and start complaining about the weather. But dear friends, why don't you sit down and listen to the free concert  _  the nature offers you? And with the timely rain, crops in the fields will grow better and better and farmers will have a good harvest. Although everyone wants to succeed in  _  he tries to do, sometimes failure can't  be avoided  . I think failure is not terrible, and the terrible thing is that we are afraid of it and give up  _  . When we face failure, we must be confident in ourselves, draw a useful lesson from it and try our best  to finish  what we have decided to do. As a popular saying goes, \"Failure is the mother of success.\" Attitude means  _  . Let's smile to whatever we meet and the whole world will smile to us.", 
+    "options": [
+        [
+            "success", 
+            "succeed", 
+            "successful", 
+            "successfully"
+        ], 
+        [
+            "/", 
+            "a", 
+            "an", 
+            "the"
+        ], 
+        [
+            "before", 
+            "after", 
+            "and", 
+            "soon"
+        ], 
+        [
+            "where", 
+            "when", 
+            "that", 
+            "what"
+        ], 
+        [
+            "what", 
+            "how", 
+            "when", 
+            "which"
+        ], 
+        [
+            "hopes", 
+            "hope", 
+            "hopeful", 
+            "hopefully"
+        ], 
+        [
+            "nothing", 
+            "something", 
+            "everything", 
+            "anything"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "D", 
+        "A", 
+        "C", 
+        "A", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle454"
+}

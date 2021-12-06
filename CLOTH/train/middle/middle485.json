@@ -1,0 +1,71 @@
+{
+    "article": "Brian is my good friend. He has a five-year-old daughter, Lydia. Lydia likes animals very much and always  _  to have a dog. This Sunday is Lydia's birthday. Brian wants to buy  _  a dog. So he goes to the  pet store  near his home. He says hello to Paul, the owner of the store. Paul says hello to him, too. Brian says, \"This is a clean and  _  pet store.\" Then he walks around the store.  _  he doesn't see any pets. \"Excuse me.  _  are the pets?\" he asks. \"The pets are right here,\" says Paul. Then Paul  _  him a catalog . Brian sees  _  pictures of pets in it, like dogs, cats and birds. \"You only need to  _  me the pet you like,\" says Paul. \"We can mail it to you.\" \"What if I don't like it?\" asks Brian. \"  _  mail it back,\" says Paul. \"Oh, sounds interesting,\" says Brian.", 
+    "options": [
+        [
+            "forgets", 
+            "wishes", 
+            "stops", 
+            "writes"
+        ], 
+        [
+            "me", 
+            "you", 
+            "her", 
+            "him"
+        ], 
+        [
+            "quiet", 
+            "boring", 
+            "lazy", 
+            "young"
+        ], 
+        [
+            "Or", 
+            "So", 
+            "Because", 
+            "But"
+        ], 
+        [
+            "Where", 
+            "When", 
+            "What", 
+            "How"
+        ], 
+        [
+            "works", 
+            "shows", 
+            "keeps", 
+            "walks"
+        ], 
+        [
+            "other", 
+            "more", 
+            "many", 
+            "any"
+        ], 
+        [
+            "help", 
+            "tell", 
+            "buy", 
+            "sell"
+        ], 
+        [
+            "Sure", 
+            "Also", 
+            "Still", 
+            "Just"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "A", 
+        "D", 
+        "A", 
+        "B", 
+        "C", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle485"
+}

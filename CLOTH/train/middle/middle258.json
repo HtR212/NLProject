@@ -1,0 +1,57 @@
+{
+    "article": "We want to go on a trip to Beijing. But it is too  far from  our home. My father wants to go by bus, because it is  _ . But my mother wants to go by  _ , because it's faster. My sister wants to go there by train, because it's easy and exciting. I don't know which is the  _ , so I follow their ideas. At last, we all think we need to save  _ , but we need to get there faster,  _  we only have four days for the trip, so we decide to go by train. When I get to the  train station , I feel happy, and I jump up and down, because I haven't seen the train  _ . We buy two tickets. Why? We have four people. Oh, you guess it! My sister and I are  _  than one metre, so we don't need to buy tickets. After we  get on  the train, we see some people standing. My mother tells me there are too many people and there are not enough seats for everyone.", 
+    "options": [
+        [
+            "expensive", 
+            "cheap", 
+            "interesting", 
+            "boring"
+        ], 
+        [
+            "bus", 
+            "train", 
+            "air", 
+            "bike"
+        ], 
+        [
+            "good", 
+            "better", 
+            "best", 
+            "well"
+        ], 
+        [
+            "water", 
+            "money", 
+            "time", 
+            "life"
+        ], 
+        [
+            "so", 
+            "but", 
+            "because", 
+            "or"
+        ], 
+        [
+            "now", 
+            "last", 
+            "past", 
+            "before"
+        ], 
+        [
+            "taller", 
+            "shorter", 
+            "longer", 
+            "short"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "C", 
+        "B", 
+        "C", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle258"
+}

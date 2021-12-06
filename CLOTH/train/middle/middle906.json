@@ -1,0 +1,57 @@
+{
+    "article": "When people talk about air pollution, they are usually thinking about outdoor air  _  .But do you know that there is  _  air pollution inside homes , offices, hotels and other buildings ? The air in your home can be 2 to 100 times more polluted than the air outdoors! In fact, some American doctors say that 50% of illnesses have  _  to do with polluted indoor air. A lot of pollution comes from indoor activities  such as  smoking and cooking. As most people  _  about 80-90% of their time inside buildings, it is important to take indoor air pollution seriously, too. Air pollution influences our health  in many ways  . When the air is polluted, not only young children and old people suffer from it,  _  people with health problems suffer as well. Indoor air pollution can  _  people's eyes, noses and throats. Air pollution, both indoor and outdoor, can also lead to lung cancer and heart disease! In the great London fog in 1952, 4,000 people died in a few days  because of  the pollution!  _  is said that half a million young children and women die each year in India because of indoor air pollution!", 
+    "options": [
+        [
+            "pollution", 
+            "sadness", 
+            "illness", 
+            "business"
+        ], 
+        [
+            "too", 
+            "none", 
+            "also", 
+            "neither"
+        ], 
+        [
+            "nothing", 
+            "everything", 
+            "something", 
+            "anything"
+        ], 
+        [
+            "take", 
+            "cost", 
+            "give", 
+            "spend"
+        ], 
+        [
+            "and", 
+            "but", 
+            "or", 
+            "until"
+        ], 
+        [
+            "hit", 
+            "hurt", 
+            "polluted", 
+            "destroyed"
+        ], 
+        [
+            "This", 
+            "That", 
+            "What", 
+            "It"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "C", 
+        "D", 
+        "B", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle906"
+}

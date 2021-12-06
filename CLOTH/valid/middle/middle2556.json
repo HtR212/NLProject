@@ -1,0 +1,71 @@
+{
+    "article": "I'm an English boy. My name is Edward. I  _ at NO.12 Middle school in Wuhan. I  _  up at six thirty in the morning. I have a sister, Mary. She  _ breakfast at seven. After brush our  _ , we have breakfast  _  seven. We like eggs and fruit _  breakfast. We  go to  school at half past seven. I usually  _  my bike, but my sister goes to school  _ bus. After school ,We usually  _ English with our\nfriends in an English club in our school.", 
+    "options": [
+        [
+            "play", 
+            "work", 
+            "study", 
+            "look"
+        ], 
+        [
+            "have", 
+            "stand", 
+            "take", 
+            "get"
+        ], 
+        [
+            "have", 
+            "get", 
+            "eat", 
+            "has"
+        ], 
+        [
+            "tooth", 
+            "feet", 
+            "hands", 
+            "teeth"
+        ], 
+        [
+            "in", 
+            "on", 
+            "at", 
+            "for"
+        ], 
+        [
+            "for", 
+            "with", 
+            "to", 
+            "have"
+        ], 
+        [
+            "by", 
+            "in", 
+            "ride", 
+            "drive"
+        ], 
+        [
+            "take", 
+            "by", 
+            "ride", 
+            "on"
+        ], 
+        [
+            "tell", 
+            "talk", 
+            "say", 
+            "speak"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "D", 
+        "D", 
+        "D", 
+        "C", 
+        "A", 
+        "C", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle2556"
+}

@@ -1,0 +1,64 @@
+{
+    "article": "I had a trip to Aruba on my vacation. We  arrived at  the Holiday Hotel in Aruba at about 1:30 am. We were pretty glad  _  it was our first trip to Aruba. The flight was fine and the bus ride from the  _  was great. We stayed at the Holiday Hotel. We saw the rooms one  _  one because we wanted to have a room to  see  he sea . I would say that the beach was  _  but the weather was awful every day.  _  the Holiday Hotel, it was okay with us. The room was clean, the waiters were friendly and the food was good. I  _  the food of the hotel restaurant. One night we had  _  at the Moomba Restaurant. It is on the third floor. The food there was really good. The Moomba was a good place to  _  . I hoped to go there again.", 
+    "options": [
+        [
+            "because", 
+            "when", 
+            "before", 
+            "if"
+        ], 
+        [
+            "hotel", 
+            "beach", 
+            "airport", 
+            "home"
+        ], 
+        [
+            "to", 
+            "at", 
+            "with", 
+            "by"
+        ], 
+        [
+            "bad", 
+            "beautiful", 
+            "crowded", 
+            "delicious"
+        ], 
+        [
+            "About", 
+            "On", 
+            "To", 
+            "Of"
+        ], 
+        [
+            "hated", 
+            "disliked", 
+            "liked", 
+            "made"
+        ], 
+        [
+            "breakfast", 
+            "lunch", 
+            "meals", 
+            "supper"
+        ], 
+        [
+            "play", 
+            "eat", 
+            "walk", 
+            "cook"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "D", 
+        "B", 
+        "A", 
+        "C", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle636"
+}

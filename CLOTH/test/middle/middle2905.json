@@ -1,0 +1,50 @@
+{
+    "article": "Tick, tick, tick! Good morning, Jim! It's 6:0 now. It's time  to get  up. Do you know me? I'm your new friend. My name is Clock. Look  _  me. I have no feet,  _  I can walk with my hands. I have no mouth, but I  _  speak to you. Now please listen to  _  . Today is Monday. You have many things to do. Classes  begin  at 8:00. You have four classes in the morning and two classes in the afternoon. After 3:40 you have a basketball match  _  Class Two. You come  home  at 5:40. You have supper at 6:00. You  watch  CCTV news at 7:00. And you go to bed at 9:0. Now please get up quickly and have your breakfast or you will be  _  .", 
+    "options": [
+        [
+            "at", 
+            "for", 
+            "after", 
+            "like"
+        ], 
+        [
+            "and", 
+            "but", 
+            "so", 
+            "or"
+        ], 
+        [
+            "can't", 
+            "mustn't", 
+            "must", 
+            "can"
+        ], 
+        [
+            "I", 
+            "my", 
+            "mine", 
+            "me"
+        ], 
+        [
+            "to", 
+            "with", 
+            "and", 
+            "for"
+        ], 
+        [
+            "early", 
+            "happy", 
+            "glad", 
+            "late"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "D", 
+        "D", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle2905"
+}

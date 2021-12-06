@@ -1,0 +1,71 @@
+{
+    "article": "Ingredients\n\n*3 cups of strawberries  *2 small apples     *1 bag of sugar  *2 teaspoons of vanilla syrup \n*crushed ice \nApple Strawberry Slush\n\nWash and peel two _ apples. _ the apples into pieces.\nWash strawberries and _ them   dry.\nCut _ strawberries   in half and put them in a bowl. Add some sugar and stir . Put the bowl of strawberries aside .\nPut the apples in a blender, turn it on until there are _ slices of apples left.\nPour into a bowl and put aside.\nStir the strawberries and sugar, pour strawberries into   the blender and turn on the blender.\nPour the strawberries into a medium size bowl and add the   apples. Add the vanilla syrup and stir until well mixed.\nPut some _ in   glasses.\nFill the _ with   the apple and strawberry mixture. Then mix _ all   up. Now, just put a spoon in each glass and this _ Apple   Strawberry Slush  is OK   to drink.", 
+    "options": [
+        [
+            "big", 
+            "small", 
+            "medium", 
+            "green"
+        ], 
+        [
+            "Cut", 
+            "Add", 
+            "Make", 
+            "Put"
+        ], 
+        [
+            "ask", 
+            "made", 
+            "make", 
+            "help"
+        ], 
+        [
+            "a", 
+            "an", 
+            "the", 
+            "/"
+        ], 
+        [
+            "some", 
+            "little", 
+            "many", 
+            "no"
+        ], 
+        [
+            "ice", 
+            "ices", 
+            "salt", 
+            "sauce"
+        ], 
+        [
+            "blender", 
+            "glass", 
+            "bowl", 
+            "bag"
+        ], 
+        [
+            "they", 
+            "them", 
+            "it", 
+            "its"
+        ], 
+        [
+            "boiled", 
+            "cool", 
+            "hot", 
+            "warm"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "C", 
+        "C", 
+        "D", 
+        "A", 
+        "B", 
+        "B", 
+        "B"
+    ], 
+    "source": "middle987"
+}

@@ -1,0 +1,71 @@
+{
+    "article": "A trip to Qinhuangdao\nIn the summer of 2012,I took a trip to Qinhuangdao.It  _  a fantastic trip.\nWe went there  _  plane,because we wanted to get there quickly.And we arrived  _  there at about eleven o'clock and we had lunch there.We  _  the sea food.It was delicious.The weather was  _  and hot,so we swam in the sea.There were many people  _  the beach that day.\nQinhuangdao is the origin  of the Great Wall,so we  also  visited the Great Wall.The place is  _  and the locals  are really nice.We were there  _  a week.I bought an expensive souvenir.And then,we went home  _ .I really enjoyed my holiday.\nI enjoyed the trip.It was really a wonderful trip.", 
+    "options": [
+        [
+            "be", 
+            "is", 
+            "was", 
+            "were"
+        ], 
+        [
+            "by", 
+            "on", 
+            "to", 
+            "take"
+        ], 
+        [
+            "at", 
+            "in", 
+            "to", 
+            "/"
+        ], 
+        [
+            "ate", 
+            "eat", 
+            "eats", 
+            "have"
+        ], 
+        [
+            "sun", 
+            "sunny", 
+            "cool", 
+            "cloudy"
+        ], 
+        [
+            "at", 
+            "to", 
+            "for", 
+            "beyond"
+        ], 
+        [
+            "interest", 
+            "beauty", 
+            "wonderful", 
+            "terrible"
+        ], 
+        [
+            "of", 
+            "about", 
+            "at", 
+            "for"
+        ], 
+        [
+            "happily", 
+            "happy", 
+            "sad", 
+            "quickly"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "D", 
+        "A", 
+        "B", 
+        "A", 
+        "C", 
+        "D", 
+        "A"
+    ], 
+    "source": "middle1924"
+}

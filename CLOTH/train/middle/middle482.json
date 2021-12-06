@@ -1,0 +1,64 @@
+{
+    "article": "Paul got  _  the bus to go to the town. It was very crowded and he had to stand for about five  _  Then some of the people got  _  Paul sat down next  _  a fat woman. She  _  several shopping bags and Paul didn't have much place  _  the seat. He was uncomfortable.  _  last the bus got to the town. All the people started to get off. Paul was very polite, so he stood  _  to let the fat woman get off before him. She said,\"  Thank you  \" Then she tried to get  out of  the seat with all her bags. But she couldn't move. She was too fat and her bags were too heavy.", 
+    "options": [
+        [
+            "off", 
+            "on", 
+            "down", 
+            "up"
+        ], 
+        [
+            "minutes", 
+            "days", 
+            "weeks", 
+            "years"
+        ], 
+        [
+            "off", 
+            "up", 
+            "on", 
+            "down"
+        ], 
+        [
+            "in", 
+            "at", 
+            "near", 
+            "to"
+        ], 
+        [
+            "carries", 
+            "buys", 
+            "had", 
+            "has"
+        ], 
+        [
+            "in", 
+            "at", 
+            "on", 
+            "upon"
+        ], 
+        [
+            "In", 
+            "At", 
+            "On", 
+            "Up"
+        ], 
+        [
+            "down", 
+            "under", 
+            "up", 
+            "at"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "A", 
+        "D", 
+        "C", 
+        "C", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle482"
+}

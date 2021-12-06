@@ -1,0 +1,36 @@
+{
+    "article": "I have a good friend. Her name is Kate. She is  _  American girl. She is eleven. She  lives  with her family in China. There are  _  people in her family. They're her father, her mother, her brother and herself . She has a cat.  Its  name is Mimi. It's Sunday today. They  are all  at home. Look! Kate  is playing  with Mimi. Her father is reading newspapers. Her mother is cleaning the house. Where is her brother Jim? He is doing  _  homework in his study. Kate  likes  Chinese very much, but she can't  _  it very well. Jim likes  playing  soccer. He can play it very well.", 
+    "options": [
+        [
+            "a", 
+            "an", 
+            "the", 
+            "/"
+        ], 
+        [
+            "five", 
+            "four", 
+            "six", 
+            "three"
+        ], 
+        [
+            "he", 
+            "his", 
+            "her", 
+            "my"
+        ], 
+        [
+            "speak", 
+            "tell", 
+            "say", 
+            "talk"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "B", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle1962"
+}

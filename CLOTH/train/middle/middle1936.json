@@ -1,0 +1,57 @@
+{
+    "article": "Jim: Hello! My  _  is Jim. What's your name? Mary:  I'm  Mary. Jim: Can you  _  it? Mary: M-A-R-Y. Jim: And what's your  last name  ? Mary: Hand. Mary  _  . Jim:  _  is your phone number? Mary:  It's  398-51. Jim: Excuse me, what's this? Mary: It is my  _  . Jim: What color is your pen? Mary: It's  _  . Jim: Is blue your favorite  _  ? Mary: Yes, it is.", 
+    "options": [
+        [
+            "name", 
+            "friend", 
+            "key", 
+            "jacket"
+        ], 
+        [
+            "meet", 
+            "say", 
+            "see", 
+            "spell"
+        ], 
+        [
+            "Smith", 
+            "Hand", 
+            "Miller", 
+            "Green"
+        ], 
+        [
+            "What's", 
+            "What", 
+            "How's", 
+            "How"
+        ], 
+        [
+            "pen", 
+            "ruler", 
+            "cup", 
+            "key"
+        ], 
+        [
+            "blue", 
+            "red", 
+            "yellow", 
+            "white"
+        ], 
+        [
+            "phone", 
+            "school", 
+            "number", 
+            "color"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "B", 
+        "A", 
+        "A", 
+        "A", 
+        "D"
+    ], 
+    "source": "middle1936"
+}

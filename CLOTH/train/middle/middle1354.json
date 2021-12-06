@@ -1,0 +1,50 @@
+{
+    "article": "Hi ! I'm Linda. I'm  _  English  _ . Linda is my  first name . My family name  _  Green. I'm in China now. My Chinese name is  Zhang Xiaohui .I have a  _ . It's  red . It's 3:oo now. What's this? It's a key. What's that? It's a ruler.  _ key and the ruler  _  blue.  what color is that pen? It's black. It's my pen.", 
+    "options": [
+        [
+            "a", 
+            "an", 
+            "the", 
+            "/"
+        ], 
+        [
+            "name", 
+            "number", 
+            "girl", 
+            "boy"
+        ], 
+        [
+            "is", 
+            "am", 
+            "are", 
+            "be"
+        ], 
+        [
+            "pen", 
+            "ruler", 
+            "watch", 
+            "key"
+        ], 
+        [
+            "A", 
+            "An", 
+            "The", 
+            "/"
+        ], 
+        [
+            "is", 
+            "am", 
+            "are", 
+            "/"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "A", 
+        "C", 
+        "C", 
+        "C"
+    ], 
+    "source": "middle1354"
+}

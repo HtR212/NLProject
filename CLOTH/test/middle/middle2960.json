@@ -1,0 +1,36 @@
+{
+    "article": "Never try to work when you are very hungry .If you  decide to do  your homework right after school, you may want to have a snack before getting to work. Always do your homework  _  you get tired.  _  wait until very late in the evening ,or the assignment will seem much  _  than it really is .Break your time into manageable period .If you have more than  an hour's work  ,give yourself a break after an hour .On the other hand ,don't break it up  so often  that you can't get anything done .You should be able to work at least half an hour at a time  without stopping  .Don't put it off  _  the last minute .If you put off doing your homework ,you will always think of it ,and you won't enjoy your  free time  so much .If you put it off until the end of the week until right before a test ,you will have too much work to do for the exam .A little bit each night ,enough to keep up with what is happening each day in school ,will take the fear out of tests and keep you on top of it all .Do your hamework  at the same time  every day .This will help you make it a habit .It will make it easier to do ,and it will make free time more enjoyable as well.", 
+    "options": [
+        [
+            "after", 
+            "when", 
+            "before", 
+            "because"
+        ], 
+        [
+            "Not", 
+            "Please", 
+            "Always", 
+            "Don't"
+        ], 
+        [
+            "hard", 
+            "harder", 
+            "easy", 
+            "easier"
+        ], 
+        [
+            "for", 
+            "on", 
+            "at", 
+            "until"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "D", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle2960"
+}

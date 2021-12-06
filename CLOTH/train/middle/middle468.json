@@ -1,0 +1,71 @@
+{
+    "article": "My name is Alice. I _ two brothers. Their _ are Peter and Paul. Peter and Paul lik _ , and they eat chicken for lunch every day. But I like vegetables and fruit. Vegetables and fruit are good for my health. I eat _ every day. So I am healthy.\nPeter and Paul also _ dessert . Their favorite dessert is ice-cream . But ice- cream is not good for their health. They can't _ ice-cream every day. My favorite food _ apples and tomatoes. I eat apples for _ every morning and tomatoes for dinner every _ .", 
+    "options": [
+        [
+            "have", 
+            "take", 
+            "need", 
+            "watch"
+        ], 
+        [
+            "sports", 
+            "photos", 
+            "names", 
+            "numbers"
+        ], 
+        [
+            "carrots", 
+            "pears", 
+            "salad", 
+            "chicken"
+        ], 
+        [
+            "it", 
+            "them", 
+            "us", 
+            "they"
+        ], 
+        [
+            "like", 
+            "lost", 
+            "spell", 
+            "thank"
+        ], 
+        [
+            "look", 
+            "bring", 
+            "eat", 
+            "found"
+        ], 
+        [
+            "am", 
+            "is", 
+            "are", 
+            "Be"
+        ], 
+        [
+            "breakfast", 
+            "lunch", 
+            "dinner", 
+            "food"
+        ], 
+        [
+            "morning", 
+            "noon", 
+            "afternoon", 
+            "evening"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "D", 
+        "B", 
+        "A", 
+        "C", 
+        "B", 
+        "A", 
+        "D"
+    ], 
+    "source": "middle468"
+}

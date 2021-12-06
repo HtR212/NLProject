@@ -1,0 +1,43 @@
+{
+    "article": "Han Meimei is a hard-working student. She can  _  English very well because she works hard at it. One day, her teacher, Mr Wu, asks her to come to the office. \"Meimei, there  will be  a story-telling contest next week.\" He says. \"Would you like to take part in it?\" \" What shall I have to do, Mr Wu?\" asks Mermei. \"You'll have to tell an English story in front of the whole school. If you try your best,  I'm sure  you'll win,\" says her teacher. \" All right. I'll try,\" says Meimei.\nOn Sunday night she goes to bed late to get her story ready for the contest. It is  _  interesting story. Meimei doesn't go to bed until midnight.\nOn  _  morning she gets up late. When she  wakes up  it is already seven o'clock. She washes quickly. Then she has a quick breakfast. After that she runs all the way to school.\nWhen she gets to school, Mr Wu  is waiting  for her outside of the school building, and he looks  _ . \" Why are you so  _  ?\" he asks. \" Sorry, Mr Wu. I wake up late.\" Meimei says. \" The contest will begin in a minute. Remember to speak slowly and clearly.\" Mr Wu says.\nMeimei keeps his words. She tells her story very well. In the end she comes in first. \" You've done very well.  Congratulations !\" says Mr Wu.", 
+    "options": [
+        [
+            "say", 
+            "talk", 
+            "tell", 
+            "speak"
+        ], 
+        [
+            "an", 
+            "a", 
+            "the", 
+            "/"
+        ], 
+        [
+            "Sunday", 
+            "Monday", 
+            "Tuesday", 
+            "Wednesday"
+        ], 
+        [
+            "worried", 
+            "worry", 
+            "happy", 
+            "tired"
+        ], 
+        [
+            "early", 
+            "late", 
+            "later", 
+            "earlier"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "A", 
+        "B", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle2476"
+}

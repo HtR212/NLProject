@@ -1,0 +1,71 @@
+{
+    "article": "It is 8:00 in the evening. My  _  are in the room. My parents ate on the  _  . My uncle is on the sofa, too. He is in a jacket.  The  jacket is black. His  _  is Nick. He is my father's brother. Look! A red  _  is under the chair. Ah, it is not a hat. It is a clock. Bill is  _  the chair. He is my  _  . He is Uncle Nick's son. Gina and I  _  on the bed. Gina is Uncle Nick's  _  . She is my cousin, too. Jenny is at the table. She is my  _  . She is Gina and Bill's mother.", 
+    "options": [
+        [
+            "photo", 
+            "family", 
+            "telephone", 
+            "head"
+        ], 
+        [
+            "sofa", 
+            "chair", 
+            "desk", 
+            "table"
+        ], 
+        [
+            "color", 
+            "number", 
+            "card", 
+            "name"
+        ], 
+        [
+            "ruler", 
+            "pen", 
+            "hat", 
+            "bag"
+        ], 
+        [
+            "on", 
+            "for", 
+            "about", 
+            "in"
+        ], 
+        [
+            "brother", 
+            "sister", 
+            "friend", 
+            "cousin"
+        ], 
+        [
+            "is", 
+            "am", 
+            "are", 
+            "have"
+        ], 
+        [
+            "son", 
+            "daughter", 
+            "mother", 
+            "uncle"
+        ], 
+        [
+            "aunt", 
+            "grandmother", 
+            "parent", 
+            "sister"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "D", 
+        "C", 
+        "A", 
+        "D", 
+        "C", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle2292"
+}

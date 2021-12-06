@@ -1,0 +1,64 @@
+{
+    "article": "Hello, I'm Mary. I'm 12. I _ a little brother. He is 10 years old. _ name is Bill. We have different hobbies .\nI like _ TV very much. Our TV is _ the living room . I like watching basketball games on TV. I think they're _ . I like fruit, such as apples, _ and so on. I also like carrots and eggs. I eat a lot of _ . Bill likes computer games. He thinks they're fun, _ I think they're boring. Bill likes fruit, but he likes French fries and ice-cream. And he also likes hamburgers. I don't think they're healthy . So I don't eat them often.", 
+    "options": [
+        [
+            "am", 
+            "is", 
+            "have", 
+            "has"
+        ], 
+        [
+            "He", 
+            "She", 
+            "His", 
+            "Her"
+        ], 
+        [
+            "watching", 
+            "watch", 
+            "watches", 
+            "watched"
+        ], 
+        [
+            "near", 
+            "on", 
+            "in", 
+            "under"
+        ], 
+        [
+            "easy", 
+            "interesting", 
+            "difficult", 
+            "boring"
+        ], 
+        [
+            "carrots", 
+            "pears", 
+            "chicken", 
+            "salad"
+        ], 
+        [
+            "they", 
+            "them", 
+            "it", 
+            "/"
+        ], 
+        [
+            "but", 
+            "and", 
+            "so", 
+            "also"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "C", 
+        "A", 
+        "C", 
+        "B", 
+        "B", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle2937"
+}

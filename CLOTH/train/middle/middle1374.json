@@ -1,0 +1,36 @@
+{
+    "article": "I _ a friend.He's from Australia .He _ English.And he can speak Chinese,but only a little .He often comes to China _ his father and now he is Studying in our class.We are friends.He likes making things a lot.Look,he is making a paper bird.\nHe says to me,\"There _ a lot of delicious food in China.I like it very much.\"", 
+    "options": [
+        [
+            "have", 
+            "has", 
+            "there's", 
+            "am"
+        ], 
+        [
+            "speak", 
+            "speaks", 
+            "talks", 
+            "say"
+        ], 
+        [
+            "and", 
+            "or", 
+            "with", 
+            "to"
+        ], 
+        [
+            "is", 
+            "are", 
+            "have", 
+            "has"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "C", 
+        "A"
+    ], 
+    "source": "middle1374"
+}

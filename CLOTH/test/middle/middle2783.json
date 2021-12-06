@@ -1,0 +1,64 @@
+{
+    "article": "Dear friend, I am  _  American school girl. My name is Alice Green. I am twelve. I  have  two brothers. My brothers and I  _  all at school. We go to school  _  Monday  _  Friday. We  _  have classes on  _  and Sunday. We don't go to school on weekends. My father and my mother are teachers. They say China is great. I like  singing  , and I can sing a lot of songs. My brother and I like baseball and basketball.  _  do you like? Let's  _  friends. Please write soon. Yours, Alice Green", 
+    "options": [
+        [
+            "an", 
+            "a", 
+            "the", 
+            "/"
+        ], 
+        [
+            "is", 
+            "am", 
+            "be", 
+            "are"
+        ], 
+        [
+            "in", 
+            "at", 
+            "on", 
+            "from"
+        ], 
+        [
+            "to", 
+            "on", 
+            "in", 
+            "for"
+        ], 
+        [
+            "aren't", 
+            "isn't", 
+            "don't", 
+            "doesn't"
+        ], 
+        [
+            "Monday", 
+            "Wednesday", 
+            "Saturday", 
+            "Friday"
+        ], 
+        [
+            "Who", 
+            "Why", 
+            "What", 
+            "Where"
+        ], 
+        [
+            "are", 
+            "is", 
+            "do", 
+            "be"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "D", 
+        "A", 
+        "C", 
+        "C", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle2783"
+}

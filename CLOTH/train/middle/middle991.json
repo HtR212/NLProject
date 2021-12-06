@@ -1,0 +1,71 @@
+{
+    "article": "My parents have always loved everything about India, so a year ago we went on holiday there. It's a wonderful  _  with beautiful scenes and interesting people . However, I didn't enjoy Indian  _  very much. On the second day we planned to see an old palace. At the  _  they said. \"If you go by train, it'll take you only two hours to get there.\" However, the hot ride  took  over four hours. I was very  _  when we got there , so we had some rice and vegetables with bread in a small restaurant. We were  _  to find it was quite nice. I wasn't full up though and I saw a man nearby eating some little meatballs. I said to my dad, \"I've been eating rice all week. Can I have some meatballs please?\" Well, they looked delicious so I ate the first one very  _  . I was just putting the second one in my mouth when I felt myself  _  --my mouth was on fire! I started to cough and there were tears in my eyes. I couldn't  _  how spicy it was! I drank about ten glasses of water but the worst thing was everyone was laughing at me. You couldn't make me eat another Indian meatball for all the  _  in the world!", 
+    "options": [
+        [
+            "town", 
+            "city", 
+            "country", 
+            "restaurant"
+        ], 
+        [
+            "food", 
+            "scenes", 
+            "people", 
+            "costumes"
+        ], 
+        [
+            "palace", 
+            "hotel", 
+            "airport", 
+            "entrance"
+        ], 
+        [
+            "hungry", 
+            "curious", 
+            "cheerful", 
+            "nervous"
+        ], 
+        [
+            "shocked", 
+            "surprised", 
+            "bored", 
+            "tired"
+        ], 
+        [
+            "quietly", 
+            "easily", 
+            "quickly", 
+            "gently"
+        ], 
+        [
+            "burning", 
+            "watering", 
+            "crying", 
+            "smiling"
+        ], 
+        [
+            "feel", 
+            "believe", 
+            "think", 
+            "know"
+        ], 
+        [
+            "luck", 
+            "diet", 
+            "time", 
+            "money"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "B", 
+        "A", 
+        "B", 
+        "C", 
+        "A", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle991"
+}

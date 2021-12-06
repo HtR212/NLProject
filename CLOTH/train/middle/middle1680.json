@@ -1,0 +1,71 @@
+{
+    "article": "I have a happy family. Look! Here is a  _  of my family. The boy in bed is  me  . I am  _  English boy. My  _  is Peter. I am eleven years old. This is my sister. Her name is Kate.  _  is nine years old now. Kate and I are students now. We are  _  the same school.  _  are my father and mother. My father is a teacher. How old is my father? He is forty. My mother is  _  nice. She cooks for us every  _  . We all  _  her so much. We are a happy family.", 
+    "options": [
+        [
+            "room", 
+            "ruler", 
+            "paper", 
+            "photo"
+        ], 
+        [
+            "an", 
+            "the", 
+            "this", 
+            "a"
+        ], 
+        [
+            "class", 
+            "school", 
+            "name", 
+            "number"
+        ], 
+        [
+            "They", 
+            "It", 
+            "He", 
+            "She"
+        ], 
+        [
+            "in", 
+            "on", 
+            "of", 
+            "to"
+        ], 
+        [
+            "This", 
+            "These", 
+            "It", 
+            "She"
+        ], 
+        [
+            "such", 
+            "very", 
+            "much", 
+            "please"
+        ], 
+        [
+            "day", 
+            "year", 
+            "hour", 
+            "minute"
+        ], 
+        [
+            "meet", 
+            "take", 
+            "love", 
+            "call"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "A", 
+        "C", 
+        "D", 
+        "A", 
+        "B", 
+        "B", 
+        "A", 
+        "C"
+    ], 
+    "source": "middle1680"
+}

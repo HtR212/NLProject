@@ -1,0 +1,64 @@
+{
+    "article": "A well-dressed man goes  _ a restaurant a day. He sits down at a table near the window. A waiter comes up to _ and says, \"Can I help you, sir?\" The man says, \"Can I see the menu?\" \"Certainly. \" The man orders a good meal. He wants a lot of _ dishes. The waiter gets them for him. The man is having his meal. _ that time a boy comes in and sits down beside the man. He asks the waiter to give him an ice cream. The man does so. Now the boy is eating his ice cream. The man is saying, \"I go out _ a newspaper.\"\nThen he goes out. After the boy eats his ice cream up, the boy stands up and goes to the door. \" Excuse me , your father didn't _ for the meal and your ice cream. \"The waiter stops him and says.\n\"Father? You're _ .He isn't my father. I don't _ him. I meet him in the street. He says he will give me an ice cream if I come here at twelve o'clock. \"", 
+    "options": [
+        [
+            "in", 
+            "out", 
+            "into", 
+            "onto"
+        ], 
+        [
+            "him", 
+            "it", 
+            "his", 
+            "them"
+        ], 
+        [
+            "tasty", 
+            "clean", 
+            "bad", 
+            "many"
+        ], 
+        [
+            "In", 
+            "On", 
+            "At", 
+            "For"
+        ], 
+        [
+            "with", 
+            "for", 
+            "to", 
+            "at"
+        ], 
+        [
+            "spend", 
+            "cost", 
+            "take", 
+            "pay"
+        ], 
+        [
+            "good", 
+            "right", 
+            "well", 
+            "wrong"
+        ], 
+        [
+            "like", 
+            "know", 
+            "help", 
+            "ask"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "A", 
+        "C", 
+        "B", 
+        "D", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle1119"
+}

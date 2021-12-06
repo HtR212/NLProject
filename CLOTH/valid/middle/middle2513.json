@@ -1,0 +1,71 @@
+{
+    "article": "This _ Jim. He is my good friend. He is twelve. His hair _ short .He and I _ in the same school. I _ eleven. I'm _ Class 3, Grade 1.He is in Class 2, Grade 1. _ mother is a teacher. _ teaches English in my school. She has short brown hair. _ is a good teacher. She is very friendly to _ We like her very much.", 
+    "options": [
+        [
+            "is", 
+            "are", 
+            "am", 
+            "be"
+        ], 
+        [
+            "has", 
+            "is", 
+            "are", 
+            "have"
+        ], 
+        [
+            "am", 
+            "are", 
+            "is", 
+            "can"
+        ], 
+        [
+            "am", 
+            "is", 
+            "are", 
+            "has"
+        ], 
+        [
+            "at", 
+            "in", 
+            "to", 
+            "of"
+        ], 
+        [
+            "He", 
+            "Her", 
+            "His", 
+            "Mine"
+        ], 
+        [
+            "Her", 
+            "She", 
+            "He", 
+            "They"
+        ], 
+        [
+            "Her", 
+            "She", 
+            "His", 
+            "Your"
+        ], 
+        [
+            "us", 
+            "we", 
+            "our", 
+            "his"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "B", 
+        "A", 
+        "B", 
+        "C", 
+        "B", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle2513"
+}

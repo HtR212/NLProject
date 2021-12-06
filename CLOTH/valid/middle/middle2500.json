@@ -1,0 +1,29 @@
+{
+    "article": "France is in Western Europe. It is a country with many beautiful places.\nParis is _ capital of France. Here you will find many places of interest such as the Eiffel Tower , the Louvre Museum and so on.. If you want to visit some shops and department stores, you can go to the Champs-Elysees.\nFrance is very famous for its wine. There _ many vineyards in the centre of France and farmers grow grapes to make excellent French wine.\nIn the south, a French town by the sea is the perfect place for a summer holiday, _ if you prefer to visit France in winter, you can try skiing on the mountains in the French Alps.\nFrance has something for everyone, so why not visit France this year?", 
+    "options": [
+        [
+            "a", 
+            "an", 
+            "/", 
+            "the"
+        ], 
+        [
+            "are", 
+            "be", 
+            "have", 
+            "is"
+        ], 
+        [
+            "but", 
+            "however", 
+            "so", 
+            "because"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "A", 
+        "A"
+    ], 
+    "source": "middle2500"
+}

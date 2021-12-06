@@ -1,0 +1,71 @@
+{
+    "article": "My English name is David. I am short  _  black hair. I am from China. Frank is my classmate and neighbour. He is tall and has black hair. He  _  from the USA, and now he is in Beijing.\nFrank and I have different  _  habits. He likes having fruit and vegetables very much,  _  I only like meat. Coke is Frank's favourite  _ , but I like tea best. I look much fatter than him.\nFrank often  gets up  early and does sports. I like staying in my bedroom and  _ computer games. I often have a cold. When I am ill, I always stay at home and take some  _ . The doctor asks me to take  _  often, but it is difficult for me to get up early. At last, Frank has an idea. He calls  _  in the morning every day, and then we do some sports together.", 
+    "options": [
+        [
+            "for", 
+            "to", 
+            "with", 
+            "about"
+        ], 
+        [
+            "goes", 
+            "comes", 
+            "walks", 
+            "takes"
+        ], 
+        [
+            "eating", 
+            "learning", 
+            "talking", 
+            "sleeping"
+        ], 
+        [
+            "/", 
+            "so", 
+            "or", 
+            "but"
+        ], 
+        [
+            "food", 
+            "time", 
+            "drink", 
+            "box"
+        ], 
+        [
+            "making", 
+            "running", 
+            "playing", 
+            "eating"
+        ], 
+        [
+            "medicine", 
+            "food", 
+            "meat", 
+            "Coke"
+        ], 
+        [
+            "photos", 
+            "exercise", 
+            "homework", 
+            "housework"
+        ], 
+        [
+            "me", 
+            "her", 
+            "us", 
+            "him"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "A", 
+        "D", 
+        "C", 
+        "C", 
+        "A", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle886"
+}

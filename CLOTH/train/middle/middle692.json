@@ -1,0 +1,71 @@
+{
+    "article": "_  brother, Ethan. I have five  _  and two oranges. He  _  four bananas and three  _  . I don't like  tomatoes  , but she  _  . He doesn't like salad,  _  I do. My father  _  broccoli, but my  _  doesn't. I  _  my family.", 
+    "options": [
+        [
+            "am", 
+            "have", 
+            "like", 
+            "has"
+        ], 
+        [
+            "banana", 
+            "orange", 
+            "bananas", 
+            "salads"
+        ], 
+        [
+            "is", 
+            "likes", 
+            "has", 
+            "have"
+        ], 
+        [
+            "oranges", 
+            "hamburger", 
+            "orange", 
+            "hamburgeres"
+        ], 
+        [
+            "do", 
+            "does", 
+            "like", 
+            "/"
+        ], 
+        [
+            "but", 
+            "and", 
+            "or", 
+            "for"
+        ], 
+        [
+            "likes", 
+            "have", 
+            "like", 
+            "does"
+        ], 
+        [
+            "friend", 
+            "sister", 
+            "mother", 
+            "uncle"
+        ], 
+        [
+            "likes", 
+            "am", 
+            "do", 
+            "like"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "C", 
+        "A", 
+        "B", 
+        "A", 
+        "A", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle692"
+}

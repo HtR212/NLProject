@@ -1,0 +1,64 @@
+{
+    "article": "Dear Lucy, We are back in Garden City now. We had  _  good trip. I  went  to collect my photos yesterday. They  _  great! I showed these photos  _  my classmates. They all  _  them. There is a photo of Ben and Simon  _  the Great Wall. There is one of you and  _  in the Forbidden City . We really enjoyed  _  vacation. We were sad to  leave  you. You must  _  and visit us in Garden City at Chinese New Year. Love, Kitty", 
+    "options": [
+        [
+            "other", 
+            "a", 
+            "another", 
+            "many"
+        ], 
+        [
+            "are", 
+            "were", 
+            "feel", 
+            "felt"
+        ], 
+        [
+            "from", 
+            "by", 
+            "for", 
+            "to"
+        ], 
+        [
+            "like", 
+            "liked", 
+            "likes", 
+            "liking"
+        ], 
+        [
+            "in", 
+            "about", 
+            "on", 
+            "from"
+        ], 
+        [
+            "I", 
+            "me", 
+            "we", 
+            "he"
+        ], 
+        [
+            "my", 
+            "your", 
+            "their", 
+            "our"
+        ], 
+        [
+            "go", 
+            "went", 
+            "come", 
+            "came"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "B", 
+        "D", 
+        "B", 
+        "C", 
+        "B", 
+        "D", 
+        "C"
+    ], 
+    "source": "middle2734"
+}

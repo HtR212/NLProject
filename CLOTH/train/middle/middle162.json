@@ -1,0 +1,57 @@
+{
+    "article": "Rose is only four years old.She is not  at school  .She  doesn't know  how to read or write.But her sister Jenny is nine.She is a  girl student  .She knows how to read and write. One day, Jenny  _  her little sister in the room.She is  _  the table.There  _  a pencil in her hand.She is writing. \"What are you  _  , Rose?\" she asks.\"I'm writing  _  my friend Mary.\" \"But how can you? You don't know  _  to write,\" says his sister. \"Well,\" says Mary, \"it doesn't matter.Mary doesn't know how to  _  , either.\"", 
+    "options": [
+        [
+            "write", 
+            "sees", 
+            "seeing", 
+            "reading"
+        ], 
+        [
+            "in", 
+            "on", 
+            "under", 
+            "at"
+        ], 
+        [
+            "is", 
+            "are", 
+            "has", 
+            "have"
+        ], 
+        [
+            "doing", 
+            "writing", 
+            "seeing", 
+            "does"
+        ], 
+        [
+            "from", 
+            "to", 
+            "for", 
+            "with"
+        ], 
+        [
+            "how", 
+            "what", 
+            "who", 
+            "how"
+        ], 
+        [
+            "write", 
+            "sing", 
+            "read", 
+            "dance"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "A", 
+        "A", 
+        "B", 
+        "A", 
+        "C"
+    ], 
+    "source": "middle162"
+}

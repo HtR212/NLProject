@@ -1,0 +1,57 @@
+{
+    "article": "This is my family. There are four people in my _ . _ my father, my mother, my sister and I. My father _ a cook . He cooks nice food. He likes playing chess. My mother is a teacher. She likes books. They two work in the same school. They like tea very much, _ they don't like milk. My name is Lin Yang. _ like playing _ football. My sister, Lin Ting likes _ . And she wants to be a running star.", 
+    "options": [
+        [
+            "room", 
+            "home", 
+            "house", 
+            "family"
+        ], 
+        [
+            "There", 
+            "Their", 
+            "They're", 
+            "They"
+        ], 
+        [
+            "are", 
+            "is", 
+            "be", 
+            "has"
+        ], 
+        [
+            "and", 
+            "so", 
+            "but", 
+            "then"
+        ], 
+        [
+            "My", 
+            "I", 
+            "He", 
+            "She"
+        ], 
+        [
+            "/", 
+            "the", 
+            "a", 
+            "an"
+        ], 
+        [
+            "photos", 
+            "food", 
+            "cards", 
+            "sports"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "C", 
+        "B", 
+        "C", 
+        "B", 
+        "A", 
+        "D"
+    ], 
+    "source": "middle311"
+}

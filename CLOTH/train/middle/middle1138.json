@@ -1,0 +1,71 @@
+{
+    "article": "Joe Brown had a shop where he _ meat. One day a woman _ into the shop at five to one. \"I' m sorry. I' m late,\" she said. \"I _ some more meat for my dinner tonight.\" Joe had only one _ of meat in his shop. He took it out of the fridge and said, \"This is $6.50.\"\n\"That piece is too _ ,\"the woman said. \"Haven' t you got anything bigger?\" Joe _ into the room behind his shop, put the meat into the fridge, took it out again and closed the door _ a lot of noise. Then he brought the piece of meat to the woman and said, \"This piece of meat is bigger and _ expensive. It' s $8.75.\"\n\"Good,\" the woman said with a smile.\n\"Give me _ of them, please.\"", 
+    "options": [
+        [
+            "sell", 
+            "buy", 
+            "bought", 
+            "sold"
+        ], 
+        [
+            "came", 
+            "stood", 
+            "went", 
+            "put"
+        ], 
+        [
+            "wanted", 
+            "need", 
+            "wants", 
+            "needs"
+        ], 
+        [
+            "bowl", 
+            "is", 
+            "piece", 
+            "pound"
+        ], 
+        [
+            "big", 
+            "bigger", 
+            "small", 
+            "smaller"
+        ], 
+        [
+            "went", 
+            "goes", 
+            "go", 
+            "runs"
+        ], 
+        [
+            "in", 
+            "of", 
+            "with", 
+            "by"
+        ], 
+        [
+            "most", 
+            "much", 
+            "many", 
+            "more"
+        ], 
+        [
+            "all", 
+            "every", 
+            "both", 
+            "each"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "A", 
+        "B", 
+        "C", 
+        "C", 
+        "A", 
+        "C", 
+        "D", 
+        "C"
+    ], 
+    "source": "middle1138"
+}

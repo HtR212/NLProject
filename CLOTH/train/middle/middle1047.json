@@ -1,0 +1,57 @@
+{
+    "article": "Li Ming is 14 years old. He is a  _  of Gread Eight. At school, he works hard and is very good  _  his lesson. He is a good boy  _  he has many friends. But he feels very lonely when he comes back home from  _  .Sometimes he cries quietly. When LiMing was three, his parents began to  _  in Guangzhou. They come back twice a year. And each time they stay at home for only five to ten days. Then they have to say  goodbye  to LiMing. They tell Li Ming that they are doing their best to  _  more money for him. Last year, LiMing's parents didn't come back because of the bad weather. LiMing  _  them very much .Before New Year's Day , he sent them a  letter  . He wrote,\" Happy New Year, Mom and Dad. My grandparents are very well, I'm doing well at school .Don't  worry about  us, Mom , I want to see you every day ,I will try to save money ,then you can come back and never go away.", 
+    "options": [
+        [
+            "girl", 
+            "baby", 
+            "student", 
+            "parent"
+        ], 
+        [
+            "with.", 
+            "at", 
+            "to", 
+            "in"
+        ], 
+        [
+            "and", 
+            "but", 
+            "as", 
+            "or"
+        ], 
+        [
+            "farm", 
+            "school", 
+            "office", 
+            "library"
+        ], 
+        [
+            "relax", 
+            "study", 
+            "paint", 
+            "work"
+        ], 
+        [
+            "make", 
+            "celebrate", 
+            "write", 
+            "carry"
+        ], 
+        [
+            "liked", 
+            "hoped", 
+            "hated", 
+            "missed"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "A", 
+        "B", 
+        "D", 
+        "A", 
+        "D"
+    ], 
+    "source": "middle1047"
+}

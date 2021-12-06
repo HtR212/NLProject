@@ -1,0 +1,50 @@
+{
+    "article": "Wang Bing is a 12-year-old boy. He likes sports very much and  _  well in sports.\nOne afternoon, he comes   out of  the classroom and   sees  his father at the school gate. He is very   _  and then he runs to his father. \"Dad, please don't wait   for me after school next time. I can go home by myself  .\"\nOn their way  home , Wang Bing sees some boys skating   in a park. \"Can I go and skate, Dad?\" asks Wang Bing. \"I'm   _ , my boy. You must go home and do your homework,\"  says his father, \"but I can buy you an ice cream.\"\nThen his father buys an ice cream   _  him. When Wang Bing wants  to eat  it, a fly   flies to the ice cream.\n\"Drive off   the fly,\" says his father, \"It's very dirty.\" But Wang Bing   _  with a smile, \"You don't let me skate, but can you let  _  skate for a while  ?\"", 
+    "options": [
+        [
+            "did", 
+            "doing", 
+            "do", 
+            "does"
+        ], 
+        [
+            "happy", 
+            "sad", 
+            "old", 
+            "bright"
+        ], 
+        [
+            "sorry", 
+            "happy", 
+            "OK", 
+            "good"
+        ], 
+        [
+            "to", 
+            "with", 
+            "for", 
+            "of"
+        ], 
+        [
+            "says", 
+            "speaks", 
+            "talks", 
+            "tells"
+        ], 
+        [
+            "he", 
+            "it", 
+            "her", 
+            "its"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "A", 
+        "A", 
+        "C", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle779"
+}

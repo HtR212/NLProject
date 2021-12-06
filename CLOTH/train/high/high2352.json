@@ -1,0 +1,71 @@
+{
+    "article": "In front of the big Shibuya train station in Tokyo, there is a life-size bronze statue of a dog. Even though the statue is very small when compared to the huge neon signs flashing, it isn't  _  to find. It has been used as  a meeting point  since 1934 and today you will find hundreds of people waiting there for their friends to  _  --just look for the crowds . Hachiko, an Akita dog, was born in 1923 and brought to Tokyo in 1924. His owner, Professor Eisaburo Uyeno and he were close friends that cannot be  _  right from the start. Each day Hachiko would go with his owner, a professor at the Imperial University, to Shibuya train station when he left for work. When he came back, the professor would always find the dog  _  waiting for him.  _  , the professor died suddenly at work in 1925 before he could return home.  _  Hachiko was still a young dog, the bond between him and his owner was very strong and he  _  to wait at the station every day. Sometimes, he would stay there for days at a time, though some believe that he kept returning because of the food he was given by street vendors. Over time he became a  _  sight to people going to and from work every day. In 1934, a statue of him was put  _  the station. In 1935, Hachiko died at the place he last saw his friend alive.", 
+    "options": [
+        [
+            "difficult", 
+            "important", 
+            "pleasant", 
+            "polite"
+        ], 
+        [
+            "leave", 
+            "arrive", 
+            "die", 
+            "work"
+        ], 
+        [
+            "touched", 
+            "separated", 
+            "reached", 
+            "moved"
+        ], 
+        [
+            "nervously", 
+            "disappointedly", 
+            "patiently", 
+            "carefully"
+        ], 
+        [
+            "Sadly", 
+            "Clearly", 
+            "Luckily", 
+            "Honestly"
+        ], 
+        [
+            "Because", 
+            "Since", 
+            "Although", 
+            "Unless"
+        ], 
+        [
+            "decided", 
+            "agreed", 
+            "offered", 
+            "continued"
+        ], 
+        [
+            "familiar", 
+            "strange", 
+            "comfortable", 
+            "funny"
+        ], 
+        [
+            "inside", 
+            "outside", 
+            "behind", 
+            "above"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "B", 
+        "C", 
+        "A", 
+        "C", 
+        "D", 
+        "A", 
+        "B"
+    ], 
+    "source": "high2352"
+}

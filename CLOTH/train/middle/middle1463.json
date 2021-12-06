@@ -1,0 +1,71 @@
+{
+    "article": "This is a  _ of Eric's family. This  _  Mr. Read.  _ is Eric's father.  _ is Mrs. Read.  _  is Eric's mother. Who  _  this boy and  _ girl? The  _ is Eric, Mr. Read's son. The  _  is Ann, Mr. Read's daughter. Ann is Eric's sister.", 
+    "options": [
+        [
+            "book", 
+            "photo", 
+            "map", 
+            "pen"
+        ], 
+        [
+            "is", 
+            "am", 
+            "are", 
+            "be"
+        ], 
+        [
+            "She", 
+            "Her", 
+            "He", 
+            "His"
+        ], 
+        [
+            "A", 
+            "An", 
+            "These", 
+            "This"
+        ], 
+        [
+            "She", 
+            "Her", 
+            "He", 
+            "His"
+        ], 
+        [
+            "is", 
+            "am", 
+            "love", 
+            "are"
+        ], 
+        [
+            "a", 
+            "these", 
+            "this", 
+            "an"
+        ], 
+        [
+            "girl", 
+            "boy", 
+            "boys", 
+            "girls"
+        ], 
+        [
+            "girl", 
+            "boy", 
+            "boys", 
+            "girls"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "C", 
+        "D", 
+        "A", 
+        "D", 
+        "C", 
+        "A", 
+        "A"
+    ], 
+    "source": "middle1463"
+}

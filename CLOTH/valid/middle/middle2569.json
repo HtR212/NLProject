@@ -1,0 +1,71 @@
+{
+    "article": "My name is Tony. I'm an 11-year-old boy. And I'm a student of No.5 Middle School. There _ four people in my family. They are my parents, my sister and me. My father is a teacher. He teaches English. He is good at _ English. He is strict _ his students. My mother is a doctor. It's 10 kilometers from our home to hospital. She goes to work _ bus every morning. It takes her about 20 minutes. My sister is a student, too. She must get up early. She can't _ late for class. She must read a book before she can watch TV. She has to _ the rules. She thinks she _ has any fun .She feels unhappy . I have a pet. It's a dog. It's very cute and _ . His name is Lazy. That's a good name for him, because he is kind of lazy and he sleeps all day. He likes to walk on two legs. He can dance _ .", 
+    "options": [
+        [
+            "is", 
+            "are", 
+            "has", 
+            "have"
+        ], 
+        [
+            "speak", 
+            "speaking", 
+            "talks", 
+            "talking"
+        ], 
+        [
+            "to", 
+            "in", 
+            "at", 
+            "with"
+        ], 
+        [
+            "in", 
+            "on", 
+            "by", 
+            "with"
+        ], 
+        [
+            "/", 
+            "be", 
+            "is", 
+            "are"
+        ], 
+        [
+            "break", 
+            "follow", 
+            "teach", 
+            "play"
+        ], 
+        [
+            "ever", 
+            "sometimes", 
+            "never", 
+            "always"
+        ], 
+        [
+            "friend", 
+            "friends", 
+            "friendy", 
+            "friendly"
+        ], 
+        [
+            "good", 
+            "well", 
+            "nice", 
+            "better"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "B", 
+        "D", 
+        "C", 
+        "B", 
+        "B", 
+        "C", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle2569"
+}

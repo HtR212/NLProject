@@ -1,0 +1,64 @@
+{
+    "article": "The sun is shining and it's very hot. _ many people don't want to go out after _ . Mrs West has to  _ meet her father at the airport. Her father doesn't feel well, he wants to see a _ in the city hospital.\nNow she's walking in the street. There _ no trees and she feels very _ . But she's too _ and can't walk fast . Suddenly she finds  a _ walking behind her. She gets angry and her face turns red. \"Why are you walking behind me, boy?\" She asks strictly. \"It's cooler\". The boy answers.", 
+    "options": [
+        [
+            "But", 
+            "Because", 
+            "So", 
+            "Then"
+        ], 
+        [
+            "breakfast", 
+            "dinner", 
+            "supper", 
+            "lunch"
+        ], 
+        [
+            "watch", 
+            "meet", 
+            "help", 
+            "ask"
+        ], 
+        [
+            "nurse", 
+            "waiter", 
+            "policeman", 
+            "doctor"
+        ], 
+        [
+            "be", 
+            "is", 
+            "are", 
+            "am"
+        ], 
+        [
+            "cold", 
+            "cool", 
+            "relaxed", 
+            "hot"
+        ], 
+        [
+            "happy", 
+            "fat", 
+            "short", 
+            "tall"
+        ], 
+        [
+            "boy", 
+            "man", 
+            "woman", 
+            "dog"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "D", 
+        "B", 
+        "D", 
+        "C", 
+        "D", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle2124"
+}

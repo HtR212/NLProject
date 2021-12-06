@@ -1,0 +1,71 @@
+{
+    "article": "Yesterday afternoon, I visited my uncle--Frank Hawkins. He was  _  me about his experiences as a young man.  _  he retired , Frank was the head of a very large business company. But as a boy he  used  to work in a small shop. It was his job to repair bicycles and  _  that time he used to work fourteen hours a day. He saved money for years and in 1958 he  _  a small workshop of his own.  _  his twenties Frank used to make spare parts for planes. At that time he had two helpers. In a few years the small workshop had become a large factory  _  employed seven hundred and twenty-eight people. Frank smiled when he remembered his  _  early years and the long road to success. He was still smiling when the door  _  and his wife came in. She  _  him to repair their grandson's bicycle!", 
+    "options": [
+        [
+            "saying", 
+            "telling", 
+            "talking", 
+            "speaking"
+        ], 
+        [
+            "Before", 
+            "After", 
+            "When", 
+            "As"
+        ], 
+        [
+            "for", 
+            "on", 
+            "in", 
+            "at"
+        ], 
+        [
+            "brought", 
+            "bought", 
+            "buy", 
+            "buying"
+        ], 
+        [
+            "At", 
+            "In", 
+            "on", 
+            "To"
+        ], 
+        [
+            "it", 
+            "which", 
+            "who", 
+            "/"
+        ], 
+        [
+            "easy", 
+            "easily", 
+            "hard", 
+            "hardly"
+        ], 
+        [
+            "open", 
+            "close", 
+            "opened", 
+            "closed"
+        ], 
+        [
+            "want", 
+            "wanted", 
+            "wants", 
+            "wanting"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "D", 
+        "A", 
+        "B", 
+        "B", 
+        "C", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle1712"
+}

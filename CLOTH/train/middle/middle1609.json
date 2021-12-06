@@ -1,0 +1,64 @@
+{
+    "article": "_  name is Jim and I am  _  American boy. I  _  soccer very much. Owen  _  my favorite soccer player. I  _  a very good friend.  _  name is George. He also  likes  sports and he  _  some sports collections.  _  like  playing  soccer together after school .", 
+    "options": [
+        [
+            "Her", 
+            "His", 
+            "My", 
+            "I"
+        ], 
+        [
+            "the", 
+            "an", 
+            "a", 
+            "\\"
+        ], 
+        [
+            "am", 
+            "are", 
+            "like", 
+            "likes"
+        ], 
+        [
+            "one", 
+            "are", 
+            "am", 
+            "is"
+        ], 
+        [
+            "have", 
+            "has", 
+            "am", 
+            "are"
+        ], 
+        [
+            "He", 
+            "Her", 
+            "She", 
+            "His"
+        ], 
+        [
+            "have", 
+            "is", 
+            "has", 
+            "had"
+        ], 
+        [
+            "He", 
+            "Him", 
+            "We", 
+            "Us"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "C", 
+        "D", 
+        "A", 
+        "D", 
+        "C", 
+        "C"
+    ], 
+    "source": "middle1609"
+}

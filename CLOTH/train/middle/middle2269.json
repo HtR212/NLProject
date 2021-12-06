@@ -1,0 +1,71 @@
+{
+    "article": "My name is Ann.  _  favorite day of the week is Sunday.  _  Sundays I usually get up late, at about 9 o'clock in the  _  . I have breakfast from 9:10 to 9:40. Then  _  breakfast, I often  _  TV. My parents and I usually go out for a big meal at noon. In the afternoon, I often go to the park  _  my friends. We play  _  basketball and soccer in the park. After dinner I play computer games at  _  . Sometimes I go to a movie with my family. We all like  action movies  We think they're very exciting. I like Sunday so much because on that day I  _  do things I like to do.", 
+    "options": [
+        [
+            "My", 
+            "Your", 
+            "His", 
+            "Her"
+        ], 
+        [
+            "In", 
+            "On", 
+            "At", 
+            "From"
+        ], 
+        [
+            "morning", 
+            "afternoon", 
+            "evening", 
+            "night"
+        ], 
+        [
+            "at", 
+            "in", 
+            "before", 
+            "after"
+        ], 
+        [
+            "look", 
+            "see", 
+            "watch", 
+            "read"
+        ], 
+        [
+            "for", 
+            "with", 
+            "and", 
+            "to"
+        ], 
+        [
+            "a", 
+            "an", 
+            "the", 
+            "/"
+        ], 
+        [
+            "school", 
+            "home", 
+            "hotel", 
+            "park"
+        ], 
+        [
+            "can", 
+            "can't", 
+            "don't", 
+            "must"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "A", 
+        "D", 
+        "C", 
+        "B", 
+        "D", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle2269"
+}

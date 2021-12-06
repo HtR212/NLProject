@@ -1,0 +1,64 @@
+{
+    "article": "American  _  begins  _  September after a long  _  holiday. There are  _  terms in a school  _  . The first term is from  _  to January, and  the second  is from February to June.  Many  American children begin to go to  school  when they are five years old. Most students are seventeen to eighteen years old when they finish high school. High school students in America take only five  _  six subjects each term. They usually go to the same class every day, and they have homework for every class. After  class  they do all kinds of interesting things. After high school, many students go to college . They can go to a small or a large one. They usually have to give  a lot of  money. So, many  college  students work after school  to get  money  _  their studies.", 
+    "options": [
+        [
+            "student", 
+            "school", 
+            "class", 
+            "teacher"
+        ], 
+        [
+            "of", 
+            "on", 
+            "at", 
+            "in"
+        ], 
+        [
+            "winter", 
+            "autumn", 
+            "summer", 
+            "spring"
+        ], 
+        [
+            "two", 
+            "three", 
+            "four", 
+            "five"
+        ], 
+        [
+            "day", 
+            "week", 
+            "month", 
+            "year"
+        ], 
+        [
+            "July", 
+            "August", 
+            "September", 
+            "October"
+        ], 
+        [
+            "from", 
+            "to", 
+            "and", 
+            "or"
+        ], 
+        [
+            "to", 
+            "for", 
+            "in", 
+            "on"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "C", 
+        "A", 
+        "D", 
+        "C", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle814"
+}

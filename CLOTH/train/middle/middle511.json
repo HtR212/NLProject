@@ -1,0 +1,71 @@
+{
+    "article": "Australia is the greatest   island in the world. It is much smaller than China. It is in the _ of the Earth. So when it is _ summer in China, it is cold winter in Australia.\nAustralia is big, but the population there is _ . The population of Australia _ the same as that of Shanghai, a city in China.\nAustralia is famous _ its _ and kangaroos. After a short drive from any town, you will find _ in the middle of white sheep. Sheep, sheep, _ are sheep. Have you ever seen a kangaroo? It has a \"bag\" in its body. The _ kangaroo keeps its baby kangaroo in the \"bag\". It is very interesting, isn't it?", 
+    "options": [
+        [
+            "north", 
+            "west", 
+            "south", 
+            "east"
+        ], 
+        [
+            "warm", 
+            "hot", 
+            "cold", 
+            "cool"
+        ], 
+        [
+            "small", 
+            "more", 
+            "much", 
+            "big"
+        ], 
+        [
+            "am", 
+            "is", 
+            "are", 
+            "be"
+        ], 
+        [
+            "for", 
+            "as", 
+            "about", 
+            "from"
+        ], 
+        [
+            "horses", 
+            "cats", 
+            "bears", 
+            "sheep"
+        ], 
+        [
+            "you", 
+            "yourself", 
+            "your", 
+            "yours"
+        ], 
+        [
+            "there", 
+            "where", 
+            "anywhere", 
+            "everywhere"
+        ], 
+        [
+            "girl", 
+            "son", 
+            "father", 
+            "mother"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "A", 
+        "B", 
+        "A", 
+        "D", 
+        "B", 
+        "D", 
+        "D"
+    ], 
+    "source": "middle511"
+}

@@ -1,0 +1,57 @@
+{
+    "article": "I am a girl. I'm twelve years old. I _ from Japan. I'm a student. I _ a round face, small eyes, a big nose _ a small mouth. I have a sister. _ name  is Mary. She is fourteen. She is a student, _ . She _ have a round face , but she has big eyes and a wide mouth We are _ the same grade, but in different clas s es . We have a happy  family. We both  like  this family.", 
+    "options": [
+        [
+            "comes", 
+            "come", 
+            "is", 
+            "are"
+        ], 
+        [
+            "have", 
+            "has", 
+            "am", 
+            "are"
+        ], 
+        [
+            "and", 
+            "or", 
+            "but", 
+            "/"
+        ], 
+        [
+            "Her", 
+            "She", 
+            "He", 
+            "His"
+        ], 
+        [
+            "to", 
+            "/", 
+            "two", 
+            "too"
+        ], 
+        [
+            "doesn't", 
+            "don't", 
+            "is", 
+            "are"
+        ], 
+        [
+            "to", 
+            "in", 
+            "on", 
+            "/"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "A", 
+        "A", 
+        "D", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle2462"
+}

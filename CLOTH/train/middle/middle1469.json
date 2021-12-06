@@ -1,0 +1,64 @@
+{
+    "article": "I'm a girl. My name is Cindy Green. Green is my last name. What's _ in English? It is a pen. It is _ pen. It is blue. I like it very much. This is my jacket. It is very big. It is in size _ . This is my brother. _ name is Jack. He _ seven years old. I have a _ . Its number is 654 -3795. There are  _ people  in my family. It is a happy _ . My parents love us. We love them, too.", 
+    "options": [
+        [
+            "your", 
+            "this", 
+            "you", 
+            "my"
+        ], 
+        [
+            "your", 
+            "his", 
+            "her", 
+            "my"
+        ], 
+        [
+            "S", 
+            "N", 
+            "L", 
+            "P"
+        ], 
+        [
+            "Her", 
+            "She", 
+            "Its", 
+            "His"
+        ], 
+        [
+            "am", 
+            "is", 
+            "are", 
+            "be"
+        ], 
+        [
+            "pen", 
+            "ruler", 
+            "key", 
+            "phone"
+        ], 
+        [
+            "one", 
+            "two", 
+            "three", 
+            "four"
+        ], 
+        [
+            "family", 
+            "school", 
+            "map", 
+            "Book"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "C", 
+        "D", 
+        "B", 
+        "D", 
+        "D", 
+        "A"
+    ], 
+    "source": "middle1469"
+}

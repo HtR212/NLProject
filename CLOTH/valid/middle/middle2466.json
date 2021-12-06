@@ -1,0 +1,64 @@
+{
+    "article": "In the US,  _  you ask kids  _  they want to be when they grow up, you may  be surprised  . Some will say they want to be the President, doctors, lawyers or movie stars. But many will say they want to be firefighters . Bejing a firefighter is a dangerous job,  _  it doesn't pay  as much as  a job in medicine, business or entertainment . So why is the idea of  becoming  a firefighter so popular with kids? One reason is that firefighters are heroes in the US society. They are strong and brave . They risk their own lives  to save  the lives of others.  _  the terrorist attack in New York  _  September 11, 2001, firefighters became a symbol of national pride and strength . Brave firefighters rushed to save people in the  _  buildings. They  were able to  save many lives, but many firemen  _  . After the attacks, people  _  the US wore hats and T-shirts that said FDNY (Dire Department of New York) to show respect for the firefighters. To be a firefighter is to be a hero.  It's  no surprise that many kids want  to become  heroes.", 
+    "options": [
+        [
+            "unless", 
+            "when", 
+            "if", 
+            "whether"
+        ], 
+        [
+            "what", 
+            "how", 
+            "where", 
+            "why"
+        ], 
+        [
+            "or", 
+            "and", 
+            "but", 
+            "if"
+        ], 
+        [
+            "After", 
+            "Before", 
+            "When", 
+            "While"
+        ], 
+        [
+            "at", 
+            "in", 
+            "for", 
+            "on"
+        ], 
+        [
+            "fell", 
+            "felt", 
+            "falls", 
+            "falling"
+        ], 
+        [
+            "dead", 
+            "death", 
+            "died", 
+            "die"
+        ], 
+        [
+            "cross", 
+            "across", 
+            "through", 
+            "passed"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "B", 
+        "A", 
+        "D", 
+        "D", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle2466"
+}

@@ -1,0 +1,71 @@
+{
+    "article": "Once upon a time, there was a boy who lived in China. His name was Ma Liang. He loved to  _ , but he didn't have a brush. He was too  _  to buy one. He often used sticks to draw pictures on the ground. He said to himself, \" _  I have a brush, I don't need to draw on the ground with  _ .\"\nOne night, when Ma Liang was asleep, he had a dream. In his dream, he  _ an old man. The old man gave him a magic   _ . The old man said to Ma Liang, \"I give you a magic brush. You can use it to help the poor in your village.\"\nThe next morning, when he  woke up , he found a real brush in his hands. Ma Liang felt very   _ . He went to the village and decided to help the villagers. Some villagers said, \"There has been a drought   and our crops   are dying.\" Ma Liang took out the magic _ and drew some  _ . Then it began to rain. The villagers said thanks to Ma Liang.", 
+    "options": [
+        [
+            "run", 
+            "jump", 
+            "draw", 
+            "dance"
+        ], 
+        [
+            "small", 
+            "poor", 
+            "old", 
+            "new"
+        ], 
+        [
+            "Because", 
+            "If", 
+            "However", 
+            "Before"
+        ], 
+        [
+            "flowers", 
+            "grass", 
+            "sticks", 
+            "pens"
+        ], 
+        [
+            "found", 
+            "met", 
+            "talked", 
+            "spoke"
+        ], 
+        [
+            "pen", 
+            "pencil", 
+            "brush", 
+            "stick"
+        ], 
+        [
+            "interesting", 
+            "interested", 
+            "exciting", 
+            "excited"
+        ], 
+        [
+            "hand", 
+            "picture", 
+            "brush", 
+            "book"
+        ], 
+        [
+            "snow", 
+            "wind", 
+            "sun", 
+            "cloud"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "B", 
+        "C", 
+        "B", 
+        "C", 
+        "D", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle2061"
+}

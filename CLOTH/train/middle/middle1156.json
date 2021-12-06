@@ -1,0 +1,71 @@
+{
+    "article": "Matt's hobby was collecting stamps . He had stamps from many  _  , like America, India and China. Matt's favorite stamps  _  from France. He had almost every stamp for 1954 to 2007. He only needed  _  . That was a 1974 special edition . It was very  _  to find. He looked for it everywhere. He asked his friends and relatives to help him. But  _  could find the stamp. It made Matt very sad. \"Have patience , my boy!\" his father said to him, \"Don't  give up  , you'll find it one day.\" Besides collecting stamps, Matt likes writing. He has a pen friend in France. They  _  to each other every month. Last month when Matt got the letter, he was very  _  . On the envelope , he looked carefully at the stamp. It was the 1974 special edition stamp. Matt was so happy! He told his sister, his mother and his father. \"You see,\" his father said, \"you have found your  _  .It's good to have two things in life. \" \"  _  are they?\" Matt asked. \"Friends and patience\" he answered.", 
+    "options": [
+        [
+            "cities", 
+            "villages", 
+            "countries", 
+            "provinces"
+        ], 
+        [
+            "come", 
+            "came", 
+            "comes", 
+            "coming"
+        ], 
+        [
+            "one", 
+            "two", 
+            "three", 
+            "nothing"
+        ], 
+        [
+            "easy", 
+            "important", 
+            "dangerous", 
+            "difficult"
+        ], 
+        [
+            "somebody", 
+            "nobody", 
+            "anybody", 
+            "everybody"
+        ], 
+        [
+            "talk", 
+            "listen", 
+            "write", 
+            "reply"
+        ], 
+        [
+            "nervous", 
+            "serious", 
+            "worried", 
+            "surprised"
+        ], 
+        [
+            "envelope", 
+            "letter", 
+            "stamp", 
+            "bag"
+        ], 
+        [
+            "What", 
+            "How", 
+            "Who", 
+            "When"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "A", 
+        "D", 
+        "B", 
+        "C", 
+        "D", 
+        "C", 
+        "A"
+    ], 
+    "source": "middle1156"
+}

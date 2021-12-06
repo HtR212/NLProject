@@ -1,0 +1,57 @@
+{
+    "article": "The second season of \"Where are we going ,Dad?\" started on a Friday evening in June,2014. The new five popular pairs of dads are Lu Yi, Cao Ge, Huang Lei, Yang Wei, and Wu Zhengyu. The six kids are popular, too. Yang Wei's son is Yang Yangyang. His  _  name is Yangyang. His  _  name is Yang, too . Huang Duoduo is Huang Lei's  _  .This is  _  school. Her school  _  number is 200448567. Her teacher is Miss White. Miss White is a good teacher. Feynman is a nice boy from Hong Kong. Yang Yangyang is his good  _  in the TV show. Look!  That's  a dog. Is the dog  Duoduo's  ? I  don't  know. Let's  _  Yang Yangyang at 495-6548.", 
+    "options": [
+        [
+            "first", 
+            "family", 
+            "last", 
+            "one"
+        ], 
+        [
+            "first", 
+            "good", 
+            "last", 
+            "this"
+        ], 
+        [
+            "girl", 
+            "daughter", 
+            "son", 
+            "boy"
+        ], 
+        [
+            "his", 
+            "her", 
+            "she's", 
+            "she"
+        ], 
+        [
+            "ID", 
+            "phone", 
+            "computer", 
+            "name"
+        ], 
+        [
+            "father", 
+            "friend", 
+            "boy", 
+            "class"
+        ], 
+        [
+            "ask", 
+            "call", 
+            "write", 
+            "look"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "B", 
+        "B", 
+        "A", 
+        "B", 
+        "B"
+    ], 
+    "source": "middle1736"
+}

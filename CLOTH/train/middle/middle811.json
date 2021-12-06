@@ -1,0 +1,64 @@
+{
+    "article": "This is my _ . How do you like it? I like it very much. It's always tidy. You can see a map of China and _ pictures on the walls. My classmates and I draw the pictures. We have a soccer in _ classroom, but you can't see it. It's under the _ desk.\nOur teachers are always very _ . They do many things every day. We have our lessons _ 8:00 in the morning to 4:00 in the afternoon. After that , we like playing games. Soccer is my favorite. My classmates like to play _ with me because I can play it very well. Then in the evening, we have two more classes. I like to be with my classmates. I have a good time with them every day. _ about you? Do you like your classroom?", 
+    "options": [
+        [
+            "family", 
+            "classroom", 
+            "friend", 
+            "bedroom"
+        ], 
+        [
+            "some", 
+            "much", 
+            "a", 
+            "an"
+        ], 
+        [
+            "his", 
+            "their", 
+            "our", 
+            "your"
+        ], 
+        [
+            "teachers", 
+            "teachers'", 
+            "teacher", 
+            "teachers's"
+        ], 
+        [
+            "busy", 
+            "happy", 
+            "fun", 
+            "free"
+        ], 
+        [
+            "for", 
+            "from", 
+            "at", 
+            "in"
+        ], 
+        [
+            "soccer", 
+            "basketball", 
+            "volleyball", 
+            "tennis"
+        ], 
+        [
+            "Why", 
+            "What", 
+            "When", 
+            "Where"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "C", 
+        "B", 
+        "A", 
+        "B", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle811"
+}

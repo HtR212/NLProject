@@ -1,0 +1,57 @@
+{
+    "article": "Once, Mike went to a big dinner party. His coat was _ . When he went in , nobody looked at him and nobody gave him any  _ , either. He was very angry. So he went home, put on his best coat , and then came back to the party. Everybody stood up at once and came to meet him. He was taken to the best table and was given the best food. Then Mike put the food in the _ and said, \" please eat, dear coat.\" The other people were very surprised and  _ , \" Why? Why do you put food in your coat?\" Mike answered, \" I'm asking my coat to  _ . When I came here just now , _ gave me  any food. After I changed  my coat, you gave me the best food.  _ you gave this food to my coat, not to me!\"", 
+    "options": [
+        [
+            "clean", 
+            "big", 
+            "old", 
+            "colorful"
+        ], 
+        [
+            "drink", 
+            "food", 
+            "seat", 
+            "welcome"
+        ], 
+        [
+            "plate", 
+            "coat", 
+            "bowl", 
+            "shoes"
+        ], 
+        [
+            "asked", 
+            "said", 
+            "told", 
+            "smiled"
+        ], 
+        [
+            "sing", 
+            "drink", 
+            "eat", 
+            "go"
+        ], 
+        [
+            "everyone", 
+            "you", 
+            "they", 
+            "nobody"
+        ], 
+        [
+            "So", 
+            "Because", 
+            "But", 
+            "And"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "B", 
+        "A", 
+        "C", 
+        "D", 
+        "A"
+    ], 
+    "source": "middle1725"
+}

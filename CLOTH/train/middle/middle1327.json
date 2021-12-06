@@ -1,0 +1,64 @@
+{
+    "article": "In a far-away place, there was a village. The village was richer  in potatoes than anywhere else in the country. At the end of every growing season,  thousands of potatoes were dug out of the ground, and readied for market. In each home, men and women would busily divide the potatoes into three groups, large, medium and small.\nOne year, there was a young man _ received his share of the potatoes. As the other villagers were working , he walked around the village laughing and talking. _ villagers thought he was lazy, and they worried that this man would never get _ potatoes ready in time. When it was time for the villagers to go to market, they were greatly surprised to find that the man's potatoes were divided perfectly into three groups.\nAfter  _ the man how he did it, they understood he was not lazy,  _ very clever. He had put all his potatoes in a cart and pulled it along the village's rough dirt road. As the cart moved up and down over the road, the potatoes moved _ . The small potatoes moved to the bottom, the larger potatoes rose to the top and the medium potatoes rested _  the middle.\nLife _ like this too. The rough roads we travel along can also help us.", 
+    "options": [
+        [
+            "who", 
+            "which", 
+            "what", 
+            "whose"
+        ], 
+        [
+            "A", 
+            "An", 
+            "The", 
+            "/"
+        ], 
+        [
+            "he", 
+            "him", 
+            "himself", 
+            "his"
+        ], 
+        [
+            "asking", 
+            "asked", 
+            "ask", 
+            "asks"
+        ], 
+        [
+            "so", 
+            "and", 
+            "or", 
+            "but"
+        ], 
+        [
+            "too", 
+            "also", 
+            "either", 
+            "neither"
+        ], 
+        [
+            "on", 
+            "in", 
+            "with", 
+            "by"
+        ], 
+        [
+            "has", 
+            "are", 
+            "were", 
+            "is"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "D", 
+        "A", 
+        "D", 
+        "A", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle1327"
+}

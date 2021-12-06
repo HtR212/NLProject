@@ -1,0 +1,57 @@
+{
+    "article": "Sunday  _  (1) the favorite day for our family. My parents  _  (2) not  _  (3) work. My sister and I  _  (4) go to school. We  _  (5) at home and  play  (6) in the morning. In the afternoon, my sister and I  _  (7) out to buy some different things. My sister likes songs. She  buys  (8) new tapes. I buy story books, a frisky, a kite and things  like  (9) that. We also buy some small gifts for our parents. We  _  (10) them. They love us very much. We live in a happy family.", 
+    "options": [
+        [
+            "is", 
+            "are", 
+            "comes", 
+            "goes"
+        ], 
+        [
+            "is", 
+            "are", 
+            "do", 
+            "does"
+        ], 
+        [
+            "on", 
+            "in", 
+            "do", 
+            "at"
+        ], 
+        [
+            "don't", 
+            "doesn't", 
+            "can't", 
+            "aren't"
+        ], 
+        [
+            "play", 
+            "go", 
+            "stay", 
+            "come"
+        ], 
+        [
+            "going", 
+            "go", 
+            "goes", 
+            "are"
+        ], 
+        [
+            "love", 
+            "have", 
+            "has", 
+            "loves"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "D", 
+        "A", 
+        "C", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle2742"
+}

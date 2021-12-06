@@ -1,0 +1,71 @@
+{
+    "article": "Good morning, everyone! Welcome to Cool Food Store. Christmas Day is next Sunday. Our 1.  _  is on sale for Christmas. 2.  Come  and have a look. We have hamburgers 3.  _  only 7 dollars. Do you like snacks ? We 4.  _  all kinds of snacks. You can also buy vegetables at our store--potatoes, 5.  _  ... They are all 6.  _  . Our drinks are all at good 7.  _  . Juice is 2 dollars. Coke is 3 dollars. How much is our milk? Oh, it's only 1 dollar. Do you need fruit? Come to our store. We have many fruits, like oranges, pears and strawberries. Our store is open 8.  _  9:00 am to 9:00 pm every day. 9.  _  want it, we have it. Come to our store to buy some of your favorite food. Then you can have a 10.  _  dinner with your family on Christmas Day.", 
+    "options": [
+        [
+            "clothes", 
+            "food", 
+            "watch", 
+            "book"
+        ], 
+        [
+            "for", 
+            "with", 
+            "at", 
+            "to"
+        ], 
+        [
+            "buy", 
+            "help", 
+            "has", 
+            "sell"
+        ], 
+        [
+            "apples", 
+            "carrots", 
+            "salad", 
+            "rice"
+        ], 
+        [
+            "difficult", 
+            "busy", 
+            "nice", 
+            "happy"
+        ], 
+        [
+            "days", 
+            "pictures", 
+            "colors", 
+            "prices"
+        ], 
+        [
+            "about", 
+            "from", 
+            "in", 
+            "for"
+        ], 
+        [
+            "We", 
+            "They", 
+            "You", 
+            "He"
+        ], 
+        [
+            "boring", 
+            "big", 
+            "late", 
+            "free"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "D", 
+        "B", 
+        "C", 
+        "D", 
+        "B", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle723"
+}

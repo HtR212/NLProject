@@ -1,0 +1,57 @@
+{
+    "article": "My name is Carla and I  have got  two sisters, Grace and Alice. We like hamburgers for lunch. Grace and  _  like French fries,  _  Alice doesn't. I  don't like  eggs for dinner, but Grace and Alice like eggs. I really like chicken and vegetables. My parents like vegetables,  _  . So there are always  _  vegetables  _  the fridge. We think  apples  are good for our health. We each eat one every day. But there  _  any apples today. So I will go to the shop with my mother  _  school.", 
+    "options": [
+        [
+            "me", 
+            "I", 
+            "my", 
+            "I'm"
+        ], 
+        [
+            "and", 
+            "so", 
+            "or", 
+            "but"
+        ], 
+        [
+            "also", 
+            "to", 
+            "two", 
+            "too"
+        ], 
+        [
+            "any", 
+            "some", 
+            "a", 
+            "an"
+        ], 
+        [
+            "on", 
+            "at", 
+            "in", 
+            "near"
+        ], 
+        [
+            "isn't", 
+            "is", 
+            "aren't", 
+            "are"
+        ], 
+        [
+            "when", 
+            "at", 
+            "before", 
+            "after"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "D", 
+        "B", 
+        "C", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle2788"
+}

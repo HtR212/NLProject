@@ -1,0 +1,71 @@
+{
+    "article": "We are in the park now.  _  is a big and beautiful park.  There are  many people in it. We all like this park. The park has a  _  , too. We can boat on it. But we  _  swim in it. It is dangerous . Look at that family. They are under the tree. The boy is  _  the left of his father. The family bring their  _  to the park. It is a white cat. The boy has a  _  in his hand. He wants to fly it. But I think they  _  look for a right place . It's not a good place here. There are too many trees. The mother has a beautiful handbag. It's  _  . I like the colour. It's the colour of the sky . There is a sign in the tree. It says \"  _  climb the tree!\"But the cat is in the tree now.", 
+    "options": [
+        [
+            "He", 
+            "It", 
+            "They", 
+            "There"
+        ], 
+        [
+            "tree", 
+            "lake", 
+            "palyground", 
+            "boat"
+        ], 
+        [
+            "can", 
+            "can't", 
+            "must", 
+            "don't"
+        ], 
+        [
+            "on", 
+            "in", 
+            "under", 
+            "to"
+        ], 
+        [
+            "son", 
+            "pet", 
+            "teacher", 
+            "dog"
+        ], 
+        [
+            "ball", 
+            "bag", 
+            "shirt", 
+            "kite"
+        ], 
+        [
+            "are", 
+            "do", 
+            "must", 
+            "can"
+        ], 
+        [
+            "blue", 
+            "black", 
+            "yellow", 
+            "green"
+        ], 
+        [
+            "Don't", 
+            "Not", 
+            "No", 
+            "isn't"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "B", 
+        "B", 
+        "A", 
+        "B", 
+        "D", 
+        "C", 
+        "A", 
+        "A"
+    ], 
+    "source": "middle226"
+}

@@ -1,0 +1,71 @@
+{
+    "article": "My son lives in a big city in France. People there are very busy. There are many supermarkets and  _  on the streets. It is very easy to go  _  . You can buy a lot of nice things there. My son works in a restaurant. He  _  Chinese food there. There is a big cinema near my son's home  _  he often goes to the movies. Life in the city is colorful. There are a lot of  _  of interest to visit. Also, it is easy for them to take a bus to  get to  other cities from theirs. I like country life best. That's  _  I don't like to live in the city with my son. Here, in the country, I can  _  the fields and plants. Sometimes some little animals  _  in my garden. I think it's very  _  to be in this kind of quiet and fun place.", 
+    "options": [
+        [
+            "hospitals", 
+            "restaurants", 
+            "shops", 
+            "banks"
+        ], 
+        [
+            "running", 
+            "swimming", 
+            "shopping", 
+            "sleeping"
+        ], 
+        [
+            "takes", 
+            "sees", 
+            "finds", 
+            "cooks"
+        ], 
+        [
+            "or", 
+            "and", 
+            "because", 
+            "but"
+        ], 
+        [
+            "rooms", 
+            "cities", 
+            "places", 
+            "countries"
+        ], 
+        [
+            "what", 
+            "why", 
+            "how", 
+            "when"
+        ], 
+        [
+            "pass", 
+            "sell", 
+            "enjoy", 
+            "eat"
+        ], 
+        [
+            "play", 
+            "study", 
+            "read", 
+            "sing"
+        ], 
+        [
+            "boring", 
+            "scary", 
+            "exciting", 
+            "relaxing"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "C", 
+        "D", 
+        "B", 
+        "C", 
+        "B", 
+        "C", 
+        "A", 
+        "D"
+    ], 
+    "source": "middle418"
+}

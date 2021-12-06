@@ -1,0 +1,64 @@
+{
+    "article": "Lucy is my good friend. She is 13 years old. She's very clever, so I like her very much. At school her favorite _ is English. She speaks _ very well.She often takes part in the _ speech contest  in our school. Our English teacher _ her very much. She often asks Lucy to go to her home. At her home she makes good _ for Lucy.\nLucy also likes sports. At her home you can see a great _ collection. Lucy likes playing ping-pong. She often takes part in   ping-pong competition   in our city. Lucy's favorite ping-pong _ is Zhang Yining. Lucy says she wants to be a sports star. Oh, today is Lucy's birthday. Her _ have a party for her at home. If you want to go to the party, you can call Lucy at 212-0986.", 
+    "options": [
+        [
+            "friend", 
+            "teacher", 
+            "subject", 
+            "day"
+        ], 
+        [
+            "it", 
+            "them", 
+            "her", 
+            "him"
+        ], 
+        [
+            "Chinese", 
+            "English", 
+            "science", 
+            "history"
+        ], 
+        [
+            "needs", 
+            "likes", 
+            "takes", 
+            "asks"
+        ], 
+        [
+            "time", 
+            "class", 
+            "friend", 
+            "food"
+        ], 
+        [
+            "art", 
+            "music", 
+            "sports", 
+            "math"
+        ], 
+        [
+            "city", 
+            "color", 
+            "star", 
+            "club"
+        ], 
+        [
+            "father", 
+            "parent", 
+            "mother", 
+            "parents"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "B", 
+        "B", 
+        "D", 
+        "C", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle1676"
+}

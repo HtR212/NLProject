@@ -1,0 +1,64 @@
+{
+    "article": "Greenland is the largest island in the world.It is in the _ of Europe.Near Greenland is another island.It is small.Its _ is Iceland.Do you think that Greenland is green and warm?Do you think that Iceland is white with ice?If you do,you are _ .Not many people live on the big island of Greenland.There must be more people in your hometown than in all of Greenland.That is because Greenland is not green.Greenland is _ .Most of the island is covered with lots of ice.The ice covering Greenland is higher than the world's tallest building.What _ Iceland?Is it colder than Greenland?No,it isn't.Iceland has ice,but not so much ice _ Greenland.It has a lot of hot springs .They give out hot water and steam .The climate is not as _ as Greenland.And there are a lot _ people who live in Iceland.", 
+    "options": [
+        [
+            "east", 
+            "west", 
+            "north", 
+            "south"
+        ], 
+        [
+            "village", 
+            "name", 
+            "farm", 
+            "town"
+        ], 
+        [
+            "wrong", 
+            "clever", 
+            "right", 
+            "bright"
+        ], 
+        [
+            "yellow", 
+            "brown", 
+            "blue", 
+            "white"
+        ], 
+        [
+            "of", 
+            "in", 
+            "about", 
+            "on"
+        ], 
+        [
+            "as", 
+            "like", 
+            "than", 
+            "then"
+        ], 
+        [
+            "warm", 
+            "cold", 
+            "hot", 
+            "cool"
+        ], 
+        [
+            "many", 
+            "much", 
+            "more", 
+            "most"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "A", 
+        "D", 
+        "C", 
+        "A", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle1535"
+}

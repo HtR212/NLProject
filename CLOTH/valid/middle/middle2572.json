@@ -1,0 +1,64 @@
+{
+    "article": "I think I've always been interested in food. My grandparents lived on a farm in Lincolnshire and had a good  _  . She made fantastic English food; her roast beef was out of this world. I used to love going down to the  _  and watching her work, and I learned a lot from her. I realized that I wanted to be a cook when I was about 12. When other boys  _  to do sports after school, I helped with cooking at home. When I was 15, I  _  to be a cook. However, I knew my parents wouldn't allow me to be a cook. I had to tell them about it  _  I told them that I wanted to do a cookery course for fun, and stayed for a month in a hotel in Torquay. I enjoyed it so much that I couldn't put off telling my parents any longer,  _  I brought the subject up one night over dinner.  At first  there was silence, and then my father asked me why. I explained that cooking was  _  painting a picture or writing a book. Every meal was a work of creation . I could see that my father disagreed, but he was not  _  . He just looked at me and smiled. My mother kissed me. And now I have my own restaurant, and it goes well. I can see they are  proud of  me. However, my grandfather thinks I'm mad to give up farming.", 
+    "options": [
+        [
+            "farmer", 
+            "painter", 
+            "cook", 
+            "nurse"
+        ], 
+        [
+            "resturant", 
+            "hotel", 
+            "farm", 
+            "kitchen"
+        ], 
+        [
+            "chose", 
+            "refused", 
+            "hated", 
+            "failed"
+        ], 
+        [
+            "decided", 
+            "agreed", 
+            "manage", 
+            "turned"
+        ], 
+        [
+            "easily", 
+            "softly", 
+            "slowly", 
+            "quietly"
+        ], 
+        [
+            "but", 
+            "so", 
+            "or", 
+            "for"
+        ], 
+        [
+            "with", 
+            "like", 
+            "about", 
+            "above"
+        ], 
+        [
+            "patient", 
+            "satisfied", 
+            "quiet", 
+            "angry"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "D", 
+        "A", 
+        "A", 
+        "C", 
+        "B", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle2572"
+}

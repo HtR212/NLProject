@@ -1,0 +1,64 @@
+{
+    "article": "I love street food. When I am in a strange place, I'm always looking for chances to eat like a local. But there is a  _  side to all this good food, that is, food poisoning . I once had a bad  _  of it in Nepal. I was in bed for two days and unable to eat much for weeks after. Most travelers have a terrible story or two about food poisoning. It's a  _  we all take when we eat strange foods. But there are ways to enjoy good local food and  _  getting ill. The following tips will help keep you  _  . * Drink clean water. In many places, tap water isn't clean enough to drink. Drink bottled water or soda  instead  . * Don't have the fresh fruit. It might look and taste delicious. But  _  it's been washed in dirty water, it may make you sick. You can't tell by looking at it, so it's  _  to be safe than sorry. * Choose meat that has been cooked  _  . It is dangerous to eat meat and seafood that have been left out for a long time. *Be prepared. Take medicines with you. They won't cure the disease you've  picked up  . But they will help with the pain when there's no place to rest. With these tips in mind, you're ready to dig in! You never know - you might discover a new favourite dish.", 
+    "options": [
+        [
+            "fantastic", 
+            "bright", 
+            "dark", 
+            "rich"
+        ], 
+        [
+            "operation", 
+            "case", 
+            "habit", 
+            "introduction"
+        ], 
+        [
+            "step", 
+            "photo", 
+            "package", 
+            "risk"
+        ], 
+        [
+            "enjoy", 
+            "finish", 
+            "avoid", 
+            "mind"
+        ], 
+        [
+            "happy", 
+            "healthy", 
+            "successful", 
+            "interested"
+        ], 
+        [
+            "before", 
+            "until", 
+            "till", 
+            "if"
+        ], 
+        [
+            "worse", 
+            "best", 
+            "better", 
+            "worst"
+        ], 
+        [
+            "recently", 
+            "finally", 
+            "suddenly", 
+            "quickly"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "D", 
+        "C", 
+        "B", 
+        "D", 
+        "C", 
+        "A"
+    ], 
+    "source": "middle2560"
+}

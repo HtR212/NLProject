@@ -1,0 +1,57 @@
+{
+    "article": "Welcome to Class Four, Grade Seven. This is our  _  . There are sixty-four desks and  chairs  in the classroom. Thirty-two of them are  _  boys and thirty-two of them are for girls. There is a teacher's desk  in front of  all the students' desks and chairs. It's big and clean. It's for our teachers. There are two big  _  on the wall.  _  is on the front wall and the other is on the back wall. Teachers and students can write things on them. There are two maps on the wall, too. One is a map  _  China and the other is a map of the  _  . We can find many countries in it. There are some  _  about our school life on the wall, too. They are  next to  the world map. There are some flowers by the windows. What a beautiful classroom it is! We all like it.", 
+    "options": [
+        [
+            "school", 
+            "library", 
+            "classroom", 
+            "home"
+        ], 
+        [
+            "of", 
+            "for", 
+            "to", 
+            "give"
+        ], 
+        [
+            "pictures", 
+            "maps", 
+            "windows", 
+            "blackboards."
+        ], 
+        [
+            "A", 
+            "One", 
+            "First", 
+            "Once"
+        ], 
+        [
+            "in", 
+            "to", 
+            "of", 
+            "on"
+        ], 
+        [
+            "country", 
+            "town", 
+            "city", 
+            "world"
+        ], 
+        [
+            "photos", 
+            "photoes", 
+            "picture", 
+            "books"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "D", 
+        "B", 
+        "C", 
+        "D", 
+        "A"
+    ], 
+    "source": "middle1908"
+}

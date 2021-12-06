@@ -1,0 +1,50 @@
+{
+    "article": "Now, let me  tell  you a story. Once a lion saw a fine horse and wanted  to eat  her. But the horse was very careful and he could not  catch  her. Then the lion had  _  idea. He told the  animals  that he was a good doctor and could do something for them. The horse was clever. She knew  _  the lion wanted to do. One day when the lion was near the horse, she told him there was something wrong with one of her  _  and the horse asked him to look it over. Of course the lion was  _  to do so. Then the horse lifted one of her legs from the ground.  _  the lion looked at her foot, she kicked him  _  the head. The lion fell down. The horse laughed and ran away quickly. How clever the horse was!", 
+    "options": [
+        [
+            "a", 
+            "an", 
+            "some", 
+            "any"
+        ], 
+        [
+            "when", 
+            "what", 
+            "where", 
+            "how"
+        ], 
+        [
+            "legs", 
+            "hands", 
+            "eyes", 
+            "feet"
+        ], 
+        [
+            "happy", 
+            "unhappy", 
+            "sorry", 
+            "difficult"
+        ], 
+        [
+            "Where", 
+            "If", 
+            "When", 
+            "After"
+        ], 
+        [
+            "in", 
+            "on", 
+            "by", 
+            "With"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "B", 
+        "D", 
+        "A", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle1571"
+}

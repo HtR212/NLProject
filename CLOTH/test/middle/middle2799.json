@@ -1,0 +1,64 @@
+{
+    "article": "There is a zoo in our city. The zoo is very big. It has all kinds of  _  . You can see the tigers ,elephants , monkeys ,pandas ,dolphins  _  many more in it .  Many  people visit it every day. Today is Sunday. Jim and his classmates  _  no classes. They are at the zoo. Jim likes pandas. They  _  from Sichuan. Tom  _  tigers are lovely,  _  Lily doesn't think so . She thinks  _  are dangerous . She asks Tom  to see  dolphins . She thinks dolphins are  _  ,and they can dance very well . Jim and his classmates have a good time at the zoo .", 
+    "options": [
+        [
+            "food", 
+            "animals", 
+            "plants", 
+            "books"
+        ], 
+        [
+            "but", 
+            "or", 
+            "so", 
+            "and"
+        ], 
+        [
+            "is", 
+            "are", 
+            "have", 
+            "has"
+        ], 
+        [
+            "want", 
+            "go", 
+            "come", 
+            "live"
+        ], 
+        [
+            "thinks", 
+            "loves", 
+            "speaks", 
+            "likes"
+        ], 
+        [
+            "too", 
+            "and", 
+            "or", 
+            "but"
+        ], 
+        [
+            "it", 
+            "they", 
+            "she", 
+            "he"
+        ], 
+        [
+            "bad", 
+            "clever", 
+            "dirty", 
+            "dangerous"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "B", 
+        "C", 
+        "A", 
+        "D", 
+        "B", 
+        "B"
+    ], 
+    "source": "middle2799"
+}

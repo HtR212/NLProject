@@ -1,0 +1,71 @@
+{
+    "article": "It was Sunday. After dinner, Kate would like to see a movie with her _ . But her mother said,\"Could you please _ the dishes ,Kate? I have to go to look after your brother.\"\nKate's brother John was ill in _ . Her father worked in another town and he was very _ and couldn't come back, Kate had to help her mother do some chores. But her mother usually did everything and Kate didn't know _ to do chores.\nKate decided to _ her friend first. On the telephone, she told her friend to wait for her at home. Then Kate's mother _ her how to do the dishes. Before leaving, Kate's mother said, \"Be careful, Kate. Don't drop _ .\"\n\"Don't _ , Mommy,\"said Kate. \"They're light. I don't think they'll hurt my feet.\"", 
+    "options": [
+        [
+            "mother", 
+            "friend", 
+            "sister", 
+            "father"
+        ], 
+        [
+            "did", 
+            "doing", 
+            "do", 
+            "does"
+        ], 
+        [
+            "school", 
+            "store", 
+            "hospital", 
+            "restaurant"
+        ], 
+        [
+            "busy", 
+            "lazy", 
+            "free", 
+            "tired"
+        ], 
+        [
+            "when", 
+            "where", 
+            "what", 
+            "how"
+        ], 
+        [
+            "take", 
+            "call", 
+            "hear", 
+            "tell"
+        ], 
+        [
+            "learned", 
+            "said", 
+            "showed", 
+            "asked"
+        ], 
+        [
+            "them", 
+            "it", 
+            "this", 
+            "that"
+        ], 
+        [
+            "forget", 
+            "know", 
+            "worry", 
+            "care"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "C", 
+        "A", 
+        "D", 
+        "B", 
+        "C", 
+        "A", 
+        "C"
+    ], 
+    "source": "middle1716"
+}

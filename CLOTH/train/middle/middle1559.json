@@ -1,0 +1,64 @@
+{
+    "article": "Students in No. 9 Middle School are very happy every day. They have many kinds of  _  . They can do  many  things after school. For example, Lin Tao likes  _   very much, especially   basketball. He often  _ basketball games on TV. So he joins  the   _    club. Wang Li likes opera very much. She wants to join the  Beijing Opera  club. Most students can join their favorite clubs. But  _ some students, it is difficult to choose   one. Zhang Ling likes music very much. She     _  likes movies very much. Will she join the music club or the _ club? She doesn't  _  . Can you help her?", 
+    "options": [
+        [
+            "clothes", 
+            "books", 
+            "colors", 
+            "clubs"
+        ], 
+        [
+            "sports", 
+            "movies", 
+            "computer", 
+            "food"
+        ], 
+        [
+            "sees", 
+            "looks", 
+            "eats", 
+            "watches"
+        ], 
+        [
+            "basketball", 
+            "soccer", 
+            "volleyball", 
+            "baseball"
+        ], 
+        [
+            "in", 
+            "at", 
+            "for", 
+            "on"
+        ], 
+        [
+            "too", 
+            "don't", 
+            "doesn't", 
+            "also"
+        ], 
+        [
+            "movie", 
+            "sports", 
+            "art", 
+            "English"
+        ], 
+        [
+            "say", 
+            "know", 
+            "have", 
+            "see"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "A", 
+        "D", 
+        "A", 
+        "C", 
+        "D", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle1559"
+}

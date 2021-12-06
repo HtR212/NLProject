@@ -1,0 +1,64 @@
+{
+    "article": "Do you have a great summer camp?l had a great one with my friends last year.\nAfter saying goodbye to our _ ,we got on the bus, _ the way,we laughed and talked happily.After we got to the campground ,we jumped and ran around the place.This _ the first time we left home.Some of us felt homesick .However,when the night party and dances started.the homesickness was _ .\nThe next day.we went boating,At first,my friends and I worked hard,but the boat _ listen to us and wouldn't go to the right places.Then the guide _ us.After many times,we did it much better.Swimming is my favorite _ .It was about the hottest time of a day and the best time to stay in the _ water.The swimming guide was a funny man,and he often made us want to laugh.\nWhat an interesting summer camp it was!", 
+    "options": [
+        [
+            "parents", 
+            "kids", 
+            "teachers", 
+            "schools"
+        ], 
+        [
+            "At", 
+            "In", 
+            "By", 
+            "On"
+        ], 
+        [
+            "is", 
+            "had", 
+            "was", 
+            "did"
+        ], 
+        [
+            "lost", 
+            "here", 
+            "found", 
+            "there"
+        ], 
+        [
+            "don't", 
+            "weren't", 
+            "aren't", 
+            "didn't"
+        ], 
+        [
+            "saw", 
+            "helped", 
+            "visited", 
+            "watched"
+        ], 
+        [
+            "food", 
+            "drink", 
+            "sport", 
+            "subject"
+        ], 
+        [
+            "cold", 
+            "warm", 
+            "hot", 
+            "cool"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "C", 
+        "A", 
+        "D", 
+        "B", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle1268"
+}

@@ -1,0 +1,64 @@
+{
+    "article": "It is well known that Albert Einstein was one of the greatest scientists of all time, but I think he was also a really great person. I've done some research on him and 1.  found out  something interesting. When Einstein started to work in America, someone asked him what he needed. He said he needed a desk, some 2.  _  and a pencil. He also asked for a big wastepaper basket to 3.  _  all of his mistakes. This shows that he knew even the 4.  _  man in the world can only learn by making mistakes. Einstein was also very modest . Many children wrote letters to ask him for help with their homework. One day, he wrote a letter to a young girl to tell her not to 5.  _  about her maths homework because he thought maths was difficult too. Einstein regarded time as very valuable. He never wore socks, because he thought 6.  putting on  socks was a waste of time as people already wore 7.  _  . He also thought it was a waste of time remembering things that could be found in a book. That's 8.  _  he never remembered his own phone number, which was in the phone book. He knew what was worth 9.  _  . It is true that if we are going to do 10.  _  things in our lives, we can't waste time.", 
+    "options": [
+        [
+            "paper", 
+            "food", 
+            "water", 
+            "air"
+        ], 
+        [
+            "hold", 
+            "take", 
+            "carry", 
+            "bring"
+        ], 
+        [
+            "kindest", 
+            "coolest", 
+            "cleverest", 
+            "coldest"
+        ], 
+        [
+            "think", 
+            "talk", 
+            "worry", 
+            "set"
+        ], 
+        [
+            "suits", 
+            "shoes", 
+            "trousers", 
+            "clothes"
+        ], 
+        [
+            "how", 
+            "why", 
+            "when", 
+            "where"
+        ], 
+        [
+            "remembering", 
+            "seeing", 
+            "writing", 
+            "saying"
+        ], 
+        [
+            "useless", 
+            "terrible", 
+            "small", 
+            "great"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "A", 
+        "C", 
+        "C", 
+        "B", 
+        "B", 
+        "A", 
+        "D"
+    ], 
+    "source": "high839"
+}

@@ -1,0 +1,43 @@
+{
+    "article": "My name is Bob. I'm a middle school student. My home is about two miles _ school. I usually leave _ school at about 6: 30. I usually get to school on foot . It takes me about 20 minutes. But sometimes I go there by bike . It takes _ only ten minutes.\nMy friend Nick, usually goes to school by bus. He usually gets up at 5: 30 every day. Then he has _ quick breakfast and goes to school at six. First he walks to the bus stop. Then the bus takes _ to school. It usually takes him forty minutes to get to school. There are different ways to get to school. But I like walking best.", 
+    "options": [
+        [
+            "from", 
+            "far", 
+            "away", 
+            "long"
+        ], 
+        [
+            "to", 
+            "about", 
+            "for", 
+            "away"
+        ], 
+        [
+            "I", 
+            "my", 
+            "me", 
+            "mine"
+        ], 
+        [
+            "the", 
+            "a", 
+            "an", 
+            "/"
+        ], 
+        [
+            "he", 
+            "his", 
+            "himself", 
+            "him"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "C", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle1656"
+}

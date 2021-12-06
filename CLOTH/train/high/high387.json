@@ -1,0 +1,64 @@
+{
+    "article": "These days, people who do manual work often receive far more money than people who work in offices. People who work in offices are frequently referred to as \"white-collar workers\" for the simple reason that they  _  wear a collar and tie to go to work. Such is human nature, that a great many people are often  _  to sacrifice higher pay for the privilege of becoming white-collar workers. This can give rise to curious situations, as it did in the case of Alfred Bloggs who worked as a(an)  _  for the Ellesmere Corporation. When he got married, Alf was too embarrassed to say anything to his wife about his job. He  _  told her that he worked for the Corporation. Every morning, he left home  _  in a smart black suit. He then changed into overalls and  _  the next eight hours as a dustman. Before returning home at night, he took a shower and changed back into his suit. Alf did this for over two years and his fellow dustmen kept his  _  . Alf's wife has never discovered that she married a dustman and she never will, for Alf has just found  another  job. He will soon be working in an office. He will earn much less than he used to, but he feels that his rise in  _  is well worth the loss of money. From now on, he will wear a suit all day and others will call him 'Mr. Bloggs'  instead of  'Alf'.", 
+    "options": [
+        [
+            "eventually", 
+            "occasionally", 
+            "usually", 
+            "apparently"
+        ], 
+        [
+            "excited", 
+            "willing", 
+            "interested", 
+            "lucky"
+        ], 
+        [
+            "official", 
+            "manager", 
+            "salesman", 
+            "dustman"
+        ], 
+        [
+            "hopefully", 
+            "probably", 
+            "simply", 
+            "politely"
+        ], 
+        [
+            "wore", 
+            "put", 
+            "tried", 
+            "dressed"
+        ], 
+        [
+            "took", 
+            "spent", 
+            "cost", 
+            "wasted"
+        ], 
+        [
+            "mistake", 
+            "secret", 
+            "memory", 
+            "reputation"
+        ], 
+        [
+            "status", 
+            "look", 
+            "direction", 
+            "statue"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "D", 
+        "C", 
+        "D", 
+        "B", 
+        "B", 
+        "A"
+    ], 
+    "source": "high387"
+}

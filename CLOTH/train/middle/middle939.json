@@ -1,0 +1,71 @@
+{
+    "article": "My friend Tony is an American  _  . He is ten years old. He lives  _  his family in China now. There are  _  people in his family; his mother Mrs. Green, his father Mr. Green and his little sister Amy. He has a white cat.  _  name is Betty. Look!Amy is playing  _  Betty. His father, Mr. Green, is watching TV. His mother is doing housework. What about Tony? He is doing  _  Chinese homework. He can't  _  Chinese well, but he likes Chinese very much. Tony's  _  works in a TV station. His father works in a school as an  _  teacher. Tony and his sister  go  to the same school.", 
+    "options": [
+        [
+            "girl", 
+            "boy", 
+            "cat", 
+            "dog"
+        ], 
+        [
+            "on", 
+            "after", 
+            "with", 
+            "in"
+        ], 
+        [
+            "two", 
+            "three", 
+            "four", 
+            "five"
+        ], 
+        [
+            "His", 
+            "Her", 
+            "It's", 
+            "Its"
+        ], 
+        [
+            "to", 
+            "with", 
+            "from", 
+            "at"
+        ], 
+        [
+            "her", 
+            "it's", 
+            "a", 
+            "his"
+        ], 
+        [
+            "say", 
+            "tell", 
+            "speak", 
+            "talk"
+        ], 
+        [
+            "father", 
+            "mother", 
+            "sister", 
+            "brother"
+        ], 
+        [
+            "Chinese", 
+            "Japanese", 
+            "English", 
+            "Australian"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "C", 
+        "C", 
+        "D", 
+        "B", 
+        "D", 
+        "C", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle939"
+}

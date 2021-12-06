@@ -1,0 +1,64 @@
+{
+    "article": "Mary:Hello, Helen! Can you give me some  _  about learning English? Helen: Of course. Mary : I want to learn English  _  . But I'm not good at reading and  _  Helen : Why  _  you write down the correct spelling next to the  _  ? Mary : OK. Can you give me some other advice? Helen : You  _  read a newspaper in English every day. Try  to write  eight or ten  _  a day. Mary : What else? Helen : You can talk about the films or songs  _  your friends. And why not listen to the teacher  carefully  in class? Mary : Thank you.", 
+    "options": [
+        [
+            "idea", 
+            "advice", 
+            "message", 
+            "information"
+        ], 
+        [
+            "good", 
+            "fewer", 
+            "well", 
+            "less"
+        ], 
+        [
+            "writing", 
+            "wrote", 
+            "listen", 
+            "writes"
+        ], 
+        [
+            "not", 
+            "didn't", 
+            "doesn't", 
+            "don't"
+        ], 
+        [
+            "mistakes", 
+            "captain", 
+            "school", 
+            "words"
+        ], 
+        [
+            "can't", 
+            "want", 
+            "can", 
+            "shouldn't"
+        ], 
+        [
+            "books", 
+            "articles", 
+            "sentences", 
+            "words"
+        ], 
+        [
+            "with", 
+            "and", 
+            "for", 
+            "by"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "A", 
+        "D", 
+        "A", 
+        "C", 
+        "D", 
+        "A"
+    ], 
+    "source": "middle524"
+}

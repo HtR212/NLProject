@@ -1,0 +1,71 @@
+{
+    "article": "Today Mr. Johnson, a member of the International Olympic Committee , visited a high school in Beijing. He made a speech there. In his 36.  _  , he talked about the history and significance of 37.  the Olympic Games  . He described the 38.  _   Olympic Games. He said that athletes at the ancient games could only be men who spoke Greek, 39.  _   today, both men and 40.  _  from around the world can compete. The modern games, first held in 1896, were designed   to make it possible for countries and people to live 41.  _   together.\nMr. Johnson also talked about some famous 42.  _  . One example is Michael Jordan who  43.  _   his second Olympic gold medal after a long break. He 44.  _   mentioned   Deng Yaping who won many gold medals. Mr. Johnson 45.  _   his speech by wishing the Olympic movement a successful future. The audience really enjoyed his speech.", 
+    "options": [
+        [
+            "speech", 
+            "book", 
+            "newspaper", 
+            "magazine"
+        ], 
+        [
+            "late", 
+            "new", 
+            "ancient", 
+            "modern"
+        ], 
+        [
+            "but", 
+            "and", 
+            "or", 
+            "so"
+        ], 
+        [
+            "boys", 
+            "teenagers", 
+            "adults", 
+            "women"
+        ], 
+        [
+            "angrily", 
+            "quietly", 
+            "peacefully", 
+            "sadly"
+        ], 
+        [
+            "dancers", 
+            "actors", 
+            "singers", 
+            "athletes"
+        ], 
+        [
+            "lost", 
+            "won", 
+            "brought", 
+            "missed"
+        ], 
+        [
+            "only", 
+            "just", 
+            "never", 
+            "also"
+        ], 
+        [
+            "started", 
+            "ended", 
+            "wrote", 
+            "found"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "A", 
+        "D", 
+        "C", 
+        "D", 
+        "B", 
+        "D", 
+        "B"
+    ], 
+    "source": "high842"
+}

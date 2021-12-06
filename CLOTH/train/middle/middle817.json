@@ -1,0 +1,71 @@
+{
+    "article": "Helen is a middle student.She lives far from  _  school,so she usually takes the bus to school.She  _  to school at about six thirty  _  the morning.She  _  want to be late. The first class  _  at eight o'clock.There are four classes in the morning and two in the afternoon.She doesn't go home  _  lunch.She has it at school. Helen learns Chinese,math,biology,PE and some other  _  .She works very hard,and she  likes  math very much  _  she thinks it's very interesting. In the evening,Helen usually does her homework and sometimes she watches TV.She goes to  _  at ten o'clock.", 
+    "options": [
+        [
+            "her", 
+            "his", 
+            "she", 
+            "he"
+        ], 
+        [
+            "go", 
+            "come", 
+            "goes", 
+            "get"
+        ], 
+        [
+            "in", 
+            "on", 
+            "at", 
+            "of"
+        ], 
+        [
+            "isn't", 
+            "doesn't", 
+            "don't", 
+            "aren't"
+        ], 
+        [
+            "start", 
+            "has", 
+            "have", 
+            "starts"
+        ], 
+        [
+            "at", 
+            "of", 
+            "for", 
+            "with"
+        ], 
+        [
+            "subjects", 
+            "sports", 
+            "shows", 
+            "collections"
+        ], 
+        [
+            "so", 
+            "but", 
+            "because", 
+            "or"
+        ], 
+        [
+            "school", 
+            "work", 
+            "bed", 
+            "class"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "A", 
+        "B", 
+        "D", 
+        "C", 
+        "A", 
+        "C", 
+        "C"
+    ], 
+    "source": "middle817"
+}

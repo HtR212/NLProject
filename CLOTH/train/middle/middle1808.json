@@ -1,0 +1,71 @@
+{
+    "article": "Dear Mum and Dad, I will go to Kathy's home with her after school and I will have supper and sleep there. Don't worry about me. You know that Kathy is  _  of my best friends. If you want to talk with me, you can  _  88552828 after 6:00 p.m. Please forgive me for not telling you first. I  _  think you will allow me to do so. But I really think teenagers should be allowed to stay at their friends' homes sometimes. I am sixteen years old and I'm not a little kid any more. I hope I can make decisions for  _  . At home, there are too many  _  for me to obey: Don't wear short dresses; don't stay out so late; don't have meals before  _  hands; don't watch TV without finishing homework; and so on. Parents should  be strict with  teenagers, but we need freedom, too. I don't like doing my homework at home. I'd love to  _  with Kathy. We always learn a lot  _  each other. So please allow me to stay at Kathy's home once a week. If you  _  , Kathy can stay at our home with me, too. Mum and Dad, I can take good care of myself. Don't worry. Yours, Lillian", 
+    "options": [
+        [
+            "a", 
+            "an", 
+            "the", 
+            "one"
+        ], 
+        [
+            "look", 
+            "call", 
+            "knock", 
+            "play"
+        ], 
+        [
+            "do", 
+            "don't", 
+            "can", 
+            "can't"
+        ], 
+        [
+            "himself", 
+            "herself", 
+            "itself", 
+            "myself"
+        ], 
+        [
+            "members", 
+            "replies", 
+            "rules", 
+            "points"
+        ], 
+        [
+            "shaking", 
+            "washing", 
+            "putting", 
+            "hurting"
+        ], 
+        [
+            "studies", 
+            "study", 
+            "studying", 
+            "studied"
+        ], 
+        [
+            "with", 
+            "on", 
+            "at", 
+            "from"
+        ], 
+        [
+            "worry", 
+            "think", 
+            "agree", 
+            "make"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "B", 
+        "B", 
+        "D", 
+        "C", 
+        "B", 
+        "B", 
+        "D", 
+        "C"
+    ], 
+    "source": "middle1808"
+}

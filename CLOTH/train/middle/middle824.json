@@ -1,0 +1,64 @@
+{
+    "article": "As we all know, Charles Dickens is considered to be a great English writer. He's very famous not only in Britain, but also in many other _ in the world. He was born in 1812 and he lived in London. He wrote lots of books, and he also liked _ He was an actor.\nMaybe it's interesting to hear that and that's _ his books were so good. He gave public readings of his stories that were very popular. His stories first appeared in a magazine, in parts. People always wanted the next part. He wrote a lot, and most of them are popular. There are films and plays of them as well : Oliver Twist became a famous musical play, and Great Expectations was a wonderful _ .Dickens' early life was very hard. His family was poor, and his mother sent him out to work in a factory when he was 12. He _ it, but he used his experiences in his writing. He married Catherine Hogarth and they had a big family. He continued to write _ he died. When he died in 1870, he was _ a story. But what a pity! We'll never know _ it ended.", 
+    "options": [
+        [
+            "cities", 
+            "countries", 
+            "towns", 
+            "villages"
+        ], 
+        [
+            "reading", 
+            "writing", 
+            "acting", 
+            "playing"
+        ], 
+        [
+            "what", 
+            "how", 
+            "when", 
+            "why"
+        ], 
+        [
+            "book", 
+            "story", 
+            "play", 
+            "film"
+        ], 
+        [
+            "hated", 
+            "enjoyed", 
+            "wanted", 
+            "shamed"
+        ], 
+        [
+            "as", 
+            "while", 
+            "until", 
+            "since"
+        ], 
+        [
+            "drawing", 
+            "singing", 
+            "writing", 
+            "making"
+        ], 
+        [
+            "what", 
+            "how", 
+            "who", 
+            "which"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "D", 
+        "D", 
+        "A", 
+        "C", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle824"
+}

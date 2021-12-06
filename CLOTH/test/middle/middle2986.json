@@ -1,0 +1,71 @@
+{
+    "article": "My  _  is Lucy Green. I'm a  _ I'm American . My teacher is a _ .  _  name is Linda. She is an  _  teacher. David Smith is my friend. He is English, too. He is 14. David is his  _ name, and  _ is his family name. David and I _ in Class 3, Grade1. We are in the same   _ . Look,  who  is that? She is David's sister. Her name is Jenny.", 
+    "options": [
+        [
+            "name", 
+            "number", 
+            "class", 
+            "row"
+        ], 
+        [
+            "man", 
+            "woman", 
+            "girl", 
+            "boy"
+        ], 
+        [
+            "boy", 
+            "man", 
+            "English", 
+            "woman"
+        ], 
+        [
+            "His", 
+            "He", 
+            "Her", 
+            "She"
+        ], 
+        [
+            "Japanese", 
+            "English", 
+            "Chinese", 
+            "good"
+        ], 
+        [
+            "last", 
+            "family", 
+            "first", 
+            "one"
+        ], 
+        [
+            "Linda", 
+            "Smith", 
+            "Lucy", 
+            "Green"
+        ], 
+        [
+            "are", 
+            "am", 
+            "is", 
+            "/"
+        ], 
+        [
+            "family", 
+            "school", 
+            "number", 
+            "photo"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "D", 
+        "C", 
+        "B", 
+        "C", 
+        "B", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle2986"
+}

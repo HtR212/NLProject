@@ -1,0 +1,43 @@
+{
+    "article": "Hiking is a good way to exercise. Do you like it?\nHiking is good for health. Most people choose to go hiking in the countryside, in the forests _ in the mountains. They like to be close to nature and exercise to keep fit at the same time.\nIf you are a beginner, you should start with a hike that you can finish _ one day. As you get stronger, you can go on overnight   hikes. Later you can go on _ hikes which may last for days or weeks.\nFor safety reasons, hikers should go hiking with others. You should have one or more friends with you. _ , if you decide to be alone, you'd better let someone know where you are going and when you will return . It is also a good idea to bring a map .\nBackpacking is also a kind of _ . You can carry food, clothing and other things on your back in a pack. Backpackers can stay many days in places where there is no food to buy.", 
+    "options": [
+        [
+            "and", 
+            "but", 
+            "so", 
+            "or"
+        ], 
+        [
+            "in", 
+            "after", 
+            "on", 
+            "at"
+        ], 
+        [
+            "long", 
+            "short", 
+            "longer", 
+            "shorter"
+        ], 
+        [
+            "however", 
+            "But", 
+            "Because", 
+            "Until"
+        ], 
+        [
+            "pleasure", 
+            "hike", 
+            "trip", 
+            "travel"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "A", 
+        "C", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle703"
+}

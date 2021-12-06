@@ -1,0 +1,57 @@
+{
+    "article": "Jane was a nice girl and liked small animals. On  _  way back from school every afternoon, there was a pet shop. She always stopped  to look at  the animals in the shop. There were some cute dogs there. One of them was white and nice, and Jane liked it very much. She enjoyed  _  it playing,  _  the window of the pet shop. She was very  _  in it and often forgot the time. So she came home very  _  . One day her parents asked  _  she was late. Jane told them about the dog in the pet shop. The next day Jane stopped to look at the dog outside the pet shop, but she could not  find  it. She was very sad and went home early. When she got home, her mother showed her a big  _  and said \"Happy birthday!\" to her. It was her birthday! Just then, her father brought her a big box. In it was  the dog  ! Jane was very glad. From that day on, she did not come home late. She ran home early to play with the little white dog.", 
+    "options": [
+        [
+            "her", 
+            "hers", 
+            "she's", 
+            "she"
+        ], 
+        [
+            "seeing", 
+            "looking", 
+            "watching", 
+            "finding"
+        ], 
+        [
+            "in", 
+            "through", 
+            "across", 
+            "on"
+        ], 
+        [
+            "excited", 
+            "interested", 
+            "worried", 
+            "surprised"
+        ], 
+        [
+            "early", 
+            "late", 
+            "tired", 
+            "hungry"
+        ], 
+        [
+            "how", 
+            "when", 
+            "why", 
+            "what"
+        ], 
+        [
+            "pet", 
+            "bag", 
+            "cake", 
+            "box"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "B", 
+        "B", 
+        "B", 
+        "C", 
+        "C"
+    ], 
+    "source": "middle465"
+}

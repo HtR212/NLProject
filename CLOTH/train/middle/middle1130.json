@@ -1,0 +1,71 @@
+{
+    "article": "The bullet train D106 from Changsha to Shanghai has a short stop in Quzhou for only one minute. Named  _  the letter D, the new trains run at speeds of 200 to 250 kilometers one hour. This is much  _  than Z-type and T-type trains. For example, it  used to  take people 12 hours to travel from Shanghai to Beijing. But now it only  _  10. The most interesting part of the bullet trains is the revolving seats. People can adjust their seats as they like, so that it is  _  for you to talk with others around you face to face. The new trains run  _  big cities. They  _  the long trips much faster and more comfortable. However, many passengers still won't choose the bullet trains  _  some reasons. The ticket  _  of the bullet trains are much higher. For example, a hard seat ticket from Beijing to Jinan is only 90 yuan for T-type trains. But on the bullet trains all the seats are  _  . And they cost 153 to 184 yuan. On the other hand, the bullet trains don't stop at small stations.", 
+    "options": [
+        [
+            "with", 
+            "begin", 
+            "at", 
+            "after"
+        ], 
+        [
+            "fast", 
+            "faster", 
+            "quickly", 
+            "slower"
+        ], 
+        [
+            "cost", 
+            "takes", 
+            "need", 
+            "spends"
+        ], 
+        [
+            "difficult", 
+            "hard", 
+            "easily", 
+            "easy"
+        ], 
+        [
+            "between", 
+            "among", 
+            "along", 
+            "around"
+        ], 
+        [
+            "get", 
+            "let", 
+            "make", 
+            "allow"
+        ], 
+        [
+            "because", 
+            "for", 
+            "since", 
+            "with"
+        ], 
+        [
+            "prices", 
+            "speeds", 
+            "costs", 
+            "seats"
+        ], 
+        [
+            "hard", 
+            "big", 
+            "expensive", 
+            "soft"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "B", 
+        "B", 
+        "D", 
+        "A", 
+        "C", 
+        "B", 
+        "A", 
+        "D"
+    ], 
+    "source": "middle1130"
+}

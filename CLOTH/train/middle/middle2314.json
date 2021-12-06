@@ -1,0 +1,71 @@
+{
+    "article": "I am a Chinese girl. My  name's  Wang Wenbo. I  _  12 years old .  _  first name is Wenbo and my  _  name is Wang. I'm  _  Class Three, Grade Seven. I have  _  ID card. Its  _  is 368899. Miss Cao is my English teacher.  _  is very nice. We all like her very much. What's  _  telephone number? Oh,  _  666-4349.", 
+    "options": [
+        [
+            "am", 
+            "is", 
+            "are", 
+            "be"
+        ], 
+        [
+            "I", 
+            "My", 
+            "She", 
+            "Her"
+        ], 
+        [
+            "family", 
+            "first", 
+            "name", 
+            "given"
+        ], 
+        [
+            "in", 
+            "at", 
+            "of", 
+            "on"
+        ], 
+        [
+            "a", 
+            "an", 
+            "the", 
+            "two"
+        ], 
+        [
+            "name", 
+            "number", 
+            "card", 
+            "family"
+        ], 
+        [
+            "She", 
+            "Her", 
+            "He", 
+            "His"
+        ], 
+        [
+            "your", 
+            "his", 
+            "her", 
+            "she"
+        ], 
+        [
+            "it", 
+            "it's", 
+            "is", 
+            "She's"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "A", 
+        "A", 
+        "B", 
+        "B", 
+        "A", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle2314"
+}

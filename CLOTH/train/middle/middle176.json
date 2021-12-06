@@ -1,0 +1,64 @@
+{
+    "article": "Hello! I  _  Bob. I see Alice and Frank in the  _  . I say good morning to them . Alice has  a  ruler. It is good. What color is the  _  ? It is white. Alice says to me, \" Can you  _  'white' ?\" I say, \"Yes, W-H-I-T-E.\" Frank has a key.  _  is brown. Frank can say it  _  French . I have a pen and a ruler.  _  pen is blue and yellow. Oh!  What color  is my ruler? It's  _  . I can spell \"red\", R-E-D.", 
+    "options": [
+        [
+            "am", 
+            "is", 
+            "are", 
+            "be"
+        ], 
+        [
+            "morning", 
+            "afternoon", 
+            "evening", 
+            "day"
+        ], 
+        [
+            "jacket", 
+            "ruler", 
+            "cup", 
+            "map"
+        ], 
+        [
+            "say", 
+            "see", 
+            "spell", 
+            "meet"
+        ], 
+        [
+            "It", 
+            "This", 
+            "That", 
+            "His"
+        ], 
+        [
+            "at", 
+            "in", 
+            "on", 
+            "to"
+        ], 
+        [
+            "I", 
+            "You", 
+            "My", 
+            "His"
+        ], 
+        [
+            "yellow", 
+            "red", 
+            "green", 
+            "blue"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "A", 
+        "B", 
+        "C", 
+        "A", 
+        "B", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle176"
+}

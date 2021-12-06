@@ -1,0 +1,43 @@
+{
+    "article": "Hello, everyone .I'm Wang Li .Now let me tell you my dream job .I'm going to be an _ doctor because I like animals very much . _ can I be doctor for animals ? First ,I'm going to study hard now at school .Then I'm going to go to a _ university to learn more about animals .After I leave university ,I'm going to find a job _ a doctor in an animal hospital .After many years ,I'm going to retire _ beautiful .I'm going to build a big garden and I'm going to keep many animals in the garden .Wow ,I feel excited!", 
+    "options": [
+        [
+            "children", 
+            "child", 
+            "animal", 
+            "animals"
+        ], 
+        [
+            "How", 
+            "What", 
+            "When", 
+            "Where"
+        ], 
+        [
+            "big", 
+            "small", 
+            "the", 
+            "famous"
+        ], 
+        [
+            "be", 
+            "am", 
+            "as", 
+            "for"
+        ], 
+        [
+            "nowhere", 
+            "somewhere", 
+            "anywhere", 
+            "everywhere"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "D", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle2014"
+}

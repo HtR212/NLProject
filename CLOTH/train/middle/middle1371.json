@@ -1,0 +1,71 @@
+{
+    "article": "It was Mary's birthday. She received a letter from her uncle _ was a farmer.\n\"Dear Mary,\" the letter said. \"Happy birthday . I am sending you some _ as your birthday present.They will arrive tomorrow. I hope you will like them. Best wishes, Uncle Toby. \"\nMary liked eating eggs and _ .When the chickens arrived the day, they were in a box. Mary was very _ .She took the box off the truck and began to carry it into her garden. _ , the box was heavy and she dropped it . The chickens all ran out .They ran everywhere, into the road , into the shops , even into the next street. It _ Mary many hours to find them and take them back to her garden.\nA few days later uncle came.\"Did the chickens arrive _ ?\" he asked Mary.\"Yes,Uncle Toby.\"Mary said.\" _ I had lots if trouble with them. I dropped the box. It broke and the chickens ran everywhere.I spent the whole afternoon looking for them.\" \"Did you find them all?\" her uncle asked.\"I hope so,\"Mary replied.\"I caught eleven of them.\"\"That's very interesting,\"her uncle said _ a smile,\"because I only sent you six.\"", 
+    "options": [
+        [
+            "what", 
+            "which", 
+            "who", 
+            "whose"
+        ], 
+        [
+            "chickens", 
+            "ducks", 
+            "cats", 
+            "dogs"
+        ], 
+        [
+            "chickens", 
+            "chicken", 
+            "mutton", 
+            "beef"
+        ], 
+        [
+            "excited", 
+            "bored", 
+            "shocked", 
+            "disappointed"
+        ], 
+        [
+            "Whoever", 
+            "Whatever", 
+            "Whenever", 
+            "However"
+        ], 
+        [
+            "spent", 
+            "cost", 
+            "took", 
+            "used"
+        ], 
+        [
+            "safe", 
+            "safely", 
+            "safety", 
+            "unsafe"
+        ], 
+        [
+            "But", 
+            "And", 
+            "Or", 
+            "So"
+        ], 
+        [
+            "at", 
+            "in", 
+            "on", 
+            "with"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "B", 
+        "A", 
+        "D", 
+        "C", 
+        "B", 
+        "A", 
+        "D"
+    ], 
+    "source": "middle1371"
+}

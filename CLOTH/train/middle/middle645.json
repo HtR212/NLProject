@@ -1,0 +1,64 @@
+{
+    "article": "My name is Tom. My parents and I _ a great vacation in Dalian last summer.Dalian is a great city _ lots of nice beaches. So in _ many people go on vacation there.\nOn the first day, we _ to go to the beach. We didn't like being with too may people, _ we started at 8:00 am. We went to the famous beach--Laohutan.When we got there, only a few people were there. We were happy. We _ along the beach, played with the sand on the beach, and swam in the sea. The water was really _ \nMore and more people came to the beach. There were quite a few people in the sea. Then my father and I went to play volleyball on the beach. Two young men watched us and then  _ us. How happy we were!", 
+    "options": [
+        [
+            "brought", 
+            "gave", 
+            "played", 
+            "took"
+        ], 
+        [
+            "for", 
+            "with", 
+            "on", 
+            "at"
+        ], 
+        [
+            "spring", 
+            "summer", 
+            "autumn", 
+            "winter"
+        ], 
+        [
+            "decided", 
+            "needed", 
+            "talked", 
+            "asked"
+        ], 
+        [
+            "so", 
+            "and", 
+            "or", 
+            "because"
+        ], 
+        [
+            "slept", 
+            "lay", 
+            "felt", 
+            "walked"
+        ], 
+        [
+            "hot", 
+            "cold", 
+            "cool", 
+            "dirty"
+        ], 
+        [
+            "came", 
+            "went", 
+            "joined", 
+            "talked"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "B", 
+        "B", 
+        "A", 
+        "A", 
+        "D", 
+        "C", 
+        "C"
+    ], 
+    "source": "middle645"
+}

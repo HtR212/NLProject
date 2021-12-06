@@ -1,0 +1,71 @@
+{
+    "article": "(10,l,10) My young daughter and I were flying to Miami for holiday. The plane was completely  _  . We couldn't get seats together and were separated by the aisle . I asked two men if they would like to change  _  with us, so that we could be together. They  _  . At the same time, a mother  with  three children also had the same problem as us. The mother  _  her baby, but her young son and his older brother were separated from her. She was very anxious about the boys sitting with  _  She was very worried, but  _  helped her. Suddenly a man said, \"I think we can help you.\" Then he and his group managed to make enough space for the  _  . My young daughter, however, was afraid of not being next to a window or her mom. I told her I couldn't do anything; we had to sit  _  we were. Amazingly, the man sitting next to me turned to me and said he really liked the seat near the aisle, so we changed seats and continued our trip  _  . Would that man give us his seat if the others hadn't done so for the mom and her children? I don't know. Perhaps kindness is contagious.", 
+    "options": [
+        [
+            "crowded", 
+            "uncomfortable", 
+            "full", 
+            "noisy"
+        ], 
+        [
+            "money", 
+            "seats", 
+            "minds", 
+            "ideas"
+        ], 
+        [
+            "agreed", 
+            "refused", 
+            "waited", 
+            "nodded"
+        ], 
+        [
+            "held", 
+            "raised", 
+            "fetched", 
+            "brought"
+        ], 
+        [
+            "friends", 
+            "waitresses", 
+            "strangers", 
+            "relatives"
+        ], 
+        [
+            "somebody", 
+            "anybody", 
+            "everybody", 
+            "nobody"
+        ], 
+        [
+            "family", 
+            "home", 
+            "house", 
+            "team"
+        ], 
+        [
+            "that", 
+            "what", 
+            "where", 
+            "when"
+        ], 
+        [
+            "sadly", 
+            "hurriedly", 
+            "slowly", 
+            "happily"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "B", 
+        "A", 
+        "C", 
+        "D", 
+        "A", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle108"
+}

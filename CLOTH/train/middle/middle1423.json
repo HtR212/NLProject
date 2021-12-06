@@ -1,0 +1,50 @@
+{
+    "article": "What is your favourite colour? Do you like yellow, orange, or red? If you do, you must be a optimist , a leader or an active person who enjoys life. Do you prefer grey and blue? Then you are probably quiet, shy and you'd rather follow than  lead  . You seem to be a pessimist . Colours  affect  our moods, there is no doubt about it. A yellow room makes most people feel more  _  and warmer than a dark green one. It seems that a red dress brings warmth and cheer to the sadness winter day. On the other hand, black is depressing . A black bridge  _  the River Thames, near London, used to be the scene of more suicides than bridge in the area until it  was painted  green. The number of suicide attempts fell sharply at once, perhaps it would have fallen even more if the bridge had been done  _  pink or baby blue. Light and  _  colours make people not only happier but  more active  . It is a true fact that factory workers work better , harder, and have  _  accidents when their machines are painted orange rather than  _  or dark green.", 
+    "options": [
+        [
+            "cheerful", 
+            "unhappy", 
+            "nervous", 
+            "worried"
+        ], 
+        [
+            "on", 
+            "over", 
+            "across", 
+            "through"
+        ], 
+        [
+            "with", 
+            "by", 
+            "in", 
+            "to"
+        ], 
+        [
+            "dark", 
+            "bright", 
+            "clear", 
+            "good"
+        ], 
+        [
+            "little", 
+            "less", 
+            "fewer", 
+            "more"
+        ], 
+        [
+            "white", 
+            "light", 
+            "pink", 
+            "black"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "C", 
+        "B", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle1423"
+}

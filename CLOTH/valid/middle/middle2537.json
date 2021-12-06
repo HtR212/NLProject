@@ -1,0 +1,71 @@
+{
+    "article": "Hi, my name is Eric.My  _  name is Li Mobai. I am an English boy. I  _  in China with my parents now. I'm tall and strong. I have short brown hair.\nNow, I  _  in No. 1 Middle School in Shanghai. I am in Class1, Grade7. I'm the class monitor. I can  _  Chinese very well. I  am good at  maths and music, too. I'm a member of the Music Club. I like  _  Chinese songs. Zhang Jie is my favourite star. I like sports very much. At weekends ,I often play  _  table tennis and basketball with my parents.  _  we go swimming.\nI have many good friends at school. I often  _  them study English after school. So they think I'm a(n)  _  boy. They all like me very much.\nDo you like me? Do you want to make friends with me?", 
+    "options": [
+        [
+            "English", 
+            "Chinese", 
+            "given", 
+            "family"
+        ], 
+        [
+            "like", 
+            "enjoy", 
+            "live", 
+            "join"
+        ], 
+        [
+            "work", 
+            "study", 
+            "play", 
+            "do"
+        ], 
+        [
+            "tell", 
+            "talk", 
+            "say", 
+            "speak"
+        ], 
+        [
+            "dancing", 
+            "listening", 
+            "singing", 
+            "drawing"
+        ], 
+        [
+            "/", 
+            "a", 
+            "an", 
+            "the"
+        ], 
+        [
+            "Never", 
+            "Always", 
+            "Sometimes", 
+            "Usually"
+        ], 
+        [
+            "know", 
+            "meet", 
+            "watch", 
+            "help"
+        ], 
+        [
+            "important", 
+            "kind", 
+            "special", 
+            "healthy"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "B", 
+        "D", 
+        "C", 
+        "A", 
+        "C", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle2537"
+}

@@ -1,0 +1,64 @@
+{
+    "article": "An old tiger lives in the forest. He seldom goes to look for food himself. He orders other animals to  _  him something to eat. One day he sees a monkey and says, \" I'm  _  , Monkey. Go to the village and bring me a fat pig.\" \"Oh, Tiger,\" says the monkey. \" I  _  do that. There  _  another tiger over there. He also wants a fat pig. He will not let me do anything  _  you. I am afraid of him.\" \"What?\" cries the tiger. \"Show  _  that tiger. I will talk to him.\" \"Come  _  me, then.\" Says the monkey. The monkey and the tiger get to a bridge above the river. \"Now look down  _  the river.\" Says the monkey. \"Do you  see  the head, the white teeth and large green eyes of a tiger?\" \"Yes, I do,\" cries the old tiger. \"I will eat him up.\" With these words the tiger  jumps into  the river.", 
+    "options": [
+        [
+            "make", 
+            "have", 
+            "let", 
+            "bring"
+        ], 
+        [
+            "full", 
+            "hungry", 
+            "thin", 
+            "fat"
+        ], 
+        [
+            "can", 
+            "may", 
+            "can't", 
+            "don't"
+        ], 
+        [
+            "has", 
+            "have", 
+            "are", 
+            "is"
+        ], 
+        [
+            "to", 
+            "on", 
+            "with", 
+            "for"
+        ], 
+        [
+            "my", 
+            "me", 
+            "I", 
+            "mine"
+        ], 
+        [
+            "with", 
+            "to", 
+            "for", 
+            "on"
+        ], 
+        [
+            "above", 
+            "on", 
+            "at", 
+            "up"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "B", 
+        "C", 
+        "D", 
+        "D", 
+        "B", 
+        "A", 
+        "C"
+    ], 
+    "source": "middle229"
+}

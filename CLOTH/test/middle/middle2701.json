@@ -1,0 +1,64 @@
+{
+    "article": "This is a photo of Mr. King's family. Mr. and Mrs. King  have got  two sons and a daughter. They are in England. Mrs. King is  _  Chinese teacher. Mr. King is a bus driver.  _  daughter is eleven and  _  is a student. Her name is Kathy. She is in Class Four  _  No. 1 Middle School. There are thirty students in her class. Tom and David  _  her brothers. They are nine years old. They are younger. They are  _  , too. They go to school  _  7: 30. They have  four lessons  in the morning and two in the afternoon. Tom and David like  _  and they play it every day. They love their sister very much.", 
+    "options": [
+        [
+            "a", 
+            "an", 
+            "the", 
+            "/"
+        ], 
+        [
+            "They", 
+            "Them", 
+            "Their", 
+            "Our"
+        ], 
+        [
+            "he", 
+            "his", 
+            "she", 
+            "her"
+        ], 
+        [
+            "in", 
+            "for", 
+            "on", 
+            "with"
+        ], 
+        [
+            "be", 
+            "am", 
+            "is", 
+            "are"
+        ], 
+        [
+            "friends", 
+            "brothers", 
+            "students", 
+            "boys"
+        ], 
+        [
+            "on", 
+            "in", 
+            "at", 
+            "to"
+        ], 
+        [
+            "school", 
+            "teachers", 
+            "Chinese", 
+            "football"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "C", 
+        "A", 
+        "D", 
+        "C", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle2701"
+}

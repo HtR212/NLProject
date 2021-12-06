@@ -1,0 +1,64 @@
+{
+    "article": "Robots seem very new to most people. But they have a  _  history. A Greek scientist made the first robot. You may  see  robots in some movies. The robots in the movies are usually stronger, faster and  cleverer  than people. In real life, most robots are used in factories. They can do lots of dangerous, difficult or  _  jobs. Some people can't look  _  themselves and robots can help them. For example, some people can't see, and they use a guide dog to help themselves move. But now scientists are  _  a robot to help them. Robots are also used in American hospitals. At one hospital, a robot  _  meals from the kitchen to the sick people's rooms. It never loses its  _  because it has a map of the hospital in its computer system .  _  the future, robots will even work in space. But robots will  _  take the place of people but only work for people. They can, however, help us in a lot of different ways.", 
+    "options": [
+        [
+            "unpleasant", 
+            "long", 
+            "strange", 
+            "interesting"
+        ], 
+        [
+            "interesting", 
+            "interested", 
+            "boring", 
+            "bored"
+        ], 
+        [
+            "about", 
+            "at", 
+            "for", 
+            "after"
+        ], 
+        [
+            "taking", 
+            "using", 
+            "making", 
+            "predicting"
+        ], 
+        [
+            "flies", 
+            "cooks", 
+            "makes", 
+            "takes"
+        ], 
+        [
+            "way", 
+            "road", 
+            "street", 
+            "meal"
+        ], 
+        [
+            "For", 
+            "Of", 
+            "With", 
+            "In"
+        ], 
+        [
+            "ever", 
+            "never", 
+            "still", 
+            "yet"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "D", 
+        "C", 
+        "D", 
+        "A", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle1925"
+}

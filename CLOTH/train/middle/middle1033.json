@@ -1,0 +1,57 @@
+{
+    "article": "Bruce's chocolate Bruce's favorite food is chocolate.His parent and teacher ofen say that it's  _  for his teeth to eat too much chocolate.But he doesn't belive it.He often puts some chocolate in the milk for breakfast, the juice  _  lunch ,even the soup for supper. His mother has to  _  some chocolate in his bag before he goes to school.Sometimes when his mother goes shopping with him,Bruce won't leave the shop  _  she buys some chocolate for him. The little boy  _  back from school with a painful look yesterday afternoon. A tooth hurt and he had nothing .His mother made some soup for him.But he put some chocolate in it.His father bought some  medicine  for him,but he put some chocolate in it,  too  .Of course it was useless .So the next morning his mother took him to see the  _  .The dentidt saw there was a cavity in his bad tooth .So he had to fill it with something. \"Now,young man,\" said the dentist , \"what kind of filling would you like for that tooth ?\" \"  _  ,please,\"answered Bruce.The dentist and Bruce's mother were both laughed .The dentist asked Bruce to eat fresh fruit and vegetable  instead of  chocolate. And It's necessary for Bruce to have healthy eating habits.", 
+    "options": [
+        [
+            "good", 
+            "bad", 
+            "well", 
+            "better"
+        ], 
+        [
+            "for", 
+            "to", 
+            "at", 
+            "with"
+        ], 
+        [
+            "throw", 
+            "put", 
+            "buy", 
+            "get"
+        ], 
+        [
+            "when", 
+            "until", 
+            "if", 
+            "because"
+        ], 
+        [
+            "come", 
+            "go", 
+            "return", 
+            "came"
+        ], 
+        [
+            "doctor", 
+            "nurse", 
+            "teacher", 
+            "dentist"
+        ], 
+        [
+            "Chocolate", 
+            "Milk", 
+            "Fruit", 
+            "Vegetabls"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "B", 
+        "B", 
+        "D", 
+        "D", 
+        "A"
+    ], 
+    "source": "middle1033"
+}

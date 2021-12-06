@@ -1,0 +1,57 @@
+{
+    "article": "Many years ago, a 10--year--old boy walked into a soda shop. He asked the  _  , \"How much is an ice cream sundae ?\" \"Fifty cents,\" the waitress replied. The boy  _  into his pockets, pulled out a handful of change and began counting. The waitress looked at the boy impatiently.  After all  , she had other customers to wait on. After counting, the boy asked the waitress again, \" How much is a dish of plain ice cream? \" \"Thirty-five cents, \" the waitress said a little  _  . Again the boy counted his coins. At last, he said, \"I'II have the plain ice cream please. \" He put 35 cents  _  the counter . The waitress took the coins, brought the ice cream and walked away. About ten minutes later, she retumed and found the ice cream dish  _  . The boy was gone. She  picked up  the empty dish--then she was surprised. There on the counter, next to the wet spot where the dish had been, were 15 cents. The boy had  enough  . money for a sundae, but he had ordered plain ice cream  _  he could leave her a tip. In a world that tells us to \"get  _  we can\" , every so often it's good to be reminded to \"give something. away\".", 
+    "options": [
+        [
+            "woman", 
+            "waitress", 
+            "waiter", 
+            "man"
+        ], 
+        [
+            "reached", 
+            "took", 
+            "moved", 
+            "looked"
+        ], 
+        [
+            "happily", 
+            "angrily", 
+            "patiently", 
+            "worriedly"
+        ], 
+        [
+            "In", 
+            "under", 
+            "on", 
+            "over"
+        ], 
+        [
+            "dirty", 
+            "empty", 
+            "broken", 
+            "gone"
+        ], 
+        [
+            "so", 
+            "or", 
+            "and", 
+            "but"
+        ], 
+        [
+            "all", 
+            "nothing", 
+            "someyhing", 
+            "any"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "B", 
+        "C", 
+        "B", 
+        "A", 
+        "A"
+    ], 
+    "source": "middle253"
+}

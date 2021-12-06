@@ -1,0 +1,71 @@
+{
+    "article": "There are nineteen boys and twenty-eight girls in our class.  One of  the boys is English. His  _  is Sam. He is thirteen. Two of the  _  are American. They are twins.  _  names are Lucy and Jane. They are twelve. They are my  _  . All of the other boys and girls are  _  . We all like the English boy and the American girls,  _  they like us, too. We play games together . We help  _  and they help us. Look, there  _  the twins! They are coming this way. Let's  _  hello to them.", 
+    "options": [
+        [
+            "school", 
+            "sister", 
+            "brother", 
+            "name"
+        ], 
+        [
+            "brothers", 
+            "sisters", 
+            "girls", 
+            "boys"
+        ], 
+        [
+            "Your", 
+            "Their", 
+            "Our", 
+            "Her"
+        ], 
+        [
+            "teachers", 
+            "friends", 
+            "brothers", 
+            "students"
+        ], 
+        [
+            "Chinese", 
+            "English", 
+            "American", 
+            "friends"
+        ], 
+        [
+            "but", 
+            "or", 
+            "and", 
+            "so"
+        ], 
+        [
+            "her", 
+            "them", 
+            "him", 
+            "you"
+        ], 
+        [
+            "is", 
+            "come", 
+            "go", 
+            "work"
+        ], 
+        [
+            "speak", 
+            "tell", 
+            "say", 
+            "talk"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "C", 
+        "B", 
+        "B", 
+        "A", 
+        "C", 
+        "B", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle1471"
+}

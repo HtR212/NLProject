@@ -1,0 +1,64 @@
+{
+    "article": "You may not know how his magic tricks work . But that's why they are so much fun ! American magician David Copperfield is coming back to China. He's going to show everyone, young and old,  a lot of  cool, new magic tricks. Copperfield is one of the world's most famous  _  . Copperfield's shows begin in Beijing on April 20. He will also give shows in Changsha , Hangzhou , Nanjing and Shanghai  _  April and May . There will be 38  _  in all . Copperfield began studying magic when he was a child . At the  _  of 12 , he was the youngest person to be in the Society of American Magicians . And now , he is famous all over the world . In 1983, he made the Statue of Liberty in New York go away  _  a few minutes . In 1986, he walked through the Great Wall in Beijing! His shows are not just magic. He also dances  _  does lots of interesting things to make his fans happy . He even asks his fans to help  _  do trick! One of Copperfield's body greatest tricks is flying . At his shows in China, he is going to make some fans fly around! How does he make people fly? No one knows .That's his secret. In  another  trick, an electric saw will cut Copperfield's body in halt.  _  after the trick, he's OK. Copperfield will also teach magic tricks to some disable children in Chinese hospitals.", 
+    "options": [
+        [
+            "magicians", 
+            "workers", 
+            "teachers", 
+            "doctors"
+        ], 
+        [
+            "on", 
+            "in", 
+            "of", 
+            "at"
+        ], 
+        [
+            "books", 
+            "shows", 
+            "picture", 
+            "cars"
+        ], 
+        [
+            "time", 
+            "year", 
+            "age", 
+            "class"
+        ], 
+        [
+            "for", 
+            "with", 
+            "by", 
+            "at"
+        ], 
+        [
+            "but", 
+            "or", 
+            "and", 
+            "so"
+        ], 
+        [
+            "his", 
+            "he", 
+            "he's", 
+            "him"
+        ], 
+        [
+            "But", 
+            "So", 
+            "Because", 
+            "Or"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "B", 
+        "C", 
+        "A", 
+        "C", 
+        "D", 
+        "A"
+    ], 
+    "source": "middle504"
+}

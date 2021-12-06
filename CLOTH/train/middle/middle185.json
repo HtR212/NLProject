@@ -1,0 +1,71 @@
+{
+    "article": "My name is Tony. I'm  _  English boy. I'm twelve years old. I'm a  _  . Jim is my good friend. He  _  from the USA. We are in  the same  class. He's twelve years old,  _  . I have a nice photo. Now, look  _  my photo. Jim  _  a long face, small eyes, brown and short hair. And the boy in a yellow cap is me. I like this  _  . Jim has a  _  . Her name is Kate. She is ten years old. Kate has a round face and  _  eyes. They look different.", 
+    "options": [
+        [
+            "/", 
+            "a", 
+            "an", 
+            "the"
+        ], 
+        [
+            "student", 
+            "teacher", 
+            "girl", 
+            "sister"
+        ], 
+        [
+            "come", 
+            "am", 
+            "are", 
+            "is"
+        ], 
+        [
+            "to", 
+            "too", 
+            "but", 
+            "and"
+        ], 
+        [
+            "like", 
+            "/", 
+            "at", 
+            "different"
+        ], 
+        [
+            "are", 
+            "is", 
+            "has", 
+            "have"
+        ], 
+        [
+            "girl", 
+            "teacher", 
+            "color", 
+            "actor"
+        ], 
+        [
+            "student", 
+            "sister", 
+            "friend", 
+            "mom"
+        ], 
+        [
+            "big", 
+            "wide", 
+            "short", 
+            "long"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "D", 
+        "B", 
+        "C", 
+        "C", 
+        "C", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle185"
+}

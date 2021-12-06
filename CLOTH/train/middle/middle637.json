@@ -1,0 +1,71 @@
+{
+    "article": "Good morning, boys and girls. I  _  your English teacher. My name is Alice Brown. Alice is my  _  name, and Brown is  _  last name. Look! What's this? Yes, it's a photo of my  _  . This is my husband. He is a teacher,  _  . But he is not in our school. I have a son and a daughter. This is my  _  . His name is Jim. And that is my daughter.  _  name is Gina. They like sports very much, and they often do sports  _  their friends after school. What's my husband`s favourite sports? Well, Beckham is his favourite sports star. So  _  is his favourite sports. If you want to play and need help, please call him. His  telephone  number is 886-5318.", 
+    "options": [
+        [
+            "am", 
+            "is", 
+            "are", 
+            "be"
+        ], 
+        [
+            "family", 
+            "first", 
+            "last", 
+            "full"
+        ], 
+        [
+            "my", 
+            "your", 
+            "her", 
+            "his"
+        ], 
+        [
+            "teacher", 
+            "watch", 
+            "library", 
+            "family"
+        ], 
+        [
+            "to", 
+            "too", 
+            "two", 
+            "and"
+        ], 
+        [
+            "cousin", 
+            "father", 
+            "son", 
+            "uncle"
+        ], 
+        [
+            "His", 
+            "Her", 
+            "My", 
+            "Your"
+        ], 
+        [
+            "with", 
+            "in", 
+            "of", 
+            "and"
+        ], 
+        [
+            "basketball", 
+            "football", 
+            "tennis", 
+            "swimming"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "A", 
+        "D", 
+        "B", 
+        "C", 
+        "B", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle637"
+}

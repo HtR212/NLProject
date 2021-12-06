@@ -1,0 +1,71 @@
+{
+    "article": "There are 45 students in our class. I have made a survey. 36 students  _ they like to exercise.  Most boys play basketball twice a week.  _ , girls think basketball is difficult for them. They'd like to play volleyball twice a week. My friend, Tony, is good at  _  He runs  the fastest in our class. He runs _    30 minutes on the playground every evening  _  he goes to bed. Is it interesting? Gray is good at swimming. He goes to the _ club three times a month in winter, and three times a week in summer  So he's pretty  _ . Some of  my classmates have good eating habits. They eat _  meat and  _ .70% of them  drink  milk every day. 15 students say they drink milk three or four times a week.", 
+    "options": [
+        [
+            "tell", 
+            "speak", 
+            "say", 
+            "talk"
+        ], 
+        [
+            "Though", 
+            "However", 
+            "So", 
+            "But"
+        ], 
+        [
+            "running", 
+            "jumping", 
+            "swimming", 
+            "studying"
+        ], 
+        [
+            "to", 
+            "for", 
+            "with", 
+            "until"
+        ], 
+        [
+            "when", 
+            "while", 
+            "before", 
+            "after"
+        ], 
+        [
+            "swim", 
+            "swiming", 
+            "swimming", 
+            "swim's"
+        ], 
+        [
+            "health", 
+            "healthy", 
+            "healthier", 
+            "healthiest"
+        ], 
+        [
+            "both", 
+            "either", 
+            "neither", 
+            "none"
+        ], 
+        [
+            "milk", 
+            "vegetables", 
+            "chickens", 
+            "apple"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "A", 
+        "B", 
+        "C", 
+        "C", 
+        "B", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle918"
+}

@@ -1,0 +1,71 @@
+{
+    "article": "When Mary Smith was a  _  , she wanted to be a teacher,  _  she liked children. When she was twenty, she began teaching in a small school. She was a good teacher, and she  _  a lot with the children in her class. They  _  her teaching. One day  _  of the girls in her class said to her, \"Miss Smith,  _  does a man's hair become grey before his beard does?\" Mary laughed and answered, \"I don't know. Helen, do you know?\" \"I  don't know  , either, Miss Smith,\" said Helen, \"but it happened to my father.\" The  _  children in the class laughed when they heard this. Then a boy said, \"I  _  , Miss Smith. A man's hair becomes grey  _  because it's sixteen years older than his beard.\"", 
+    "options": [
+        [
+            "woman", 
+            "student", 
+            "teacher", 
+            "wife"
+        ], 
+        [
+            "so", 
+            "but", 
+            "that", 
+            "because"
+        ], 
+        [
+            "cried", 
+            "shouted", 
+            "learned", 
+            "laughed"
+        ], 
+        [
+            "refused", 
+            "enjoyed", 
+            "thought", 
+            "wanted"
+        ], 
+        [
+            "one", 
+            "a", 
+            "an", 
+            "two"
+        ], 
+        [
+            "when", 
+            "how", 
+            "why", 
+            "whether"
+        ], 
+        [
+            "other", 
+            "another", 
+            "some", 
+            "few"
+        ], 
+        [
+            "think", 
+            "know", 
+            "guess", 
+            "sure"
+        ], 
+        [
+            "fast", 
+            "slowly", 
+            "first", 
+            "last"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "D", 
+        "B", 
+        "A", 
+        "C", 
+        "A", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle1147"
+}

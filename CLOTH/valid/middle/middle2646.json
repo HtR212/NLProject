@@ -1,0 +1,50 @@
+{
+    "article": "Hello, boys and girls!I  _  David. My  _  name is Hand. This is my pen. It's black. That is  _  English book. .It's  blue  .  What's  that? Oh,  it's  a computer game . I  _  it very much. I have a  _  friend.  _  name is Tony. His  phone number  is 3985665.", 
+    "options": [
+        [
+            "is", 
+            "are", 
+            "am", 
+            "be"
+        ], 
+        [
+            "first", 
+            "last", 
+            "the", 
+            "\\"
+        ], 
+        [
+            "an", 
+            "a", 
+            "the", 
+            "work"
+        ], 
+        [
+            "is", 
+            "like", 
+            "am", 
+            "not"
+        ], 
+        [
+            "first", 
+            "last", 
+            "good", 
+            "see"
+        ], 
+        [
+            "He", 
+            "Her", 
+            "His", 
+            "my"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "A", 
+        "B", 
+        "C", 
+        "C"
+    ], 
+    "source": "middle2646"
+}

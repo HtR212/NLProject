@@ -1,0 +1,57 @@
+{
+    "article": "Miss Richards was a teacher at a school for boys and girls.She _ chemistry and physics from the lowest to the highest classes in the _ .Sometimes students learned them rapidly,but sometimes they were very slow ,and then Miss Richards had to _ things many times.\nOne year,the first class had been studying chemistry for several _ when Miss Richards suddenly asked,\"What is water?Who knows? _ up?\"\nThere was silence for a few seconds,and Miss Richards felt sad ,but then one boy _ his hand.\n\"Yes,Dick?\"said Miss Richards encouragingly .He was not one of the brightest children in the class,so she was _ that he could answer.\n\"Water is a liquid which has no color until you wash your hands in it,Miss.Then it turns black,\"the boy replied with great confidence .", 
+    "options": [
+        [
+            "teaches", 
+            "teaching", 
+            "taught", 
+            "teach"
+        ], 
+        [
+            "schooling", 
+            "school", 
+            "class", 
+            "home"
+        ], 
+        [
+            "repeated", 
+            "repeating", 
+            "repeats", 
+            "repeat"
+        ], 
+        [
+            "years", 
+            "minutes", 
+            "weeks", 
+            "seconds"
+        ], 
+        [
+            "Put", 
+            "Hands", 
+            "Get", 
+            "Look"
+        ], 
+        [
+            "lowed", 
+            "rode", 
+            "raised", 
+            "put"
+        ], 
+        [
+            "sad", 
+            "glad", 
+            "angry", 
+            "hungry"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "D", 
+        "C", 
+        "B", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle478"
+}

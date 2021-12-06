@@ -1,0 +1,57 @@
+{
+    "article": "Franco is a waiter in New York City. He has one week _ for summer holiday every year. Last summer he decided to take a trip to California. He didn't want to go _ plane. So he decided to take the train from New York to California.\nThe train _ Penn Station in New York City on Monday at 10:00 p.m. Franco tried to sleep that night, _ he couldn't. He was too excited because he knew this trip was a wonderful idea.\nFor five days, Franco didn't get off the train. He often had a _ through the train and talked with the other passengers. Sometimes he walked between the cars  to get _ fresh air. He had all his meals in the dining car.\nFinally, at 2:45 p.m. on Friday, the train stopped in San Francisco. Franco was happy to leave the train. On Sunday, Franco took a flight back to New York. He _ out of the window of the airplane and imagined  the desert, mountains, farms, and cities below. After a while, he closed his eyes and started to make plans for his next summer holiday.", 
+    "options": [
+        [
+            "in", 
+            "on", 
+            "off", 
+            "over"
+        ], 
+        [
+            "by", 
+            "on", 
+            "in", 
+            "for"
+        ], 
+        [
+            "got", 
+            "left", 
+            "started", 
+            "arrived"
+        ], 
+        [
+            "but", 
+            "and", 
+            "then", 
+            "so"
+        ], 
+        [
+            "seat", 
+            "walk", 
+            "bed", 
+            "table"
+        ], 
+        [
+            "any", 
+            "every", 
+            "each", 
+            "some"
+        ], 
+        [
+            "saw", 
+            "looked", 
+            "noticed", 
+            "showed"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "B", 
+        "A", 
+        "B", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle746"
+}

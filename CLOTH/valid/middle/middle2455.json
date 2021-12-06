@@ -1,0 +1,71 @@
+{
+    "article": "\"How can I learn English well?\" \"This is a  _  many students may ask. In my opinion, the most effective  _  is to learn lessons by heart. If you can recite the text and write it out, you will learn it pretty well. And if you can tell  _  your own words about  _  the lesson says, you are a very successful learner indeed. Your English will be quite perfect. This is a difficult task. However, if you try to learn by heart only part of each lesson, you'll find it not so hard  _  you might have thought. Learn this way, and you will  _  fast progress. Of course, writing is also necessary. It helps you a lot on your way to  _  in English studies. It's equally important to feel the language. You should laugh at Englsih jokes and be  _  at bad news. When using English, try to  _  your mother tongue .  Instead of  helping you, your own language gets in your way. So, never try to learn English through putting every word into Chinese.", 
+    "options": [
+        [
+            "question", 
+            "puzzle", 
+            "problem", 
+            "challenge"
+        ], 
+        [
+            "time", 
+            "place", 
+            "road", 
+            "way"
+        ], 
+        [
+            "by", 
+            "with", 
+            "of", 
+            "in"
+        ], 
+        [
+            "which", 
+            "how", 
+            "what", 
+            "when"
+        ], 
+        [
+            "as", 
+            "like", 
+            "so", 
+            "than"
+        ], 
+        [
+            "make", 
+            "do", 
+            "learn", 
+            "develop"
+        ], 
+        [
+            "challenge", 
+            "success", 
+            "difference", 
+            "importance"
+        ], 
+        [
+            "happy", 
+            "sad", 
+            "happily", 
+            "sadly"
+        ], 
+        [
+            "leave", 
+            "remember", 
+            "forget", 
+            "realize"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "D", 
+        "C", 
+        "A", 
+        "A", 
+        "B", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle2455"
+}

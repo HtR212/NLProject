@@ -1,0 +1,64 @@
+{
+    "article": "My friend peter is a soccer player. He _ thirteen years old. He usually _ up at six-thirty. He has breakfast at seven o'clock. He  _ home at seven-thirty. School _ at around eight o'clock. At twelve o'clock, he has a big lunch at home. After lunch, he reads some interesting stories. Then he  puts on his jacket and goes to school again. Peter and his friends usually play soccer at four-thirty. They play  _ an hour. He has dinner at about six o'clock in the afternoon. After dinner, he  _ the guitar. Then he watches the news on TV. He starts his homework at seven-thirty. He can  _ his homework before nine o'clock. His family only has a shower,  _ they make a shower schedule . He usually takes a shower at nine-thirty every day. He usually goes to bed at ten o'clock.", 
+    "options": [
+        [
+            "does", 
+            "is", 
+            "do", 
+            "are"
+        ], 
+        [
+            "goes", 
+            "does", 
+            "sleeps", 
+            "gets"
+        ], 
+        [
+            "leaves", 
+            "stays", 
+            "goes", 
+            "lives"
+        ], 
+        [
+            "plays", 
+            "classes", 
+            "starts", 
+            "puts"
+        ], 
+        [
+            "in", 
+            "for", 
+            "at", 
+            "to"
+        ], 
+        [
+            "plays", 
+            "loves", 
+            "makes", 
+            "takes"
+        ], 
+        [
+            "do", 
+            "leave", 
+            "draw", 
+            "finish"
+        ], 
+        [
+            "because", 
+            "so", 
+            "and", 
+            "but"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "A", 
+        "C", 
+        "B", 
+        "A", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle2994"
+}

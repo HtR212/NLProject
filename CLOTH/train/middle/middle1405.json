@@ -1,0 +1,71 @@
+{
+    "article": "If you can choose  a person as your neighbour,  _ do you want to choose? Perhaps you will choose a film star like Brad Pitt or a  _  man like Bill Gates. You _ choose a president like Barack Obama or your best friend. Do you want to know who I want to choose _ my neighbour? It's a detective  _ Sherlock Holmes.\nI really want to be a detective like him. I think I can learn a lot from him if I live next to him. _ his neighbour can make it convenient  for me to learn from him. If I choose to live next to Sherlock Holmes, no bad people can hurt  me because they are _ of him. When I have some problems, I can run to his house and _ him for help. What's more, maybe I can have a _ to work with him.", 
+    "options": [
+        [
+            "what", 
+            "why", 
+            "who", 
+            "where"
+        ], 
+        [
+            "poor", 
+            "rich", 
+            "big", 
+            "best"
+        ], 
+        [
+            "must", 
+            "may", 
+            "need", 
+            "can"
+        ], 
+        [
+            "for", 
+            "at", 
+            "as", 
+            "with"
+        ], 
+        [
+            "by", 
+            "before", 
+            "like", 
+            "from"
+        ], 
+        [
+            "Doing", 
+            "Getting", 
+            "Having", 
+            "Being"
+        ], 
+        [
+            "angry", 
+            "afraid", 
+            "tired", 
+            "happy"
+        ], 
+        [
+            "tell", 
+            "ask", 
+            "answer", 
+            "talk"
+        ], 
+        [
+            "chance", 
+            "way", 
+            "house", 
+            "message"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "B", 
+        "C", 
+        "C", 
+        "D", 
+        "B", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle1405"
+}

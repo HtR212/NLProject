@@ -1,0 +1,71 @@
+{
+    "article": "I'm a middle school student. I think my life isn't really _ . Let me tell you _ it.\nI go to school from Monday to Friday. I _ get up before 7:30 in the morning, because I always go to bed late at night. After getting up, I wash my face   and brush teeth.\nI _ a healthy breakfast at 7:40. At 8:00, I walk to the bus stop. I take a _ to school. It takes _ 20 minutes to get there. School finishes at 14:30. When I get home, I do my _ and study until   17:00. After that, I _ my mother make dinner. We have dinner at 18:00. Then I always talk with my friends on the computer. We talk about many things. I go to bed at 22:30.\nMy school days are boring, _ the weekends are another   story. How is your life?", 
+    "options": [
+        [
+            "difficult", 
+            "boring", 
+            "interesting", 
+            "right"
+        ], 
+        [
+            "about", 
+            "on", 
+            "with", 
+            "to"
+        ], 
+        [
+            "usually", 
+            "always", 
+            "never", 
+            "often"
+        ], 
+        [
+            "cross", 
+            "have", 
+            "show", 
+            "work"
+        ], 
+        [
+            "train", 
+            "bike", 
+            "subway", 
+            "bus"
+        ], 
+        [
+            "me", 
+            "you", 
+            "us", 
+            "them"
+        ], 
+        [
+            "model", 
+            "dream", 
+            "homework", 
+            "job"
+        ], 
+        [
+            "taste", 
+            "help", 
+            "live", 
+            "call"
+        ], 
+        [
+            "and", 
+            "or", 
+            "because", 
+            "but"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "C", 
+        "B", 
+        "D", 
+        "A", 
+        "C", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle2571"
+}

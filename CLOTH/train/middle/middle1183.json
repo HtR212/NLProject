@@ -1,0 +1,36 @@
+{
+    "article": "Mr. Wang is a forty--year--old man. He is a worker in a car factory. He  works  hard in the factory every day. He often thinks it's not easy  to make  money. He usually says that he didn't study hard when he was a middle school student. And he wasn't able to go to college,  _  . He says if he were a student, he would study hard at school. He  would get  up early in the morning . After getting up ,he would read English and Chinese. In class, he would listen to the teachers carefully and take a lot of notes. But when he was a student, he didn't listen to his teachers carefully . Sometimes he even went out to play with his friends  instead of  having classes. If he were a student, he would do his homework with his friends after class. He wouldn't copy others' homework. He wouldn't watch TV  too much  . He would try his best to learn all the subjects well. Mr. Zhang is our neighbor and he is blind ( ; ). I often talk with him after school. He can play the guitar very well. He usually says that if he could see things  _  ,he would do many things. He would go to Beijing and visit the Great Wall. He would go to see all the people who have ever  helped  him. He wants to know  _  they look like. He would learn how to drive and get a driver's license. He likes cars very much .  _  he hopes to drive a car !", 
+    "options": [
+        [
+            "either", 
+            "neither", 
+            "too", 
+            "also"
+        ], 
+        [
+            "clear", 
+            "clearly", 
+            "careful", 
+            "carefully"
+        ], 
+        [
+            "how", 
+            "what", 
+            "where", 
+            "when"
+        ], 
+        [
+            "How", 
+            "What", 
+            "Why", 
+            "When"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle1183"
+}

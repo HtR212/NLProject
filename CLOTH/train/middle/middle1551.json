@@ -1,0 +1,64 @@
+{
+    "article": "Jim Green is a student in No.5 Middle School.He does a part-time   _  because he needs some  _ .He works in a supermarket after  _  from Monday to Friday and all  _  on Saturdays.He helps people look after their kids and he stays with _  kids.He thinks it is great  _ .After school,he  _  a bus to the supermarket.He  gets  there at about 4:30.He works  _  4:30 to 8:30.He  gets  home at 9:00.Jim likes his job very much.", 
+    "options": [
+        [
+            "work", 
+            "job", 
+            "assistant", 
+            "class"
+        ], 
+        [
+            "money", 
+            "help", 
+            "thanks", 
+            "work"
+        ], 
+        [
+            "work", 
+            "call", 
+            "school", 
+            "hospital"
+        ], 
+        [
+            "day", 
+            "date", 
+            "time", 
+            "month"
+        ], 
+        [
+            "difficult", 
+            "different", 
+            "dangerous", 
+            "boring"
+        ], 
+        [
+            "fun", 
+            "boring", 
+            "smart", 
+            "funny"
+        ], 
+        [
+            "takes", 
+            "gets", 
+            "gives", 
+            "has"
+        ], 
+        [
+            "for", 
+            "from", 
+            "to", 
+            "with"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "C", 
+        "A", 
+        "B", 
+        "A", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle1551"
+}

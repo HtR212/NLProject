@@ -1,0 +1,71 @@
+{
+    "article": "Sunshine Zoo is a nice place to visit. Walk from the South Gate, go  _  on, and you will find the Panda House. Pandas are  _  . They like eating  _  . To the north of the Panda House, you'll find the  _  . They are the kings of the animal world. Remember not to go near them because they are  _  . To the west of  _  Area, you will see lots of birds. They can make beautiful sounds. Go on and you will see the clever and  _  monkeys. To the east of the Monkeys' Forest, you will see the giraffes. The giraffe has a long  _  . It is the tallest animal on the earth . North-east of the giraffes there is a  _  . Cross it, and you will see the elephants. Their ears are  like  open fans.", 
+    "options": [
+        [
+            "in", 
+            "over", 
+            "out", 
+            "straight"
+        ], 
+        [
+            "helpful", 
+            "sad", 
+            "cute", 
+            "sick"
+        ], 
+        [
+            "bamboo", 
+            "bread", 
+            "rice", 
+            "bananas"
+        ], 
+        [
+            "pandas", 
+            "monkeys", 
+            "birds", 
+            "lions"
+        ], 
+        [
+            "friendly", 
+            "dangerous", 
+            "important", 
+            "sure"
+        ], 
+        [
+            "Lion", 
+            "Lion's", 
+            "Lions", 
+            "Lions'"
+        ], 
+        [
+            "fun", 
+            "funny", 
+            "wonderful", 
+            "beautiful"
+        ], 
+        [
+            "necks", 
+            "hand", 
+            "neck", 
+            "hands"
+        ], 
+        [
+            "bridge", 
+            "shop", 
+            "building", 
+            "school"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "C", 
+        "A", 
+        "D", 
+        "B", 
+        "D", 
+        "B", 
+        "C", 
+        "A"
+    ], 
+    "source": "middle1718"
+}

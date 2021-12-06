@@ -1,0 +1,71 @@
+{
+    "article": "Hi, I'm Anna.My family and I are on a vacation  in Beidaihe. It's really a nice _ Do you want to know what my family are doing now?I'll tell you. My father is swimming _ the sea and he can _ very well. My mother is playing _ with others. Volleyball is her favorite sport. My brother is _ a book under the tree. The book must be very interesting _ he looks so happy.My sister is drawing something now. She likes drawing and there are many beautiful _ in her room. What about me? Oh, I'm lying on the beach  and watching the beautiful _ sky.\nWe all like this _ place a lot.", 
+    "options": [
+        [
+            "life", 
+            "show", 
+            "place", 
+            "dream"
+        ], 
+        [
+            "in", 
+            "at", 
+            "on", 
+            "with"
+        ], 
+        [
+            "sing", 
+            "swim", 
+            "play", 
+            "speak"
+        ], 
+        [
+            "soccer", 
+            "basketball", 
+            "tennis", 
+            "volleyball"
+        ], 
+        [
+            "seeing", 
+            "following", 
+            "reading", 
+            "keeping"
+        ], 
+        [
+            "and", 
+            "but", 
+            "so", 
+            "because"
+        ], 
+        [
+            "pictures", 
+            "models", 
+            "radios", 
+            "boxes"
+        ], 
+        [
+            "blue", 
+            "black", 
+            "green", 
+            "brown"
+        ], 
+        [
+            "funny", 
+            "relaxing", 
+            "boring", 
+            "Difficult"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "B", 
+        "D", 
+        "C", 
+        "D", 
+        "A", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle694"
+}

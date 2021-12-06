@@ -1,0 +1,71 @@
+{
+    "article": "Hi, I'm Kevin. Now let me tell you something about my school. There are  _  buildings in our school--a classroom building, a sports hall, an office building and a  science building  . There are 4 science  _  in the science building. Our classroom is very special . There are some desks in it,  _  there aren't any chairs in it. We  _  on yoga balls. They are red, orange,  _  and yellow. They are  _  students. And we all like  _  . There are some pictures on the  _  . They make our classroom nice.  _  is your classroom like? Can you tell me?", 
+    "options": [
+        [
+            "two", 
+            "three", 
+            "four", 
+            "five"
+        ], 
+        [
+            "workers", 
+            "basketballs", 
+            "labs", 
+            "buildings"
+        ], 
+        [
+            "and", 
+            "but", 
+            "also", 
+            "too"
+        ], 
+        [
+            "sit", 
+            "stand", 
+            "meet", 
+            "draw"
+        ], 
+        [
+            "blue", 
+            "yellow", 
+            "red", 
+            "orange"
+        ], 
+        [
+            "in", 
+            "of", 
+            "like", 
+            "for"
+        ], 
+        [
+            "us", 
+            "you", 
+            "them", 
+            "it"
+        ], 
+        [
+            "gate", 
+            "hall", 
+            "wall", 
+            "blackboard"
+        ], 
+        [
+            "How", 
+            "What", 
+            "Where", 
+            "Who"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "C", 
+        "B", 
+        "A", 
+        "A", 
+        "D", 
+        "C", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle1161"
+}

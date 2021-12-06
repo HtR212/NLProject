@@ -1,0 +1,57 @@
+{
+    "article": "How are you, Lin? I'm writing  _  you at my school. It's a big middle  _  . I'm in a big class. There're fifty students in my class. There are about two hundred teachers in my school. My English teacher  _  Miss Liu.  _  is a nice teacher. We go to school  _  Monday to Friday. There are four classes in the morning and two in the afternoon. We play games  _  four on Friday after class. I have some friends at school. One is  from  America. She speaks English and  /  Chinese. I like to play  _  them. We  play  football. That's my favorite game.", 
+    "options": [
+        [
+            "to", 
+            "for", 
+            "with", 
+            "from"
+        ], 
+        [
+            "school", 
+            "class", 
+            "classroom", 
+            "office"
+        ], 
+        [
+            "be", 
+            "are", 
+            "am", 
+            "is"
+        ], 
+        [
+            "He", 
+            "She", 
+            "Her", 
+            "Him"
+        ], 
+        [
+            "from", 
+            "for", 
+            "in", 
+            "on"
+        ], 
+        [
+            "in", 
+            "on", 
+            "at", 
+            "about"
+        ], 
+        [
+            "for", 
+            "and", 
+            "at", 
+            "with"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "A", 
+        "D", 
+        "B", 
+        "A", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle124"
+}

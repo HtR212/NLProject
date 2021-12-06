@@ -1,0 +1,43 @@
+{
+    "article": "Everyone  _  tired sometimes. When you are tired, You should follow the doctor's advice. First, you should go to bed early  _  a few nights. You shouldn't  go out  at night or study  _  . Having a good rest  _  good for your health. Second, you should  exercise  every day. Third, you should eat fruit and other  healthy food  ,and it's important  to eat  a balanced diet .Don't  _  stressed out , or it makes you sick. You should  listen to  some music . You shouldn't study when you are tired . If you take the advice above , you'll be a healthy person.", 
+    "options": [
+        [
+            "gets", 
+            "get", 
+            "got", 
+            "getting"
+        ], 
+        [
+            "since", 
+            "for", 
+            "in", 
+            "at"
+        ], 
+        [
+            "late", 
+            "lately", 
+            "until", 
+            "hard"
+        ], 
+        [
+            "is", 
+            "are", 
+            "am", 
+            "was"
+        ], 
+        [
+            "is", 
+            "give", 
+            "need", 
+            "get"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "A", 
+        "A", 
+        "D"
+    ], 
+    "source": "middle183"
+}

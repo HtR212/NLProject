@@ -1,0 +1,64 @@
+{
+    "article": "Look at the boy .He is  _  good friend .He is  _  American boy.  _  name is Tom .  _  12. My  _  is Wang Lei.  _  a Chinese boy . I'm 13.Tom  has  a small sports collection . He has  _  tennis bat, three basketballs and four soccer balls,but I only have  _  baseball .Tom and I  play  sports every Sunday.", 
+    "options": [
+        [
+            "I", 
+            "You", 
+            "me", 
+            "my"
+        ], 
+        [
+            "a", 
+            "an", 
+            "the", 
+            "/"
+        ], 
+        [
+            "His", 
+            "She", 
+            "Her", 
+            "She's"
+        ], 
+        [
+            "She", 
+            "She's", 
+            "He's", 
+            "His"
+        ], 
+        [
+            "Name", 
+            "Book", 
+            "friend", 
+            "Bag"
+        ], 
+        [
+            "I", 
+            "I'm", 
+            "She", 
+            "She's"
+        ], 
+        [
+            "one", 
+            "two", 
+            "three", 
+            "four"
+        ], 
+        [
+            "a", 
+            "two", 
+            "three", 
+            "four"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "B", 
+        "A", 
+        "C", 
+        "A", 
+        "B", 
+        "A", 
+        "A"
+    ], 
+    "source": "middle1829"
+}

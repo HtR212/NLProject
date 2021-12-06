@@ -1,0 +1,64 @@
+{
+    "article": "Jimmy lives in London and he began to swim a few months ago. He  _  swimming, and he often goes to the swimming pool near his  _  with his mother and swims there for  an hour  or two. One day his mother said, \"You  _  quite well now. And you want to see the sea, don't you? Your father and I are going to  _  you there on Sunday, and you are going to swim in the  sea  . It's not cold now, and it's much nicer than a swimming pool.\" Jimmy's parents took him  _  the sea in their  _  on Sunday. They  _  at the side of a small harbor . Jimmy got out and looked at the sea for a long time, but he was not very  _  . Then he asked his mother, \"Which is the shallow end ?\"", 
+    "options": [
+        [
+            "likes", 
+            "studies", 
+            "started", 
+            "is"
+        ], 
+        [
+            "school", 
+            "house", 
+            "library", 
+            "London"
+        ], 
+        [
+            "swims", 
+            "swim", 
+            "swam", 
+            "swimming"
+        ], 
+        [
+            "take", 
+            "bring", 
+            "get", 
+            "put"
+        ], 
+        [
+            "in", 
+            "at", 
+            "to", 
+            "on"
+        ], 
+        [
+            "bus", 
+            "bike", 
+            "train", 
+            "car"
+        ], 
+        [
+            "lived", 
+            "stopped", 
+            "stored", 
+            "stop"
+        ], 
+        [
+            "happy", 
+            "hungry", 
+            "angry", 
+            "well"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "B", 
+        "A", 
+        "C", 
+        "D", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle2328"
+}

@@ -1,0 +1,57 @@
+{
+    "article": "Hi! I'm Alex Greenall. I'm thirteen and I go to Park school in Oxford, England. I go to school  _  weekdays, but not on Saturday and Sunday. This is my school day. I  get up  at half past seven in the morning, and then have breakfast. My school is  next to  my house. I go to school at half past eight and see my friends. We start work  _  nine o'clock. We have three lessons in the morning.  _  favorite subject is art. At eleven o' clock, we  have a break  in the playground and I talk  _  my friends. They go to the playground and play football,  _  I don't like football. We have lunch in the dining hall at half past twelve. I like school lunch! We have meat and rice with vegetable, or hamburgers. I drink juice  _  water. We start lessons in the afternoon at half past one. We have two lessons in the afternoon. Then we go home at half past three. In the evening, I watch TV and have dinner  _  my family. I do my homework and go to bed at ten o'clock.", 
+    "options": [
+        [
+            "in", 
+            "at", 
+            "on", 
+            "from"
+        ], 
+        [
+            "in", 
+            "on", 
+            "for", 
+            "at"
+        ], 
+        [
+            "I", 
+            "me", 
+            "My", 
+            "Mine"
+        ], 
+        [
+            "about", 
+            "for", 
+            "to", 
+            "in"
+        ], 
+        [
+            "and", 
+            "because", 
+            "so", 
+            "but"
+        ], 
+        [
+            "or", 
+            "and", 
+            "with", 
+            "in"
+        ], 
+        [
+            "and", 
+            "for", 
+            "of", 
+            "with"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "D", 
+        "C", 
+        "C", 
+        "D", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle203"
+}

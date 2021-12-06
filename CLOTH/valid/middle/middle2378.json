@@ -1,0 +1,71 @@
+{
+    "article": "Once there was a businessman. Every day he worked too much. So later he found he could not sleep at night but kept on going to sleep in the day. He became so  _  that he went to see his doctor. \" Can you help me, doctor?\" he asked. \" I slept very  _  before. But recently I haven't been able to sleep for  _  than two hours a night.\" The doctor examined him  _  . At last he gave the businessman some medicine and told him to work less hard, then he would soon be  _  . But the businessman grew worse and worse. He slept even less than before at night and was always falling asleep in his  _  . He visited his doctors very  _  , it took the doctor a long time to  find  the reason: the businessman's wife gave him the  _  medicine. She was giving him the  _  medicine in the morning and the ones to keep him awake at night.", 
+    "options": [
+        [
+            "tired", 
+            "interested", 
+            "worried", 
+            "excited"
+        ], 
+        [
+            "worse", 
+            "badly", 
+            "better", 
+            "well"
+        ], 
+        [
+            "little", 
+            "more", 
+            "less", 
+            "much"
+        ], 
+        [
+            "carefully", 
+            "angrily", 
+            "quickly", 
+            "happily"
+        ], 
+        [
+            "well", 
+            "better", 
+            "best", 
+            "good"
+        ], 
+        [
+            "bedroom", 
+            "workroom", 
+            "office", 
+            "classroom"
+        ], 
+        [
+            "early", 
+            "free", 
+            "late", 
+            "often"
+        ], 
+        [
+            "right", 
+            "good", 
+            "wrong", 
+            "best"
+        ], 
+        [
+            "sleeps", 
+            "sleeping", 
+            "sleep", 
+            "slept"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "D", 
+        "B", 
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle2378"
+}

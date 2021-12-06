@@ -1,0 +1,71 @@
+{
+    "article": "Nick is a middle school student. He studies hard, _ he is very naughty  , too. In summer holidays, he often plays with other friends in the park. The park is near his house. One day he _ some new clothes as his birthday present. He felt very _ .\n\"Mum, can I go cycling  with my friends? I want them to _ my new clothes,\" asked Nick. \"Yes, please keep your clothes _ ,\" said Mother. She was doing some cooking. \"We'll _ supper after you come back.\" Two hours later, Nick went home _ supper.\n\"Why are your clothes so _ ?\" asked his mother.\n\"I'm sorry, Mum,\" _ Nick. \"I had no time to take off my clothes when I fell off the bike.\"", 
+    "options": [
+        [
+            "and", 
+            "but", 
+            "so", 
+            "because"
+        ], 
+        [
+            "bought", 
+            "brought", 
+            "had", 
+            "got"
+        ], 
+        [
+            "happy", 
+            "sad", 
+            "angry", 
+            "well"
+        ], 
+        [
+            "meet", 
+            "looks", 
+            "see", 
+            "watch"
+        ], 
+        [
+            "clean", 
+            "nice", 
+            "blue", 
+            "big"
+        ], 
+        [
+            "keep", 
+            "get", 
+            "have", 
+            "has"
+        ], 
+        [
+            "with", 
+            "of", 
+            "to", 
+            "for"
+        ], 
+        [
+            "dirty", 
+            "clean", 
+            "new", 
+            "old"
+        ], 
+        [
+            "told", 
+            "asked", 
+            "said", 
+            "answered"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "A", 
+        "C", 
+        "A", 
+        "C", 
+        "D", 
+        "A", 
+        "D"
+    ], 
+    "source": "middle250"
+}

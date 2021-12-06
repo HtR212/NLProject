@@ -1,0 +1,64 @@
+{
+    "article": "Daming is Lingling's brother. They talk  _  us about their school days. In their class, there  _  about 30 students.  _  have classes from Monday to  _  morning. They don't have  _  on Friday afternoon. Lessons start  _  nine o'clock and finish at five o'clock  _  the afternoon. After school, they go to the  playground  and play basketball. Then they  go home  and have dinner. They watch TV  _  their parents before they go to bed. They are happy every day.", 
+    "options": [
+        [
+            "about", 
+            "with", 
+            "of", 
+            "at"
+        ], 
+        [
+            "be", 
+            "am", 
+            "is", 
+            "are"
+        ], 
+        [
+            "We", 
+            "You", 
+            "They", 
+            "He"
+        ], 
+        [
+            "Friday", 
+            "Saturday", 
+            "Sunday", 
+            "Monday"
+        ], 
+        [
+            "lunch", 
+            "friends", 
+            "classes", 
+            "homework"
+        ], 
+        [
+            "at", 
+            "in", 
+            "on", 
+            "/"
+        ], 
+        [
+            "/", 
+            "at", 
+            "on", 
+            "in"
+        ], 
+        [
+            "for", 
+            "with", 
+            "of", 
+            "Under"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "C", 
+        "A", 
+        "C", 
+        "A", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle503"
+}

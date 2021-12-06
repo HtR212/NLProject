@@ -1,0 +1,64 @@
+{
+    "article": "Maggie started of the junior year of high school with great energy. She had no trouble keeping up with her schoolwork and took part in several after-school activities. _ after the Thanksgiving break, she began to have trouble getting through her reading and had to work harder to apply herself  . Her grades began to _ , and she rarely   felt like making friends any more. Even though Maggie was always punctual   before, she began to have trouble getting up _ time for school during the winter.\nAt first, Maggie's parents thought she was lazy. They were quite worried about her, but they thought it was just a period of time--especially because her energy finally seemed to _ in the spring. But when the same thing happened the next November, and Maggie's mood and her grades fell again, they took her to the _ , who diagnosed   her with a type of depression   called seasonal effective disorder  , or SAD. SAD appears and _ at the same time each year. People with SAD have the depression as winter comes and daylight hours become _ . When spring returns and the days become longer again, they become well again. Like other forms of depression, the symptoms   of SAD can be mild, severe , or somewhere in between. Milder symptoms slightly influence someone's ability to take part in everyday activities, but more severe symptoms can influence much _ .", 
+    "options": [
+        [
+            "While", 
+            "So", 
+            "But", 
+            "Because"
+        ], 
+        [
+            "drop", 
+            "rise", 
+            "raise", 
+            "stop"
+        ], 
+        [
+            "in", 
+            "on", 
+            "off", 
+            "through"
+        ], 
+        [
+            "go", 
+            "return", 
+            "disappear", 
+            "leave"
+        ], 
+        [
+            "teacher", 
+            "farmer", 
+            "doctor", 
+            "police"
+        ], 
+        [
+            "disappears", 
+            "appears", 
+            "arrives", 
+            "leaves"
+        ], 
+        [
+            "long", 
+            "short", 
+            "longer", 
+            "shorter"
+        ], 
+        [
+            "little", 
+            "less", 
+            "many", 
+            "more"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "B", 
+        "B", 
+        "C", 
+        "A", 
+        "D", 
+        "D"
+    ], 
+    "source": "middle109"
+}

@@ -1,0 +1,71 @@
+{
+    "article": "My name is Grace. Look!This is a picture of  _  family. A boy is in it. _  is my brother,Tommy. Tommy is  _  the sofa. A woman is in the picture,too. She is my _ .She is at the table. My father _  in the picture. He is at _ with his students. A plant and a schoolbag  _ on the table. The schoolbag is my brother's.Two _ are under the chair. They are also my  _ .You can see some CDs .They are in the bookcase.", 
+    "options": [
+        [
+            "his", 
+            "her", 
+            "he", 
+            "my"
+        ], 
+        [
+            "She", 
+            "He", 
+            "It", 
+            "They"
+        ], 
+        [
+            "on", 
+            "at", 
+            "under", 
+            "of"
+        ], 
+        [
+            "teacher", 
+            "cousin", 
+            "mother", 
+            "friend"
+        ], 
+        [
+            "isn't", 
+            "are", 
+            "aren't", 
+            "don't"
+        ], 
+        [
+            "desk", 
+            "table", 
+            "school", 
+            "dresser"
+        ], 
+        [
+            "is", 
+            "are", 
+            "am", 
+            "/"
+        ], 
+        [
+            "rooms", 
+            "key", 
+            "eraser", 
+            "baseballs"
+        ], 
+        [
+            "brother", 
+            "brother's", 
+            "sister", 
+            "sisters"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "B", 
+        "A", 
+        "C", 
+        "A", 
+        "C", 
+        "B", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle169"
+}

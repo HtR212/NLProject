@@ -1,0 +1,64 @@
+{
+    "article": "When Mr. Smith retired , he bought a small _ in a village near the sea. He _ it and hoped to live a quiet life in this house.\nBut to his great surprise, many tourists came to see his house in summer holidays, for it was the most _ building in the village. From morning to night there were  _   outside the house. They kept looking into the rooms through the windows and _ of them even went into Mr Smith's garden. This was too much for Mr Smith. He decided to ask the visitors to _ . So he put a notice on the window. The notice said, \"If you want to satisfy your curiosity ,come in and look round. Price: twenty dollars.\" Mr Smith was sure that the visitors would stop coming, but he was wrong. More and more visitors came and Mr Smith had to _ every day showing them around his house.\" I came here to _ not to work as a guide ,\"he said angrily. In the end, he sold the house and moved away.", 
+    "options": [
+        [
+            "garden", 
+            "shop", 
+            "house", 
+            "school"
+        ], 
+        [
+            "liked", 
+            "hated", 
+            "sold", 
+            "built"
+        ], 
+        [
+            "big", 
+            "interesting", 
+            "small", 
+            "clean"
+        ], 
+        [
+            "children", 
+            "students", 
+            "parents", 
+            "tourists"
+        ], 
+        [
+            "no", 
+            "none", 
+            "many", 
+            "much"
+        ], 
+        [
+            "come", 
+            "leave", 
+            "stay", 
+            "play"
+        ], 
+        [
+            "take", 
+            "cost", 
+            "spend", 
+            "pay"
+        ], 
+        [
+            "play", 
+            "work", 
+            "watch", 
+            "retire"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "B", 
+        "D", 
+        "C", 
+        "B", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle2261"
+}

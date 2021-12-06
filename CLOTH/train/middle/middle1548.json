@@ -1,0 +1,57 @@
+{
+    "article": "Mr Smith  _  from London.Now he is in China.He is  a teacher  .He teaches English  _  a middle school .He works very hard.His students like  _  very much .He can  _  a little Chinese.His students often teaches him Chinese  _  Sundays. Mr Smith likes playing football.He often plays football  _  his students. Mr Smith  has  a son.His name is Jack.He is a student.He studies in a middle school.He goes to school  _  bike everyday.He gets home at four in the afternoon.He likes  watching  TV in the evening.", 
+    "options": [
+        [
+            "come", 
+            "comes", 
+            "are", 
+            "coming"
+        ], 
+        [
+            "on", 
+            "in", 
+            "to", 
+            "from"
+        ], 
+        [
+            "he", 
+            "him", 
+            "she", 
+            "her"
+        ], 
+        [
+            "say", 
+            "speak", 
+            "talk", 
+            "tell"
+        ], 
+        [
+            "at", 
+            "on", 
+            "of", 
+            "in"
+        ], 
+        [
+            "for", 
+            "to", 
+            "with", 
+            "at"
+        ], 
+        [
+            "on", 
+            "by", 
+            "in", 
+            "of"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "B", 
+        "B", 
+        "B", 
+        "B", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle1548"
+}

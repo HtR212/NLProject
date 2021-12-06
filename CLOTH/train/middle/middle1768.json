@@ -1,0 +1,64 @@
+{
+    "article": "Sam goes home from school. He's hungry .And he has a lot of homework. He wants to see Mike and  _  football, too. He doesn't have  much  time. \"Hello,Sam,\"says Mrs Green.\"  _  is school today? \" \"Fine. But I have a lot of homework,and I'm hungry. \" \"There are some apples on the table.\" \"No,I don't want any  _  . Is there  _  cake? \" \"Yes. But please  don't  eat too much.\" Sam eats some cakes. Then he sits  _  at the table. He opens his book and begins to write. Mrs Green  _  to the shop. Mrs Green comes back  _  the shop. Sam is  _  . Mrs Green says,\"My son,you're a good boy.\"", 
+    "options": [
+        [
+            "have", 
+            "play", 
+            "buy", 
+            "make"
+        ], 
+        [
+            "How", 
+            "What", 
+            "Where", 
+            "Which"
+        ], 
+        [
+            "bananas", 
+            "pears", 
+            "apples", 
+            "cake"
+        ], 
+        [
+            "an", 
+            "many", 
+            "some", 
+            "any"
+        ], 
+        [
+            "on", 
+            "in", 
+            "up", 
+            "down"
+        ], 
+        [
+            "buys", 
+            "makes", 
+            "goes", 
+            "asks"
+        ], 
+        [
+            "from", 
+            "to", 
+            "for", 
+            "in"
+        ], 
+        [
+            "eating", 
+            "drinking", 
+            "studying", 
+            "playing"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "C", 
+        "D", 
+        "D", 
+        "C", 
+        "A", 
+        "C"
+    ], 
+    "source": "middle1768"
+}

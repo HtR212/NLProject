@@ -1,0 +1,64 @@
+{
+    "article": "(10;l,10) Last Wednesday night , it snowed  _  in our city . When people  _  up the next morning, they found that everything was covered with  _  . I decided to walk to school instead of  _  my bike. After having an egg, two pieces of bread and a bottle of milk, I  put on  my warm clothes and gloves. I left home at 6:10 am. 40 minutes  _  than the time I usually go to school. On my way to school, I saw some people cleaning the snow. I want to join them, but I did not have  _  . As you can imagine, it was not  _  for me to walk in the knee-deep snow. After walking for about 20 minutes, I was wet but I felt a little excited. When I finally  got to  the school gate, some boys were fighting each other with snowballs. \"Liu Tao, come and join us!\" someone shouted to me. Oh, it was my classmate Wang Bin. \"OK, Let's make a snowman,\" I suggested. \"Good idea!\" he sounded very excited at my suggestion. We played happily until the bell rang. What a  _  winter morning!", 
+    "options": [
+        [
+            "big", 
+            "heavy", 
+            "heavily", 
+            "large"
+        ], 
+        [
+            "sleep", 
+            "got", 
+            "went", 
+            "took"
+        ], 
+        [
+            "water", 
+            "leaves", 
+            "snow", 
+            "money"
+        ], 
+        [
+            "holding", 
+            "taking", 
+            "riding", 
+            "bring"
+        ], 
+        [
+            "late", 
+            "early", 
+            "later", 
+            "earlier"
+        ], 
+        [
+            "money", 
+            "books", 
+            "time", 
+            "friends"
+        ], 
+        [
+            "hard", 
+            "important", 
+            "difficult", 
+            "easy"
+        ], 
+        [
+            "important", 
+            "wonderful", 
+            "happily", 
+            "sad"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "C", 
+        "C", 
+        "D", 
+        "C", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle1182"
+}

@@ -1,0 +1,36 @@
+{
+    "article": "Dear Editor I am writing to you to  _  you about my problems with my family. I am very  _  now and I need your help. I don't think my parents  _  me. They don't care what I like doing, but always talk about how  I should  study. They don't let me  go  out with my friends at weekends. They always ask me  to stay at  home and study. I'm sure I could still study very well even if I had more time to play, but they just  don't listen to  me. We often argue with  each other  . I really hope that my parents can  _  my friends. What shall I do ? How can I get them to understand me? Please give me  some advice  . Thank you ! Yours Michael", 
+    "options": [
+        [
+            "talk", 
+            "say", 
+            "tell", 
+            "speak"
+        ], 
+        [
+            "happy", 
+            "cheerful", 
+            "unhappy", 
+            "comfortable"
+        ], 
+        [
+            "love", 
+            "understand", 
+            "hate", 
+            "like"
+        ], 
+        [
+            "do", 
+            "become", 
+            "as", 
+            "being"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "C", 
+        "B", 
+        "B"
+    ], 
+    "source": "middle2381"
+}

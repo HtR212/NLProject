@@ -1,0 +1,71 @@
+{
+    "article": "I like fishing. Every Sunday I get up early and  _  a bike to a river.\nThis morning my  _ wants to go with me after breakfast. We go by car first and then walk to the  _ . After we get there, we sit down and I start to  _ . In two hours, I catch nothing.\n\"All right, let  _ have a try.\" she says. She  _ six big fish in half an hour. \"I'll go home and I'm going to cook them for  _ . You  can take the bus home,\" she says.\nI stay by the river but catch only an old shoe. I feel a little  _ with myself.  _ is the fisherman in the family? My wife or I?", 
+    "options": [
+        [
+            "by", 
+            "take", 
+            "ride", 
+            "on"
+        ], 
+        [
+            "son", 
+            "daughter", 
+            "friend", 
+            "wife"
+        ], 
+        [
+            "wate", 
+            "bank", 
+            "river", 
+            "shop"
+        ], 
+        [
+            "sleep", 
+            "do", 
+            "eat", 
+            "fish"
+        ], 
+        [
+            "we", 
+            "us", 
+            "I", 
+            "me"
+        ], 
+        [
+            "catches", 
+            "catchs", 
+            "buys", 
+            "buy"
+        ], 
+        [
+            "breakfast", 
+            "lunch", 
+            "supper", 
+            "dinner"
+        ], 
+        [
+            "happy", 
+            "worried", 
+            "angry", 
+            "excited"
+        ], 
+        [
+            "When", 
+            "Why", 
+            "Who", 
+            "What"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "D", 
+        "C", 
+        "D", 
+        "D", 
+        "A", 
+        "B", 
+        "C", 
+        "C"
+    ], 
+    "source": "middle52"
+}

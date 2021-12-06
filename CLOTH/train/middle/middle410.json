@@ -1,0 +1,57 @@
+{
+    "article": "It's Sunday. There are many  people  in the bus. And an old man is  looking  here and there. He wants to find an empty  _  . Then he finds one. He goes to it. A small  _  is on the seat. And a young man is  _  it. \"Is this seat  _  ?\" asks the old man. \"No, it's for  a woman  . She goes to buy some bananas .\" says the young man. \"Well.\" Says the old man. \"Let me sit here, please. When she comes back, I will leave here.\" The bus starts. \" She doesn't come,  _  her bag is here . Let me give her the bag.\" The old man throws the bag  _  of the window. The young man jumps up and shouts , \"Don't throw! It's  _  bag.\"", 
+    "options": [
+        [
+            "seat", 
+            "chair", 
+            "bag", 
+            "room"
+        ], 
+        [
+            "dog", 
+            "boy", 
+            "bag", 
+            "girl"
+        ], 
+        [
+            "or", 
+            "at", 
+            "beside", 
+            "for"
+        ], 
+        [
+            "good", 
+            "empty", 
+            "clean", 
+            "dirty"
+        ], 
+        [
+            "and", 
+            "then", 
+            "so", 
+            "but"
+        ], 
+        [
+            "from", 
+            "out", 
+            "through", 
+            "away"
+        ], 
+        [
+            "my", 
+            "her", 
+            "his", 
+            "its"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "C", 
+        "B", 
+        "D", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle410"
+}

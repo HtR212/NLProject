@@ -1,0 +1,50 @@
+{
+    "article": ",A, B, c, D. Most adults once studied at school, had classes and did their homework every day. The same  _  is going on at school now.  _  it seems that doing weekend homework is  _  problem for the modern students. All the students should agree that weekend homework should be abolished .It's  enough  for them studying at school five days a week. They have a lot of interests. With homework to do on Saturday and Sunday, when can they find  _  to help around the house, go and see a football or basketball game or a good film, join in family recreations ,or just have  a rest  at home? Because of these other activities, the homework can't be finished until  Sunday night  .So their weekend homework is usually done in such a hurry that on Monday teachers are  unhappy  and often threaten to fail whole class of students because they know nothing about the  _  . If there is no weekend homework for the students to do, they will be happy to go to school on Monday  _  having a good rest and to learn what the teachers teach.", 
+    "options": [
+        [
+            "thing", 
+            "school", 
+            "class", 
+            "homework"
+        ], 
+        [
+            "Also", 
+            "But", 
+            "Still", 
+            "Though"
+        ], 
+        [
+            "no", 
+            "another", 
+            "one", 
+            "other"
+        ], 
+        [
+            "friends", 
+            "time", 
+            "places", 
+            "money"
+        ], 
+        [
+            "lesson", 
+            "games", 
+            "interests", 
+            "Activities"
+        ], 
+        [
+            "until", 
+            "when", 
+            "before", 
+            "after"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "C", 
+        "B", 
+        "A", 
+        "D"
+    ], 
+    "source": "middle260"
+}

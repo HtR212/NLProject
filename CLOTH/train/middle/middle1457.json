@@ -1,0 +1,64 @@
+{
+    "article": "Mrs. White was very fat. She was over 100 kilos.  _  she went to see a doctor. The doctor said, \"You need a balanced diet, Mrs. White, and I have a good  _  here.\" He gave Mrs. White a small book and said, \"Read this carefully and eat the things on page 11 every day. Then come back and see  me  in four weeks.\" Mrs. White came again four weeks  _  , but she wasn't  thinner  . She was still very fat. The doctor was surprised and asked, \"Are you eating the things on page 11 of the small  _  ?\" \"Yes, doctor.\" She answered. The next day the doctor visited Mrs. White during her  _  He was very surprised. He said, \"Mrs. White,  _  are you eating potatoes and bread? They  _  in your diet. \"\"But, doctor,\" Mrs. White answered, \" I follow my diet  _  lunch time. This is my dinner. \"", 
+    "options": [
+        [
+            "But", 
+            "So", 
+            "However", 
+            "Because"
+        ], 
+        [
+            "pen", 
+            "news", 
+            "pie", 
+            "way"
+        ], 
+        [
+            "after", 
+            "late", 
+            "later", 
+            "before"
+        ], 
+        [
+            "food", 
+            "book", 
+            "thing", 
+            "diet"
+        ], 
+        [
+            "holiday", 
+            "weekend", 
+            "dinner", 
+            "home"
+        ], 
+        [
+            "Why", 
+            "How", 
+            "Where", 
+            "What"
+        ], 
+        [
+            "are", 
+            "aren't", 
+            "don't", 
+            "won't"
+        ], 
+        [
+            "at", 
+            "in", 
+            "for", 
+            "with"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "C", 
+        "B", 
+        "C", 
+        "A", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle1457"
+}

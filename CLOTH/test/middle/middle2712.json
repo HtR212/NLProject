@@ -1,0 +1,64 @@
+{
+    "article": "Mr. Smith worked in a big computer company. He had no wife, and of course, had no child,  _  . He lived in an old house  _  . He liked nothing but drinking. He almost spent all of his money  _  drinks. One night, Mr. Smith met a friend of his on his way home. The man asked him to have dinner in a  _  . He was happy and drank a lot. When they  finished  the meal, Mr. Smith could hardly walk. His friend had to stop a taxi and asked the driver to take him  home  . Soon the taxi arrived at Mr. Smith's house. With the help of the  _  , he got out of the taxi. \"Thank you, sir,\" said Mr. Smith. \"And I can  _  the door by myself.\" The taxi driver then went away. But Mr. Smith couldn't put the key into the key hole. He tried many times  _  he still failed. At that time, a policeman passed there. \"Can I help you open the door, sir?\" asked the policeman. \"Thank you, sir. But I don't think you can.\" said Mr. Smith. \"My house is circling now. If you can stop it from  _  , I can open the door by myself.\"", 
+    "options": [
+        [
+            "too", 
+            "either", 
+            "also", 
+            "neither"
+        ], 
+        [
+            "lonely", 
+            "alone", 
+            "herself", 
+            "heself"
+        ], 
+        [
+            "for", 
+            "to", 
+            "on", 
+            "with"
+        ], 
+        [
+            "restaurant", 
+            "bookshop", 
+            "hospital", 
+            "theater"
+        ], 
+        [
+            "policeman", 
+            "driver", 
+            "doctor", 
+            "waiter"
+        ], 
+        [
+            "open", 
+            "close", 
+            "break", 
+            "make"
+        ], 
+        [
+            "and", 
+            "so", 
+            "but", 
+            "or"
+        ], 
+        [
+            "walking", 
+            "traveling", 
+            "running", 
+            "moving"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "B", 
+        "C", 
+        "A", 
+        "B", 
+        "A", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle2712"
+}

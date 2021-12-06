@@ -1,0 +1,71 @@
+{
+    "article": "Maybe more than any other people, Americans have come to depend on their cars. The family car has been a  _  thing since the early twentieth century and it has  _  Americans' life. Many people have  _  outside of the large cities to the suburbs . Some Americans _  two hours a day or more in their cars going to work and going home again. Cars have become the means of transportation  _  most Americans for going shopping and going on holidays.\nAmericans used to like big cars, because gasoline  used not to be so  _ . Recently, however, the  _  of gasoline has increased.  _  cars have become more popular. Also  _  cars have become popular. Americans have bought large numbers of Japanese and German cars. They have bought cars from several other  countries, too.", 
+    "options": [
+        [
+            "special", 
+            "common", 
+            "traditional", 
+            "bad"
+        ], 
+        [
+            "kept", 
+            "made", 
+            "taken", 
+            "changed"
+        ], 
+        [
+            "moved", 
+            "stayed", 
+            "flown", 
+            "gone"
+        ], 
+        [
+            "cost", 
+            "pay", 
+            "spend", 
+            "take"
+        ], 
+        [
+            "for", 
+            "to", 
+            "at", 
+            "on"
+        ], 
+        [
+            "cheap", 
+            "expensive", 
+            "high", 
+            "low"
+        ], 
+        [
+            "colour", 
+            "station", 
+            "number", 
+            "cost"
+        ], 
+        [
+            "Big", 
+            "Expensive", 
+            "Cheap", 
+            "Small"
+        ], 
+        [
+            "American", 
+            "foreign", 
+            "new", 
+            "old"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "A", 
+        "C", 
+        "A", 
+        "B", 
+        "D", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle417"
+}

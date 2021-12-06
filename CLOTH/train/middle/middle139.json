@@ -1,0 +1,71 @@
+{
+    "article": "I have a good friend from Australia. Her name is Laura. Here is a photo of her family.\nThere is a nice girl and a _ boy in the photo. The boy is her brother David. Laura is thirteen _ David is ten. _ do they look like? Laura is not fat and she is not thin _ . She is of medium build. She has a round _ like an apple. Her mouth is small, but her eyes are big. Her hair is _ and blonde. Laura likes purple and she is often in purple clothes. She dreams of being a singer. What about David? He is a little thin. David doesn't like _ . His favorite color is green. David wants to be an actor. They like _ movies very much. They often go to the cinema when they are free. It's relaxing for _ to see a movie. You can also see a black dog in the photo. It's their pet dog Cici.", 
+    "options": [
+        [
+            "quiet", 
+            "busy", 
+            "bad", 
+            "handsome"
+        ], 
+        [
+            "and", 
+            "because", 
+            "or", 
+            "so"
+        ], 
+        [
+            "Who", 
+            "What", 
+            "How", 
+            "Why"
+        ], 
+        [
+            "too", 
+            "now", 
+            "either", 
+            "still"
+        ], 
+        [
+            "face", 
+            "nose", 
+            "leg", 
+            "hair"
+        ], 
+        [
+            "warm", 
+            "thin", 
+            "long", 
+            "heavy"
+        ], 
+        [
+            "blue", 
+            "yellow", 
+            "purple", 
+            "white"
+        ], 
+        [
+            "making", 
+            "watching", 
+            "describing", 
+            "paying"
+        ], 
+        [
+            "them", 
+            "him", 
+            "her", 
+            "us"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "A", 
+        "B", 
+        "C", 
+        "A", 
+        "C", 
+        "C", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle139"
+}

@@ -1,0 +1,64 @@
+{
+    "article": "Helen Keller was a very bright, beautiful girl. _ the age of six months  she could already say a few words. But unluckily, before she was two years old, she was badly _ . After that, she could not see or hear, and soon she could not even _ . Since then Helen had to  fight  for what she wanted. When she was six, her parents invited a teacher for her. _ the help of the teacher, she began to see and hear the world around her .Through her _ . She learned to read the books for the blind. The teacher took Helen for long walks, and _ her about all the beautiful sights. Helen touched flowers, climbed the trees and smelled a rain storm  before it came. She also learned how to swim and ride a horse. After she grew up , she became a famous writer in America .Her first and most famous book is The Story of My Life. Her story has brought new _ to many blind and deaf people. It has given light to those in darkness and encouraged _ to live and work.", 
+    "options": [
+        [
+            "At", 
+            "On", 
+            "In", 
+            "Of"
+        ], 
+        [
+            "dead", 
+            "ill", 
+            "strong", 
+            "thin"
+        ], 
+        [
+            "run", 
+            "walk", 
+            "eat", 
+            "talk"
+        ], 
+        [
+            "With", 
+            "In", 
+            "On", 
+            "Through"
+        ], 
+        [
+            "eyes", 
+            "ears", 
+            "hands", 
+            "mouth"
+        ], 
+        [
+            "told", 
+            "spoke", 
+            "asked", 
+            "said"
+        ], 
+        [
+            "chance", 
+            "hope", 
+            "money", 
+            "job"
+        ], 
+        [
+            "her", 
+            "him", 
+            "them", 
+            "it"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "D", 
+        "A", 
+        "C", 
+        "A", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle2782"
+}

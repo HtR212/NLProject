@@ -1,0 +1,64 @@
+{
+    "article": "Robby was 11 years old when his mother sent him to have his first piano lesson. I prefer that students begin at an earlier age, but Robby said  _  had always been his mother's dream to hear him play the piano. So I took him on  _  my student. Although Robby tried very hard,  _  he was not good at music. However, he continued and  _  the end of each weekly lesson he'd always say:\"My mom is going to hear me play someday.\" But it seemed hopeless. He didn't have a talent for music. One day, Robby stopped  coming  to our lessons. He told me that his mom had been sick and unable to take him to piano lessons, but he was still practicing. He asked  _  he could take part in my concert and I agreed. The night of the concert came. The high school gym  was packed  with parents, friends and relatives. The concert was going well. Then Robby came up on the stage, and began to play the piano. He played  _  well that everyone was on their feet, clapping excitedly. In tears, I ran up on the stage, \"Oh, Robby!  _  did you do it?\". \"Well, Miss Green...remember I told you my mom was sick? Well, actually she had cancer and died this morning. And well...she was born deaf, so tonight was the  _  time she ever heard me play the piano. I wanted to make it special.", 
+    "options": [
+        [
+            "it", 
+            "it's", 
+            "that", 
+            "he"
+        ], 
+        [
+            "with", 
+            "for", 
+            "in", 
+            "as"
+        ], 
+        [
+            "and", 
+            "but", 
+            "/", 
+            "so"
+        ], 
+        [
+            "in", 
+            "by", 
+            "to", 
+            "at"
+        ], 
+        [
+            "why", 
+            "if", 
+            "when", 
+            "how"
+        ], 
+        [
+            "so", 
+            "such", 
+            "very", 
+            "quite"
+        ], 
+        [
+            "Why", 
+            "How", 
+            "What", 
+            "When"
+        ], 
+        [
+            "good", 
+            "better", 
+            "best", 
+            "worst"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "C", 
+        "D", 
+        "B", 
+        "A", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle309"
+}

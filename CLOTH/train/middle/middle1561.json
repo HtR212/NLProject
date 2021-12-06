@@ -1,0 +1,64 @@
+{
+    "article": "Dear Paul,\nHow _ your last weekend? I had a happy weekend. I _ a museum and learned a lot about mobile phones there. Do you know about smart mobile phones ? Now they are getting very _ . Lots of people are using them.\nMy brother is a university   student. He made some _ by doing part-time  jobs during his vacations. Last week, he _ a smart mobile phone. He spent over 3,000 yuan _ it. It is _ expensive, isn't it? My brother can do many things on it. He can not only play games, listen to music but also watch movies. He can read books and write e-mails. And he can study and work on it, too. It is really a small computer! I think it is cool. I wish to buy _ , too.\nDo you have a smart mobile phone? What do you think of it? Please write to me soon.\nYours,\nLiu Wei", 
+    "options": [
+        [
+            "did", 
+            "was", 
+            "were", 
+            "is"
+        ], 
+        [
+            "visit", 
+            "visits", 
+            "visited", 
+            "Went"
+        ], 
+        [
+            "heavy", 
+            "special", 
+            "popular", 
+            "showed"
+        ], 
+        [
+            "friends", 
+            "food", 
+            "time", 
+            "money"
+        ], 
+        [
+            "lost", 
+            "bought", 
+            "joined", 
+            "found"
+        ], 
+        [
+            "on", 
+            "in", 
+            "for", 
+            "about"
+        ], 
+        [
+            "quiet", 
+            "real", 
+            "quite", 
+            "quietly"
+        ], 
+        [
+            "it", 
+            "one", 
+            "that", 
+            "him"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "C", 
+        "D", 
+        "B", 
+        "A", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle1561"
+}

@@ -1,0 +1,71 @@
+{
+    "article": "If you have a seven-colour flower, which colour do you want from the petals ? We _ some students and here are some of the answers.\n\"I want the _ one. I love grapes very much. I hope the purple one can bring  _ lots of grapes. Maybe it can make a grape house for me.\" Sun Yu _ .\n\"I think blue is my lucky  _ ,\"Wu Chen says, \" I love blue. My grandma is a kind _ . When I come back home from school, she always brings me nice food to eat. I hope this blue petal can bring _ luck to her.\"\n\"I _ the yellow one.\" answers Paul. \"I hope this one can help my sister Lily. Lily is a 3-year-old girl. But she always stays at home and doesn't talk to others. I hope this yellow petal can make her _ .\"", 
+    "options": [
+        [
+            "ask", 
+            "answer", 
+            "see", 
+            "get"
+        ], 
+        [
+            "green", 
+            "blue", 
+            "yellow", 
+            "purple"
+        ], 
+        [
+            "her", 
+            "his", 
+            "me", 
+            "it"
+        ], 
+        [
+            "asks", 
+            "says", 
+            "calls", 
+            "wants"
+        ], 
+        [
+            "colour", 
+            "petals", 
+            "fish", 
+            "grape"
+        ], 
+        [
+            "teacher", 
+            "mother", 
+            "woman", 
+            "aunt"
+        ], 
+        [
+            "bad", 
+            "good", 
+            "happy", 
+            "hard"
+        ], 
+        [
+            "think", 
+            "know", 
+            "find", 
+            "want"
+        ], 
+        [
+            "busy", 
+            "tidy", 
+            "happy", 
+            "easy"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "C", 
+        "B", 
+        "A", 
+        "C", 
+        "B", 
+        "D", 
+        "C"
+    ], 
+    "source": "middle197"
+}

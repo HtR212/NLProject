@@ -1,0 +1,64 @@
+{
+    "article": "Dear Sally,\nI am eager to tell you how I miss you at the moment. I never realized the value if a _ until I lost a loved person, _ was very dear to me. I didn't consider our friendship precious before and I am very regrettable   for it. Now the pain still _ in the bottom of my heart. Whenever I watch my parents stay closer to one another, all I can think of is you. I know I probably didn't tell you how _ you were to me as often as possible, but you were the best in my mind. You always had a _ on your face that would bring sunshine to everyone. Only a funny joke or a simple word of yours would keep everyone _ . From then on, you began to mean a lot to me, Sally. Everyone in our class learned to _ things because of you. I think I was so silly that I would misunderstand your kind help at that time. Now you have gone back to your _ ----Canada, but I still want to say that I love you and miss you very much,. I am looking forward to hearing from you.\nWill you please drop me a line?\nLove\nLi Ming", 
+    "options": [
+        [
+            "relation", 
+            "friendship", 
+            "union", 
+            "success"
+        ], 
+        [
+            "who", 
+            "what", 
+            "which", 
+            "that"
+        ], 
+        [
+            "jumps", 
+            "keeps", 
+            "loses", 
+            "relaxes"
+        ], 
+        [
+            "important", 
+            "unimportant", 
+            "silly", 
+            "Unnecessary"
+        ], 
+        [
+            "sorrow", 
+            "smile", 
+            "fear", 
+            "fly"
+        ], 
+        [
+            "crying", 
+            "laughing", 
+            "sleeping", 
+            "waiting"
+        ], 
+        [
+            "share", 
+            "drop", 
+            "export", 
+            "ruin"
+        ], 
+        [
+            "city", 
+            "countryside", 
+            "motherland", 
+            "Hometown"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "B", 
+        "A", 
+        "B", 
+        "B", 
+        "A", 
+        "C"
+    ], 
+    "source": "middle1323"
+}

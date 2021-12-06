@@ -1,0 +1,57 @@
+{
+    "article": "We have an English corner in our classroom. Every morning many of my classmates come to the corner. My teacher Miss Zhang comes here, too. At the corner, we all speak English. The corner started last year. At first, there were only  a few  students because many were  _  to speak English. After several weeks, more and more students came here. At first, some students just  _  to the other students. I was one of them. I was afraid to speak English. I thought someone would  laugh at  me, but I wanted to speak. I always spoke English in my heart. My teacher went on saying, \"Don't be afraid. Open your mouth.\" I tried and tried to open my mouth. At last, I said, \"Hello!\" to the teacher. The teacher was very  _  . She said \"Hello!\" to me at once. From  _  on, I began to speak English. I work hard at English and I try my best  to speak  more. I learn  _  my teacher and my classmates at the corner. Now I can speak a little English. Every Sunday morning, I come to the corner  _  . It's a good  _  to speak English. Please join us.", 
+    "options": [
+        [
+            "excited", 
+            "interested", 
+            "angry", 
+            "afraid"
+        ], 
+        [
+            "talked", 
+            "spoke", 
+            "listened", 
+            "came"
+        ], 
+        [
+            "happy", 
+            "interesting", 
+            "sad", 
+            "afraid"
+        ], 
+        [
+            "then", 
+            "now", 
+            "today", 
+            "that"
+        ], 
+        [
+            "to", 
+            "at", 
+            "for", 
+            "from"
+        ], 
+        [
+            "late", 
+            "often", 
+            "early", 
+            "too"
+        ], 
+        [
+            "room", 
+            "place", 
+            "home", 
+            "school"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "C", 
+        "A", 
+        "A", 
+        "D", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle652"
+}

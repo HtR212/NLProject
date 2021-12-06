@@ -1,0 +1,71 @@
+{
+    "article": "Do you know Lisa King?She is my good friend.She is  _  Australia.Her family  _  all in China now.Her  _  teaches English in No.2 Middle School.Her mother is an English teacher in that school, _ .Her brother,David,is a student in our school.He is learning Chinese.He often  _  us English and we usually teach him  _ .His parents are studying Chinese history.They like  _  very much.\nLook,Mr King is sitting on the sofa .He is  _  a Chinese book.Mrs King is watching TV.David is washing  _  clothes.Where is Lisa?She is in the  kitchen .She is cooking.What a happy family it is!", 
+    "options": [
+        [
+            "from", 
+            "in", 
+            "to", 
+            "on"
+        ], 
+        [
+            "am", 
+            "is", 
+            "are", 
+            "were"
+        ], 
+        [
+            "sister", 
+            "brother", 
+            "father", 
+            "parent"
+        ], 
+        [
+            "to", 
+            "too", 
+            "also", 
+            "either"
+        ], 
+        [
+            "teaches", 
+            "tells", 
+            "speaks", 
+            "says"
+        ], 
+        [
+            "English", 
+            "Chinese", 
+            "history", 
+            "math"
+        ], 
+        [
+            "Japan", 
+            "England", 
+            "China", 
+            "USA"
+        ], 
+        [
+            "seeing", 
+            "looking", 
+            "reading", 
+            "watching"
+        ], 
+        [
+            "a", 
+            "her", 
+            "his", 
+            "theirs"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "C", 
+        "B", 
+        "A", 
+        "B", 
+        "C", 
+        "C", 
+        "C"
+    ], 
+    "source": "middle771"
+}

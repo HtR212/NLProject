@@ -1,0 +1,57 @@
+{
+    "article": "Look at the picture. It's a picture  _  a park.  _  the tree  _  are some birds. Are there  _  boys under it? Yes, there are. They're  _  English books.  How many  girls are there near the river? There are six. Are they  _  games? Yes, they are.  Who's  that girl behind the tree? That's Kate. She's  wearing  a red skirt. She is  _  tea.", 
+    "options": [
+        [
+            "about", 
+            "of", 
+            "to", 
+            "at"
+        ], 
+        [
+            "Away", 
+            "Down", 
+            "At", 
+            "In"
+        ], 
+        [
+            "have", 
+            "are", 
+            "there", 
+            "there's"
+        ], 
+        [
+            "a", 
+            "any", 
+            "some", 
+            "the"
+        ], 
+        [
+            "reading", 
+            "seeing", 
+            "looking", 
+            "watching"
+        ], 
+        [
+            "running", 
+            "thin", 
+            "playing", 
+            "make"
+        ], 
+        [
+            "eating", 
+            "cleaning", 
+            "drinking", 
+            "liking"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "C", 
+        "B", 
+        "A", 
+        "C", 
+        "C"
+    ], 
+    "source": "middle470"
+}

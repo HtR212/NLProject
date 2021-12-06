@@ -1,0 +1,64 @@
+{
+    "article": "I'm a girl. My  _  is Zhang Xia. I'm  _  Jinan. I'm in No. 7 Junior High School.  _  school is very good. I'm in Class 7, Grade 7. There are 50 students in our class, 25  _  and 25 boys. Miss Green is our English teacher.  _  is from the USA. I  like  English very much. Wei Hua  likes  English, too. We are good  _  . My father is a worker. My  _  is a Chinese teacher. She and I  _  in the same school. We love our school.", 
+    "options": [
+        [
+            "name", 
+            "number", 
+            "names", 
+            "name's"
+        ], 
+        [
+            "at", 
+            "on", 
+            "of", 
+            "from"
+        ], 
+        [
+            "Mine", 
+            "Our", 
+            "Their", 
+            "Your"
+        ], 
+        [
+            "boys", 
+            "girls", 
+            "men", 
+            "women"
+        ], 
+        [
+            "She", 
+            "Her", 
+            "Hers", 
+            "He"
+        ], 
+        [
+            "workers", 
+            "teachers", 
+            "friends", 
+            "boys"
+        ], 
+        [
+            "mother", 
+            "father", 
+            "brother", 
+            "uncle"
+        ], 
+        [
+            "is", 
+            "am", 
+            "are", 
+            "Be"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "B", 
+        "B", 
+        "A", 
+        "C", 
+        "A", 
+        "C"
+    ], 
+    "source": "middle1541"
+}

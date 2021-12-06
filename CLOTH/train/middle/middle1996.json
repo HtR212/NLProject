@@ -1,0 +1,71 @@
+{
+    "article": "I'd like to tell you about my dream classroom in the future.My classroom will be very  _  ,so we can do lots of activities in the classroom.In summer,it will be  _  and in winter it will be warm,so it will be  _  .There will be a beautiful garden in front of it.We can see many trees and  _  in it.There will be a cable TV in our classroom and we can  watch  it at noon.Everyone will have a  _  on the desk,so we can read information  _  the Internet.The lessons will be interesting.We  _  use pens or pencils.We will use computers to do our homework.The teachers won't use  _  to write on the blackboard.They will  _  the lessons with the help of the computer.", 
+    "options": [
+        [
+            "big", 
+            "long", 
+            "small", 
+            "short"
+        ], 
+        [
+            "cold", 
+            "warm", 
+            "hot", 
+            "cool"
+        ], 
+        [
+            "dull", 
+            "comfortable", 
+            "boring", 
+            "uncomfortable"
+        ], 
+        [
+            "flowers", 
+            "books", 
+            "chairs", 
+            "lights"
+        ], 
+        [
+            "radio", 
+            "phone", 
+            "clock", 
+            "computer"
+        ], 
+        [
+            "in", 
+            "near", 
+            "at", 
+            "on"
+        ], 
+        [
+            "will", 
+            "can", 
+            "won't", 
+            "aren't"
+        ], 
+        [
+            "pens", 
+            "chalk", 
+            "pencils", 
+            "paper"
+        ], 
+        [
+            "give", 
+            "study", 
+            "have", 
+            "learn"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "B", 
+        "A", 
+        "D", 
+        "D", 
+        "C", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle1996"
+}

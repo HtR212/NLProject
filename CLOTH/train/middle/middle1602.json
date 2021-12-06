@@ -1,0 +1,71 @@
+{
+    "article": "Hi, My name's John. I'm a  _ . I work in  _ busy hospital. My job is  _ because I meet a lot of interesting _ . The hospital is _ from a park and between a restaurant and a bank. When I am busy I often _ at _ restaurant. But when _ is sunny, and I have the time, I _ my lunch in the park.", 
+    "options": [
+        [
+            "teacher", 
+            "actor", 
+            "waiter", 
+            "doctor"
+        ], 
+        [
+            "an", 
+            "a", 
+            "the", 
+            "/"
+        ], 
+        [
+            "exciting", 
+            "boring", 
+            "scary", 
+            "difficult"
+        ], 
+        [
+            "man", 
+            "woman", 
+            "people", 
+            "kid"
+        ], 
+        [
+            "in", 
+            "across", 
+            "on", 
+            "from"
+        ], 
+        [
+            "eat", 
+            "read", 
+            "has", 
+            "is"
+        ], 
+        [
+            "a", 
+            "an", 
+            "the", 
+            "/"
+        ], 
+        [
+            "they", 
+            "it", 
+            "you", 
+            "he"
+        ], 
+        [
+            "is", 
+            "are", 
+            "have", 
+            "for"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "B", 
+        "A", 
+        "C", 
+        "B", 
+        "A", 
+        "C", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle1602"
+}

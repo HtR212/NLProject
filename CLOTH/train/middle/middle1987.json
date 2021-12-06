@@ -1,0 +1,71 @@
+{
+    "article": "My name  _  Bill. I'm  _  English boy. I'm twelve. I'm a middle school student. Li Lei is my  _  . We're in the same class. Here is a photo  _  his family. Look, this is his  _  . He is a policeman . His  _  is a teacher of English. She is a good teacher. Li Lei has  _  sisters.  _  are twins . Their  first names  are Fangfang and Yuanyuan . We are good  _  , too.", 
+    "options": [
+        [
+            "am", 
+            "is", 
+            "are", 
+            "call"
+        ], 
+        [
+            "a", 
+            "an", 
+            "\\", 
+            "the"
+        ], 
+        [
+            "brother", 
+            "cousin", 
+            "friend", 
+            "teacher"
+        ], 
+        [
+            "of", 
+            "in", 
+            "at", 
+            "for"
+        ], 
+        [
+            "parents", 
+            "mother", 
+            "grandparents", 
+            "father"
+        ], 
+        [
+            "parents", 
+            "mother", 
+            "grandparents", 
+            "father"
+        ], 
+        [
+            "a", 
+            "one", 
+            "two", 
+            "three"
+        ], 
+        [
+            "We", 
+            "They", 
+            "She", 
+            "He"
+        ], 
+        [
+            "family", 
+            "parents", 
+            "friends", 
+            "Names"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "B", 
+        "C", 
+        "A", 
+        "D", 
+        "B", 
+        "C", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle1987"
+}

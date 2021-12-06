@@ -1,0 +1,71 @@
+{
+    "article": "Dear Joan, How are you? It's very nice of you to write  _  me. From your letter I  _  a lot about you and your school. Now  _  me tell you something about me and my school. I am thirteen years old, I am in Class Two, Grade One at Changjiang Middle School. My father is a  _  . He teaches  _  English. My mother is a doctor. I  get up  early every morning and then  _  English at home. Our school is very big. It has 3,000 students and 250 teachers.  _  the teachers and the students work hard. After school, I like playing  _  volleyball with my classmates. Please come and have a look  _  our school if you are free. Please write to me soon. Millie", 
+    "options": [
+        [
+            "from", 
+            "of", 
+            "to", 
+            "at"
+        ], 
+        [
+            "get", 
+            "study", 
+            "talk", 
+            "know"
+        ], 
+        [
+            "let", 
+            "say", 
+            "speak", 
+            "talk"
+        ], 
+        [
+            "teacher", 
+            "worker", 
+            "student", 
+            "doctor"
+        ], 
+        [
+            "our", 
+            "they", 
+            "us", 
+            "their"
+        ], 
+        [
+            "look", 
+            "see", 
+            "watch", 
+            "read"
+        ], 
+        [
+            "Many", 
+            "Some", 
+            "All", 
+            "Every"
+        ], 
+        [
+            "a", 
+            "an", 
+            "the", 
+            "/"
+        ], 
+        [
+            "at", 
+            "in", 
+            "on", 
+            "To"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "D", 
+        "A", 
+        "A", 
+        "C", 
+        "D", 
+        "C", 
+        "D", 
+        "A"
+    ], 
+    "source": "middle323"
+}

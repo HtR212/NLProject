@@ -1,0 +1,71 @@
+{
+    "article": "London is a very big city. The River Thames runs through the city from west to east. So the city has two  _  :the South and the North. The weather in London is really  _  . In winter, it is not very cold and in summer it is not very hot. Do you know why? That is  _  the city is near the sea. People say that London is a foggy city and it often rains. It's  _  . Last year, when I was in London I  _  one of the thickest fogs in years. I  _  see my hands in front of me. Cars and buses moved along with their  _  on. In the evening, the weather got even worse. The fog was as thick as milk.  _  of the buses and cars stopped. I happened to have an important meeting on the other side of the city. But I could not find a car or a bus. And I didn't know the  _  .I called my friends for help. He told me the way and I had to go there  on foot", 
+    "options": [
+        [
+            "sides", 
+            "homes", 
+            "paths", 
+            "parts"
+        ], 
+        [
+            "great", 
+            "bad", 
+            "terrible", 
+            "strange"
+        ], 
+        [
+            "where", 
+            "because", 
+            "how", 
+            "when"
+        ], 
+        [
+            "false", 
+            "unreal", 
+            "true", 
+            "real"
+        ], 
+        [
+            "met", 
+            "saw", 
+            "heard", 
+            "felt"
+        ], 
+        [
+            "could", 
+            "couldn't", 
+            "can", 
+            "can't"
+        ], 
+        [
+            "windows", 
+            "machines", 
+            "lights", 
+            "phones"
+        ], 
+        [
+            "None", 
+            "All", 
+            "Some", 
+            "Neither"
+        ], 
+        [
+            "bus", 
+            "rule", 
+            "weather", 
+            "city"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "A", 
+        "B", 
+        "C", 
+        "A", 
+        "B", 
+        "C", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle2215"
+}

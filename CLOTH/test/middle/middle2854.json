@@ -1,0 +1,64 @@
+{
+    "article": "It is almost Molly's birthday, and she wants only one thing. She _ that Dad can be home for her birthday. Molly's father is a _  driver.\nDad wakes   Molly up on her birthday, \" Good morning , Molly !\" he says. \"It is a beautiful day today. The weather is nice. It's a great day for a _ .\"\n\"Where are you going today, Dad?\" Molly asks. She doesn't feel  _ because she thinks her father is going to work on her birthday. Can't he  stay with Molly?\n\"I mean where we are going,\" Dad says. \" _  are going for a ride in my taxi! Our first  _ will be the meal. We will have a special birthday _ !\"\n\"Wow!\" Molly says, \" _  will we go after that?\"\n\"Anywhere you like,\" Dad says with a smile.", 
+    "options": [
+        [
+            "sings", 
+            "asks", 
+            "helps", 
+            "hopes"
+        ], 
+        [
+            "taxi", 
+            "bus", 
+            "train", 
+            "plane"
+        ], 
+        [
+            "meeting", 
+            "trip", 
+            "visit", 
+            "meal"
+        ], 
+        [
+            "interesting", 
+            "tired", 
+            "busy", 
+            "happy"
+        ], 
+        [
+            "You", 
+            "We", 
+            "They", 
+            "I"
+        ], 
+        [
+            "stop", 
+            "street", 
+            "camp", 
+            "day"
+        ], 
+        [
+            "party", 
+            "present", 
+            "match", 
+            "breakfast"
+        ], 
+        [
+            "When", 
+            "How", 
+            "Where", 
+            "What"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "A", 
+        "B", 
+        "D", 
+        "B", 
+        "A", 
+        "D", 
+        "C"
+    ], 
+    "source": "middle2854"
+}

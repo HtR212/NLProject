@@ -1,0 +1,64 @@
+{
+    "article": "Do you like going to a zoo to see  _  ? How about  _  a zoo and feeding the animals yourself? It's not a joke. It happened both in a film and in the  real world  . Benjamin Mee is a newspaper writer in Los Angeles, the US. His wife dies and he has to  look after  his two young kids. Hoping for a fresh start for his family. Mee  _  his job and buys an old house on 73000 square meters  _  the city. The land comes with a special gift: a zoo in the country called the Rosemoor Animal Park! The zoo was  _  because of the economy crisis . With  _  raising them, about 200 animals are still living there. The Mee family decide to help reopen the zoo. But it's not an easy job  _  they have no experience and little money. There are also unexpected  _  , such as a bear running away one day. This is the story of American movie We Bought a Zoo. It tells the real amazing story of Benjamin Mee.", 
+    "options": [
+        [
+            "tigers", 
+            "lions", 
+            "animals", 
+            "birds"
+        ], 
+        [
+            "buying", 
+            "visiting", 
+            "building", 
+            "renting"
+        ], 
+        [
+            "finds", 
+            "gets", 
+            "quits", 
+            "loses"
+        ], 
+        [
+            "outside", 
+            "inside", 
+            "behind", 
+            "before"
+        ], 
+        [
+            "opened", 
+            "closed", 
+            "watched", 
+            "rebuilt"
+        ], 
+        [
+            "engineers", 
+            "nurses", 
+            "doctors", 
+            "zookeepers"
+        ], 
+        [
+            "since", 
+            "though", 
+            "whether", 
+            "however"
+        ], 
+        [
+            "surprises", 
+            "joys", 
+            "problems", 
+            "excitement"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "C", 
+        "A", 
+        "B", 
+        "D", 
+        "A", 
+        "C"
+    ], 
+    "source": "middle1077"
+}

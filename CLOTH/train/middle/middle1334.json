@@ -1,0 +1,71 @@
+{
+    "article": "This is a family photo.Five 1  _  are in the photo,they are in a2  _  .The boy is Barry Hand.3  _  is a student.His school is in Puer.His parents are 4  _  .Barry 5  _  two sisters.One is Marry6  _  the other is Mona.They are also students.Barry  likes  math,and he likes sports.He8  _  basketball every day.His sisters like9  _  .It is a great language . The Hand family has a phone. Its10  _  is 773--1068.", 
+    "options": [
+        [
+            "names", 
+            "girls", 
+            "boys", 
+            "people"
+        ], 
+        [
+            "bookcase", 
+            "desk", 
+            "room", 
+            "table"
+        ], 
+        [
+            "He", 
+            "It", 
+            "She", 
+            "I"
+        ], 
+        [
+            "teacher", 
+            "teachers", 
+            "students", 
+            "teacheres"
+        ], 
+        [
+            "have", 
+            "has", 
+            "is", 
+            "are"
+        ], 
+        [
+            "and", 
+            "but", 
+            "of", 
+            "in"
+        ], 
+        [
+            "eats", 
+            "does", 
+            "plays", 
+            "play"
+        ], 
+        [
+            "English", 
+            "games", 
+            "food", 
+            "books"
+        ], 
+        [
+            "ID", 
+            "bag", 
+            "case", 
+            "number"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "C", 
+        "A", 
+        "B", 
+        "B", 
+        "A", 
+        "C", 
+        "A", 
+        "D"
+    ], 
+    "source": "middle1334"
+}

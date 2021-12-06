@@ -1,0 +1,64 @@
+{
+    "article": "It was very late when we came out of the cinema. We knew the last train would leave  _  11:15 , so we ran as  _  as we could to the station. It was just after 11: 15 when we  arrived at  the station, but the trains often leave a little  _  and there was a train standing at Platform 1 , so we got in. We  waited  for half an hour, then we got  _  . We found the ticket collector and asked him  _  the train was going to leave. \"Tomorrow morning at six o clock,\" he told us. There were  _  taxis outside the station.  _  we walked home. It  _  us nearly two hours. The next morning we felt very tired.", 
+    "options": [
+        [
+            "in", 
+            "for", 
+            "at", 
+            "on"
+        ], 
+        [
+            "fast", 
+            "faster", 
+            "fastest", 
+            "fastly"
+        ], 
+        [
+            "later", 
+            "early", 
+            "earlier", 
+            "late"
+        ], 
+        [
+            "out", 
+            "in", 
+            "off", 
+            "on"
+        ], 
+        [
+            "how", 
+            "when", 
+            "why", 
+            "that"
+        ], 
+        [
+            "no", 
+            "not", 
+            "none", 
+            "nothing"
+        ], 
+        [
+            "but", 
+            "or", 
+            "so", 
+            "and"
+        ], 
+        [
+            "spent", 
+            "cost", 
+            "paid", 
+            "took"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "A", 
+        "C", 
+        "B", 
+        "A", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle1024"
+}

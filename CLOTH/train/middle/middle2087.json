@@ -1,0 +1,64 @@
+{
+    "article": "Mrs. White _ in a school. It is Sunday. She has _ classes. At eight in the morning, she _ to a shop and buys a nice dress. She puts it in her bag and then buys some cakes for her children. At eleven she gets home. She wants to put on her new dress, but she _ find her bag. She calls the shop assistant  , \"Hello, Mrs. Black. This is Mrs. White. Can you help _  find my bag?  _ in your shop.\"\"Of course, Mrs. White,\" says the assistant. \"We found three bags here. But which one is _ ?\"\"I'm _ ,\" says Mrs. White, I can tell you which one is mine.\"", 
+    "options": [
+        [
+            "work", 
+            "works", 
+            "working", 
+            "study"
+        ], 
+        [
+            "not", 
+            "any", 
+            "some", 
+            "no"
+        ], 
+        [
+            "walks", 
+            "go", 
+            "walking", 
+            "walk"
+        ], 
+        [
+            "can", 
+            "don't", 
+            "can't", 
+            "isn't"
+        ], 
+        [
+            "I", 
+            "my", 
+            "mine", 
+            "me"
+        ], 
+        [
+            "It's", 
+            "Its", 
+            "They're", 
+            "He's"
+        ], 
+        [
+            "you", 
+            "your", 
+            "mine", 
+            "yours"
+        ], 
+        [
+            "go", 
+            "come", 
+            "coming", 
+            "comes"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "A", 
+        "C", 
+        "D", 
+        "A", 
+        "D", 
+        "C"
+    ], 
+    "source": "middle2087"
+}

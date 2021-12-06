@@ -1,0 +1,71 @@
+{
+    "article": "Food is very important. Everyone needs to  _  well if he or she wants to be healthy. Our minds  _  a kind of food, too. This kind of food is knowledge . We began to get  _  when we were very young. Small children  _  very interested in everything around them. They learn everything while they are watching  _  listening. When they are getting older, they began to read  story  books, science books, and anything they like. When they find something new, they love to ask questions and  _  to find the answers. What is the best  _  to get knowledge? If we learn by  _  , we'll get the most knowledge. If we're  _  getting answers from others and do not ask why, we'll never learn well.", 
+    "options": [
+        [
+            "eat", 
+            "drink", 
+            "learn", 
+            "read"
+        ], 
+        [
+            "hope", 
+            "wish", 
+            "need", 
+            "can"
+        ], 
+        [
+            "talent", 
+            "gift", 
+            "question", 
+            "knowledge"
+        ], 
+        [
+            "is", 
+            "are", 
+            "am", 
+            "be"
+        ], 
+        [
+            "but", 
+            "then", 
+            "so", 
+            "and"
+        ], 
+        [
+            "try", 
+            "have", 
+            "wait", 
+            "work"
+        ], 
+        [
+            "place", 
+            "way", 
+            "road", 
+            "school"
+        ], 
+        [
+            "yourself", 
+            "themselves", 
+            "myself", 
+            "ourselves"
+        ], 
+        [
+            "sometimes", 
+            "never", 
+            "always", 
+            "usually"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "D", 
+        "B", 
+        "D", 
+        "A", 
+        "B", 
+        "D", 
+        "C"
+    ], 
+    "source": "middle1210"
+}

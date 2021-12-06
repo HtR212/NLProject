@@ -1,0 +1,71 @@
+{
+    "article": "Tomorrow is Saturday. It is Linda, my  _  birthday. She will  _  seven years old. She is very happy because she  will go  to school in autumn. We are all very  _  , too. We are going to  _  a party for her. My mother will make her a big  _  . She likes reading ,my father will buy her an interesting  _  . I will buy a CD  _  her ,  _  she likes singing. She is going to  _  her favorite songs for us. We all hope she can be happy forever .", 
+    "options": [
+        [
+            "father's", 
+            "mother's", 
+            "sister's", 
+            "brother's"
+        ], 
+        [
+            "be", 
+            "is", 
+            "are", 
+            "/"
+        ], 
+        [
+            "sad", 
+            "nice", 
+            "happy", 
+            "cool"
+        ], 
+        [
+            "give", 
+            "have", 
+            "make", 
+            "use"
+        ], 
+        [
+            "photo", 
+            "plan", 
+            "cake", 
+            "picture"
+        ], 
+        [
+            "science", 
+            "storybook", 
+            "computer", 
+            "bike"
+        ], 
+        [
+            "to", 
+            "of", 
+            "from", 
+            "for"
+        ], 
+        [
+            "because", 
+            "but", 
+            "and", 
+            "or"
+        ], 
+        [
+            "write", 
+            "sing", 
+            "show", 
+            "give"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "C", 
+        "B", 
+        "C", 
+        "B", 
+        "D", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle2982"
+}

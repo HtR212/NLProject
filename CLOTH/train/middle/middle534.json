@@ -1,0 +1,57 @@
+{
+    "article": "Mr Li is ninety-five years old, _ he is very healthy. When people ask _ , \"How can you keep so healthy in your life?\" He _ answers, \"If we want is healthy, we should eat healthy food and take exercise every day.\" Mr Li often runs in the morning. And it often takes him about two hours to exercise every day.\nSome people don't know _ to keep healthy, they don't want to have breakfast. But Mr Li thinks it is very important. He often has a glass of milk and two eggs _ breakfast. He eats a lot of vegetables and rice for lunch. And he has some vegetables and porridge for dinner. He thinks eating _ is good for health. So he eats an apple and two bananas every day. Fruits are really _ for him.", 
+    "options": [
+        [
+            "but", 
+            "and", 
+            "so", 
+            "because"
+        ], 
+        [
+            "her", 
+            "he", 
+            "his", 
+            "him"
+        ], 
+        [
+            "sometimes", 
+            "always", 
+            "never", 
+            "also"
+        ], 
+        [
+            "how", 
+            "where", 
+            "what", 
+            "who"
+        ], 
+        [
+            "with", 
+            "for", 
+            "on", 
+            "between"
+        ], 
+        [
+            "meat", 
+            "vegetables", 
+            "drink", 
+            "fruits"
+        ], 
+        [
+            "useful", 
+            "clean", 
+            "terrible", 
+            "cute"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "B", 
+        "A", 
+        "B", 
+        "D", 
+        "A"
+    ], 
+    "source": "middle534"
+}

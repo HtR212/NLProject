@@ -1,0 +1,64 @@
+{
+    "article": "Bill is a lovely boy. He is four years old. There is a park near  _  house. It is small but beautiful. He  plays  with other children in the park every day. One day, his mother buys new clothes for him.  _  clothes are nice and expensive. Bill is very happy. \"Mum, may I go out  _  play with my friends? I want to show them my  _  clothes.\" Asks Bill. \"Yes, please keep your clothes clean.\" Says his mother, \"I'm going to do some cooking. We will have  _  after your father comes back.\" At about six his father comes back  _  work. Bill goes home for dinner. \"Why do you have so much dirt on your  _  ? \" asks his mother when Bill comes into the room.. \"Because I have some falls \", answers Bill. \"You mustn't have some falls when you  wear  the nice clothes,\" says his mother. \"I'm sorry, Mum,\"  _  Bill. \"But I have no time to take off my clothes when I fall.\"", 
+    "options": [
+        [
+            "her", 
+            "his", 
+            "she", 
+            "he"
+        ], 
+        [
+            "An", 
+            "A", 
+            "/", 
+            "The"
+        ], 
+        [
+            "but", 
+            "or", 
+            "and", 
+            "so"
+        ], 
+        [
+            "new", 
+            "old", 
+            "big", 
+            "small"
+        ], 
+        [
+            "breakfast", 
+            "lunch", 
+            "dinner", 
+            "meals"
+        ], 
+        [
+            "with", 
+            "about", 
+            "of", 
+            "from"
+        ], 
+        [
+            "shoes", 
+            "clothes", 
+            "shirts", 
+            "jeans"
+        ], 
+        [
+            "talks", 
+            "says", 
+            "tells", 
+            "speaks"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "C", 
+        "A", 
+        "C", 
+        "D", 
+        "B", 
+        "B"
+    ], 
+    "source": "middle1160"
+}

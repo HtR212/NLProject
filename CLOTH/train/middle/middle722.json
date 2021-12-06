@@ -1,0 +1,50 @@
+{
+    "article": "I have a sister. My lifestyle is different from her. I  _  healthier than her. I exercise twice a day. Usually I come home from school  on foot  , though my home is  _  from school. It takes me more than one hour. And my eating  _  are better than hers. She often has a  stomachache  , because she likes to eat unhealthy diet.  _  I don't like milk, my mother wants me to drink it. She says it's good for my health. So I have to drink it. I try to eat  more  vegetables ten to eleven times a week. I keep eating fruit every day. They help me to keep in good health. As  _  meat, I must try to eat less of it. Of course, I love junk food too. I try to eat it only  once  a week. I sleep for nine hours every night.  _  you see, my healthy lifestyle depends on good food and exercise. It helps me study better.", 
+    "options": [
+        [
+            "am", 
+            "is", 
+            "are", 
+            "was"
+        ], 
+        [
+            "different", 
+            "near", 
+            "far", 
+            "come"
+        ], 
+        [
+            "habit", 
+            "hobby", 
+            "habits", 
+            "health"
+        ], 
+        [
+            "So", 
+            "Although", 
+            "And", 
+            "But"
+        ], 
+        [
+            "to", 
+            "for", 
+            "from", 
+            "of"
+        ], 
+        [
+            "But", 
+            "So", 
+            "Because", 
+            "And"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "C", 
+        "B", 
+        "B", 
+        "B"
+    ], 
+    "source": "middle722"
+}

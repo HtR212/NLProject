@@ -1,0 +1,71 @@
+{
+    "article": "Hello, everyone! My name is Ken. I'm  _  years old. I was born in 1999. My birthday is  October 1st  . That's National Day . I like music very much and I  _  like sports. My birthday is coming. My mother  wants to  buy a beautiful shirt  _  me. On Sunday, she  _  me to a big  _  store. There are  many  shirts and they are  _  blue, yellow and red. She selects a blue one. It looks cool. My father gives me some CDs and a  _  . He knows what I like. He wishes me to play sports more. I am very  _  . And my sister, Monica, she is only two years old, so she can't buy anything for me.  _  she sings a great song for me. It's  really  fun. And I like her so much. My parents want to have a  birthday party  for me at home this year. My friends will come to it. We can play together. It's very exciting  to play with  my friends in my house.", 
+    "options": [
+        [
+            "eleven", 
+            "twelve", 
+            "fourteen", 
+            "sixteen"
+        ], 
+        [
+            "too", 
+            "also", 
+            "only", 
+            "don't"
+        ], 
+        [
+            "for", 
+            "at", 
+            "to", 
+            "on"
+        ], 
+        [
+            "sells", 
+            "takes", 
+            "buys", 
+            "brings"
+        ], 
+        [
+            "food", 
+            "clothes", 
+            "fruit", 
+            "book"
+        ], 
+        [
+            "in", 
+            "on", 
+            "to", 
+            "at"
+        ], 
+        [
+            "pen", 
+            "notebook", 
+            "basketball", 
+            "hamburger"
+        ], 
+        [
+            "happy", 
+            "boring", 
+            "interesting", 
+            "relaxing"
+        ], 
+        [
+            "Because", 
+            "But", 
+            "Then", 
+            "Next"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "B", 
+        "A", 
+        "B", 
+        "B", 
+        "A", 
+        "C", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle1776"
+}

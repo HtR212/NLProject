@@ -1,0 +1,57 @@
+{
+    "article": "Dear Pet, Without knowing more about you, it's hard for me to give you some good advice. But first, I am sure that you are  _  . You said that nobody would care if you left home. What about your  _  ? And other family members? It seems that you are very  _  You'd better go to a doctor or talk  _  your parents. They will be able to help you. Second, I'm sure there's someone else in your class who feels lonely,  _  . You never know  _  other people feel. Try to make friends with your classmates. And you could  join  a club to meet new people and make friends, too. You  need to  find happiness in yourself. So my  _  advice is to write a list of all the good things about yourself, learn to like yourself, and then  others  will see your confidence and like you, too. Editor", 
+    "options": [
+        [
+            "right.", 
+            "wrong", 
+            "OK", 
+            "clever"
+        ], 
+        [
+            "teachers", 
+            "classmates", 
+            "parents", 
+            "friends"
+        ], 
+        [
+            "popular", 
+            "tired", 
+            "sad", 
+            "happy"
+        ], 
+        [
+            "in", 
+            "about", 
+            "of", 
+            "to"
+        ], 
+        [
+            "too", 
+            "either", 
+            "also", 
+            "to"
+        ], 
+        [
+            "why", 
+            "how", 
+            "when", 
+            "where"
+        ], 
+        [
+            "finally", 
+            "last", 
+            "end", 
+            "first"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "C", 
+        "D", 
+        "A", 
+        "B", 
+        "B"
+    ], 
+    "source": "middle1034"
+}

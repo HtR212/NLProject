@@ -1,0 +1,71 @@
+{
+    "article": "My name is Jenny. I am  _  Cuiyuan Middle School. I have  _  ID card. The  _  is 131033. Look! This is my  _  . It is very good. Oh,  _  that? Is it a book? No, it  isn't  . It is a notebook. I found  _  at the school. A girl's  _  is on the notebook. It is Linda's. But Linda isn't  _  .Can you help me  _  her? Oh, her telephone number is 13976888776.", 
+    "options": [
+        [
+            "in", 
+            "of", 
+            "for", 
+            "On"
+        ], 
+        [
+            "a", 
+            "an", 
+            "the", 
+            "/"
+        ], 
+        [
+            "name", 
+            "color", 
+            "number", 
+            "telephone"
+        ], 
+        [
+            "friend", 
+            "sister", 
+            "student", 
+            "watch"
+        ], 
+        [
+            "what", 
+            "how", 
+            "what's", 
+            "how's"
+        ], 
+        [
+            "that", 
+            "it", 
+            "this", 
+            "one"
+        ], 
+        [
+            "name", 
+            "family", 
+            "school", 
+            "classroom"
+        ], 
+        [
+            "there", 
+            "here", 
+            "school", 
+            "library"
+        ], 
+        [
+            "ask", 
+            "see", 
+            "call", 
+            "Meet"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "C", 
+        "B", 
+        "A", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle568"
+}

@@ -1,0 +1,57 @@
+{
+    "article": "Mr. and Mrs. White have a son. His name is John. They love _ son very much. But there is something wrong _ the boy. He can not look after himself. His parents do not know  _ is wrong. One day they take _ to see a doctor. The doctor has a look at John carefully and find the boy can not see _ . But the doctor can do nothing to help John.\nAfter a few years, they hear there is a very good _ in a town not far away. So they _  the boy to see him. The doctor does  a small operation on John, then John can see clearly. All of them are very happy.", 
+    "options": [
+        [
+            "their", 
+            "his", 
+            "her", 
+            "mine"
+        ], 
+        [
+            "in", 
+            "with", 
+            "on", 
+            "of"
+        ], 
+        [
+            "who", 
+            "where", 
+            "why", 
+            "what"
+        ], 
+        [
+            "her", 
+            "them", 
+            "him", 
+            "me"
+        ], 
+        [
+            "something", 
+            "anything", 
+            "nothing", 
+            "everything"
+        ], 
+        [
+            "teacher", 
+            "worker", 
+            "friend", 
+            "doctor"
+        ], 
+        [
+            "take", 
+            "bring", 
+            "give", 
+            "carry"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "D", 
+        "C", 
+        "B", 
+        "D", 
+        "A"
+    ], 
+    "source": "middle390"
+}

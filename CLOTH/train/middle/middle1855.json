@@ -1,0 +1,57 @@
+{
+    "article": "I have _ good friend in my class _ name is Sam. _ is from England . He is _ China with his parents. He likes China. He likes Chinese food, _ . He has breakfast at home. He eats _ egg, bread and porridge for breakfast. He doesn't like milk. He has no time to go home _ lunch. So he has it at school. The lunch in our school is delicious. He can have different kinds of food for lunch. He eats rice, meat and vegetables. Sometimes he has noodles and dumplings. He has supper at home with his parents. Sometimes he goes out to eat with his friends. He has fish, meat, vegetables and fruits.", 
+    "options": [
+        [
+            "an", 
+            "a", 
+            "the", 
+            "/"
+        ], 
+        [
+            "He", 
+            "Him", 
+            "His", 
+            "Her"
+        ], 
+        [
+            "He", 
+            "She", 
+            "His", 
+            "Her"
+        ], 
+        [
+            "from", 
+            "of", 
+            "at", 
+            "in"
+        ], 
+        [
+            "too", 
+            "also", 
+            "either", 
+            "to"
+        ], 
+        [
+            "a", 
+            "an", 
+            "the", 
+            "/"
+        ], 
+        [
+            "to", 
+            "of", 
+            "for", 
+            "from"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "A", 
+        "D", 
+        "A", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle1855"
+}

@@ -1,0 +1,50 @@
+{
+    "article": "Hello! My name is Mary. I am an  _  girl. I am short with a round face, a small mouth and big black eyes. I am not too fat  _  too thin. I am in  Class One, Grade One  in Wuhan Middle School. I am easygoing and like making friends  _  other girls, but they must be good ones in many ways, such as study, obeying school rules and so on. I like English very much. Now I can speak  a little  with my English teacher in class. I study very hard and do well  _  exams. I want to be a teacher when I grow up. In my free time, I often watch TV or  listen to  my favorite music and sometimes play games or chat with my friends on the line. I also help my parents  do  a little housework. My parents both say I am a  _  child. They like  _  very much. This is me.", 
+    "options": [
+        [
+            "happy", 
+            "friendly", 
+            "outgoing", 
+            "good"
+        ], 
+        [
+            "or", 
+            "but", 
+            "and", 
+            "so"
+        ], 
+        [
+            "at", 
+            "from", 
+            "with", 
+            "to"
+        ], 
+        [
+            "at", 
+            "in", 
+            "to", 
+            "with"
+        ], 
+        [
+            "bad", 
+            "good", 
+            "worse", 
+            "better"
+        ], 
+        [
+            "me", 
+            "I", 
+            "my", 
+            "mine"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "C", 
+        "B", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle1336"
+}

@@ -1,0 +1,64 @@
+{
+    "article": "Hi, my name is Simon. I live _ my family in a new neighbourhood. There _ lots of tall buildings in our community centre. Every day thousands of people come and visit it. Our community centre is like a big family.\nMy family member are social workers. My father is a computer _ He often helps others check and fix their computers. My mother is a college teacher. She always tries to help students with _ homework. At the weekend my sister and I often go to see the old people and do some shopping for them. Our neighbours are all kind _ helpful. They always say\"Hello\"to us when they meet us. When our bicycle are broken, they are ready to help us. Love House is our favorite _ . We go there when we need help _ all kind of problems.\nWe love our community centre. We think it is _ for us to have a community centre like this. Are you going to visit it? Welcome you.", 
+    "options": [
+        [
+            "in", 
+            "with", 
+            "at", 
+            "on"
+        ], 
+        [
+            "am", 
+            "is", 
+            "are", 
+            "be"
+        ], 
+        [
+            "doctor", 
+            "policeman", 
+            "postman", 
+            "engineer"
+        ], 
+        [
+            "your", 
+            "our", 
+            "their", 
+            "her"
+        ], 
+        [
+            "and", 
+            "or", 
+            "but", 
+            "so"
+        ], 
+        [
+            "friend", 
+            "subject", 
+            "sport", 
+            "place"
+        ], 
+        [
+            "to", 
+            "for", 
+            "about", 
+            "with"
+        ], 
+        [
+            "special", 
+            "sick", 
+            "lucky", 
+            "true"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "D", 
+        "C", 
+        "A", 
+        "D", 
+        "D", 
+        "C"
+    ], 
+    "source": "middle632"
+}

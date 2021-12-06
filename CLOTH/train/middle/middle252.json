@@ -1,0 +1,71 @@
+{
+    "article": "Good morning, everyone! I'm Jane. Here _ three photos of my family. There are _ people in my family: my mother, my father, my brother Timmy and I. We are a _ family. In the first photo, my father is in the kitchen . He usually makes dinner for us. He is good at _ potato soup. In the second photo, my parents and Timmy are waiting  for me. I have to live in the school _ weekdays. I go home every Friday afternoon. When I _ home, my mother always makes lots of nice food for me. In the last photo, my father is _ us to my grandparents' house. They _ in a beautiful village. We often go to see _ on the weekend. I love my family.", 
+    "options": [
+        [
+            "is", 
+            "are", 
+            "have", 
+            "has"
+        ], 
+        [
+            "two", 
+            "three", 
+            "four", 
+            "five"
+        ], 
+        [
+            "interesting", 
+            "boring", 
+            "happy", 
+            "terrible"
+        ], 
+        [
+            "doing", 
+            "taking", 
+            "making", 
+            "having"
+        ], 
+        [
+            "in", 
+            "at", 
+            "with", 
+            "on"
+        ], 
+        [
+            "get", 
+            "leave", 
+            "stay", 
+            "miss"
+        ], 
+        [
+            "asking", 
+            "driving", 
+            "watching", 
+            "going"
+        ], 
+        [
+            "live", 
+            "play", 
+            "visit", 
+            "clean"
+        ], 
+        [
+            "their", 
+            "they", 
+            "them", 
+            "theirs"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "C", 
+        "C", 
+        "D", 
+        "A", 
+        "B", 
+        "A", 
+        "C"
+    ], 
+    "source": "middle252"
+}

@@ -1,0 +1,71 @@
+{
+    "article": "Bob and Sue are in the same school, _ they are in different _ They go to school on weekdays. _ school, Bob and Sue often play games with _ friends.\nClass begins _ eight in the morning. Now Bob and Sue are in their own  classrooms. They are listening to their _ . Bob's studying English. His teacher is talking _ English. Sue's having a Chinese class. Her teacher is talking _ writing. They study hard. They love their teachers and they like their _ .", 
+    "options": [
+        [
+            "but", 
+            "and", 
+            "or", 
+            "when"
+        ], 
+        [
+            "classes", 
+            "class", 
+            "lesson", 
+            "lessons"
+        ], 
+        [
+            "By", 
+            "When", 
+            "To", 
+            "At"
+        ], 
+        [
+            "his", 
+            "her", 
+            "other", 
+            "their"
+        ], 
+        [
+            "about", 
+            "in", 
+            "at", 
+            "on"
+        ], 
+        [
+            "friends", 
+            "father", 
+            "teacher", 
+            "teachers"
+        ], 
+        [
+            "with", 
+            "at", 
+            "in", 
+            "for"
+        ], 
+        [
+            "at", 
+            "about", 
+            "for", 
+            "like"
+        ], 
+        [
+            "home", 
+            "family", 
+            "school", 
+            "clothes"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "A", 
+        "D", 
+        "D", 
+        "C", 
+        "D", 
+        "C", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle2021"
+}

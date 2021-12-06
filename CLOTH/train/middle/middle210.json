@@ -1,0 +1,57 @@
+{
+    "article": "A little boy wanted to meet God,  so he started his trip with some cakes and orange juice. On his way he saw an old woman sitting in the park. The boy sat down next to her. The old lady looked _ ,  so he offered her a cake. She _ it thankfully and smiled at him. Her smile was _ pretty that the boy wanted to see it again,  so he gave her a bottle of orange juice. Once again she smiled at him. The boy was very happy! They sat there all afternoon eating and smiling,  but they never say a word. As it grew dark,  the boy got up to leave. _ he left,  he gave her a kiss. She gave him her the biggest smile ever.\nWhen the boy got home,  his mother saw the look of joy _ his face. She asked him, _ made you so happy? He replied,  I had lunch with God. She's got the most beautiful smile I' ve ever seen! The old woman also returned to her home _ . Her son asked,  Mother,  why are you so happy? She answered,  I ate cakes in the park with God.\nYou know,  he's much younger than I expected .", 
+    "options": [
+        [
+            "hungry", 
+            "angry", 
+            "thirsty", 
+            "tired"
+        ], 
+        [
+            "received", 
+            "gave", 
+            "accepted", 
+            "refused"
+        ], 
+        [
+            "very", 
+            "too", 
+            "so", 
+            "quite"
+        ], 
+        [
+            "Before", 
+            "After", 
+            "Since", 
+            "Until"
+        ], 
+        [
+            "in", 
+            "with", 
+            "at", 
+            "on"
+        ], 
+        [
+            "Which", 
+            "Where", 
+            "What", 
+            "Why"
+        ], 
+        [
+            "happily", 
+            "happy", 
+            "happiness", 
+            "happier"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "C", 
+        "A", 
+        "D", 
+        "C", 
+        "A"
+    ], 
+    "source": "middle210"
+}

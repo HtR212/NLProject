@@ -1,0 +1,57 @@
+{
+    "article": "Mr. Brown, a teacher in a primary school, often fell asleep in class, but he didn't want his _ to know and do that. One day he again fell asleep in class .When he woke up, one of the _ , Tom, asked him, \"Why did you fall asleep in class just now, dear sir?\"\nMr. Brown's face turned _ . \"I...I...The Sungod   asked me to visit him in my dream.\" he said.\nTom wanted to say something, _ he said nothing. The next day, Tom also fell asleep in class. When the teacher saw him, he _ Tom up and asked him, \"Why did you fall asleep in class and not listen to me, Tom?\"\nTom answered with a smile on his _ ,\"The Sungod asked me to visit him, too. \" The teacher became _ when he heard this and asked,  \"What did he say to you, then? \" \"He told me he didn't see you yesterday.\" Tom said.", 
+    "options": [
+        [
+            "teachers", 
+            "students", 
+            "parents", 
+            "workers"
+        ], 
+        [
+            "boys", 
+            "girls", 
+            "men", 
+            "women"
+        ], 
+        [
+            "black", 
+            "red", 
+            "yellow", 
+            "green"
+        ], 
+        [
+            "but", 
+            "and", 
+            "or", 
+            "so"
+        ], 
+        [
+            "woke", 
+            "put", 
+            "made", 
+            "gave"
+        ], 
+        [
+            "head", 
+            "nose", 
+            "face", 
+            "ear"
+        ], 
+        [
+            "angry", 
+            "happy", 
+            "sad", 
+            "pleased"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "B", 
+        "B", 
+        "B", 
+        "B", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle88"
+}

@@ -1,0 +1,71 @@
+{
+    "article": "Mr. Black takes his daughter  _ a restaurant. They sit down, and there are a lot of  _ in the restaurant. They _  for a long time, but no waiters come to their table.\nMr. Black says, \"I'm  _ , I can't wait.\" He waits for a minute and says, \"Now I am going to  _ something to get a waiter soon.\"\nHe goes out of the restaurant and _ the restaurant, \"My _ is at a table in your restaurant, she wears a red hat.\"\nThe waiter finds the girl and he says to Mr. Black, \"Yes, she's here. Do you want to  _ her?\"\n\"No,\" says Mr. Black, \"But please give her something to eat quickly. She is very _ Then he goes back to the restaurant. He is glad to see that a waiter is now at this table.", 
+    "options": [
+        [
+            "to", 
+            "in", 
+            "on", 
+            "for"
+        ], 
+        [
+            "chairs", 
+            "tables", 
+            "people", 
+            "waiters"
+        ], 
+        [
+            "look", 
+            "eat", 
+            "wait", 
+            "drink"
+        ], 
+        [
+            "thirsty", 
+            "full", 
+            "busy", 
+            "hungry"
+        ], 
+        [
+            "ask", 
+            "do", 
+            "buy", 
+            "find"
+        ], 
+        [
+            "watches", 
+            "tells", 
+            "asks", 
+            "calls"
+        ], 
+        [
+            "daughter", 
+            "student", 
+            "friend", 
+            "father"
+        ], 
+        [
+            "talk", 
+            "listen", 
+            "say", 
+            "tell"
+        ], 
+        [
+            "nice", 
+            "glad", 
+            "hungry", 
+            "interesting"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "C", 
+        "D", 
+        "B", 
+        "D", 
+        "A", 
+        "A", 
+        "C"
+    ], 
+    "source": "middle171"
+}

@@ -1,0 +1,71 @@
+{
+    "article": "I am an American boy. I am thirteen. I  _  in No. 1 Middle School in Tianjin. I often get up  _  half past six from Monday to Friday. I often have a cup of milk, an egg and some bread for my  _  . I go to school at half past seven and get there before eight o'clock, and  _  start at eight. We have four lessons in the  _  and two in the afternoon. At half past three, we  _  games. I work hard and I do very well in all the subjects. I like English and I am good at it. Mike is my good friend. We go home together. I do my homework at home, but  _  at school. I like  watching  TV very much, but I can only watch it on  _  and Sunday. I often go to  _  at about nine o'clock in the evening.", 
+    "options": [
+        [
+            "play", 
+            "study", 
+            "live", 
+            "stay"
+        ], 
+        [
+            "with", 
+            "in", 
+            "on", 
+            "at"
+        ], 
+        [
+            "breakfast", 
+            "lunch", 
+            "dinner", 
+            "supper"
+        ], 
+        [
+            "films", 
+            "works", 
+            "lessons", 
+            "concerts"
+        ], 
+        [
+            "afternoon", 
+            "morning", 
+            "evening", 
+            "night"
+        ], 
+        [
+            "make", 
+            "play", 
+            "watch", 
+            "see"
+        ], 
+        [
+            "sometimes", 
+            "always", 
+            "usually", 
+            "often"
+        ], 
+        [
+            "Monday", 
+            "Friday", 
+            "Saturday", 
+            "Tuesday"
+        ], 
+        [
+            "school", 
+            "class", 
+            "movies", 
+            "bed"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "A", 
+        "C", 
+        "B", 
+        "B", 
+        "A", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle1342"
+}

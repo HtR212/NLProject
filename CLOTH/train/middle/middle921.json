@@ -1,0 +1,57 @@
+{
+    "article": "Mr. Green is an old man. He is very kind, and he has many friends. But there is  _  wrong with his eyes. So he can't see clearly. One day, he went to New York  _  train. He went there to visit his best friend. After he got here  _  the evening, he found his friend  wasn't  at home. So he  had to  find a hotel to live in. The next day, his friend didn't come back. In the afternoon he went to buy two bottles of wine .When he came back to his room in the hotel, he found a fly was on the wall. But he thought it was a snail ,so he put the bottles on  _  .Of course, the fly flew away and the bottles were broken. He had to buy  another  two bottles. The waitress in the hotel knew this, then she put a  _  into the wall. When he came back, he looked up at the wall and found the \"fly\" was there again. So he walked  _  and hit it hard with his hands. At once he cried  _", 
+    "options": [
+        [
+            "something", 
+            "everything", 
+            "nothing", 
+            "anything"
+        ], 
+        [
+            "in", 
+            "on", 
+            "by", 
+            "at"
+        ], 
+        [
+            "at", 
+            "in", 
+            "on", 
+            "from"
+        ], 
+        [
+            "it", 
+            "them", 
+            "that", 
+            "this"
+        ], 
+        [
+            "fly", 
+            "snail", 
+            "bottle", 
+            "friend"
+        ], 
+        [
+            "quickly", 
+            "fast", 
+            "careful", 
+            "quietly"
+        ], 
+        [
+            "loudly", 
+            "happily", 
+            "quickly", 
+            "clearly"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "B", 
+        "A", 
+        "B", 
+        "D", 
+        "A"
+    ], 
+    "source": "middle921"
+}

@@ -1,0 +1,64 @@
+{
+    "article": "What  _ this?   _  a backpack. It's my   _  . What's that?\nIt's a   computer . It is  _  computer. Is that a computer, too ?   No, it isn't . It's a TV set.   _ is my brother.   _  is watching TV. That is my   _ .Her name is  _ .", 
+    "options": [
+        [
+            "is", 
+            "are", 
+            "am", 
+            "be"
+        ], 
+        [
+            "He's", 
+            "She's", 
+            "It's", 
+            "Is"
+        ], 
+        [
+            "ruler", 
+            "ring", 
+            "backpack", 
+            "book"
+        ], 
+        [
+            "He", 
+            "She", 
+            "her", 
+            "I"
+        ], 
+        [
+            "This", 
+            "this", 
+            "it", 
+            "that"
+        ], 
+        [
+            "she", 
+            "She", 
+            "He", 
+            "he"
+        ], 
+        [
+            "brother", 
+            "sister", 
+            "father", 
+            "son"
+        ], 
+        [
+            "Smith", 
+            "Brown", 
+            "Miller", 
+            "Gina"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "C", 
+        "C", 
+        "A", 
+        "C", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle1247"
+}

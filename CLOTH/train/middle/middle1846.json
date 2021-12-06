@@ -1,0 +1,71 @@
+{
+    "article": "Hello! My name's Alice. I'm a high school student. I'm very _ every week. From Monday to Friday I go to school. I do homework in the evening. I'm so tired that I want to have a good rest at weekend. _  my mother often asks me to go _ with her on Saturday morning. It usually _ me about an hour .I _  enjoy these activities. When my mother goes shopping and I sit on a box and wait for her. Last Saturday, there was more noise than usual and everyone was in a hurry. My mother bought _ of things, such as meat, fish, fruit and vegetables. After one _  , a woman came up to me,\"Excuse me,\"she said. \"Are you Alice? Your mother just _ shopping , but her bags are very heavy. She wants you to carry them home _ her.\"", 
+    "options": [
+        [
+            "busy", 
+            "happy", 
+            "thirsty", 
+            "hungry"
+        ], 
+        [
+            "and", 
+            "but", 
+            "so", 
+            "/"
+        ], 
+        [
+            "swimming", 
+            "camp", 
+            "shopping", 
+            "camping"
+        ], 
+        [
+            "spends", 
+            "takes", 
+            "waits", 
+            "stays"
+        ], 
+        [
+            "never", 
+            "always", 
+            "often", 
+            "usually"
+        ], 
+        [
+            "many", 
+            "much", 
+            "lots", 
+            "number"
+        ], 
+        [
+            "minute", 
+            "day", 
+            "minutes", 
+            "hour"
+        ], 
+        [
+            "went", 
+            "bought", 
+            "finished", 
+            "decided"
+        ], 
+        [
+            "to", 
+            "for", 
+            "about", 
+            "like"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "C", 
+        "B", 
+        "A", 
+        "C", 
+        "D", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle1846"
+}

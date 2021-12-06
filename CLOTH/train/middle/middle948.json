@@ -1,0 +1,71 @@
+{
+    "article": "My friend, David Smith, had pet birds. One day he called me and told me he would be  _  for a week. He asked me to feed the birds for him. Unfortunately, I did not  _  to feed the birds until the night before David was going to  _  . I ran to his house quickly and soon found the key he gave me,  _  I couldn't open the door! I kept thinking of  _  David would say when he came back. Then I found that one bedroom window was  _  I put a big stone  _  the window, though it was very heavy. I made lots of noise, but in the end, I climbed up. I had one leg inside the bedroom when I suddenly found that  someone  was shining a flashlight up at  _  . I looked down and  _", 
+    "options": [
+        [
+            "down", 
+            "late", 
+            "around", 
+            "away"
+        ], 
+        [
+            "remember", 
+            "decide", 
+            "agree", 
+            "hope"
+        ], 
+        [
+            "leave", 
+            "finish", 
+            "arrive", 
+            "return"
+        ], 
+        [
+            "so", 
+            "but", 
+            "and", 
+            "or"
+        ], 
+        [
+            "what", 
+            "how", 
+            "when", 
+            "which"
+        ], 
+        [
+            "clean", 
+            "new", 
+            "lost", 
+            "open"
+        ], 
+        [
+            "along", 
+            "under", 
+            "over", 
+            "behind"
+        ], 
+        [
+            "us", 
+            "me", 
+            "them", 
+            "him"
+        ], 
+        [
+            "visited", 
+            "caught", 
+            "saw", 
+            "heard"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "A", 
+        "D", 
+        "B", 
+        "A", 
+        "D", 
+        "B", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle948"
+}

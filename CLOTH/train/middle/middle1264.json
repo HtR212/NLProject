@@ -1,0 +1,57 @@
+{
+    "article": "Look at the girl. She is  _  good friend. She is  _  English girl.  _  name is Kate.  _  twelve. My  _  is Fangfang.  _  a Chinese girl. I'm eleven. Kate  has  a small sports collection. She has  _  tennis racket, three basketballs, and five baseballs, but I only  have  a soccer ball. Kate and I both  play  sports every day.", 
+    "options": [
+        [
+            "his", 
+            "her", 
+            "your", 
+            "my"
+        ], 
+        [
+            "a", 
+            "an", 
+            "the", 
+            "\\"
+        ], 
+        [
+            "His", 
+            "She", 
+            "Her", 
+            "She's"
+        ], 
+        [
+            "She", 
+            "She's", 
+            "Her", 
+            "Her's"
+        ], 
+        [
+            "name", 
+            "book", 
+            "friend", 
+            "bag"
+        ], 
+        [
+            "I", 
+            "I'm", 
+            "She", 
+            "She's"
+        ], 
+        [
+            "one", 
+            "two", 
+            "three", 
+            "four"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "B", 
+        "C", 
+        "B", 
+        "A", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle1264"
+}

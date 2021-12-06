@@ -1,0 +1,71 @@
+{
+    "article": "Dear Mingming, Hi, I'm writing to you in Rizhao. I'm on vacation  _  my parents here. Rinzhao is very beautiful and  there are  lots of beaches. It's  _  today.People are having a good  _  on the beaches. Some are playing beach volleyball, some are enjoying the sunlight, and  _  are playing games.  _  are my parents? Oh, my  _  is lying on the beach, and my mother is  _  in the sea . I'm  _  I have to stop here. My mother wants me to  _  photos for her. I hope you and Lingling are having fun, too.", 
+    "options": [
+        [
+            "with", 
+            "and", 
+            "for", 
+            "near"
+        ], 
+        [
+            "raining", 
+            "cloudy", 
+            "cold", 
+            "sunny"
+        ], 
+        [
+            "dinner", 
+            "lunch", 
+            "time", 
+            "drink"
+        ], 
+        [
+            "they", 
+            "others", 
+            "children", 
+            "other"
+        ], 
+        [
+            "Where", 
+            "Who", 
+            "What", 
+            "How"
+        ], 
+        [
+            "uncle", 
+            "brother", 
+            "father", 
+            "teacher"
+        ], 
+        [
+            "swimming", 
+            "eating", 
+            "shopping", 
+            "singing"
+        ], 
+        [
+            "happy", 
+            "excited", 
+            "sorry", 
+            "shy"
+        ], 
+        [
+            "make", 
+            "do", 
+            "buy", 
+            "take"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "C", 
+        "B", 
+        "A", 
+        "C", 
+        "A", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle1294"
+}

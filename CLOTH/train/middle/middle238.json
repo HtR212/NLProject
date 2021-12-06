@@ -1,0 +1,71 @@
+{
+    "article": "Hello! I'm Jack. I'm  _  Beijing, China. Dale is my friend.  _  last name is Brown. He is in China,  _  I'm in No.2 Middle School. My student  _  is 130934. Dale is in Beijing No.5 Middle School. He  _  in my school. We can  _  in the evening. Jenny and Cindy are Dale's  _  sisters. Jenny's cup and pen are  _  . Blue is her favorite  _  . Cindy is two. She can say \"  How  are you?\" now. The girls are nice.", 
+    "options": [
+        [
+            "at", 
+            "on", 
+            "of", 
+            "in"
+        ], 
+        [
+            "He", 
+            "His", 
+            "She", 
+            "Her"
+        ], 
+        [
+            "too", 
+            "yes", 
+            "no", 
+            "to"
+        ], 
+        [
+            "name", 
+            "key", 
+            "number", 
+            "phone"
+        ], 
+        [
+            "isn't", 
+            "aren't", 
+            "is", 
+            "are"
+        ], 
+        [
+            "say", 
+            "meet", 
+            "see", 
+            "spell"
+        ], 
+        [
+            "five", 
+            "four", 
+            "three", 
+            "two"
+        ], 
+        [
+            "yellow", 
+            "white", 
+            "purple", 
+            "blue"
+        ], 
+        [
+            "school", 
+            "color", 
+            "friend", 
+            "jacket"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "B", 
+        "A", 
+        "C", 
+        "A", 
+        "B", 
+        "D", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle238"
+}

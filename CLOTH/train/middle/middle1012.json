@@ -1,0 +1,71 @@
+{
+    "article": "You are standing in the _ and a voice says, \"Put a little more salt to that soup.\" Yes, it's always nice to have someone help you when you're _ . _ this voice is not from a person. Then _ does it come from? Is it from a ghost ? No, this isn't a ghost kitchen-- it's the kitchen of the future.\nScientists are _ to make everything in the kitchen get better. They are making a system . It will help _ cook a meal.\nThe fridge of the smart kitchen has a scanner . It looks _ the foods in the fridge. It will order more milk from the supermarket when there is no _ in the fridge. It can do a lot of things. Even the knives and spoons will speak. For example, if your food is _ , the knives and spoons will tell you not to eat it.", 
+    "options": [
+        [
+            "bedroom", 
+            "study", 
+            "bathroom", 
+            "kitchen"
+        ], 
+        [
+            "studying", 
+            "cooking", 
+            "walking", 
+            "shopping"
+        ], 
+        [
+            "But", 
+            "And", 
+            "So", 
+            "Or"
+        ], 
+        [
+            "when", 
+            "how", 
+            "where", 
+            "which"
+        ], 
+        [
+            "working", 
+            "teaching", 
+            "running", 
+            "doing"
+        ], 
+        [
+            "we", 
+            "they", 
+            "you", 
+            "it"
+        ], 
+        [
+            "for", 
+            "at", 
+            "after", 
+            "out"
+        ], 
+        [
+            "all", 
+            "others", 
+            "none", 
+            "more"
+        ], 
+        [
+            "bad", 
+            "clean", 
+            "worried", 
+            "good"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "B", 
+        "A", 
+        "C", 
+        "A", 
+        "C", 
+        "B", 
+        "D", 
+        "A"
+    ], 
+    "source": "middle1012"
+}

@@ -1,0 +1,57 @@
+{
+    "article": "_  Monday,Scott comes to school at 8:15 in the morning. He has science  _  eight thirty.He likes  _  because it's interesting.  _  Scott doesn't like math. At eleven he has math. The teacher teaches math very well, but Scott doesn't like him.  Scott' s  favorite teacher is the P.E. teacher, Mr. Stone. He is fun. His class sounds funny. He  has  P.E on Monday afternoon. So Scott  _  Monday. From Monday to  _  , Scott has  _  at school at 11: 45. After school, Scott plays  football  on the school playground, then he goes home. On Saturday and Sunday Scott doesn't go to school.", 
+    "options": [
+        [
+            "On", 
+            "At", 
+            "\\", 
+            "The"
+        ], 
+        [
+            "at", 
+            "in", 
+            "on", 
+            "\\"
+        ], 
+        [
+            "science", 
+            "English", 
+            "Chinese", 
+            "math"
+        ], 
+        [
+            "And", 
+            "But", 
+            "So", 
+            "Then"
+        ], 
+        [
+            "like", 
+            "want", 
+            "wants", 
+            "likes"
+        ], 
+        [
+            "Wednesday", 
+            "Saturday", 
+            "Sunday", 
+            "Friday"
+        ], 
+        [
+            "lunch", 
+            "breakfast", 
+            "supper", 
+            "dinner"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "A", 
+        "A", 
+        "B", 
+        "D", 
+        "D", 
+        "A"
+    ], 
+    "source": "middle1705"
+}

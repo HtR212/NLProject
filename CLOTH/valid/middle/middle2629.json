@@ -1,0 +1,57 @@
+{
+    "article": "Jimmy is new. He is _ English boy. He is twelve years old . He lives in Beijing. Here is a _ of his family. They are Jimmy's father, Jimmy's mother _ Jimmy. His father _ in an office. His mother works in an _ , too. They are both  office _ . Jimmy is a student. He is in a _ . He likes English a lot and his English is good. He often helps other students with their English.", 
+    "options": [
+        [
+            "a", 
+            "the", 
+            "an", 
+            "/"
+        ], 
+        [
+            "book", 
+            "sofa", 
+            "photo", 
+            "car"
+        ], 
+        [
+            "or", 
+            "and", 
+            "with", 
+            "but"
+        ], 
+        [
+            "drives", 
+            "works", 
+            "teaches", 
+            "cooks"
+        ], 
+        [
+            "school", 
+            "hospital", 
+            "office", 
+            "farm"
+        ], 
+        [
+            "workers", 
+            "drivers", 
+            "teachers", 
+            "doctors"
+        ], 
+        [
+            "hospital", 
+            "farm", 
+            "restaurant", 
+            "school"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "C", 
+        "B", 
+        "B", 
+        "C", 
+        "A", 
+        "D"
+    ], 
+    "source": "middle2629"
+}

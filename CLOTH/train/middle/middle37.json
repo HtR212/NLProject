@@ -1,0 +1,71 @@
+{
+    "article": "Dear Marry , M y name is Alice Green . I'm  an American  girl . I'm fourteen years olD. My birthday is March 3 My family is in Beijing now , but my grandparents are still in America . My parents are  _  in a school , they teach English . I have two brothers but  _  sisters . They are Tom and Tony . Tom plays  _  well . He is on the school soccer team . Tony likes  _  very much . He is member of an art cluB. My family all love  _  . We think China is great . I often read some Chinese history books . I think they are very  _  . I like playing the piano . I join the  _  club of my school . Each year we have an Art Festival . My brothers and I study  _  in our school . We are good students . Let's  _  good friends . Please write soon .", 
+    "options": [
+        [
+            "clerks", 
+            "students", 
+            "workers", 
+            "teachers"
+        ], 
+        [
+            "no", 
+            "not", 
+            "two", 
+            "one"
+        ], 
+        [
+            "basketball", 
+            "baseball", 
+            "soccer", 
+            "volleyball"
+        ], 
+        [
+            "computer", 
+            "painting", 
+            "chess", 
+            "sports"
+        ], 
+        [
+            "English", 
+            "China", 
+            "America", 
+            "Canada"
+        ], 
+        [
+            "boring", 
+            "scary", 
+            "funny", 
+            "interesting"
+        ], 
+        [
+            "art", 
+            "music", 
+            "history", 
+            "Chinese"
+        ], 
+        [
+            "good", 
+            "hard", 
+            "nice", 
+            "best"
+        ], 
+        [
+            "be", 
+            "to", 
+            "being", 
+            "are"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "A", 
+        "C", 
+        "B", 
+        "B", 
+        "D", 
+        "B", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle37"
+}

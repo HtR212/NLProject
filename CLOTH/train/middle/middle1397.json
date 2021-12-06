@@ -1,0 +1,71 @@
+{
+    "article": "I have a happy family. There  _  four people in my family. They are my father, my mother, my sister and  _  . My father is a  _  , and he works in a factory . He thinks it's a boring job. He wants  to be  a policeman. My mother is a teacher. She works  _  a school. She thinks  _  job is very interesting. She works hard and often comes back home late. In her free time, she likes reading  _  and magazines. My sister is  _  . She is about one year old. I am a student. I  _  in a school. I like singing. I want to be a  _  when I grow up.", 
+    "options": [
+        [
+            "be", 
+            "is", 
+            "am", 
+            "are"
+        ], 
+        [
+            "I", 
+            "my", 
+            "mine", 
+            "you"
+        ], 
+        [
+            "teacher", 
+            "doctor", 
+            "worker", 
+            "clerk"
+        ], 
+        [
+            "in", 
+            "on", 
+            "at", 
+            "of"
+        ], 
+        [
+            "she", 
+            "he", 
+            "her", 
+            "his"
+        ], 
+        [
+            "story", 
+            "book", 
+            "newspaper", 
+            "books"
+        ], 
+        [
+            "old", 
+            "young", 
+            "busy", 
+            "big"
+        ], 
+        [
+            "study", 
+            "teach", 
+            "play", 
+            "work"
+        ], 
+        [
+            "singer", 
+            "waiter", 
+            "reporter", 
+            "doctor"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "A", 
+        "C", 
+        "A", 
+        "C", 
+        "D", 
+        "B", 
+        "A", 
+        "A"
+    ], 
+    "source": "middle1397"
+}

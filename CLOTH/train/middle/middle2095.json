@@ -1,0 +1,64 @@
+{
+    "article": "People all over the world celebrate Valentine's Day.However, the holiday  is celebrated  differently in different countries  _  each culture has its own Valentine's Day customs. For example,people in the United States and Japan both celebrate Valentine's Day  _  February 14.But in Japan,only romantic partners come together,while in America,it can be shared by anyone  _  is close,friend or lover.Chocolate is the most preferred gift in the US  _  it is common in Japan,too.However,in the US other kinds of gifts are  _  given,and many people exchange cards. The biggest  _  is that in Japan,only girls and women.  give  chocolates to boys and men,but in the US boys and girls will give cards or small gifts to all of  _  friends.And while American men and women both receive gifts,women usually get  _  expensive gifts than men.That's why I would like to be a man in Japan but a woman in the US!", 
+    "options": [
+        [
+            "although", 
+            "where", 
+            "because", 
+            "if"
+        ], 
+        [
+            "on", 
+            "in", 
+            "at", 
+            "by"
+        ], 
+        [
+            "whom", 
+            "who", 
+            "whose", 
+            "which"
+        ], 
+        [
+            "so", 
+            "as", 
+            "and", 
+            "or"
+        ], 
+        [
+            "too", 
+            "either", 
+            "neither", 
+            "also"
+        ], 
+        [
+            "difference", 
+            "differences", 
+            "different", 
+            "differently"
+        ], 
+        [
+            "theirs", 
+            "they", 
+            "them", 
+            "their"
+        ], 
+        [
+            "many", 
+            "more", 
+            "few", 
+            "fewer"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "A", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle2095"
+}

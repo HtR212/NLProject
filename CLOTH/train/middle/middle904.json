@@ -1,0 +1,71 @@
+{
+    "article": "One of my patients, a successful businessman, tells me that before his cancer he would become nervous unless things went a certain way. Happiness was \"  _  the cookie\". If you had the cookie, things were good. If you didn't have the cookie, life wasn't worth  _  . Unfortunately, the cookie kept changing. Sometimes it was money, sometimes power, sometimes a new car. A year and a half  _  he had a cancer, he sits shaking his head, \"It's like I stopped learning  _  to live after I was a kid. When I give my son a cookie, he is happy. If I take the cookie away or it breaks, he is  _  . But he is two and a half and I am forty-three. It's taken me this long to understand that the cookie will never make me happy for long. The  _  you have the cookie, you start to worry about it. You know, you have to  give up  a lot of things to take care of the cookie, to keep it from breaking and be sure that no one takes it away from you. You may not even get a chance to eat it  _  you are so busy just trying not to lose it. Having the cookie is not what life is about.\" My patient  _  and says cancer has changed him. For the first time he is happy. No matter if his business is doing well or not, no matter if he wins or loses at golf. \"Two years ago, cancer asked me, 'Okay, what's important? What is really important?' Well,  _  is important. Life any way you can have it, life with the cookie, life without the cookie. Happiness does not have anything to do with the cookie; it has to do with being alive. Before, who made the time?\" He pauses thoughtfully. \"Damn , I guess life is the cookie.", 
+    "options": [
+        [
+            "cooking", 
+            "buying", 
+            "making", 
+            "having"
+        ], 
+        [
+            "everything", 
+            "anything", 
+            "nothing", 
+            "something"
+        ], 
+        [
+            "before", 
+            "after", 
+            "when", 
+            "since"
+        ], 
+        [
+            "how", 
+            "where", 
+            "which", 
+            "when"
+        ], 
+        [
+            "excited", 
+            "bored", 
+            "surprised", 
+            "unhappy"
+        ], 
+        [
+            "place", 
+            "way", 
+            "minute", 
+            "reason"
+        ], 
+        [
+            "because", 
+            "so", 
+            "and", 
+            "but"
+        ], 
+        [
+            "cries", 
+            "laughs", 
+            "worries", 
+            "shouts"
+        ], 
+        [
+            "life", 
+            "cookie", 
+            "cancer", 
+            "time"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "B", 
+        "B", 
+        "A", 
+        "D", 
+        "C", 
+        "A", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle904"
+}

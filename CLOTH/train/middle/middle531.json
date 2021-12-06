@@ -1,0 +1,71 @@
+{
+    "article": "I am _ American. My name _ Lily. I am a new student. I am twelve. Now I am _ Class Six, Grade One, No.5 Middle School. My teacher is Miss Li. I have a sister. _ name is Lucy. We _ twins . We look the same . But she is in a different school.\nI am on duty today. I can't look after my sister. _ school I help my teacher put her book, map and pictures on her  _ . I tell her everyone is here, _ I am wrong. Jim is not at school. I don't  _  where he is. I think he is at home.", 
+    "options": [
+        [
+            "a", 
+            "an", 
+            "the", 
+            "/"
+        ], 
+        [
+            "am", 
+            "is", 
+            "are", 
+            "be"
+        ], 
+        [
+            "in", 
+            "on", 
+            "to", 
+            "at"
+        ], 
+        [
+            "She", 
+            "Hers", 
+            "She's", 
+            "Her"
+        ], 
+        [
+            "is", 
+            "are", 
+            "am", 
+            "be"
+        ], 
+        [
+            "On", 
+            "At", 
+            "To", 
+            "From"
+        ], 
+        [
+            "chair", 
+            "book", 
+            "desk", 
+            "table"
+        ], 
+        [
+            "and", 
+            "or", 
+            "but", 
+            "so"
+        ], 
+        [
+            "think", 
+            "thank", 
+            "know", 
+            "do"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "B", 
+        "A", 
+        "D", 
+        "B", 
+        "B", 
+        "C", 
+        "C", 
+        "C"
+    ], 
+    "source": "middle531"
+}

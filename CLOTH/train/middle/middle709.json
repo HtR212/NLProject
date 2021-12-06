@@ -1,0 +1,71 @@
+{
+    "article": "One day, the wind starts an argument with the sun. \"I'm much  _  than you are!\" says the wind. \"No.\" answers the sun, \"I'm much stronger than you are!\" While they are arguing, they see a man walking down the road. He is wearing a heavy  _  . The sun says to the wind \"Now let  _  see which of us can make the man take off his coat, then we will know  _  is stronger. \" First the  _  tries. It begins to blow very hard. It blows so hard that the man pulls his coat round him. The wind is  _  with the man. Then the wind says to the sun, \"Now it's your  _  . Let me see if you can make him take off his coat \"The sun  _  to shine on the man. Soon it gets very hot! The man  takes off  his coat. The argument is  _  .", 
+    "options": [
+        [
+            "strong", 
+            "strongest", 
+            "strongly", 
+            "stronger"
+        ], 
+        [
+            "trousers", 
+            "hat", 
+            "coat", 
+            "shoes"
+        ], 
+        [
+            "us", 
+            "we", 
+            "ourselves", 
+            "our"
+        ], 
+        [
+            "whose", 
+            "who", 
+            "when", 
+            "what"
+        ], 
+        [
+            "sun", 
+            "rain", 
+            "cloud", 
+            "wind"
+        ], 
+        [
+            "happy", 
+            "worried", 
+            "angry", 
+            "sad"
+        ], 
+        [
+            "way", 
+            "home", 
+            "hope", 
+            "turn"
+        ], 
+        [
+            "began", 
+            "begins", 
+            "begin", 
+            "beginning"
+        ], 
+        [
+            "out", 
+            "over", 
+            "on", 
+            "off"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "C", 
+        "A", 
+        "B", 
+        "D", 
+        "C", 
+        "D", 
+        "B", 
+        "B"
+    ], 
+    "source": "middle709"
+}

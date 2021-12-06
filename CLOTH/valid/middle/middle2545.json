@@ -1,0 +1,36 @@
+{
+    "article": "My name is Wang Li. My English teacher _ Linda. She is from the USA. _ has a son and a daughter. Her son is Ben. Her daughter is Maria. Her husband  is Paul Black . Mr Black is an English teacher , too. He and his son are _ New York now. Mrs Black and Maria are in China.\n Maria and I are classmates, and we are good friends . I teach  her Chinese and _ teaches me English.", 
+    "options": [
+        [
+            "be", 
+            "is", 
+            "am", 
+            "are"
+        ], 
+        [
+            "She", 
+            "Her", 
+            "He", 
+            "His"
+        ], 
+        [
+            "at", 
+            "from", 
+            "in", 
+            "to"
+        ], 
+        [
+            "he", 
+            "she", 
+            "they", 
+            "her"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle2545"
+}

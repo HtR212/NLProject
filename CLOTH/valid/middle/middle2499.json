@@ -1,0 +1,43 @@
+{
+    "article": "There is a bar in our town with the name \"The White Horse\". It is Mr Webster's.  Few  people went to the bar last year. But things are quite different now. There was a picture of a white horse on the door of the bar. Then a stranger came in one day, drank something,  _  around the bar, and then said to Mr. Webster, \"Few people come here. Take down the picture of the white horse and put a picture of a black horse  instead  \"But the name of the bar is The White Horse,\" Mr. Webster said. \"Yes, but do it.\" the man said. Then he went out of the bar. Mr. Webster went to  an artist  and said, \"I want a picture of a black horse.\"  _  later a picture of a black horse was on the door of the bar instead of the white horse. Soon after the door  _  , a man came in and said, \"There's a  _  on the door of your bar. It is surprising that the picture is different from the name.\" The man looked, sat down and  _  something. Then another man came in and said  the same  , and then another and another. A lot of people came in and said, \"The picture on your door is  wrong  ,\" and they all stopped and drank in Mr. Webster's bar.", 
+    "options": [
+        [
+            "walked", 
+            "turned", 
+            "looked", 
+            "moved"
+        ], 
+        [
+            "Minutes", 
+            "Days", 
+            "Years", 
+            "Centuries"
+        ], 
+        [
+            "closed", 
+            "broke", 
+            "changed", 
+            "opened"
+        ], 
+        [
+            "picture", 
+            "point", 
+            "mistake", 
+            "thought"
+        ], 
+        [
+            "drank", 
+            "eat", 
+            "saw", 
+            "bought"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "D", 
+        "C", 
+        "A"
+    ], 
+    "source": "middle2499"
+}

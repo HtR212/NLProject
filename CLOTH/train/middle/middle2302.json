@@ -1,0 +1,64 @@
+{
+    "article": "A man always went to the same bar  _  the same time every day and asked for two glasses of beer. He drank them and then asked for two _ .\nOne day the man behind the bar said to him, \"Why do you always ask for two glasses of beer? Why don't you get one big glass instead?\"\nThe man answered, \"Because I do not like to  _  alone. I drink  _  my friend.\"\nBut  a few  days later, the man came in and asked only for one beer.\n\"Oh,\" said the barman \"Has your friend died?\"\n\"Oh,  _ ,\" said the man. \"He is very  _ . The beer is  _  him. But I stopped  drinking beer. My doctor doesn't want me to drink any more because it is  _  for me.\"", 
+    "options": [
+        [
+            "in", 
+            "about", 
+            "at", 
+            "on"
+        ], 
+        [
+            "another", 
+            "other", 
+            "more", 
+            "much"
+        ], 
+        [
+            "drink", 
+            "eat", 
+            "play", 
+            "make"
+        ], 
+        [
+            "for", 
+            "with", 
+            "to", 
+            "about"
+        ], 
+        [
+            "yes", 
+            "sure", 
+            "no", 
+            "certainly"
+        ], 
+        [
+            "ill", 
+            "happy", 
+            "angry", 
+            "well"
+        ], 
+        [
+            "to", 
+            "for", 
+            "give", 
+            "with"
+        ], 
+        [
+            "usually", 
+            "badly", 
+            "good", 
+            "bad"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "C", 
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle2302"
+}

@@ -1,0 +1,57 @@
+{
+    "article": "There's a big supermarket called Jiahui in our city. It's very  _  to find. It is in the center of our city. It's  _  the bus stop and it's also very easy to take a taxi, too. The supermarket is big  _  nice. It  is open  at 8:30 a.m. and closes at 10 p.m. So every day, lots of people go  _  at it  _  work. You can buy  _  , drinks, clothes, shoes, vegetables,...and stationery there. The workers at the supermarket are very  _  . So many people like shopping there. At the weekend, people don't go to work or go to school, so there are  too many  people shopping there. We must  wait for  our turn a long time to pay for what we buy.", 
+    "options": [
+        [
+            "hard", 
+            "difficult", 
+            "easy", 
+            "good"
+        ], 
+        [
+            "in", 
+            "near", 
+            "at", 
+            "between"
+        ], 
+        [
+            "but", 
+            "or", 
+            "and", 
+            "/"
+        ], 
+        [
+            "shopping", 
+            "swimming", 
+            "running", 
+            "shop"
+        ], 
+        [
+            "at", 
+            "to", 
+            "after", 
+            "with"
+        ], 
+        [
+            "dogs", 
+            "food", 
+            "cats", 
+            "nothing"
+        ], 
+        [
+            "busy", 
+            "well", 
+            "nice", 
+            "tired"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "C", 
+        "A", 
+        "C", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle1153"
+}

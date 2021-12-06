@@ -1,0 +1,43 @@
+{
+    "article": "Tom's family is having a birthday party. It is to celebrate his thirteenth birthday. At about six o'clock, _ is ready. Jim, one of Tom's best friends, arrives with a big box. Tom opens it _ front of Jim and thanks him for the _ . When he opens the box, he gets a big surprise. It is a toy car. Tom has dreamed to buy a toy car for a long time, and now his dream comes true. He is too excited at at the present to say a word. Jim is happy, too. He knows _ Tom likes best. Mike, Tom's another best friend, is a bit late for the party _ the traffic is heavy. At half past six, the party started They talk, sing and enjoy the delicious dinner .Tom is happy with so many good friends around. He hopes that he can have a party again the next year.", 
+    "options": [
+        [
+            "everything", 
+            "nothing", 
+            "something", 
+            "anything"
+        ], 
+        [
+            "in", 
+            "at", 
+            "to", 
+            "on"
+        ], 
+        [
+            "present", 
+            "clothing", 
+            "party", 
+            "dinner"
+        ], 
+        [
+            "why", 
+            "how", 
+            "what", 
+            "where"
+        ], 
+        [
+            "so", 
+            "because", 
+            "but", 
+            "or"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "A", 
+        "A", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle938"
+}

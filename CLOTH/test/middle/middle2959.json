@@ -1,0 +1,50 @@
+{
+    "article": "We are in Australia for three days. We're having a good time here. Australia is the sixth largest country in the world. There is so much to see that it is impossible  for me to tell you _ . Sydney is one of the most beautiful _ in Australia. There are many big _ and beautiful flowers around the houses and they look really beautiful. There are also some special _ in Australia , such as kangaroos and koalas. They are really lovely.\nIn the past three days we've  visited many _ places around Sydney. I'd like to spend more time here , but we will fly to _ city , Cairns , to see coral beds tomorrow. It is said that words cannot describe the beauty of the colorful corals. Many famous cartoon films were made there. Now we are busy packing our bags so that we will not lose time  before we leave. We can enjoy ourselves in Cairns this time tomorrow. I'm looking forward to going there!", 
+    "options": [
+        [
+            "nothing", 
+            "something", 
+            "everything", 
+            "anything"
+        ], 
+        [
+            "countries", 
+            "towns", 
+            "villages", 
+            "cities"
+        ], 
+        [
+            "trees", 
+            "buildings", 
+            "cars", 
+            "people"
+        ], 
+        [
+            "animals", 
+            "plants", 
+            "buildings", 
+            "places"
+        ], 
+        [
+            "interest", 
+            "interesting", 
+            "interested", 
+            "interests"
+        ], 
+        [
+            "one", 
+            "another", 
+            "a", 
+            "other"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "D", 
+        "A", 
+        "A", 
+        "B", 
+        "B"
+    ], 
+    "source": "middle2959"
+}

@@ -1,0 +1,71 @@
+{
+    "article": "How do you usually go to work? By bus? My  _ have different ways   of going outside.\nMy parents work in a hospital  . The hospital is _ from our home, so they go to work by car. The car ride _ about 45 minutes. My sister has a clothes store. It's about 2 kilometers from her _ to our home. She walks there every day. She thinks walking is good _  health. I'm a middle school student. I take the school bus to school. Many students  _  taking the school bus is boring, but I don't think so, _ I can talk with my classmates on the bus. It gives   me a lot of _ . I like every minute of it.\n _  about your family? Do you have the same way of going outside or different?", 
+    "options": [
+        [
+            "family", 
+            "friends", 
+            "teachers", 
+            "classmates"
+        ], 
+        [
+            "new", 
+            "free", 
+            "far", 
+            "tidy"
+        ], 
+        [
+            "finds", 
+            "takes", 
+            "gets", 
+            "wants"
+        ], 
+        [
+            "club", 
+            "room", 
+            "school", 
+            "store"
+        ], 
+        [
+            "at", 
+            "with", 
+            "to", 
+            "for"
+        ], 
+        [
+            "think", 
+            "know", 
+            "see", 
+            "show"
+        ], 
+        [
+            "so", 
+            "and", 
+            "because", 
+            "but"
+        ], 
+        [
+            "time", 
+            "fun", 
+            "love", 
+            "help"
+        ], 
+        [
+            "When", 
+            "Who", 
+            "Where", 
+            "What"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "B", 
+        "D", 
+        "D", 
+        "A", 
+        "C", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle1791"
+}

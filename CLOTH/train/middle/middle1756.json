@@ -1,0 +1,71 @@
+{
+    "article": "Sophia likes English very much. She spends a lot of time  _  it every day. She usually goes to the school  _  and reads English newspapers. After school, she goes to the city library behind her school. She needs to use the computer there to surf the Internet  _  she does not have a computer at home. She tries hard to chat with her American e-friends in  _  . In fact, Sophia did not like English at first. At that time, studying English was very  _  for her. She did not know the good ways of learning English. But one day, her new English  _  told her the importance of English and taught her how to learn English well. From then on, she started to try to  listen to  English songs, read English newspapers, and write down  _  English sentences in the notebooks. Now, she  _  English very much. She hopes to become an English teacher some day and help more  _  learn English well.", 
+    "options": [
+        [
+            "reading", 
+            "writing", 
+            "listening", 
+            "studying"
+        ], 
+        [
+            "lab", 
+            "library", 
+            "office", 
+            "kitchen"
+        ], 
+        [
+            "so", 
+            "and", 
+            "because", 
+            "but"
+        ], 
+        [
+            "English", 
+            "Chinese", 
+            "Japanese", 
+            "French"
+        ], 
+        [
+            "easy", 
+            "good", 
+            "hard", 
+            "bad"
+        ], 
+        [
+            "doctor", 
+            "manager", 
+            "teacher", 
+            "nurse"
+        ], 
+        [
+            "short", 
+            "strange", 
+            "good", 
+            "sad"
+        ], 
+        [
+            "thanks", 
+            "loves", 
+            "knows", 
+            "believes"
+        ], 
+        [
+            "musicians", 
+            "animals", 
+            "parents", 
+            "students"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "C", 
+        "A", 
+        "C", 
+        "C", 
+        "C", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle1756"
+}

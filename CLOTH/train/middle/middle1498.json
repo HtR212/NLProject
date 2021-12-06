@@ -1,0 +1,50 @@
+{
+    "article": "Mr Jones went to the sea for a holiday one summer.He  _  in a cheap hotel  _  he was not a rich man.At 7:00 am  _  the first morning a woman came and said,\"Please get up.\"Mr Jones hated getting up  _  .\"I'm still  _  tired.\"The woman went away,but at 8:00 am  another  one came and said to Mr Jones,\" please get up.We need the sheets  _  your bed.\"Mr Jones still wanted to sleep,so he answered  angrily  \"Why?\"\" Because breakfast is starting,\"answered the woman,\" and we need  to put  them on our tables. They are our tablecloth,  too  .\"", 
+    "options": [
+        [
+            "stay", 
+            "stayed", 
+            "stays", 
+            "staying"
+        ], 
+        [
+            "because", 
+            "when", 
+            "and", 
+            "or"
+        ], 
+        [
+            "for", 
+            "from", 
+            "on", 
+            "at"
+        ], 
+        [
+            "early", 
+            "late", 
+            "later", 
+            "last"
+        ], 
+        [
+            "even", 
+            "any", 
+            "very", 
+            "some"
+        ], 
+        [
+            "in", 
+            "from", 
+            "with", 
+            "up"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "C", 
+        "A", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle1498"
+}

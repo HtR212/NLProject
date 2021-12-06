@@ -1,0 +1,50 @@
+{
+    "article": "My  _  home is in the country  . The air there is fresh and it is  _ . My house is very beautiful. There are three floors. There is a river  in front of my house and behind  it is a big garden. I can _ trees and flowers in it .I like to see green everywhere and green is my _ color. I like to work in the _ and fish in the river. I'd like to invite my friends at my home .Then we can chat and play games. How _ we are.", 
+    "options": [
+        [
+            "dream", 
+            "day", 
+            "dreams", 
+            "night"
+        ], 
+        [
+            "quite", 
+            "quiet", 
+            "quietly", 
+            "quietly"
+        ], 
+        [
+            "grow", 
+            "make", 
+            "read", 
+            "do"
+        ], 
+        [
+            "best", 
+            "favourite.", 
+            "like", 
+            "well"
+        ], 
+        [
+            "park", 
+            "garden", 
+            "house", 
+            "home"
+        ], 
+        [
+            "happy", 
+            "happily", 
+            "please", 
+            "unhappy"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "A", 
+        "B", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle1880"
+}

@@ -1,0 +1,50 @@
+{
+    "article": "Hi! My name is Li Weikang. I'm fourteen years old. I'm _ Class 4, Grade 7. Today I'd like to tell you something about our classroom.\nWe have a big and bright classroom. There are twenty-four boys and twenty -two girls in our class. So there are _ desks and chairs in the classroom. There are two blackboards in it, _ . In front of one blackboard, there is a _ desk. Some flowers are on it. There are two maps _ the wall. One is a map of China, and the other is a map of the world . There is a book shelf _ the back of the classroom. We have lessons here and we clean our classroom every day. Our classroom is very nice and I like it very much.", 
+    "options": [
+        [
+            "at", 
+            "on", 
+            "in", 
+            "out"
+        ], 
+        [
+            "forty-five", 
+            "fifty-six", 
+            "forty-eight", 
+            "forty-six"
+        ], 
+        [
+            "also", 
+            "too", 
+            "near", 
+            "early"
+        ], 
+        [
+            "teacher's", 
+            "teacher", 
+            "teachers", 
+            "teachers'"
+        ], 
+        [
+            "on", 
+            "in", 
+            "under", 
+            "behind"
+        ], 
+        [
+            "in", 
+            "on", 
+            "at", 
+            "/"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "D", 
+        "B", 
+        "A", 
+        "A", 
+        "C"
+    ], 
+    "source": "middle2083"
+}

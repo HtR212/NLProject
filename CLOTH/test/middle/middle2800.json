@@ -1,0 +1,71 @@
+{
+    "article": "Do you know S. H. E? It is a  _  group  _  Taiwan, China. There are  _  lovely girls in it. They  _  Selina, Hebe and Ella. They are very popular. Lots of girls like Selina because she is very  _  . She has long straight hair. She is of medium  _  and thin. Ella is  _  cool! She looks  _  a boy. She is of medium height and a little heavy. She always  _  short, straight hair and  wears  a jacket. Many fans think she sings very well. Hebe is a nice girl. She isn't tall and she is of medium build. She has long, straight hair, too.", 
+    "options": [
+        [
+            "sing", 
+            "singing", 
+            "dance", 
+            "dancing"
+        ], 
+        [
+            "from", 
+            "in", 
+            "at", 
+            "on"
+        ], 
+        [
+            "one", 
+            "two", 
+            "three", 
+            "four"
+        ], 
+        [
+            "am", 
+            "is", 
+            "are", 
+            "have"
+        ], 
+        [
+            "beauty", 
+            "beautiful", 
+            "ugly", 
+            "careful"
+        ], 
+        [
+            "high", 
+            "height", 
+            "short", 
+            "long"
+        ], 
+        [
+            "much", 
+            "many", 
+            "really", 
+            "real"
+        ], 
+        [
+            "as", 
+            "for", 
+            "on", 
+            "like"
+        ], 
+        [
+            "have", 
+            "has", 
+            "is", 
+            "had"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "C", 
+        "C", 
+        "B", 
+        "B", 
+        "C", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle2800"
+}

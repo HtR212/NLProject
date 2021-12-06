@@ -1,0 +1,64 @@
+{
+    "article": "Mrs Smith has three children, Peter, Jenny and Linda. Jenny is the oldest and Linda is the youngest. Peter is in the  _  , but he is the tallest one. Peter is very  _  , so he is on a diet . He tries not to  _  too much meat. He also  does exercise  every day. He runs every day. Now Peter is becoming thinner and stronger. Jenny is a  _  . Maybe she is the busiest person in the family. She  _  rests at home and her family can often see her reporting news  _  TV. As a housewife, Mrs Smith is the  freest  in the family. she can do everything she likes. she likes both  _  and taking pictures .  _  she often shows the pictures of the delicious food she cooks on her blog . She has a lot of fans.", 
+    "options": [
+        [
+            "middle", 
+            "front", 
+            "black", 
+            "late"
+        ], 
+        [
+            "short", 
+            "thin", 
+            "young", 
+            "fat"
+        ], 
+        [
+            "sell", 
+            "work", 
+            "eat", 
+            "drink"
+        ], 
+        [
+            "teacher", 
+            "reporter", 
+            "doctor", 
+            "actor"
+        ], 
+        [
+            "sometimes", 
+            "always", 
+            "almost", 
+            "hardly"
+        ], 
+        [
+            "in", 
+            "on", 
+            "for", 
+            "to"
+        ], 
+        [
+            "cooking", 
+            "singing", 
+            "speaking", 
+            "painting"
+        ], 
+        [
+            "But", 
+            "So", 
+            "If", 
+            "Though"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "C", 
+        "B", 
+        "D", 
+        "B", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle2694"
+}

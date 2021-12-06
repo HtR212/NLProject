@@ -1,0 +1,57 @@
+{
+    "article": "Many taxi drivers in Beijing are in a club called \"Ham Radio Community \". Through the radio of the  _  , they can talk and help each other. Chang Tong has been a Beijing taxi  _  for over ten years. He is a member of the Ham Community. He said, \"Since joining the  _  I feel that I have a lot of friends around me while driving. It has much more fun now.\" Other members of them of the team are as  _  as Chang Tong. A driver named Mao Lixin was saved from serious situation . One night, two men  _  his taxi and told him to drive them to a far-away place. During the drive, they wanted to go to different  places  many times. Mao was afraid that  something bad  would happen and sent a message for help. Some member drivers got the  _  , and they drove close to Mao to follow his car. At last two men got out of the car without  _  him any money, but nothing else happened. When one driver is in need of help,  others  from all across the city will give him or her a hand. To these taxi drivers, Ham Radio gives them some pleasure during their boring daily driving.", 
+    "options": [
+        [
+            "bus", 
+            "train", 
+            "plane", 
+            "taxi"
+        ], 
+        [
+            "teacher", 
+            "worker", 
+            "driver", 
+            "doctor"
+        ], 
+        [
+            "school", 
+            "club", 
+            "class", 
+            "team"
+        ], 
+        [
+            "exciting", 
+            "excited", 
+            "surprised", 
+            "surprising"
+        ], 
+        [
+            "drove", 
+            "ran", 
+            "stopped", 
+            "called"
+        ], 
+        [
+            "message", 
+            "letters", 
+            "books", 
+            "telephone"
+        ], 
+        [
+            "spending", 
+            "taking", 
+            "sending", 
+            "paying"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "C", 
+        "B", 
+        "B", 
+        "C", 
+        "A", 
+        "D"
+    ], 
+    "source": "middle2792"
+}

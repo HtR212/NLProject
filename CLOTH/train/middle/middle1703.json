@@ -1,0 +1,64 @@
+{
+    "article": "What do you do after school? You may say you go  home  and do  _  homework. But I think we can have  many  other things to do after class.\nWe can  _  different clubs, like the art club and the music club. What can you do? If you swim well, you can be in the  _  club. Maybe  you can't play the violin  _  the guitar well, but you can  _  to play them at the music club.  _  some people there can help you and you can   _  friends. I like books and I often go to the  _  club. I can talk with other people, so I am very happy every day. Do you like books? Come to join us.", 
+    "options": [
+        [
+            "your", 
+            "my", 
+            "our", 
+            "her"
+        ], 
+        [
+            "join", 
+            "come", 
+            "go", 
+            "play"
+        ], 
+        [
+            "swimming", 
+            "chess", 
+            "music", 
+            "sports"
+        ], 
+        [
+            "and", 
+            "but", 
+            "or", 
+            "however"
+        ], 
+        [
+            "know", 
+            "learn", 
+            "let", 
+            "talk"
+        ], 
+        [
+            "Then", 
+            "But", 
+            "Or", 
+            "To"
+        ], 
+        [
+            "have", 
+            "make", 
+            "take", 
+            "dress"
+        ], 
+        [
+            "art", 
+            "music", 
+            "reading", 
+            "English"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "A", 
+        "A", 
+        "C", 
+        "B", 
+        "A", 
+        "B", 
+        "C"
+    ], 
+    "source": "middle1703"
+}

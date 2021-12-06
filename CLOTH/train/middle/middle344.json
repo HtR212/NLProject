@@ -1,0 +1,71 @@
+{
+    "article": "Hello, boys and girls! I  _  Frank Smith. Frank is my  _  name. Smith is my  _  name. This is  _  backpack. It is black. Oh, that is  _  eraser. Its color is  white  .But it  _  my eraser. I found it  _  the school library. Is this  _  eraser? Please  _  me at 687-5926.", 
+    "options": [
+        [
+            "is", 
+            "are", 
+            "am", 
+            "be"
+        ], 
+        [
+            "last", 
+            "family", 
+            "full", 
+            "first"
+        ], 
+        [
+            "first", 
+            "one", 
+            "last", 
+            "given"
+        ], 
+        [
+            "you", 
+            "my", 
+            "I", 
+            "me"
+        ], 
+        [
+            "a", 
+            "an", 
+            "the", 
+            "/"
+        ], 
+        [
+            "am", 
+            "is", 
+            "isn't", 
+            "aren't"
+        ], 
+        [
+            "in", 
+            "to", 
+            "of", 
+            "at"
+        ], 
+        [
+            "your", 
+            "you", 
+            "me", 
+            "my"
+        ], 
+        [
+            "meet", 
+            "call", 
+            "thank", 
+            "look"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "D", 
+        "C", 
+        "B", 
+        "B", 
+        "C", 
+        "A", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle344"
+}

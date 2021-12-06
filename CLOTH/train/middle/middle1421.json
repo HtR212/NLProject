@@ -1,0 +1,71 @@
+{
+    "article": "A man took a pair of shoes to a shoe repair shop and said to the shoemaker, \"I'd like you to repair these shoes for me, please.\" \"Certainly, sir,\" the shoemaker said. \"When will they be  _  \" the man asked. \"I'm a bit busy, but they'll be ready for you  _  Thursday.\" he said. That's fine,\" the man said, and left the shop. The next morning he  _  a letter, offering him a job in  another  country. Within 24 hours he was on an airplane to his new job. Twenty years passed and he returned to his hometown. He remembered his  _  . \"They were a good pair of shoes,\" he thought. \"I wonder  _  the shoemaker is still there and still has them. I'll go and see. He was  _  to see that the shoemaker was still in the same shop,  _  he was an old man by now. \"Good morning,\" he said to him. \"Twenty years ago, I brought in a pair of shoes to be repaired. Do you think you've still got them?\" \"Name?\" the old shoemaker asked. \"Smith,\" the man said. \"I'll go and see. They may be out back.\" The shoemaker went out to the back of his shop -and a few minutes later returned,  _  the pair of shoes. \"Here we are,\" he said. \"One pair of brown shoes to be repaired. I'm a bit busy now, but they'll  _  be ready on Thursday.\"", 
+    "options": [
+        [
+            "ready", 
+            "well", 
+            "fine", 
+            "good"
+        ], 
+        [
+            "in", 
+            "at", 
+            "on", 
+            "for"
+        ], 
+        [
+            "got", 
+            "accepted", 
+            "obtained", 
+            "received"
+        ], 
+        [
+            "letters", 
+            "shoes", 
+            "coats", 
+            "wallet"
+        ], 
+        [
+            "which", 
+            "that", 
+            "if", 
+            "whether"
+        ], 
+        [
+            "pleased", 
+            "sad", 
+            "angry", 
+            "disappointed"
+        ], 
+        [
+            "though", 
+            "although", 
+            "but", 
+            "and"
+        ], 
+        [
+            "carry", 
+            "carried", 
+            "carrying", 
+            "carries"
+        ], 
+        [
+            "mainly", 
+            "exactly", 
+            "mostly", 
+            "probably"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "D", 
+        "B", 
+        "C", 
+        "A", 
+        "B", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle1421"
+}

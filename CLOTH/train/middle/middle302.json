@@ -1,0 +1,71 @@
+{
+    "article": "My name is Dave. I'm an 18-month-old _ . Alan and Tina are my owners they love me, but they always _ me alone at home when they go bike riding. Do they like it more _ me? Though I know they have their own hobbies, I hate the feeling of being lonely.\nLast night, _ I was lying on the floor and watching outside, Alan and Tina rushed in. Alan shouted, \" Hi, Dave! Look! We have _ news for you. We bought a new bike with a sidecar . From now on, you'll be able to go bike riding with us. We also _ something for you! \" Alan took out a special dog hat, clothes and a pair of _ from his schoolbag. \" They can protect you from the wind and sun when you are travelling with us. And you don't _ to stay at home alone any more,\" Tina said. Then she helped me put them on. They both thought I was cool in the hat and the sunglasses.\nNow I'm sitting by their side on the  _ . I'm so excited!", 
+    "options": [
+        [
+            "cat", 
+            "boy", 
+            "dog", 
+            "girl"
+        ], 
+        [
+            "find", 
+            "leave", 
+            "forget", 
+            "ask"
+        ], 
+        [
+            "of", 
+            "as", 
+            "to", 
+            "than"
+        ], 
+        [
+            "before", 
+            "after", 
+            "while", 
+            "until"
+        ], 
+        [
+            "sad", 
+            "funny", 
+            "bad", 
+            "good"
+        ], 
+        [
+            "borrowed", 
+            "bought", 
+            "spent", 
+            "brought"
+        ], 
+        [
+            "sunglasses", 
+            "pants", 
+            "socks", 
+            "shoes"
+        ], 
+        [
+            "want", 
+            "dream", 
+            "like", 
+            "need"
+        ], 
+        [
+            "chair", 
+            "bike", 
+            "floor", 
+            "car"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "D", 
+        "C", 
+        "B", 
+        "B", 
+        "A", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle302"
+}

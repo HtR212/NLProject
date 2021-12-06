@@ -1,0 +1,57 @@
+{
+    "article": "Welcome  _  the zoo,everyone!Here is our tour plan. Listen  carefully.First we will  _  the Children's Zoo.After that,we will walk  _  the Bird World.Next is the African Area. _  are elephants and lions!Don't  _  afraid;the cages are safe.\nThen,we will have  _  lunch.Everybody brought your lunch,right?Some of you don't have drinks.There are many places  to sell  drinks.\nAfter lunch,we will go to the Asian Area.Last,there is the Butterfly Park.It's across  _  the Snake Park.Then,we will come back here and get on the bus.Remember,don't feed the animals.\nOK.Let's  have some fun !", 
+    "options": [
+        [
+            "to", 
+            "in", 
+            "from", 
+            "at"
+        ], 
+        [
+            "see", 
+            "look", 
+            "visit", 
+            "watch"
+        ], 
+        [
+            "at", 
+            "across", 
+            "in", 
+            "to"
+        ], 
+        [
+            "They", 
+            "It", 
+            "There", 
+            "Where"
+        ], 
+        [
+            "am", 
+            "is", 
+            "are", 
+            "be"
+        ], 
+        [
+            "a", 
+            "an", 
+            "the", 
+            "/"
+        ], 
+        [
+            "to", 
+            "from", 
+            "on", 
+            "for"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "D", 
+        "C", 
+        "D", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle1476"
+}

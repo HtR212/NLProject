@@ -1,0 +1,71 @@
+{
+    "article": "Tony is an American boy, and he is 14 years old. His parents work in a hospital in Beijing, so he comes to _ , too. Now he studies at No. 1 Middle School. He makes a lot of new friends here. Zhang Hong is _ best friend. He is one year older than Tony.\nToday is Dragon Boat Festival . Zhang Hong _ Tony to his home. In the morning, Tony takes a bus to Zhang Hong's home _ some chocolates. Zhang Hong's parents are very happy to see Tony. It's his _ time to taste so _ traditional  Chinese food. He even learns to make rice dumplings  from Zhang Hong's mother. Zhang Hong's mother is a good _ in a restaurant  . Zhang Hong's father teaches the two boys to play some new computer games. They have a great time in the morning.\nAfter lunch, the two boys go out to the _ . There are dragon boat races  in the afternoon. When they go back home, they are tired. _ they enjoy themselves very much.", 
+    "options": [
+        [
+            "Nanjing", 
+            "Beijing", 
+            "Shanghai", 
+            "Tianjing"
+        ], 
+        [
+            "he's", 
+            "him", 
+            "his", 
+            "her"
+        ], 
+        [
+            "asks", 
+            "tells", 
+            "orders", 
+            "pleases"
+        ], 
+        [
+            "in", 
+            "without", 
+            "from", 
+            "with"
+        ], 
+        [
+            "one", 
+            "first", 
+            "last", 
+            "/"
+        ], 
+        [
+            "many", 
+            "much", 
+            "few", 
+            "little"
+        ], 
+        [
+            "teacher", 
+            "doctor", 
+            "singer", 
+            "cook"
+        ], 
+        [
+            "park", 
+            "hospital", 
+            "school", 
+            "cinema"
+        ], 
+        [
+            "But", 
+            "And", 
+            "Or", 
+            "So"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "A", 
+        "D", 
+        "B", 
+        "B", 
+        "D", 
+        "A", 
+        "A"
+    ], 
+    "source": "middle1504"
+}

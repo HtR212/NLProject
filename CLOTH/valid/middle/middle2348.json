@@ -1,0 +1,64 @@
+{
+    "article": "Mr. Jackson began his trip last Saturday. Two days later when he was traveling in the country  by car , he saw a dog behind a man. As the car came near them, the dog suddenly started to  _  the road. Of course the car hit the poor animal and killed it. Mr. Jackson  _  his car and walked to the man. \"I'm very  _  that this happened.\" he said. \"How much shall I  _ ? Will ten dollars be enough?\"  \"Oh, yes.\" said the man. \"Ten dollars will be  _  enough.\" Mr. Jackson put his hand into his pocket, but he only  found  five dollars in the pocket. \"Sorry, sir, I've only _ five dollars.\" Said Mr. Jackson. \"No problem. That's enough.\" the fat man replied. \"Thanks a lot. That's very kind of you.\" Mr. Jackson thanked the fat man and  _  away. When the car went away, the fat man looked down at the dog and thought. \"I want to know  _  dog it is.\"", 
+    "options": [
+        [
+            "go", 
+            "cross", 
+            "run", 
+            "jump"
+        ], 
+        [
+            "started", 
+            "ran", 
+            "stopped", 
+            "jumped"
+        ], 
+        [
+            "sad", 
+            "lucky", 
+            "sorry", 
+            "pleased"
+        ], 
+        [
+            "give", 
+            "take", 
+            "bring", 
+            "pay"
+        ], 
+        [
+            "quite", 
+            "very", 
+            "much", 
+            "so"
+        ], 
+        [
+            "seen", 
+            "had", 
+            "got", 
+            "paid"
+        ], 
+        [
+            "drove", 
+            "ran", 
+            "walked", 
+            "started"
+        ], 
+        [
+            "what", 
+            "whose", 
+            "which", 
+            "where"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "C", 
+        "D", 
+        "A", 
+        "C", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle2348"
+}

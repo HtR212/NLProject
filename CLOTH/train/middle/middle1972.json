@@ -1,0 +1,64 @@
+{
+    "article": "Early in the morning, at noon, or in the evening in big cities and in the countryside, all over the United States, you can see Americans running -- men and women, young and old. People run  _  -- along the beaches of California,  _  Central Park in New York, down quiet streets in small towns or at the gym. Some people even run in  _  living rooms. Running wasn't so popular in the past. In the 1960s, runners were mostly athletes and healthy strong people. When people saw a runner, they used  to ask  ,\"Hey, what's the hurry for?\"or they might say to  _  ,\"Is he crazy?\"At that time, women almost never ran. If they did, they might be laughed at. But today all these have  _  Men and women of all  _  enjoy running. Doctors say many of the health problems in the United States  come from  these bad habits: eating too much, smoking cigarettes, and taking  _  exercise. Doctors tell us,\"Eat less, don't smoke, and exercise more. \"Running is a good exercise  _  it helps build strong hearts and lungs. It also helps most people lose weight.", 
+    "options": [
+        [
+            "anywhere", 
+            "somewhere", 
+            "everywhere", 
+            "nowhere"
+        ], 
+        [
+            "among", 
+            "through", 
+            "with", 
+            "on"
+        ], 
+        [
+            "our", 
+            "your", 
+            "his", 
+            "their"
+        ], 
+        [
+            "them", 
+            "themselves", 
+            "their", 
+            "they"
+        ], 
+        [
+            "changed", 
+            "stopped", 
+            "worked", 
+            "done"
+        ], 
+        [
+            "people", 
+            "cities", 
+            "villages", 
+            "ages"
+        ], 
+        [
+            "few", 
+            "many", 
+            "much", 
+            "little"
+        ], 
+        [
+            "how", 
+            "where", 
+            "because", 
+            "until"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "D", 
+        "B", 
+        "A", 
+        "D", 
+        "D", 
+        "C"
+    ], 
+    "source": "middle1972"
+}

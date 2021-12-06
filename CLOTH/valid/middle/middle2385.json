@@ -1,0 +1,64 @@
+{
+    "article": "Today is Tuesday. We are having a  _  class in the classroom. Ms Chen is telling us what water is like. After that, she asks us \"  _  water like?\" No one speaks for  a few  minutes. Ms Chen asks again,\"Why don't you  _  my question? Don't I tell you what water is like?\" A boy names Zhang Hui puts up his  _  and says,\"Ms Chen, you tell us that water has no color  _  no smell. But  _  can we find that kind of water? The  _  in the river behind my house is always black and it has bad smell. \"Most of us  _  with him. \"I am sorry, children,\" says Ms Chen. \"Our water is getting  dirtier and dirtier  . That's a problem.\"", 
+    "options": [
+        [
+            "English", 
+            "history", 
+            "chemistry", 
+            "music"
+        ], 
+        [
+            "What's", 
+            "Where's", 
+            "When's", 
+            "How's"
+        ], 
+        [
+            "tell", 
+            "answer", 
+            "say", 
+            "talk"
+        ], 
+        [
+            "hand", 
+            "leg", 
+            "tooth", 
+            "foot"
+        ], 
+        [
+            "or", 
+            "and", 
+            "but", 
+            "with"
+        ], 
+        [
+            "why", 
+            "who", 
+            "where", 
+            "what"
+        ], 
+        [
+            "food", 
+            "fruit", 
+            "fish", 
+            "water"
+        ], 
+        [
+            "talk", 
+            "run", 
+            "laugh", 
+            "agree"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "B", 
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "D"
+    ], 
+    "source": "middle2385"
+}

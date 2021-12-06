@@ -1,0 +1,71 @@
+{
+    "article": "Mr. Brown is 75 years old. He lives with his daughter's family. Every morning he goes to _ in the park. And at twelve thirty he _ home for lunch. But today a _ car stops at his house at twelve. Two policemen  help him get out. One of _ says to Mr. Brown's daughter, \"The old man can't find his _ in the park. He calls us to take him to his home in our car.\" The daughter _ the policemen and the policemen leaves . Then she asks her _ , \"You go to that park to walk every day and you _ lose your way. But today, you can't find the way. What's wrong with you?\" \"I can find my way. I just don't _ to walk home today,\" the old man says and smiles   like a child.", 
+    "options": [
+        [
+            "walk", 
+            "sing", 
+            "dance", 
+            "read"
+        ], 
+        [
+            "cleans", 
+            "comes", 
+            "thinks", 
+            "crosses"
+        ], 
+        [
+            "police", 
+            "school", 
+            "hospital", 
+            "restaurant"
+        ], 
+        [
+            "us", 
+            "you", 
+            "them", 
+            "theirs"
+        ], 
+        [
+            "way", 
+            "car", 
+            "bike", 
+            "wallet"
+        ], 
+        [
+            "asks", 
+            "helps", 
+            "teaches", 
+            "thanks"
+        ], 
+        [
+            "mother", 
+            "father", 
+            "son", 
+            "daughter"
+        ], 
+        [
+            "always", 
+            "sometimes", 
+            "often", 
+            "never"
+        ], 
+        [
+            "know", 
+            "show", 
+            "want", 
+            "talk"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "A", 
+        "C", 
+        "A", 
+        "D", 
+        "B", 
+        "D", 
+        "C"
+    ], 
+    "source": "middle1372"
+}

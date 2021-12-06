@@ -1,0 +1,64 @@
+{
+    "article": "Once there was a little boy. He got angry easily. His father gave  _  some nails and told him: \"When you get  _  , put a nail into the wall.\" On the first day, the boy  _  some nails into the wall. The next day, he put in  _  nails. A few days later, he found it much  _  not to get angry. After a while, the boy was happy every day. Then, his father asked him to  take out  a nail each day if he didn't get angry. After some time, all the  _  were gone. Then the father took the boy to the wall and said: \"Well done, son. But, look, the wall is full of holes . It will  _  be the same. When you say things in anger , they leave a scar in people's hearts. No matter how many times you say  _  , the scars will always be there.\" It's not nice to  leave  scars in people's hearts. So please hold back your anger. Think before you say angry things to friends and family.", 
+    "options": [
+        [
+            "him", 
+            "his", 
+            "he", 
+            "her"
+        ], 
+        [
+            "happy", 
+            "sad", 
+            "angry", 
+            "outgoing"
+        ], 
+        [
+            "puts", 
+            "put", 
+            "putting", 
+            "puted"
+        ], 
+        [
+            "less", 
+            "least", 
+            "fewer", 
+            "fewest"
+        ], 
+        [
+            "easy", 
+            "easier", 
+            "easiest", 
+            "hard"
+        ], 
+        [
+            "people", 
+            "walls", 
+            "boys", 
+            "nails"
+        ], 
+        [
+            "usually", 
+            "often", 
+            "sometimes", 
+            "never"
+        ], 
+        [
+            "good-bye", 
+            "hello", 
+            "sorry", 
+            "thank-you"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "B", 
+        "C", 
+        "B", 
+        "D", 
+        "D", 
+        "C"
+    ], 
+    "source": "middle1630"
+}

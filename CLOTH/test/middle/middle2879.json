@@ -1,0 +1,64 @@
+{
+    "article": "One night a young American doctor was sleeping at home when his doorbell began to ring. When he opened the door he saw a man  _  outside. \"Excuse me, Doctor,\"said the man. \"Can you come at once to a place out of town. It's quite far but you have a car and I can  _  you the way\" \"Certainly,\" said the doctor, \"I'm ready. I'll come soon.\"  _  few minutes, the car came. The man got into the car and they  _  off. They drove for a  _  time, and then the man said, \"Here we are. This is my home. Now I can pay you and you can go  _  to town.\" \"But I must  see  the patient,\" the doctor said. \"Where's the patient?\"\"There's  _  patient,\" answered the man. \"Nobody is ill. I live here, you see, and I must  _  ome from the town. There are no taxis at this time of the night. Here's the money for you. Thank you, doctor. Good  night  !", 
+    "options": [
+        [
+            "listening", 
+            "standing", 
+            "sitting", 
+            "watching"
+        ], 
+        [
+            "take", 
+            "pass", 
+            "see", 
+            "show"
+        ], 
+        [
+            "After", 
+            "For", 
+            "In", 
+            "With"
+        ], 
+        [
+            "drove", 
+            "left", 
+            "got", 
+            "went"
+        ], 
+        [
+            "short", 
+            "long", 
+            "hard", 
+            "late"
+        ], 
+        [
+            "away", 
+            "quickly", 
+            "back", 
+            "slowly"
+        ], 
+        [
+            "my", 
+            "no", 
+            "a", 
+            "your"
+        ], 
+        [
+            "go", 
+            "lose", 
+            "find", 
+            "ask"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "C", 
+        "D", 
+        "B", 
+        "C", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle2879"
+}

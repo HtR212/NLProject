@@ -1,0 +1,71 @@
+{
+    "article": "Hello, everyone! I' m Caitlin. I'd like to tell _ something about my story. Four years ago, I needed to pay for university _ my parents couldn't pay for it all. My teacher told me about Student Aid . I felt very excited, but I knew it wasn't _ to get the aid. After several minutes' _ , I decided to have a try. But I failed. I _ a plan for my university. I asked my parents to pay for the first year. Then I tried my best to make _ to pay for the rest.\nWhen I was a little girl, I wanted to be a _ . I often asked my friends to do their homework and acted _ a teacher. To make my dream come true , I worked hard at university. Now , I become a _ teacher. I want to tell you that there must be a way. You just have to find it.", 
+    "options": [
+        [
+            "him", 
+            "you", 
+            "her", 
+            "it"
+        ], 
+        [
+            "although", 
+            "so", 
+            "because", 
+            "or"
+        ], 
+        [
+            "easy", 
+            "useful", 
+            "hard", 
+            "enough"
+        ], 
+        [
+            "sleeping", 
+            "resting", 
+            "crying", 
+            "thinking"
+        ], 
+        [
+            "wanted", 
+            "asked", 
+            "told", 
+            "made"
+        ], 
+        [
+            "time", 
+            "money", 
+            "food", 
+            "advice"
+        ], 
+        [
+            "pilot", 
+            "nurse", 
+            "doctor", 
+            "teacher"
+        ], 
+        [
+            "to", 
+            "as", 
+            "with", 
+            "for"
+        ], 
+        [
+            "serious", 
+            "poor", 
+            "kind", 
+            "real"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "C", 
+        "A", 
+        "D", 
+        "D", 
+        "B", 
+        "D", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle1648"
+}

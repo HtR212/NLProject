@@ -1,0 +1,71 @@
+{
+    "article": "Hello, Do you know  _  ? My name  _  Cindy Brown. Cindy is my  _  name and Brown is my family name. I am a  _  . I am nine years old. My  telephone number  is 667-1298. There are  _  people in my family---my parents, my brother and I. We all like fruit and vegetables. My name is Sonia Hall. I am an  _  girl. I am 13. There are four people in my family. They are  _  parents, my brother and I. I also have a cousin. She is my uncle's  _  .We are good  _  . I have a bedroom . A computer and a CD player are on a desk . The bookcase is near the door and my books are on it. I like sports very much, so the books are about sports. I like football and baseball", 
+    "options": [
+        [
+            "me", 
+            "I", 
+            "my", 
+            "us"
+        ], 
+        [
+            "am", 
+            "are", 
+            "is", 
+            "be"
+        ], 
+        [
+            "last", 
+            "Chinese", 
+            "one", 
+            "first"
+        ], 
+        [
+            "boy", 
+            "girl", 
+            "daughter", 
+            "cousin"
+        ], 
+        [
+            "three", 
+            "four", 
+            "five", 
+            "six"
+        ], 
+        [
+            "English", 
+            "great", 
+            "good", 
+            "nice"
+        ], 
+        [
+            "her", 
+            "my", 
+            "your", 
+            "his"
+        ], 
+        [
+            "son", 
+            "aunt", 
+            "daughter", 
+            "grandmother"
+        ], 
+        [
+            "brothers", 
+            "grandfathers", 
+            "friends", 
+            "boys"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "D", 
+        "B", 
+        "B", 
+        "A", 
+        "B", 
+        "C", 
+        "C"
+    ], 
+    "source": "middle579"
+}

@@ -1,0 +1,71 @@
+{
+    "article": "People usually talk about two groups of colors: warm colors and cool colors. Warm colors are red, orange and yellow. They usually make people more  _  . For example, red is exciting. Therefore, sociable people, those who like to work with others like  _  Cool colors are green, blue and purple. These colors can make people  calm down  . When people are in a place with cool colors, they are usually quiet. People who like to spend time  _  often prefer blue. Scientists say that time seems to pass more slowly in a room with warm colors  _  in a room with cool colors. They  _  that a warm color such as red and orange, is a good color for a restaurant. People who are  _  don't want time to pass quickly. Cool colors are better for offices or factories,  _  people who work there want time to pass quickly. Scientists don't know why people think some colors are warm and others are cool. However, almost  _  agrees that warm colors remind people of warm days and cool colors remind them of cool days. Why? Because in the north, the  _  is low and the sunlight looks quite blue during winter. And the sun is higher during summer and the hot summer sunlight looks yellow.", 
+    "options": [
+        [
+            "active", 
+            "quiet", 
+            "serious", 
+            "relaxed"
+        ], 
+        [
+            "orange", 
+            "red", 
+            "yellow", 
+            "purple"
+        ], 
+        [
+            "again", 
+            "quickly", 
+            "carefully", 
+            "alone"
+        ], 
+        [
+            "and", 
+            "except", 
+            "or", 
+            "than"
+        ], 
+        [
+            "suggest", 
+            "plan", 
+            "pretend", 
+            "decide"
+        ], 
+        [
+            "reading", 
+            "thinking", 
+            "eating", 
+            "sleeping"
+        ], 
+        [
+            "so", 
+            "because", 
+            "but", 
+            "although"
+        ], 
+        [
+            "nobody", 
+            "anybody", 
+            "everybody", 
+            "somebody"
+        ], 
+        [
+            "lighting", 
+            "restaurant", 
+            "room", 
+            "sun"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "B", 
+        "D", 
+        "D", 
+        "A", 
+        "C", 
+        "B", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle117"
+}

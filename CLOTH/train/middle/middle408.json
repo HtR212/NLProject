@@ -1,0 +1,43 @@
+{
+    "article": "Dear Dad, I know you  _  love me ,but I  don't think  you understand my life. You hope I study all the time. I know you want me  to find  a good job when I grow up but I think studying all the time is bad for me. I  _  need time to relax. You never think about fun things for me to do . You don't know I like music and sports. Yesterday when I was watching a soccer game  _  TV, you asked me to stop and  do  my homework. After finishing my homework, I wanted to play the piano, but you said I should go to bed early. That was  bad enough  I can't do what I want to do. I didn' t like what you did for me. I really love you, Dad, but I hope you can try  not to be  so strict  _  me. I think you should give me some  _  time to relax.", 
+    "options": [
+        [
+            "real", 
+            "really", 
+            "too", 
+            "very"
+        ], 
+        [
+            "also", 
+            "too", 
+            "either", 
+            "never"
+        ], 
+        [
+            "in", 
+            "over", 
+            "about", 
+            "on"
+        ], 
+        [
+            "in", 
+            "on", 
+            "with", 
+            "about"
+        ], 
+        [
+            "busy", 
+            "free", 
+            "freely", 
+            "better"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "D", 
+        "C", 
+        "B"
+    ], 
+    "source": "middle408"
+}

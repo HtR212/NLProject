@@ -1,0 +1,57 @@
+{
+    "article": "Building a house is an operation which costs quite a lot of money.Suppose you plan to  _  ,your first step is to find a suitable piece of  _  ,You will probably try to find a sunny place,in a  _  situation,near stores and bus stops,not too far from your friends and the place where you work. Next you will find an  _  builder.And together with the builder you will make a  _  ,The builder will draw it.The builder will also  work out  the cost of your house.He will estimate the cost of the wood,the glass,and everything else that he must use in building the house.Later on,when he starts to build,this estimate must  be corrected  ,because the prices may  _  ,and many other thing may happen between the time when he makes the estimate and the time when he builds the house.  _  the builder gives you his estimate,you may wish to change your plan.You may find that some of the things you wanted at first cost too much,or that you can  spend  .", 
+    "options": [
+        [
+            "buy", 
+            "decorate", 
+            "build", 
+            "find"
+        ], 
+        [
+            "floor", 
+            "place", 
+            "land", 
+            "playground"
+        ], 
+        [
+            "mysterious", 
+            "surprised", 
+            "pleased", 
+            "pleasant"
+        ], 
+        [
+            "excited", 
+            "experienced", 
+            "interesting", 
+            "extra"
+        ], 
+        [
+            "map", 
+            "plan", 
+            "decision", 
+            "discussion"
+        ], 
+        [
+            "swap", 
+            "change", 
+            "exist", 
+            "influence"
+        ], 
+        [
+            "When", 
+            "While", 
+            "Until", 
+            "Since"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "C", 
+        "D", 
+        "B", 
+        "B", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle2838"
+}

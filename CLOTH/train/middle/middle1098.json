@@ -1,0 +1,71 @@
+{
+    "article": "Ann is a middle school student. She has a sister and a brother. They are Helen and Paul. They are English but they can _ Chinese. Ann can sing and play _ guitar well, but Helen _ . Helen doesn't like playing the instruments   _ sports. She likes chess. She thinks it's _ . Ann can't play chess. So Helen _ Ann how to play it. Paul plays it very well. And he _ plays basketball well. He often plays it with his classmates _ the weekend. He wants to join the school basketball club. So he can _ more  friends there.", 
+    "options": [
+        [
+            "tell", 
+            "talk", 
+            "say", 
+            "speak"
+        ], 
+        [
+            "a", 
+            "an", 
+            "the", 
+            "/"
+        ], 
+        [
+            "does", 
+            "doesn't", 
+            "can", 
+            "can't"
+        ], 
+        [
+            "and", 
+            "but", 
+            "or", 
+            "with"
+        ], 
+        [
+            "interesting", 
+            "difficult", 
+            "boring", 
+            "busy"
+        ], 
+        [
+            "helps", 
+            "teaches", 
+            "needs", 
+            "writes"
+        ], 
+        [
+            "also", 
+            "too", 
+            "always", 
+            "only"
+        ], 
+        [
+            "on", 
+            "in", 
+            "after", 
+            "for"
+        ], 
+        [
+            "helps", 
+            "help", 
+            "makes", 
+            "make"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "C", 
+        "D", 
+        "C", 
+        "A", 
+        "B", 
+        "A", 
+        "A", 
+        "D"
+    ], 
+    "source": "middle1098"
+}

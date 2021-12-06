@@ -1,0 +1,64 @@
+{
+    "article": "I have a friend. He is a boy. His name is Nick. He is from England. Nick is a sports fan. He likes  watching  every kind of games. He likes basketball, football, tennis, badminton  _  swimming. Nick is good at  playing  football. Yang Chen is his favourite football player. Nick is a member _ the Football Club. When he goes shopping, he always  _  newspapers  _  sports and he often reads sports news. His school is very big and beautiful. There is a football tennis court and a swimming pool in his school. He usually plays football  _  his friends after school.Nick says that he wants to  _  a football player when he grows up. Nick often goes to the stadium   to watch the football games  _  the weekend. He  _  want to miss any match.", 
+    "options": [
+        [
+            "or", 
+            "but", 
+            "and", 
+            "so"
+        ], 
+        [
+            "with", 
+            "of", 
+            "on", 
+            "at"
+        ], 
+        [
+            "buys", 
+            "buies", 
+            "buy", 
+            "buying"
+        ], 
+        [
+            "around", 
+            "about", 
+            "away", 
+            "along"
+        ], 
+        [
+            "of", 
+            "about", 
+            "with", 
+            "and"
+        ], 
+        [
+            "being", 
+            "\\", 
+            "becoming", 
+            "be"
+        ], 
+        [
+            "at", 
+            "to", 
+            "of", 
+            "about"
+        ], 
+        [
+            "does", 
+            "doesn't", 
+            "don't", 
+            "do"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle2356"
+}

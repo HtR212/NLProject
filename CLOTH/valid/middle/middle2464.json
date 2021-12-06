@@ -1,0 +1,64 @@
+{
+    "article": "When I had something difficult to do, I always asked my mother for help. But  every time she said,\"Do it _ , dear.\"So I thought she was the laziest mother in the _ \nFor example, I _ some friends to come to my home one day. My bedroom was in a mess. Books were all over the table and _ . I didn't make my bed, either. I asked my mother to _ me clean it. But she said seriously, \"Do it yourself,dear.\"\nBecause of my \"lazy mother\", I had to wash my clothes and clean my room.I had to help my parents to do _ . I even had to go to the hospital by myself. It was really hard to do everything all by myself. _ I learned a lot.\nAs time goes by, I understand my mother now. It's _ \"laziness\" that Makes me clever and diligent . Just as my mother always says,\" Work can make you smart! \" What a great mother!", 
+    "options": [
+        [
+            "myself", 
+            "yourself", 
+            "himself", 
+            "herself"
+        ], 
+        [
+            "home", 
+            "school", 
+            "family", 
+            "world"
+        ], 
+        [
+            "asked", 
+            "told", 
+            "talked", 
+            "spoke"
+        ], 
+        [
+            "house", 
+            "room", 
+            "floor", 
+            "playground"
+        ], 
+        [
+            "help", 
+            "take", 
+            "do", 
+            "make"
+        ], 
+        [
+            "shopping", 
+            "cleaning", 
+            "housework", 
+            "homework"
+        ], 
+        [
+            "And", 
+            "But", 
+            "Or", 
+            "So"
+        ], 
+        [
+            "my", 
+            "her", 
+            "his", 
+            "your"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "A", 
+        "C", 
+        "A", 
+        "C", 
+        "B", 
+        "B"
+    ], 
+    "source": "middle2464"
+}

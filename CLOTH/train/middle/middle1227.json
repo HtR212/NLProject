@@ -1,0 +1,71 @@
+{
+    "article": "Did you sleep well last night? Maybe many people will answer: No. In fact, about one third of the world's population   do not have  _  sleep. If you say you do not sleep well, it means:  _  up early and not getting back to sleep. You may get tired or  _  in the daytime. Your memory and ability to remember things will get _ .\nThen what should you do when you have the  _ ? Do not worry about it too much. Let's see if you can help  _ . The ways are as follows:\nFirst, make sure that your bedroom isn't too cold or too hot. Keep it tidy and quiet.\nSecond, check your  _ : Do not drink tea, coffee, Cola or chocolate four hours before bedtime. Drink less water and avoid  _  visits.\nThird, develop a relaxing bedtime  _ . Read or listen to music, then take a warm bath. If you really cannot sleep, try some bread, rice or milk. They will help you fall asleep.", 
+    "options": [
+        [
+            "good", 
+            "bad", 
+            "enough", 
+            "much"
+        ], 
+        [
+            "sleeping", 
+            "getting", 
+            "looking", 
+            "waking"
+        ], 
+        [
+            "excited", 
+            "worried", 
+            "bored", 
+            "active"
+        ], 
+        [
+            "away", 
+            "back", 
+            "worse", 
+            "better"
+        ], 
+        [
+            "trouble", 
+            "chance", 
+            "time", 
+            "plan"
+        ], 
+        [
+            "others", 
+            "yourself", 
+            "it", 
+            "them"
+        ], 
+        [
+            "drinks", 
+            "health", 
+            "diet", 
+            "lifestyle"
+        ], 
+        [
+            "kitchen", 
+            "toilet", 
+            "bedroom", 
+            "balcony"
+        ], 
+        [
+            "habit", 
+            "experience", 
+            "feeling", 
+            "activity"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "B", 
+        "C", 
+        "A", 
+        "B", 
+        "D", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle1227"
+}

@@ -1,0 +1,71 @@
+{
+    "article": "I live _ a town. It's not big but very clean. I like the town very much. My home is on the third floor. There is a _ next to my home. I often buy vegetables and other things here. The post office is next _ the supermarket. It's _ the right of the supermarket. A big restaurant is across _ them. The _ there is very nice. Many people eat there every day. There is a hotel behind the restaurant. The hotel is old but very busy _ it's the only one in the town. There is a bank and a library in my town. The library is in front _ the bank. _ are a lot of interesting books in the library. My town is a good place.", 
+    "options": [
+        [
+            "in", 
+            "on", 
+            "at", 
+            "of"
+        ], 
+        [
+            "bank", 
+            "hotel", 
+            "park", 
+            "supermarket"
+        ], 
+        [
+            "to", 
+            "on", 
+            "at", 
+            "/"
+        ], 
+        [
+            "at", 
+            "on", 
+            "in", 
+            "from"
+        ], 
+        [
+            "on", 
+            "of", 
+            "from", 
+            "in"
+        ], 
+        [
+            "books", 
+            "clothes", 
+            "food", 
+            "computer"
+        ], 
+        [
+            "and", 
+            "so", 
+            "but", 
+            "because"
+        ], 
+        [
+            "from", 
+            "near", 
+            "behind", 
+            "of"
+        ], 
+        [
+            "They", 
+            "You", 
+            "There", 
+            "It"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "A", 
+        "B", 
+        "C", 
+        "C", 
+        "D", 
+        "D", 
+        "C"
+    ], 
+    "source": "middle907"
+}

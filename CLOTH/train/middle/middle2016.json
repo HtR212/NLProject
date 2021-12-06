@@ -1,0 +1,71 @@
+{
+    "article": "My uncle works in a shop. It's near an English  _  . Every day the students come to  _  things. In the morning,my uncle gets up  _  six o'clock and after breakfast he  _  his bike to the shop. He  _  there at about ten to seven. The shop  opens  at seven o'clock. The shop sells things  _  food and drink. It has school things, too. So there  _  a lot of people in the shop  _  morning to evening. My uncle is very busy. He is friendly to the students and the students like  _  very much.", 
+    "options": [
+        [
+            "farm", 
+            "factory", 
+            "school", 
+            "shop"
+        ], 
+        [
+            "buy", 
+            "sell", 
+            "take", 
+            "borrow"
+        ], 
+        [
+            "on", 
+            "in", 
+            "from", 
+            "at"
+        ], 
+        [
+            "on", 
+            "by", 
+            "rides", 
+            "riding"
+        ], 
+        [
+            "goes", 
+            "gets", 
+            "stays", 
+            "returns"
+        ], 
+        [
+            "with", 
+            "like", 
+            "for", 
+            "about"
+        ], 
+        [
+            "are", 
+            "come", 
+            "have", 
+            "see"
+        ], 
+        [
+            "in", 
+            "at", 
+            "on", 
+            "from"
+        ], 
+        [
+            "his", 
+            "he", 
+            "him", 
+            "it"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "D", 
+        "C", 
+        "B", 
+        "B", 
+        "A", 
+        "D", 
+        "C"
+    ], 
+    "source": "middle2016"
+}

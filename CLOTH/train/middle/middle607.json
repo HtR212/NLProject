@@ -1,0 +1,43 @@
+{
+    "article": "I have  _  good friend and his name is Jack. Here are his _ about his life in twenty years. Jack will be a policeman in twenty years because he thinks it's an exciting job. He will live and work  _  Beijing, because it's a very beautiful city and he likes it very much. He  will be taller and stronger and he will have short straight hair. In his free time, he will play  lots of sports to keep healthy . He will play tennis every day and he will go swimming and skating on weekends. He will  _  smart clothes like uniform. Jack will have a happy family. Maybe he will have two _ . They will be lovely and cute and he will love them very much. Now he  works hard  and tries his best  to make his predictions come true.", 
+    "options": [
+        [
+            "an", 
+            "the", 
+            "a", 
+            "\\"
+        ], 
+        [
+            "predictions", 
+            "hobbies", 
+            "happy", 
+            "families"
+        ], 
+        [
+            "on", 
+            "at", 
+            "in", 
+            "from"
+        ], 
+        [
+            "wears", 
+            "wearing", 
+            "wore", 
+            "wear"
+        ], 
+        [
+            "children", 
+            "boy", 
+            "girl", 
+            "child"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "C", 
+        "D", 
+        "A"
+    ], 
+    "source": "middle607"
+}

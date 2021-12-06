@@ -1,0 +1,71 @@
+{
+    "article": "Rick goes to Boston  _  a meeting. The meeting is in Prince's Building on  _  Street, and Rick wants to be there on time. However, it is Rick's first time to visit the city,  _  he doesn't know his way around. When he sees an old couple sitting on a bench, he goes up to ask for  _  . The couple kindly tell Rick to  _  the underground and to get  _  at Prince Station. Rick follows their direction, gets off at Prince Station and walks east for two blocks. An hour later, he is disappointed to find that he is  _  41st Street, not 44th Street. The  old couple  misheard him and gave him the  _  direction. Another hour later, when a policeman takes him back, he sees the old couple again. They are still  _  on the bench, right in front of Prince's Building.", 
+    "options": [
+        [
+            "of", 
+            "for", 
+            "at", 
+            "in"
+        ], 
+        [
+            "4th", 
+            "41st", 
+            "45th", 
+            "44th"
+        ], 
+        [
+            "so", 
+            "because", 
+            "but", 
+            "or"
+        ], 
+        [
+            "time", 
+            "meeting", 
+            "direction", 
+            "bus"
+        ], 
+        [
+            "go", 
+            "leave", 
+            "get", 
+            "take"
+        ], 
+        [
+            "on", 
+            "off", 
+            "to", 
+            "up"
+        ], 
+        [
+            "up", 
+            "down", 
+            "on", 
+            "to"
+        ], 
+        [
+            "right", 
+            "wrong", 
+            "old", 
+            "new"
+        ], 
+        [
+            "eating", 
+            "talking", 
+            "playing", 
+            "sitting"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "A", 
+        "C", 
+        "D", 
+        "B", 
+        "C", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle455"
+}

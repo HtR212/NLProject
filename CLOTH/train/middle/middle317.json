@@ -1,0 +1,71 @@
+{
+    "article": "A group of frogs travel through the forest, and two of them fall into a pit  . The pit is very _ and the two frogs try to get out of it. But the other frogs tell them to stop _ because they think that they can not get out. After several _ , one of the two frogs stops.\nHowever, the other frog _ jumping. The other frogs shout at him to stop. But he jumps _ and _ does it! _ he gets out, the other frogs find that he is deaf . He thinks they are _ him to jump.\nEveryone meets _ in life. Some give up while some choose to beat  it. Which frog do you want to be?", 
+    "options": [
+        [
+            "light", 
+            "heavy", 
+            "deep", 
+            "wet"
+        ], 
+        [
+            "laughing", 
+            "jumping", 
+            "sitting", 
+            "crying"
+        ], 
+        [
+            "moments", 
+            "years", 
+            "hour", 
+            "minutes"
+        ], 
+        [
+            "keeps", 
+            "stops", 
+            "asks", 
+            "tries"
+        ], 
+        [
+            "lower", 
+            "lighter", 
+            "harder", 
+            "less"
+        ], 
+        [
+            "slowly", 
+            "quickly", 
+            "possibly", 
+            "finally"
+        ], 
+        [
+            "When", 
+            "Before", 
+            "Since", 
+            "If"
+        ], 
+        [
+            "stopping", 
+            "asking", 
+            "letting", 
+            "helping"
+        ], 
+        [
+            "happiness", 
+            "chance", 
+            "question", 
+            "difficulty"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "D", 
+        "A", 
+        "C", 
+        "D", 
+        "A", 
+        "B", 
+        "D"
+    ], 
+    "source": "middle317"
+}

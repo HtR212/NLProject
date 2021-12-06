@@ -1,0 +1,57 @@
+{
+    "article": "The plane took off. A passenger needed a cup of water to take his medicine. An air hostess told him that she would bring him the _ soon. But the air hostess was _ busy that she forgot to bring him the water. As a result , the passenger couldn't take his medicine on time. About half an hour later, she hurried over to him with a cup of water, but he _ it.\nIn the following hours, each time she passed by the passenger, she would ask him with a smile whether he needed help or not. But the passenger _ paid notice to her.\nWhen it was time to get off the _ , the passenger asked her to hand him the passengers' booklet , she was very _ . She thought that he would write down bad words in it, but with a smile she handed it to him.\nOff the plane, she opened the booklet and then _ . The passenger put it, \"In the past few hours, you have asked me whether I needed help or not for twelve times in all. How can I refuse your twelve faithful smiles?\"", 
+    "options": [
+        [
+            "medicine", 
+            "water", 
+            "cup", 
+            "coffee"
+        ], 
+        [
+            "very", 
+            "too", 
+            "quite", 
+            "so"
+        ], 
+        [
+            "drank", 
+            "accepted", 
+            "refused", 
+            "received"
+        ], 
+        [
+            "usually", 
+            "never", 
+            "sometimes", 
+            "often"
+        ], 
+        [
+            "plane", 
+            "train", 
+            "ship", 
+            "bus"
+        ], 
+        [
+            "interested", 
+            "happy", 
+            "excited", 
+            "sad"
+        ], 
+        [
+            "smiled", 
+            "cried", 
+            "wondered", 
+            "worried"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "C", 
+        "B", 
+        "A", 
+        "D", 
+        "A"
+    ], 
+    "source": "middle2301"
+}

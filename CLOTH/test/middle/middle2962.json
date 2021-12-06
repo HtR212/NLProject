@@ -1,0 +1,64 @@
+{
+    "article": "Different countries have different food. If you go to  England  ,you may find  _  fish and chip shops along the  _  . Fish and chips are the  _  popular take-away food in England. People often  _  this kind of food at shops,  _  sometimes they put the food  in  paper bags and take it  _  or to their workplace. Chinese take-away food is also  _  in England, Australia and the USA, but the most popular take-away food in the USA  _  fried chicken. It's very delicious.", 
+    "options": [
+        [
+            "few", 
+            "no", 
+            "much", 
+            "many"
+        ], 
+        [
+            "sky", 
+            "streets", 
+            "ways", 
+            "rivers"
+        ], 
+        [
+            "very", 
+            "most", 
+            "quite", 
+            "more"
+        ], 
+        [
+            "have", 
+            "sell", 
+            "put", 
+            "take"
+        ], 
+        [
+            "or", 
+            "so", 
+            "but", 
+            "because"
+        ], 
+        [
+            "home", 
+            "office", 
+            "house", 
+            "school"
+        ], 
+        [
+            "different", 
+            "cheap", 
+            "delicious", 
+            "popular"
+        ], 
+        [
+            "was", 
+            "were", 
+            "is", 
+            "are"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "B", 
+        "B", 
+        "A", 
+        "C", 
+        "A", 
+        "D", 
+        "C"
+    ], 
+    "source": "middle2962"
+}

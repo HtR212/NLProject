@@ -1,0 +1,50 @@
+{
+    "article": "Hi, everyone. Let me introduce Mr. and Mrs. Smith --  _  English teachers to you. Mr. and Mrs. Smith  _ from England. They teach English very well in our school. Mrs. Smith likes  reading books and listening to music. Now she can sing some Chinese songs.\nMr. Smith likes playing football. He often plays it  _ his Chinese students. Mr. and Mrs. Smith have two  _ , a son and a daughter. They are students.\nMr. Smith has a brother. His name is Bill. He  lives with Mr. and Mrs. Smith. He is a singer. He can't speak lots of Chinese,  _ he can play _ piano very well. He can play football very well, too.\nAfter class, you can play with them. Now let's begin your class.", 
+    "options": [
+        [
+            "we", 
+            "our", 
+            "she", 
+            "your"
+        ], 
+        [
+            "be", 
+            "comes", 
+            "is", 
+            "come"
+        ], 
+        [
+            "and", 
+            "to", 
+            "from", 
+            "with"
+        ], 
+        [
+            "child", 
+            "childrens", 
+            "children", 
+            "childs"
+        ], 
+        [
+            "and", 
+            "but", 
+            "/", 
+            "so"
+        ], 
+        [
+            "the", 
+            "an", 
+            "a", 
+            "/"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "D", 
+        "C", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle1556"
+}

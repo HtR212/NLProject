@@ -1,0 +1,71 @@
+{
+    "article": "Bill and Mari are happy couple .Bill is musical , athletic and fun -loving .Mari is creative ,playful and caring .Bill's  _  include skiing ,hiking and gardening while Mari  _  time cooking , gardening and hiking .They  _  love music and play many instruments together . They live  _  a safe, friendly neighborhood. Bill and Mari had their son Sammy five years after they got married. He is a lovely  _  now. This family  _  playing music together , going to Granny's house , camping , playing with family and friends , and visiting different kinds of fun places  such as  the playground , zoo , and beach . Mari loves being a stay-at -home mom. She and Sammy are always  _  doing fun activities together. Bill loves to come home after a busy day at work and play with Sammy in their studio. They especially look forward to holidays. They love the holiday  _  it gives them good reasons to get together with family and friends to enjoy good food and conversations. Christmas is a good time for their family, they love to decorate their home, the tree and sing Christmas songs together after  _  a Christmas Eve dinner.", 
+    "options": [
+        [
+            "sports", 
+            "interests", 
+            "matters", 
+            "hobby"
+        ], 
+        [
+            "spends", 
+            "takes", 
+            "costs", 
+            "pays"
+        ], 
+        [
+            "none", 
+            "all", 
+            "both", 
+            "either"
+        ], 
+        [
+            "on", 
+            "in", 
+            "under", 
+            "with"
+        ], 
+        [
+            "girl", 
+            "boy", 
+            "sister", 
+            "pet"
+        ], 
+        [
+            "love", 
+            "hate", 
+            "find", 
+            "stop"
+        ], 
+        [
+            "bored", 
+            "angry", 
+            "busy", 
+            "pleased"
+        ], 
+        [
+            "because", 
+            "unless", 
+            "until", 
+            "if"
+        ], 
+        [
+            "inviting", 
+            "considering", 
+            "sharing", 
+            "filling"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "C", 
+        "B", 
+        "B", 
+        "A", 
+        "C", 
+        "A", 
+        "C"
+    ], 
+    "source": "middle1613"
+}

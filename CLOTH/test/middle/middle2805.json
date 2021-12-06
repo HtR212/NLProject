@@ -1,0 +1,50 @@
+{
+    "article": "My family took a trip to New York City last summer. We were very excited. It was our first trip to New York. We  _  to New York on Sunday morning. The weather was sunny. The trip on the plane was very fine. We arrived at about 3:00 p.m. We stayed there for one  _  . We didn't have much  _  time during our visit to New York. We were busy. On Monday, we visited the science museum. The next day, we  _  the train to Long Beach. It was interesting and we had a  _  time. However , one day was really exciting for  Maria  . On Friday, we wanted to go to Central Park.  First  , we took a subway into the city. Later on, we took a bus to Central Park. There were many people on the bus. After ten minutes, we got off the bus at the park. But we found Maria wasn't with us. She was  on the bus  ! She didn't get off. My father  ran after  the bus. At last, the driver stopped the bus and Maria got off. She was very careful on the buses and trains after that. We came back to Los Angeles the next day. We got home late Saturday evening. We were  _  , but we were happy. We had a wonderful time in New York. However, Maria is never going to forget her scary bus trip.", 
+    "options": [
+        [
+            "walked", 
+            "flew", 
+            "got", 
+            "moved"
+        ], 
+        [
+            "day", 
+            "week", 
+            "month", 
+            "year"
+        ], 
+        [
+            "free", 
+            "busy", 
+            "interesting", 
+            "good"
+        ], 
+        [
+            "bought", 
+            "saw", 
+            "took", 
+            "drove"
+        ], 
+        [
+            "quiet", 
+            "boring", 
+            "happy", 
+            "sad"
+        ], 
+        [
+            "excited", 
+            "scared", 
+            "surprised", 
+            "tired"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "B", 
+        "A", 
+        "C", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle2805"
+}

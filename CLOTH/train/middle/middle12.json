@@ -1,0 +1,71 @@
+{
+    "article": "My name _ Dan. I have two _ , Bob and Tom. We like hamburgers _ lunch. Bob and I _ French fries, but Tom _ . I don't like eggs for breakfast, _ Bob and Tom _ . I like fruit for breakfast. _ really like chicken _ salad for dinner.", 
+    "options": [
+        [
+            "is", 
+            "am", 
+            "are", 
+            "be"
+        ], 
+        [
+            "brother", 
+            "sister", 
+            "cousin", 
+            "brothers"
+        ], 
+        [
+            "on", 
+            "at", 
+            "for", 
+            "in"
+        ], 
+        [
+            "like", 
+            "likes", 
+            "eats", 
+            "loves"
+        ], 
+        [
+            "do", 
+            "don't", 
+            "does", 
+            "doesn't"
+        ], 
+        [
+            "or", 
+            "and", 
+            "for", 
+            "but"
+        ], 
+        [
+            "do", 
+            "don't", 
+            "does", 
+            "doesn't"
+        ], 
+        [
+            "They", 
+            "Them", 
+            "You", 
+            "Us"
+        ], 
+        [
+            "so", 
+            "but", 
+            "and", 
+            "of"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "D", 
+        "C", 
+        "A", 
+        "D", 
+        "D", 
+        "A", 
+        "A", 
+        "C"
+    ], 
+    "source": "middle12"
+}

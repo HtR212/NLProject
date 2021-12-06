@@ -1,0 +1,71 @@
+{
+    "article": "My name is Broody. I'm a middle school student. I want to tell you  _  about my new flat. The rooms are not big   _   comfortable. There are five rooms in my flat. They are one bathroom, one living  room, one kitchen and two bedrooms. I'm very happy now, for I have  _   own room in our tlat. My bedroom is my favorite room in our flat because I can be alone  in it. I can read books or draw pictures. I can also  listen to   music or play CDs there. I can use my  _   to send e-mails to my friends. My  _  favorite room is the kitchen. I love helping mother  _  the meals. She's a good cook. She's teaching me  _ to make many different kinds of dishes.  And I'm learning  _  very hard. I want to be a good cook when I grow up. I have more to tell you about my flat, but I have to stop. Because I have a lot of  _ to   do. let me tell you next time.", 
+    "options": [
+        [
+            "anything", 
+            "something", 
+            "everything", 
+            "nothing"
+        ], 
+        [
+            "but", 
+            "or", 
+            "and", 
+            "then"
+        ], 
+        [
+            "him", 
+            "her", 
+            "me", 
+            "my"
+        ], 
+        [
+            "computer", 
+            "radio", 
+            "TV", 
+            "MP4"
+        ], 
+        [
+            "two", 
+            "three", 
+            "second", 
+            "one"
+        ], 
+        [
+            "for", 
+            "cook", 
+            "cooking", 
+            "on"
+        ], 
+        [
+            "what", 
+            "where", 
+            "which", 
+            "how"
+        ], 
+        [
+            "cooking", 
+            "singing", 
+            "dancing", 
+            "walking"
+        ], 
+        [
+            "works", 
+            "thing", 
+            "homeworks", 
+            "homework"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "D", 
+        "A", 
+        "C", 
+        "B", 
+        "D", 
+        "A", 
+        "D"
+    ], 
+    "source": "middle1988"
+}

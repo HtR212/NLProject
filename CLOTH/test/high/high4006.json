@@ -1,0 +1,64 @@
+{
+    "article": "Are you interested in Korean TV series? If so, you must know Dae Jang Geum (<<>> ). Because of this series, my personal status and living standard have been greatly   _  . My girlfriend used to cook every evening. Well, now she does nothing but   _   herself in front of the TV when she's not   at work  , and commands me, \"You -- go to make some instant noodles. Come and watch the play and just imagine we are enjoying Korean   _  .\"\nShe also swears to   _   all Korean dishes in Dae Jang Geum. So she orders me to   stand by   the TV and record any details of Jang Geum's cooking. But when she presented her version of Korean food, it is like the dog-meal. \"You can   _   get things done if you don't have the right tools\", my girlfriend blamed her clumsy   kitchen performances on   her knives  . So I decided to   _   her a new kitchen knife. In a store, she became unusually   _   when making her selection. She finally picked one that was   similar to   Jang Geum's. To prove that her slow knife skill was due to the blunt   knives, she   slowed down   her cutting. As a result, she hurt her fingers three times. Fortunately the knife is not   as sharp as   the salesman boasts.\nMy girlfriend is a fan of Jang Geum's Korean   dressing style  . Not only did she talk about the dress every day, she also threatened to change my tie into a   butterfly knot   like the one on Jang Geum's dress.  Finally, I lost my patience and took her to a maternity shop   where I recommend   one suit to her, \"Do you think it looks like a Korean dress?\"   _  , my future parents-in-law just happened to be shopping at the time. They were   pretty shocked   when they saw what we were doing.\nThe Dae Jang Geum series   aims at   realizing the ambition of the youth. However, it fails to realize my girlfriend's.   Instead of   being engaged in her work or study, she simply sits on the sofa every night, staring at the TV, a bag of chips in her hand. This situation has changed little   even though   the series is now over.", 
+    "options": [
+        [
+            "increased", 
+            "depressed", 
+            "degraded", 
+            "raised"
+        ], 
+        [
+            "stand", 
+            "lie", 
+            "seat", 
+            "sit"
+        ], 
+        [
+            "fruit", 
+            "vegetables", 
+            "cakes", 
+            "dishes"
+        ], 
+        [
+            "learn", 
+            "eat", 
+            "cook", 
+            "perform"
+        ], 
+        [
+            "hardly", 
+            "easily", 
+            "difficultly", 
+            "carefully"
+        ], 
+        [
+            "lend", 
+            "borrow", 
+            "buy", 
+            "fetch"
+        ], 
+        [
+            "careless", 
+            "modest", 
+            "patient", 
+            "alert"
+        ], 
+        [
+            "Disappointedly", 
+            "Coincidently", 
+            "Fortunately", 
+            "Excitedly"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "C", 
+        "D", 
+        "A", 
+        "A", 
+        "C", 
+        "D", 
+        "B"
+    ], 
+    "source": "high4006"
+}

@@ -1,0 +1,64 @@
+{
+    "article": "It was almost 9:00 pm when Mia Janson left her office to go home. It was  _  . She started her car and  _  down the dark road that led to her house in the country. She  turned on  the radio and listened to songs while she was driving. The heater wasn't working, and singing helped to keep her  _  . The snow was heavy. Then Mia went across a small  _  . The bridge was covered with ice and the car went out of control. Mia hit her head on the steering wheel and lost consciousness . When she woke up, her head was bleeding ,and she was shaking from the cold. She didn't know  _  she was. Mia opened the car door and looked around. She was under the bridge, and her car was sitting on the frozen river! She felt very sad. She  _  the ice wouldn't hold her car for very long. She tried to walk up several times, but she kept falling into the snow. Mia tried  one more  time. She fell again, but this time she couldn't get up. She knew that  _  could see her car under the bridge. She was lying in the snow, and she couldn't move. Mia closed her eyes and waited to die. Then she heard a voice. Mia  _  her eyes. There was an old man standing over her. She stood up and walked up with the help of the old man. \"That's my truck\", said the old man. \"Get in and I'll take you home.\"", 
+    "options": [
+        [
+            "raining", 
+            "sunny", 
+            "snowing", 
+            "windy"
+        ], 
+        [
+            "ran", 
+            "drove", 
+            "walked", 
+            "rode"
+        ], 
+        [
+            "happy", 
+            "excited", 
+            "tired", 
+            "warm"
+        ], 
+        [
+            "bridge", 
+            "village", 
+            "town", 
+            "farm"
+        ], 
+        [
+            "how", 
+            "what", 
+            "why", 
+            "where"
+        ], 
+        [
+            "know", 
+            "knew", 
+            "knows", 
+            "knowing"
+        ], 
+        [
+            "somebody", 
+            "anybody", 
+            "everybody", 
+            "nobody"
+        ], 
+        [
+            "close", 
+            "closed", 
+            "opened", 
+            "open"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "B", 
+        "D", 
+        "A", 
+        "D", 
+        "B", 
+        "D", 
+        "C"
+    ], 
+    "source": "middle1714"
+}

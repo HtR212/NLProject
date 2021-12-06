@@ -1,0 +1,57 @@
+{
+    "article": "Ann is a middle school student. She has a sister  _  a brother. They are Helen and Paul. Ann and Helen can  dance  . Ann can sing and play  the guitar  well, but Helen  _  . Helen doesn't like playing the instruments  . She  likes  chess, but she doesn't play chess  _  Ann. Ann can't play chess. Helen often plays with Paul, because Paul plays  _  very well. Paul can play basketball well,  _ . And he is  _  the school basketball club. He often  _  other students with basketball.", 
+    "options": [
+        [
+            "or", 
+            "but", 
+            "with", 
+            "and"
+        ], 
+        [
+            "can", 
+            "can't", 
+            "don't", 
+            "doesn't"
+        ], 
+        [
+            "with", 
+            "for", 
+            "on", 
+            "and"
+        ], 
+        [
+            "basketball", 
+            "chess", 
+            "games", 
+            "drums"
+        ], 
+        [
+            "also", 
+            "too", 
+            "only", 
+            "either"
+        ], 
+        [
+            "of", 
+            "to", 
+            "in", 
+            "with"
+        ], 
+        [
+            "plays", 
+            "joins", 
+            "needs", 
+            "helps"
+        ]
+    ], 
+    "answers": [
+        "D", 
+        "B", 
+        "A", 
+        "B", 
+        "B", 
+        "C", 
+        "D"
+    ], 
+    "source": "middle2397"
+}

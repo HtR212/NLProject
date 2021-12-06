@@ -1,0 +1,64 @@
+{
+    "article": "Billy's favorite color was orange. But he couldn't see what orange looked like.\nA month after he was born, his mother noticed that his eyes weren't as big as a normal baby's. \"Billy would _ be able to see. He is blind.\" The doctor said. Even so, with the hope to help Billy learn _ about the world around him, his mother kept describing everything she saw for him.\nNot just through his mother's words, Billy saw _ his ears and hands, too. He had perfect hearing. \"In fact, he _ see many things that normal people don't notice.\"\n _ Billy lived in the dark, he always believed a dream would light up his life. He found that he was _ in computer science. So he began learning it at seven years old. As a young boy, he looked forward to going to Stanford University some day. And for years of efforts, he finally achieved his dream.\nMany people wanted to find out the secret of his _ . Billy explained, \"Just move forward! Don't let any difficulty _ your dream from coming true.\"\nYou cannot choose what you are given, but you can choose how you make use of it.", 
+    "options": [
+        [
+            "no", 
+            "often", 
+            "never", 
+            "usually"
+        ], 
+        [
+            "all", 
+            "none", 
+            "neither", 
+            "both"
+        ], 
+        [
+            "between", 
+            "without", 
+            "among", 
+            "with"
+        ], 
+        [
+            "need", 
+            "can", 
+            "must", 
+            "should"
+        ], 
+        [
+            "Or", 
+            "If", 
+            "Although", 
+            "Before"
+        ], 
+        [
+            "bored", 
+            "worried", 
+            "kind", 
+            "interested"
+        ], 
+        [
+            "success", 
+            "smile", 
+            "trouble", 
+            "eyes"
+        ], 
+        [
+            "wake", 
+            "prevent", 
+            "leave", 
+            "throw"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "D", 
+        "B", 
+        "C", 
+        "D", 
+        "A", 
+        "B"
+    ], 
+    "source": "middle1285"
+}

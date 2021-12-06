@@ -1,0 +1,57 @@
+{
+    "article": "It's Sunday evening. I'm at  _  birthday party. It is her birthday today. There  _  many friends at  _  house. Some stand beside the table and enjoy the food and drinks. I like the chocolate and the fruit  very much  . Sandy sits on the sofa and talks  _  some friends there. She wears a new yellow T-shirt and  a pair of  blue jeans. She  looks  so cool. Wow! The cake is really big. All her friends begin to  _  \"Happy Birthday\" to her. Then we share the big cake with her. Sandy is very  _  at the party. Everyone has a good  _  here.", 
+    "options": [
+        [
+            "Sandys", 
+            "Sandy's", 
+            "Sandy", 
+            "Sandys'"
+        ], 
+        [
+            "are", 
+            "is", 
+            "have", 
+            "has"
+        ], 
+        [
+            "her", 
+            "his", 
+            "hers", 
+            "she"
+        ], 
+        [
+            "from", 
+            "for", 
+            "on", 
+            "with"
+        ], 
+        [
+            "speak", 
+            "sing", 
+            "play", 
+            "write"
+        ], 
+        [
+            "sorry", 
+            "sad", 
+            "well", 
+            "happy"
+        ], 
+        [
+            "times", 
+            "time", 
+            "birthday", 
+            "days"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "A", 
+        "A", 
+        "D", 
+        "B", 
+        "D", 
+        "B"
+    ], 
+    "source": "middle973"
+}

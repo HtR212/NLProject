@@ -1,0 +1,71 @@
+{
+    "article": "I'm always very busy   every day. I usually _ up early at 6:30 in the morning. But _ . I'm still sleepy   . I put on my clothes, I wash my hands _ face...Do this! Do that.  _  I have my _ . I go go school. I usually leave home at 7:00. At school we all study _ . We study English. Chinese, maths and so on  . _ noon   I get home and have lunch. At 1:30 I go to school again. Sometimes we play _ football in the afternoon. I go home at 4:30. In the evening I do a lot of homework. I go to bed at 10:00 and I go to sleep   very _ .", 
+    "options": [
+        [
+            "get", 
+            "gets", 
+            "getting", 
+            "getting"
+        ], 
+        [
+            "often", 
+            "usually", 
+            "sometimes", 
+            "always"
+        ], 
+        [
+            "and", 
+            "or", 
+            "but", 
+            "so"
+        ], 
+        [
+            "Before", 
+            "After", 
+            "When", 
+            "If"
+        ], 
+        [
+            "lunch", 
+            "supper", 
+            "breakfast", 
+            "meal"
+        ], 
+        [
+            "easy", 
+            "different", 
+            "difficult", 
+            "hard"
+        ], 
+        [
+            "on", 
+            "On", 
+            "at", 
+            "At"
+        ], 
+        [
+            "the", 
+            "x", 
+            "a", 
+            "an"
+        ], 
+        [
+            "next", 
+            "soon", 
+            "first", 
+            "last"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "D", 
+        "B", 
+        "B"
+    ], 
+    "source": "middle2966"
+}

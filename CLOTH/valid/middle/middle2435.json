@@ -1,0 +1,50 @@
+{
+    "article": "A boy went to a cinema ,  bought  a ticket and went in.  _  after two or three minutes he came  _  , bought a second ticket and went in  _  After  a few  minutes he came out again and bought a third ticket. Two or three minutes  _  that he came out. The girl asked him,\"  _  are you buying all the tickets? Are you  meeting  friends in the cinema all the time?\" \"No, I'm not doing that,\" answered the man, \" But a big woman always stops  _  at the door and tears my ticket.\" Then the girl sold him  another  ticket.", 
+    "options": [
+        [
+            "And", 
+            "But", 
+            "Or", 
+            "So"
+        ], 
+        [
+            "in", 
+            "down", 
+            "up", 
+            "out"
+        ], 
+        [
+            "again", 
+            "more", 
+            "about", 
+            "of"
+        ], 
+        [
+            "before", 
+            "after", 
+            "when", 
+            "while"
+        ], 
+        [
+            "Where", 
+            "What", 
+            "Why", 
+            "When"
+        ], 
+        [
+            "I", 
+            "my", 
+            "me", 
+            "mine"
+        ]
+    ], 
+    "answers": [
+        "B", 
+        "D", 
+        "A", 
+        "B", 
+        "C", 
+        "C"
+    ], 
+    "source": "middle2435"
+}

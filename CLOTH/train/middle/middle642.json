@@ -1,0 +1,64 @@
+{
+    "article": "I have a big and happy family. My grandparents  _  workers.  _  are old now. My father is a doctor. He can swim well. My  _  is a teacher. She likes eating  _  and vegetables. I have got  _  uncle. He is a manager. He's got  _  bikes in his factory. He can drive. He  can also  swim. I'm Betty. I'm a student. I'm  _  Class 5. I can run fast  _  I can't sing well. My faourite drink is  coke  .", 
+    "options": [
+        [
+            "is", 
+            "am", 
+            "are", 
+            "have"
+        ], 
+        [
+            "Them", 
+            "Their", 
+            "We", 
+            "They"
+        ], 
+        [
+            "mother", 
+            "grandpa", 
+            "brother", 
+            "uncle"
+        ], 
+        [
+            "hamburger", 
+            "fruit", 
+            "breads", 
+            "fishes"
+        ], 
+        [
+            "a", 
+            "an", 
+            "some", 
+            "the"
+        ], 
+        [
+            "many", 
+            "any", 
+            "a", 
+            "much"
+        ], 
+        [
+            "on", 
+            "at", 
+            "in", 
+            "from"
+        ], 
+        [
+            "but", 
+            "and", 
+            "or", 
+            "so"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "D", 
+        "A", 
+        "B", 
+        "B", 
+        "A", 
+        "C", 
+        "A"
+    ], 
+    "source": "middle642"
+}

@@ -1,0 +1,43 @@
+{
+    "article": "Hi, dear friends! Welcome  _  our zoo. It is really a good place to have fun. We have a big family in the zoo. All the animals in the zoo are brothers and sisters. Follow me to see  _  . First, let's  see  the pandas over there. They come from China. They are black and white. They like eating bamboos . They are beautiful and very shy, so please  _  quiet. Now come this way, please. We will go and see the lions. These two lions are from Africa. They are very  _  and they usually sleep and relax 20 hours every day.  meat  is their favorite food. So don't be near to them. Don't you want  to go  and see Bill ? He is a koala. He is  waiting  for you. Look! Isn't he cute? He is from Australia. He sleeps during the day,  _  at night he gets up and begins to eat food. That's not all. I would like to take you to see some  other  animals of our family.", 
+    "options": [
+        [
+            "on", 
+            "at", 
+            "to", 
+            "for"
+        ], 
+        [
+            "them", 
+            "they", 
+            "their", 
+            "theirs"
+        ], 
+        [
+            "is", 
+            "are", 
+            "am", 
+            "be"
+        ], 
+        [
+            "nice", 
+            "lazy", 
+            "beautiful", 
+            "busy"
+        ], 
+        [
+            "but", 
+            "or", 
+            "because", 
+            "if"
+        ]
+    ], 
+    "answers": [
+        "C", 
+        "A", 
+        "D", 
+        "B", 
+        "A"
+    ], 
+    "source": "middle251"
+}

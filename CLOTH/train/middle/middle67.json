@@ -1,0 +1,64 @@
+{
+    "article": "Do you often communicate with your parents? Some parents are always comparing their  _  with themselves when they were young or with other people when they were children. \"When I was your age,\" a father said to his sixteen-year-old son one day, \"I was at the top of my class every year. And I  knew  what I wanted to do when I left school. I had goals . You are always at the bottom of your class  _  you have no goals.\" The man's son said nothing. He had already heard this from his father many times. \"And when your mother was your age, \" the young man's father  went on  , \" she had a good job and she  _  lots of money. You don't even have a part-time job .You earn nothing. \" The man's son still said nothing. He had heard this before, too. \"And when your  _  brother was your age, \"the young man's father said, \"he studied hard. But you just waste your time.\" And the man's son still said nothing. Finally, the young man's father said, \"And when Abraham Lincoln was your age, he worked all day and studied at night.\" This time the son  _  stay silent. \" And when Abraham Lincoln was your age, father,\" he said, \"He was the President of  _  United States.  _  are you?\" His father had no answer  _  this. Are your parents always comparing you with others? And what's your reply? Do you have a better way to communicate with each other?", 
+    "options": [
+        [
+            "children", 
+            "students", 
+            "teachers", 
+            "friends"
+        ], 
+        [
+            "although", 
+            "or", 
+            "and", 
+            "but"
+        ], 
+        [
+            "won", 
+            "made", 
+            "received", 
+            "gave"
+        ], 
+        [
+            "old", 
+            "young", 
+            "older", 
+            "elder"
+        ], 
+        [
+            "can", 
+            "can't", 
+            "could", 
+            "couldn't"
+        ], 
+        [
+            "a", 
+            "an", 
+            "the", 
+            "/"
+        ], 
+        [
+            "What", 
+            "How", 
+            "Where", 
+            "Who"
+        ], 
+        [
+            "to", 
+            "with", 
+            "of", 
+            "on"
+        ]
+    ], 
+    "answers": [
+        "A", 
+        "C", 
+        "B", 
+        "D", 
+        "D", 
+        "C", 
+        "A", 
+        "A"
+    ], 
+    "source": "middle67"
+}
