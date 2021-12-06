@@ -14,15 +14,19 @@ model.cuda()
 model.eval()
 
 corrects = 0
+corrects_top2 = 0
 total = 0
-for i in tqdm(range(2341), desc="[Inferencing]"):
+for i in tqdm(range(3172), desc="[Inferencing]"):
     try:
-        with open(f"CLOTH/train/middle/middle{i}.json", "r") as f:
+        with open(f"CLOTH/train/high/high{i}.json", "r") as f:
             data = json.load(f)
 
+            # article = '[CLS] ' + data["article"]
             article = data["article"]
             article = re.sub(r'([a-z ])([.?!])([A-Z])', r'\1\2 \3', article)
+            # article = re.sub(r'([a-z ])([.?!])( [A-Z])', r'\1\2 [SEP]\3', article)
             article = article.replace("_", "[MASK]")
+            # article += '[SEP]'
 
             options = data["options"]
             idss = []
@@ -67,14 +71,13 @@ for i in tqdm(range(2341), desc="[Inferencing]"):
             masked_indices.append(i)
 
     for i, (mid, ids) in enumerate(zip(masked_indices, idss)):
-        max_prob = -1e10
+        probs = np.zeros(4, dtype=np.float32)
         for choice_id, tk_ids in enumerate(ids):
-            tk_prob = torch.max(predictions.logits[0, mid, tk_ids])
-            if tk_prob > max_prob:
-                max_prob = tk_prob
-                best_choice = choice_id
+            probs[choice_id] = torch.max(predictions.logits[0, mid, tk_ids])
 
-        corrects += best_choice == answers[i]
+        ranks = probs.argsort()
+        corrects += ranks[-1] == answers[i]
+        corrects_top2 += (ranks[-1] == answers[i] or ranks[-2] == answers[i])
         total += 1
 
-    tqdm.write(f"{corrects}/{total} = {corrects/total*100}%")
+    tqdm.write(f"{corrects}/{total} = {corrects/total*100}%, {corrects_top2}/{total} = {corrects_top2/total*100}%")
