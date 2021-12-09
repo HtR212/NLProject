@@ -5,7 +5,7 @@ import pickle
 import os
 import random
 
-cuda = torch.device('cuda:1')
+cuda = torch.device('cuda')
 model = ClozeModel()
 model.to(cuda)
 model.train()
@@ -23,7 +23,7 @@ else:
         dataset.append((article_tokens, answers, option_ids))
     pickle.dump(dataset, open("train.pkl", "wb"))
 
-num_epochs = 3
+num_epochs = 5
 num_training_steps = num_epochs * len(dataset)
 lr_scheduler = get_scheduler(
     "linear",
@@ -40,14 +40,18 @@ for epoch in range(num_epochs):
     corrects = 0
     total = 0
     random.shuffle(dataset)
-    for article_tokens, answers, option_ids in dataset:
+    for i, (article_tokens, answers, option_ids) in enumerate(dataset):
         outputs = model(article_tokens.to(cuda), option_ids)
         answers = answers.to(cuda)
-        preds = torch.argmax(outputs, -1)
-
-        corrects += torch.sum(answers == preds).item()
+        corrects += torch.sum(answers == torch.argmax(outputs, -1)).item()
         total += len(answers)
         loss = loss_func(outputs, answers)
+        if torch.isnan(loss):
+            tqdm.write("Warning: nan loss")
+            model.zero_grad()
+            optimizer.zero_grad()
+            lr_scheduler.step()
+            continue
 
         tqdm.write(f"Accuracy: {corrects}/{total} = {corrects/total*100}% | Loss: {loss.item()}")
 
@@ -55,7 +59,6 @@ for epoch in range(num_epochs):
         optimizer.step()
         lr_scheduler.step()
         optimizer.zero_grad()
-
         progress_bar.update(1)
-
-torch.save(model.state_dict(), "model.pt")
+        if i % 1000 == 0:
+            torch.save(model.state_dict(), f"model-{epoch}-{i}.pt")
