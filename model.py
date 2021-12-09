@@ -5,7 +5,7 @@ import numpy as np
 import re
 from tqdm import tqdm
 
-model_name = 'bert-base-uncased'
+model_name = 'bert-large-uncased'
 tokenizer = BertTokenizer.from_pretrained(model_name)
 mask_id = tokenizer.convert_tokens_to_ids(['[MASK]'])[0]
 

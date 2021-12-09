@@ -5,7 +5,7 @@ import pickle
 import os
 import random
 
-cuda = torch.device('cuda')
+cuda = torch.device('cuda:1')
 model = ClozeModel()
 model.to(cuda)
 model.train()
@@ -18,7 +18,7 @@ def read_files(dir_name, dataset):
         dataset.append((article_tokens, answers, option_ids))
     
 
-optimizer = AdamW(model.parameters(), lr=5e-5)
+optimizer = AdamW(model.parameters(), lr=1e-5)
 
 if os.path.exists("train.pkl"):
     dataset = pickle.load(open("train.pkl", "rb"))
@@ -45,7 +45,7 @@ for epoch in range(num_epochs):
     corrects = 0
     total = 0
     random.shuffle(dataset)
-    for i, (article_tokens, answers, option_ids) in enumerate(dataset):
+    for article_tokens, answers, option_ids in dataset:
         outputs = model(article_tokens.to(cuda), option_ids)
         answers = answers.to(cuda)
         corrects += torch.sum(answers == torch.argmax(outputs, -1)).item()
@@ -64,6 +64,8 @@ for epoch in range(num_epochs):
         optimizer.step()
         lr_scheduler.step()
         optimizer.zero_grad()
+
         progress_bar.update(1)
-        if i % 1000 == 0 and i > 0:
-            torch.save(model.state_dict(), f"checkpoints/{model_name}-{epoch}-{i}.pt")
+        steps = progress_bar.n
+        if steps % 2000 == 0:
+            torch.save(model.state_dict(), f"checkpoints/{model_name}-{epoch}-{steps}.pt")

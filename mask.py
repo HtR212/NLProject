@@ -2,7 +2,7 @@ from model import ClozeModel, read_cloze, torch, tqdm
 import os
 
 model = ClozeModel()
-model.load_state_dict(torch.load("model-2-3000.pt"))
+model.load_state_dict(torch.load("checkpoints/bert-large-uncased-4-24000.pt"))
 model.cuda()
 model.eval()
 
