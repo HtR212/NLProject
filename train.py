@@ -1,5 +1,5 @@
 from transformers import AdamW
-from model import ClozeModel, read_cloze, tqdm, torch
+from model import ClozeModel, read_cloze, tqdm, torch, model_name
 from transformers import get_scheduler
 import pickle
 import os
@@ -60,5 +60,5 @@ for epoch in range(num_epochs):
         lr_scheduler.step()
         optimizer.zero_grad()
         progress_bar.update(1)
-        if i % 1000 == 0:
-            torch.save(model.state_dict(), f"model-{epoch}-{i}.pt")
+        if i % 1000 == 0 and i > 0:
+            torch.save(model.state_dict(), f"checkpoints/{model_name}-{epoch}-{i}.pt")
