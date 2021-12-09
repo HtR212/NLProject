@@ -6,7 +6,10 @@ from transformers import BertTokenizer, BertModel, BertForMaskedLM
 from tqdm import tqdm
 # import traceback
 
+cuda = torch.device('cuda')
+
 tokenizer = BertTokenizer.from_pretrained('bert-large-uncased')
+mask_id = tokenizer.convert_tokens_to_ids(['[MASK]'])[0]
 
 # Load pre-trained model (weights)
 model = BertForMaskedLM.from_pretrained('bert-large-uncased')
@@ -16,6 +19,9 @@ model.eval()
 corrects = 0
 corrects_top2 = 0
 total = 0
+
+pattern = re.compile(r'([a-z ])([.?!])([A-Z])')
+
 for i in tqdm(range(3172), desc="[Inferencing]"):
     try:
         with open(f"CLOTH/train/high/high{i}.json", "r") as f:
@@ -23,7 +29,7 @@ for i in tqdm(range(3172), desc="[Inferencing]"):
 
         # article = '[CLS] ' + data["article"]
         article = data["article"]
-        article = re.sub(r'([a-z ])([.?!])([A-Z])', r'\1\2 \3', article)
+        article = pattern.sub(r'\1\2 \3', article)
         # article = re.sub(r'([a-z ])([.?!])( [A-Z])', r'\1\2 [SEP]\3', article)
         article = article.replace("_", "[MASK]")
         # article += '[SEP]'
@@ -31,7 +37,6 @@ for i in tqdm(range(3172), desc="[Inferencing]"):
         options = data["options"]
         idss = []
         for choices in options:
-            # tokenizer.convert_tokens_to_ids(map(str.lower, choices))
             ids = [
                 tokenizer.convert_tokens_to_ids(
                 tokenizer.tokenize(choice)) for choice in choices
@@ -44,40 +49,28 @@ for i in tqdm(range(3172), desc="[Inferencing]"):
         print(e)
         continue
 
-    text = article
-
-    # Load pre-trained model tokenizer (vocabulary)
-
-    tokenized_text = tokenizer.tokenize(text)
-    indexed_tokens = tokenizer.convert_tokens_to_ids(tokenized_text)
+    indexed_tokens = tokenizer.convert_tokens_to_ids(tokenizer.tokenize(article))
 
     if len(indexed_tokens) > 512:
         continue
 
-    # Create the segments tensors.
-    segments_ids = [0] * len(tokenized_text)
-
     # Convert inputs to PyTorch tensors
-    tokens_tensor = torch.tensor([indexed_tokens]).cuda()
-    segments_tensors = torch.tensor([segments_ids]).cuda()
+    tokens_tensor = torch.tensor([indexed_tokens], device=cuda)
+    segments_tensors = torch.zeros_like(tokens_tensor, device=cuda)
 
     # Predict all tokens
     with torch.no_grad():
-        predictions = model(tokens_tensor, segments_tensors)
+        predictions = model(tokens_tensor, segments_tensors).logits
+        masked_indices = torch.nonzero(tokens_tensor[0] == mask_id, as_tuple=True)[0]
 
-    masked_indices = []
-    for i, token in enumerate(tokenized_text):
-        if token == '[MASK]':
-            masked_indices.append(i)
+        for answer, mid, ids in zip(answers, masked_indices, idss):
+            probs = np.zeros(4, dtype=np.float32)
+            for choice_id, tk_ids in enumerate(ids):
+                probs[choice_id] = torch.max(predictions[0, mid, tk_ids])
 
-    for i, (mid, ids) in enumerate(zip(masked_indices, idss)):
-        probs = np.zeros(4, dtype=np.float32)
-        for choice_id, tk_ids in enumerate(ids):
-            probs[choice_id] = torch.max(predictions.logits[0, mid, tk_ids])
+            ranks = probs.argsort()
+            corrects += ranks[-1] == answer
+            corrects_top2 += (ranks[-1] == answer or ranks[-2] == answer)
+            total += 1
 
-        ranks = probs.argsort()
-        corrects += ranks[-1] == answers[i]
-        corrects_top2 += (ranks[-1] == answers[i] or ranks[-2] == answers[i])
-        total += 1
-
-    tqdm.write(f"{corrects}/{total} = {corrects/total*100}%, {corrects_top2}/{total} = {corrects_top2/total*100}%")
+        tqdm.write(f"{corrects}/{total} = {corrects/total*100}%, {corrects_top2}/{total} = {corrects_top2/total*100}%")
