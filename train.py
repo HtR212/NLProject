@@ -10,19 +10,24 @@ model = ClozeModel()
 model.to(cuda)
 model.train()
 
+def read_files(dir_name, dataset):
+    for fname in tqdm(os.listdir(dir_name), desc="[Reading files]"):
+        article_tokens, answers, option_ids = read_cloze(os.path.join(dir_name, fname))
+        if article_tokens is None:
+            continue
+        dataset.append((article_tokens, answers, option_ids))
+    
+
 optimizer = AdamW(model.parameters(), lr=5e-5)
 
 if os.path.exists("train.pkl"):
     dataset = pickle.load(open("train.pkl", "rb"))
 else:
     dataset = []
-    for i in tqdm(range(3172), desc="[Inferencing]"):
-        article_tokens, answers, option_ids = read_cloze(f"CLOTH/train/high/high{i}.json")
-        if article_tokens is None:
-            continue
-        dataset.append((article_tokens, answers, option_ids))
+    read_files("CLOTH/train/high", dataset)
+    read_files("CLOTH/train/middle", dataset)
     pickle.dump(dataset, open("train.pkl", "wb"))
-
+    
 num_epochs = 5
 num_training_steps = num_epochs * len(dataset)
 lr_scheduler = get_scheduler(

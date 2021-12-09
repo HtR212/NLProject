@@ -15,10 +15,11 @@ class ClozeModel(torch.nn.Module):
         self.bert = BertForMaskedLM.from_pretrained(model_name)
 
     def forward(self, token_ids, option_ids):
-        attention_masks = torch.zeros_like(token_ids, device=token_ids.device)
+        attention_masks = torch.ones_like(token_ids, device=token_ids.device)
         predictions = self.bert(token_ids, attention_masks).logits
         bidx, tidx = torch.nonzero(token_ids == mask_id, as_tuple=True)
         return predictions[bidx[:, None, None], tidx[:, None, None], option_ids].max(-1).values
+
 
 pattern = re.compile(r'([a-z ])([.?!])([A-Z])')
 
@@ -27,12 +28,9 @@ def read_cloze(fpath):
         with open(fpath, "r") as f:
             data = json.load(f)
 
-            # article = '[CLS] ' + data["article"]
             article = data["article"].replace("\n", " ")
             article = pattern.sub(r'\1\2 \3', article)
-            # article = re.sub(r'([a-z ])([.?!])( [A-Z])', r'\1\2 [SEP]\3', article)
             article = article.replace("_", "[MASK]")
-            # article += '[SEP]'
 
             options = data["options"]
             idss = []
@@ -55,12 +53,12 @@ def read_cloze(fpath):
                 return None, None, None
 
             answers = [ord(answer) - 65 for answer in data["answers"]]
-            article_ids = tokenizer.convert_tokens_to_ids(tokenizer.tokenize(article))
+            article_ids = tokenizer(article, return_tensors='pt')['input_ids']
 
-            if len(article_ids) > 512:
+            if article_ids.size(1) > 512:
                 return None, None, None
 
-        return torch.tensor([article_ids]), torch.tensor(answers), torch.tensor(idss)
+        return article_ids, torch.tensor(answers), torch.tensor(idss)
     except Exception as e:
         tqdm.write(str(e))
         return None, None, None
