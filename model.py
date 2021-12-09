@@ -5,13 +5,14 @@ import numpy as np
 import re
 from tqdm import tqdm
 
-tokenizer = BertTokenizer.from_pretrained('bert-large-uncased')
+model_name = 'bert-base-uncased'
+tokenizer = BertTokenizer.from_pretrained(model_name)
 mask_id = tokenizer.convert_tokens_to_ids(['[MASK]'])[0]
 
 class ClozeModel(torch.nn.Module):
     def __init__(self) -> None:
         super().__init__()
-        self.bert = BertForMaskedLM.from_pretrained('bert-large-uncased')
+        self.bert = BertForMaskedLM.from_pretrained(model_name)
 
     def forward(self, token_ids, option_ids):
         attention_masks = torch.zeros_like(token_ids, device=token_ids.device)

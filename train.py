@@ -3,10 +3,11 @@ from model import ClozeModel, read_cloze, tqdm, torch
 from transformers import get_scheduler
 import pickle
 import os
+import random
 
-cuda = torch.device('cuda')
+cuda = torch.device('cuda:1')
 model = ClozeModel()
-model.cuda()
+model.to(cuda)
 model.train()
 
 optimizer = AdamW(model.parameters(), lr=5e-5)
@@ -36,13 +37,25 @@ loss_func = torch.nn.CrossEntropyLoss()
 
 model.train()
 for epoch in range(num_epochs):
+    corrects = 0
+    total = 0
+    random.shuffle(dataset)
     for article_tokens, answers, option_ids in dataset:
-        outputs = model(article_tokens.cuda(), option_ids)
+        outputs = model(article_tokens.to(cuda), option_ids)
+        answers = answers.to(cuda)
+        preds = torch.argmax(outputs, -1)
 
-        loss = loss_func(outputs, answers.cuda())
+        corrects += torch.sum(answers == preds).item()
+        total += len(answers)
+        loss = loss_func(outputs, answers)
+
+        tqdm.write(f"Accuracy: {corrects}/{total} = {corrects/total*100}% | Loss: {loss.item()}")
+
         loss.backward()
-
         optimizer.step()
         lr_scheduler.step()
         optimizer.zero_grad()
+
         progress_bar.update(1)
+
+torch.save(model.state_dict(), "model.pt")
